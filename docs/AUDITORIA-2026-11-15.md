@@ -31,10 +31,10 @@ Chaves encontradas e sua frequência:
 | Chave | Ocorrências | Canônica? |
 | :--- | ---: | :--- |
 | `status` | 233 | sim |
+| `draft` | 233 | sim |
 | `tags` | 233 | sim |
 | `part` | 229 | sim |
 | `category` | 229 | sim |
-| `draft` | 229 | sim |
 | `aliases` | 229 | sim |
 | `tem_imagem` | 176 | sim |
 | `effort` | 103 | sim |
