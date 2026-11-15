@@ -52,7 +52,7 @@ Na perspectiva de um ponto de fuga (perspectiva central), todas as linhas ortogo
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[Um_Ponto.png]]
+![[Um_Ponto_ChatGPT.png]]
 * **Legenda:** [Observação sobre a precisão das linhas ortogonais e simetria gerada pelo DALL-E 3]
 
 ---

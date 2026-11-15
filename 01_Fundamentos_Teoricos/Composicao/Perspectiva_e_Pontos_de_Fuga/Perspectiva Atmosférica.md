@@ -62,7 +62,7 @@ Também chamada de *perspectiva aérea*, é o método de criar profundidade espa
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[Perspectiva_Atmosferica.png]]
+![[Perspectiva_Atmosferica_ChatGPT.png]]
 * **Legenda:** [Observação sobre a gradação de azul nos planos de fundo e perda de contraste]
 
 ---

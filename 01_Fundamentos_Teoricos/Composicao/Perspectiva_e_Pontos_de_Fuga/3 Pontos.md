@@ -61,7 +61,7 @@ Adiciona um terceiro ponto de fuga acima ou abaixo da linha do horizonte, além 
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[Tres_Pontos.png]]
+![[Tres_Pontos_ChatGPT.png]]
 * **Legenda:** [Observação sobre a distorção vertical e verticalidade exagerada do DALL-E 3]
 
 ---

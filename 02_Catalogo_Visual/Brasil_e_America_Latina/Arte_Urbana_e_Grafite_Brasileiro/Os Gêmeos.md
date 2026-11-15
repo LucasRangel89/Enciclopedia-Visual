@@ -39,7 +39,7 @@ Dupla de grafiteiros paulistanos (Gustavo e Otávio Pandolfo) conhecida por pers
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[Gemeos.png]]
+![[Gemeos_ChatGPT.png]]
 * **Legenda:** [Observação sobre o onirismo do personagem]
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome dos Artistas

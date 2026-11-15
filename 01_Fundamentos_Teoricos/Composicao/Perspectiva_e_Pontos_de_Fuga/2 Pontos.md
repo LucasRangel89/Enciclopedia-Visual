@@ -52,7 +52,7 @@ Utiliza dois pontos de fuga situados sobre a linha do horizonte, geralmente loca
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[Dois_Pontos.png]]
+![[Dois_Pontos_ChatGPT.png]]
 * **Legenda:** [Observação sobre o enquadramento em ângulo de esquina e proporções de edifícios]
 
 ---
