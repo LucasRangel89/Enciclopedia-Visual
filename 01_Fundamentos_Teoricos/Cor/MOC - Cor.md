@@ -28,3 +28,14 @@ draft: false
 ![[Paletas_humor_CYAN_EARTH_PASTEL_DARK (2).png]]
 
 *Ciano · Terrosa · Pastel · Escura*
+## Exemplo Visual
+
+![[Cor_paleta_QUENTE_FRIA_MONOCROMATICA_COMPLEMENTAR.png]]
+
+*Paleta quente · Paleta fria · Monocromatica · Contraste complementar*
+
+## Exemplo Visual
+
+![[Cor_saturacao_ALTA_DESSATURADA_PASTEL_DUOTONE.png]]
+
+*Alta saturacao · Dessaturada · Pastel · Duotone (ciano + vermelho quente)*

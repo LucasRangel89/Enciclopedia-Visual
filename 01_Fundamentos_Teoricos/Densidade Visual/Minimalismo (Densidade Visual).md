@@ -61,3 +61,8 @@ O minimalismo visual é a prática composicional de reduzir os elementos da imag
 
 ```
 Minimalist fine art photograph, a single slender black chair positioned in a vast, empty concrete room, dominant negative space filling 80% of the frame, soft diffuse window light from the side, clean geometric lines, monochromatic gray palette with subtle warmth, serene and contemplative mood, shot on Hasselblad, 80mm lens --ar 16:9
+## Exemplo Visual
+
+![[minimalismo_densidade.png]]
+
+*Minimalismo como densidade visual*

@@ -70,3 +70,8 @@ A Pop Art (Reino Unido e EUA, meados dos anos 1950 a 1960) apropriou-se de image
 ```text
 Pop Art multi-panel serigraphy portrait of a vintage sports car, Andy Warhol silkscreen style, vibrant saturated neon colors, bold graphic black outlines, Ben-Day dot printing texture, mass-culture iconography, high-contrast graphic impact --ar 16:9
 falta: [imagen, leonardo, raphael]
+## Exemplo Visual
+
+![[pop_art.png]]
+
+*Pop Art — referencia de movimento*

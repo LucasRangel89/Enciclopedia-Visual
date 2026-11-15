@@ -63,7 +63,7 @@ Distribuição de `status`:
 
 ## 4. Links e mídia
 
-- Embeds de imagem/mídia sem arquivo correspondente: **191**
+- Embeds de imagem/mídia sem arquivo correspondente: **189**
 - Wikilinks que não resolvem: **0**
 - Wikilinks ambíguos (mais de um alvo possível): **0**
 
@@ -96,7 +96,7 @@ Distribuição de `status`:
 | `01_Fundamentos_Teoricos/Tipografia e Linguagem Visual/Tipografia por Epoca Historica/Tipografia por Época Histórica.md` | `tipografia_epoca.png` |
 | `01_Fundamentos_Teoricos/Óptica & Lentes/Aberração Cromatica/Aberração Cromática.md` | `aberracao.png` |
 | `02_Catalogo_Visual/Arquitetura_Cenario_e_Personagem/Estilos_Arquitetonicos_Chave/Arquitetura Barroca.md` | `barroca.png` |
-| … | _e mais 166_ |
+| … | _e mais 164_ |
 
 ## 5. Notas homônimas
 

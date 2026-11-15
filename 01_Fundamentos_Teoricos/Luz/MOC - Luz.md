@@ -54,3 +54,8 @@ sources: []
 ![[Iluminacao_SOFT_HARD_BACK_UNDER.png]]
 
 *Suave · Dura · Contraluz · Contra-luz de baixo*
+## Exemplo Visual
+
+![[Iluminacao_DURA_SOFT_BACK_DIFFUSED.png]]
+
+*Luz dura · Luz suave · Contraluz · Luz difundida de estudio*

@@ -41,3 +41,14 @@ sources: []
 ![[Generos_universos_CYBER_FANTASY_HORROR_LIMINAL.png]]
 
 *Cyberpunk · Fantasia · Horror · Liminal*
+## Exemplo Visual
+
+![[Generos_fantasia_ALTA_ESCURA_URBANA_LIMINAL.png]]
+
+*High fantasy · Dark fantasy · Urban fantasy · Liminal space*
+
+## Exemplo Visual
+
+![[Generos_CYBERPUNK_SOLARPUNK_STEAMPUNK_BIOPUNK.png]]
+
+*Cyberpunk · Solarpunk · Steampunk · Biopunk*

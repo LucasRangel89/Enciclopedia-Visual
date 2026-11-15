@@ -77,3 +77,25 @@ A opção 2 é o que está aplicado agora.
 O próprio LEIA-ME já prevê o problema de escala: *"a partir de ~500
 arquivos ou ~50 MB, migre para Git LFS"*. O cofre está em **537 imagens
 e 1,3 GB**.
+
+## Lote 2 — exports crus de `attachments/NOVAS/` (10 imagens)
+
+Os arquivos `ChatGPT Image ...` sao **pranchas de 4 paineis com rotulo em
+ingles**; os `Gemini_Generated_Image_...` sao **imagens avulsas de
+referencia por movimento**. `scripts/catalogar_lote.py` move cada uma para
+`08_Imagens_Geradas/` com nome significativo e insere o embed no alvo.
+
+| Arquivo original | Novo nome | Tipo | Destino |
+| :--- | :--- | :--- | :--- |
+| `ChatGPT Image 28 abr 19_18_19` | `Iluminacao_DURA_SOFT_BACK_DIFFUSED` | prancha | MOC - Luz |
+| `ChatGPT Image 28 abr 19_18_21` | `Cor_saturacao_ALTA_DESSATURADA_PASTEL_DUOTONE` | prancha | MOC - Cor |
+| `ChatGPT Image 28 abr 19_18_24` | `Cor_paleta_QUENTE_FRIA_MONOCROMATICA_COMPLEMENTAR` | prancha | MOC - Cor |
+| `ChatGPT Image 28 abr 19_18_26` | `Generos_CYBERPUNK_SOLARPUNK_STEAMPUNK_BIOPUNK` | prancha | MOC - Generos |
+| `ChatGPT Image 28 abr 19_18_29` | `Generos_fantasia_ALTA_ESCURA_URBANA_LIMINAL` | prancha | MOC - Generos |
+| `ChatGPT Image 28 abr 19_21_26 (1)` | `Cineastas_ANDERSON_BURTON_VILLENEUVE_GHIBLI` | prancha | MOC - Cineastas |
+| `Gemini ... 1ipv46...` | `ukiyo_e.png` | avulsa | Ukiyo-e |
+| `Gemini ... s4sgk6...` | `romantismo.png` | avulsa | Romantismo |
+| `Gemini ... 6r111f...` | `pop_art.png` | avulsa | Pop Art |
+| `Gemini ... sxow33...` | `minimalismo_densidade.png` | avulsa | Minimalismo (Densidade Visual) |
+
+Faltam **108** em `NOVAS/`, **37** em `parte2/` e **20** em `ultimos/`.

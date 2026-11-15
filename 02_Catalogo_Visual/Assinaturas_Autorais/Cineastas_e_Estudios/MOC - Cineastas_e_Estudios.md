@@ -33,3 +33,8 @@ sources: []
 - [[Tim Burton]]
 - [[Wes Anderson]]
 <!-- fim:indice-automatico -->
+## Exemplo Visual
+
+![[Cineastas_ANDERSON_BURTON_VILLENEUVE_GHIBLI.png]]
+
+*Wes Anderson · Tim Burton · Denis Villeneuve · Studio Ghibli (anos 90)*
