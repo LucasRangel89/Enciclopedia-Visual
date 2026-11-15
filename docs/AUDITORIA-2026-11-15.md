@@ -16,13 +16,13 @@ Gerado em 2026-11-15 por `scripts/enciclopedia.py audit`.
 | `07_Sujeitos_Fixos` | 8 |
 | **Subtotal canônico** | **391** |
 | **Subtotal staging** | **0** |
-| **Total** | **403** |
+| **Total** | **404** |
 
-> ⚠️ 12 nota(s) fora de qualquer área canônica (raiz do repo).
+> ⚠️ 13 nota(s) fora de qualquer área canônica (raiz do repo).
 
 ## 3. Frontmatter
 
-- Notas **sem** frontmatter: **29**
+- Notas **sem** frontmatter: **30**
 - Notas declarando `tem_imagem: true`: **176**
 - Notas ainda em estado de placeholder (rascunho de texto): **1**
 

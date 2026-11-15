@@ -41,10 +41,10 @@ Sistema de **direção de arte** e **engenharia de prompts** para geração de i
 
 ## 🛠️ Manutenção
 
-- 📖 [[BLUEPRINT]] — plano de desenvolvimento e arquitetura do projeto
-- 🔍 [[AUDITORIA-2026-11-15]] — diagnóstico do cofre
-- 🧩 [[06_Templates]] — templates e prompt de extração
-- 🎯 [[07_Sujeitos_Fixos]] — sujeitos recorrentes para controle de variáveis
+- 📖 `BLUEPRINT.md` — plano de desenvolvimento e arquitetura do projeto (arquivo do repo, nao entra no site)
+- 🔍 `docs/AUDITORIA-2026-11-15.md` — diagnóstico do cofre (arquivo do repo, nao entra no site)
+- 🧩 [[MOC - 06_Templates]] — templates e prompt de extração
+- 🎯 [[MOC - 07_Sujeitos_Fixos]] — sujeitos recorrentes para controle de variáveis
 
 > [!tip] Fluxo de trabalho
 > Escreva no Obsidian → commite → o site se reconstrói sozinho via GitHub Actions. Antes de commitar, rode `python3 scripts/enciclopedia.py audit` para pegar links quebrados.
