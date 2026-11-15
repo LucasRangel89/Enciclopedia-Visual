@@ -45,6 +45,11 @@ CANONICAL_AREAS = [
 
 STAGING_PREFIX = "Notas_"
 
+ASSET_SUFFIXES = {
+    ".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg", ".pdf",
+    ".mp4", ".webm", ".mp3", ".canvas", ".base", ".excalidraw",
+}
+
 # chaves de frontmatter aceitas -> chave canônica
 FRONTMATTER_ALIASES = {
     "parte": "part",
@@ -214,6 +219,17 @@ class Vault:
                 return "ok", [self.by_relpath_nomd[key]]
             if target in self.by_relpath:
                 return "ok", [self.by_relpath[target]]
+            # asset com caminho explicito (ex.: 05_Anexos/Cor/foo.png)
+            if Path(target).suffix.lower() in ASSET_SUFFIXES:
+                hits = self.assets.get(Path(target).name.lower(), [])
+                if hits:
+                    # confirma se algum bate tambem com o caminho
+                    norm = target.replace("\\", "/")
+                    exact = [h for h in hits if rel(h) == norm]
+                    if exact:
+                        return "ok", exact
+                    return "path-fallback", hits
+                return "missing-asset", []
             # tenta por stem no final do caminho
             stem = Path(target).stem.lower()
             cands = [p for p in self.notes if p.stem.lower() == stem]
@@ -224,12 +240,15 @@ class Vault:
         if (ROOT / target).is_dir():
             return "ok", [ROOT / target]
         # embed de asset
-        if Path(target).suffix.lower() in {
-            ".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg", ".pdf",
-            ".mp4", ".webm", ".mp3", ".canvas", ".base", ".excalidraw",
-        }:
+        if Path(target).suffix.lower() in ASSET_SUFFIXES:
             hits = self.assets.get(Path(target).name.lower(), [])
             return ("ok" if hits else "missing-asset"), hits
+        # nome inteiro primeiro: Path().stem trunca "H.R. Giger" em "H.R"
+        cands = self.by_stem.get(target.lower())
+        if cands and len(cands) == 1:
+            return "ok", cands
+        if cands and len(cands) > 1:
+            return "ambiguous", cands
         stem = Path(target).stem.lower()
         cands = self.by_stem.get(stem, [])
         if len(cands) == 1:

@@ -3,7 +3,7 @@ title: MOC - Abordagens_do_Nu_na_Arte
 part: "01_Fundamentos_Teoricos/Figura Humana e Expressao"
 category: MOC
 type: moc-category
-parent: [[MOC - Figura Humana e Expressao]]
+parent: "[[MOC - Figura Humana e Expressao]]"
 status: revisao
 draft: false
 tags: [moc, abordagens-do-nu-na-arte]

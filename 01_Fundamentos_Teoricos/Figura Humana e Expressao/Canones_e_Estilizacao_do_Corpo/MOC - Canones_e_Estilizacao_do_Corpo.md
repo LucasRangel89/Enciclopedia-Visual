@@ -3,7 +3,7 @@ title: MOC - Canones_e_Estilizacao_do_Corpo
 part: "01_Fundamentos_Teoricos/Figura Humana e Expressao"
 category: MOC
 type: moc-category
-parent: [[MOC - Figura Humana e Expressao]]
+parent: "[[MOC - Figura Humana e Expressao]]"
 status: revisao
 draft: false
 tags: [moc, canones-e-estilizacao-do-corpo]

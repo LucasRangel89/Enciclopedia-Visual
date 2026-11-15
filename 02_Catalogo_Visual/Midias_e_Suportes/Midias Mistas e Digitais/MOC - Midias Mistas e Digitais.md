@@ -1,0 +1,27 @@
+---
+title: "MOC - Midias Mistas e Digitais"
+part: "02_Catalogo_Visual/Midias_e_Suportes"
+category: "MOC"
+type: moc-category
+parent: "[[MOC - Midias e Suportes]]"
+status: revisao
+draft: false
+tags: [moc, midias-mistas-e-digitais]
+aliases: ["Midias Mistas e Digitais", "MOC - Midias Mistas e Digitais"]
+tem_imagem: false
+images: []
+effort: 1
+sources: []
+---
+
+# MOC — Midias Mistas e Digitais
+
+Índice das notas em `02_Catalogo_Visual/Midias_e_Suportes/Midias Mistas e Digitais`. Edite a seção entre os marcadores para acrescentar curadoria manual — o índice automático vive entre eles.
+
+<!-- inicio:indice-automatico -->
+- [[3D Render]]
+- [[Colagem]]
+- [[Concept Art]]
+- [[Digital Painting]]
+- [[Ilustração Editorial]]
+<!-- fim:indice-automatico -->

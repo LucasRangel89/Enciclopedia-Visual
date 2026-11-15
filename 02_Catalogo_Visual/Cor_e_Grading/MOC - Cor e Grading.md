@@ -3,8 +3,7 @@ title: MOC - Cor e Grading
 part: 02_Catalogo_Visual
 category: MOC
 type: moc-category
-parent:
-  - [MOC - Catalogo Visual]
+parent: "[[MOC - Catalogo Visual]]"
 status: rascunho
 draft: false
 tags: [moc, cor-e-grading]
@@ -23,4 +22,13 @@ sources: []
 > Use `python3 scripts/enciclopedia.py new "<Nome>" --part 02_Catalogo_Visual --category Cor_e_Grading` para criar a primeira nota.
 
 <!-- inicio:indice-automatico -->
+- [[00_README - Cor_e_Grading]]
+- [[Bleach Bypass]]
+- [[Day for Night (Noite Americana)]]
+- [[Grading Pastel]]
+- [[Matrix Green (Monocromia Esverdeada)]]
+- [[Processamento Cruzado (Cross Processing)]]
+- [[Sépia - Monocromia Vintage]]
+- [[Teal and Orange]]
+- [[Technicolor Saturado]]
 <!-- fim:indice-automatico -->

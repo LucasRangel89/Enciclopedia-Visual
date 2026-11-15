@@ -3,7 +3,6 @@ title: MOC - Catálogo Visual
 part: "02_Catalogo_Visual"
 category: MOC
 type: moc-category
-parent: [[]]
 status: revisao
 draft: false
 tags: [moc, catalogo-visual]

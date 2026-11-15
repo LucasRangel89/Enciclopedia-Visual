@@ -3,7 +3,7 @@ title: MOC - Ilustradores_e_Concept_Artists
 part: "02_Catalogo_Visual/Assinaturas_Autorais"
 category: MOC
 type: moc-category
-parent: [[MOC - Assinaturas_Autorais]]
+parent: "[[MOC - Assinaturas_Autorais]]"
 status: revisao
 draft: false
 tags: [moc, ilustradores-e-concept-artists]
@@ -27,4 +27,10 @@ sources: []
 - [[Frank Frazetta]]
 - [[Genndy Tartakovsky]]
 - [[Gustav Klimt]]
+- [[H.R. Giger]]
+- [[Katsushika Hokusai]]
+- [[Keith Haring]]
+- [[Michael Whelan]]
+- [[Moebius (Jean Giraud)]]
+- [[Simon Stålenhag]]
 <!-- fim:indice-automatico -->

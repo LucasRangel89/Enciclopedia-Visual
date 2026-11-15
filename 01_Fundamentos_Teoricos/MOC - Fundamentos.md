@@ -24,7 +24,7 @@ draft: false
   - [[Cor - Saturação e Contraste]]
 - **Luz**
   - [[Luz - Direção e Qualidade]]
-  - [[Luz - High-key / Low-key]]
+  - [[Luz - High-key vs Low-key]]
 - **Óptica & Lentes**
   - [[Óptica - Distância Focal e Bokeh]]
 - **Textura e Materialidade**

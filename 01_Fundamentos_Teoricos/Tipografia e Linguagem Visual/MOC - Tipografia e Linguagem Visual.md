@@ -3,7 +3,7 @@ title: MOC - Tipografia e Linguagem Visual
 part: "01_Fundamentos_Teoricos"
 category: MOC
 type: moc-category
-parent: [[MOC - Fundamentos]]
+parent: "[[MOC - Fundamentos]]"
 status: revisao
 draft: false
 tags: [moc, tipografia-e-linguagem-visual]

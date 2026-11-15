@@ -3,7 +3,7 @@ title: MOC - Arquitetura_Cenario_e_Personagem
 part: "02_Catalogo_Visual"
 category: MOC
 type: moc-category
-parent: [[MOC - Catalogo Visual]]
+parent: "[[MOC - Catalogo Visual]]"
 status: revisao
 draft: false
 tags: [moc, arquitetura-cenario-e-personagem]

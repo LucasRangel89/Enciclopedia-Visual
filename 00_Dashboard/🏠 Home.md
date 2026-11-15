@@ -31,7 +31,7 @@ Sistema de **direção de arte** e **engenharia de prompts** para geração de i
 
 ## 🧠 Fundamentos — navegação por variável
 
-[[MOC - Composicao\|Composição]] · [[MOC - Cor\|Cor]] · [[MOC - Densidade Visual\|Densidade]] · [[MOC - Figura Humana e Expressao\|Figura Humana]] · [[MOC - Geometria de Cena\|Geometria de Cena]] · [[MOC - Luz\|Luz]] · [[MOC - Óptica & Lentes\|Óptica]] · [[MOC - Ritmo e Tempo\|Ritmo e Tempo]] · [[MOC - Textura e Materialidade\|Textura]] · [[MOC - Tipografia e Linguagem Visual\|Tipografia]]
+[[MOC - Composição\|Composição]] · [[MOC - Cor\|Cor]] · [[MOC - Densidade Visual\|Densidade]] · [[MOC - Figura Humana e Expressao\|Figura Humana]] · [[MOC - Geometria de Cena\|Geometria de Cena]] · [[MOC - Luz\|Luz]] · [[MOC - Óptica & Lentes\|Óptica]] · [[MOC - Ritmo e Tempo\|Ritmo e Tempo]] · [[MOC - Textura e Materialidade\|Textura]] · [[MOC - Tipografia e Linguagem Visual\|Tipografia]]
 
 ## 🎨 Catálogo — navegação por repertório
 

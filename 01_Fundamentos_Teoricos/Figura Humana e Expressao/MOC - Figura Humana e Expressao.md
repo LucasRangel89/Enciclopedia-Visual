@@ -1,8 +1,7 @@
 ---
 type: moc-category
-parent:
-  - [MOC - Fundamentos]
 tags: [moc, figura-humana]
+parent: "[[MOC - Fundamentos]]"
 status: rascunho
 draft: false
 ---
