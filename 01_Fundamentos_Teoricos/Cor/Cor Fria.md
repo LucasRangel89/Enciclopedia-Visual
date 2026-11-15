@@ -1,21 +1,15 @@
 ---
-parte: Fundamentos Teoricos
-categoria: Cor
-tags:
-  - cor-fria
-  - cor
-  - teoria-das-cores
-  - iluminação
-  - temperatura-de-cor
+part: Fundamentos Teoricos
+category: Cor
+tags: [cor-fria, cor, teoria-das-cores, iluminação, temperatura-de-cor]
 tem_imagem: true
 status: rascunho
 aliases:
   - Cool Colors
   - Cores Frias
   - Temperatura Fria
-falta:
-  - GPT
-  - Raphael
+falta: [GPT, Raphael]
+draft: false
 ---
 # Cor Fria
 

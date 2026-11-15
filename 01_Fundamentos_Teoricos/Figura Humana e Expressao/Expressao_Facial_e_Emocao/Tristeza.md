@@ -1,23 +1,15 @@
 ---
-parte: Fundamentos Teoricos
-categoria: Expressao Facial e Emocao
-tags:
-  - expressao-facial
-  - tristeza
-  - ekman
-  - micro-expressoes
-  - emocoes
+part: Fundamentos Teoricos
+category: Expressao Facial e Emocao
+tags: [expressao-facial, tristeza, ekman, micro-expressoes, emocoes]
 tem_imagem: true
 status: rascunho
 aliases:
   - Sadness Facial Expression
   - Expressão de Tristeza
   - Melancolia Facial
-falta:
-  - Gemini
-  - GPT
-  - Raphael
-  - Leonardo
+falta: [Gemini, GPT, Raphael, Leonardo]
+draft: false
 ---
 # Expressão Facial — Tristeza
 

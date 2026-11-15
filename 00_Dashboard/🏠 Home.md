@@ -1,30 +1,50 @@
-# 🎬 Minha Enciclopédia Visual para IA
-
-Bem-vindo ao seu sistema de Direção de Arte. Use os mapas abaixo para navegar.
-# 🎨 Enciclopédia Visual
-
+---
+title: 🏠 Home
+part: "00_Dashboard"
+category: Home
+type: moc-category
+status: publicado
+draft: false
+tags: [home, dashboard, navegacao]
+aliases: [Início, Dashboard]
+tem_imagem: false
+images: []
+effort: 1
+sources: []
+---
 # 🏠 Central da Enciclopédia Visual
 
-Sistema central de Direção de Arte e Engenharia de Prompts.
+Sistema de **direção de arte** e **engenharia de prompts** para geração de imagem. Comece pelo [[index\|índice]] ou vá direto a um módulo.
 
 ---
-## 📚 Módulos Principais
 
-- 🧠 [[MOC - Fundamentos Teóricos]] — Princípios visuais, óptica, luz, composição e linguagem.
-- 🎨 [[MOC - Catalogo Visual]] — Estilos, movimentos, mídias e referências estéticas.
-- 🧪 [[03_Laboratorio_Visual]] — Experimentos de geração e testes de imagem.
-- ⚙️ [[04_Engenharia_e_Receitas]] — Receitas de prompts e templates de produção.
+## 📚 Módulos
 
----
-## 🚀 Navegação Direta por MOCs
-
-**Fundamentos Teóricos**
-[[MOC - Composicao|Composição]] | [[MOC - Cor|Cor]] | [[MOC - Densidade Visual|Densidade]] | [[MOC - Figura Humana e Expressao|Figura Humana]] | [[MOC - Geometria de Cena|Geometria]] | [[MOC - Luz|Luz]] | [[MOC - Óptica & Lentes|Óptica]] | [[MOC - Ritmo e Tempo|Ritmo/Tempo]] | [[MOC - Textura e Materialidade|Textura]] | [[MOC - Tipografia e Linguagem Visual|Tipografia]]
-
-**Catálogo Visual**
-[[MOC - Movimentos|Movimentos Artísticos]] | [[MOC - Midias e Suportes|Mídias & Suportes]]
+| Módulo | O que é |
+| :--- | :--- |
+| [[MOC - Fundamentos\|🧠 Fundamentos Teóricos]] | As nove variáveis que governam qualquer imagem |
+| [[MOC - Catalogo Visual\|🎨 Catálogo Visual]] | Movimentos, mídias, gêneros, assinaturas e tradições |
+| [[MOC - Laboratorio\|🧪 Laboratório Visual]] | Séries de exploração com uma variável isolada |
+| [[MOC - Receitas\|⚙️ Engenharia e Receitas]] | Prompts completos, templates e anti-erros |
 
 ---
-## 🛠️ Suporte e Recursos
-- 📄 [[06_Templates]] — Modelos padrão para novas notas.
-- 🏷️ [[07_Sujeitos_Fixos]] — Elementos e personagens recorrentes.
+
+## 🧠 Fundamentos — navegação por variável
+
+[[MOC - Composicao\|Composição]] · [[MOC - Cor\|Cor]] · [[MOC - Densidade Visual\|Densidade]] · [[MOC - Figura Humana e Expressao\|Figura Humana]] · [[MOC - Geometria de Cena\|Geometria de Cena]] · [[MOC - Luz\|Luz]] · [[MOC - Óptica & Lentes\|Óptica]] · [[MOC - Ritmo e Tempo\|Ritmo e Tempo]] · [[MOC - Textura e Materialidade\|Textura]] · [[MOC - Tipografia e Linguagem Visual\|Tipografia]]
+
+## 🎨 Catálogo — navegação por repertório
+
+[[MOC - Movimentos\|Movimentos Artísticos]] · [[MOC - Assinaturas_Autorais\|Assinaturas Autorais]] · [[MOC - Generos_e_Universos\|Gêneros e Universos]] · [[MOC - Arquitetura_Cenario_e_Personagem\|Arquitetura e Cenário]] · [[MOC - Narrativa_Visual_e_Storytelling\|Narrativa Visual]] · [[MOC - Musica_e_Capas_de_Album\|Música e Capas]]
+
+---
+
+## 🛠️ Manutenção
+
+- 📖 [[BLUEPRINT]] — plano de desenvolvimento e arquitetura do projeto
+- 🔍 [[AUDITORIA-2026-11-15]] — diagnóstico do cofre
+- 🧩 [[06_Templates]] — templates e prompt de extração
+- 🎯 [[07_Sujeitos_Fixos]] — sujeitos recorrentes para controle de variáveis
+
+> [!tip] Fluxo de trabalho
+> Escreva no Obsidian → commite → o site se reconstrói sozinho via GitHub Actions. Antes de commitar, rode `python3 scripts/enciclopedia.py audit` para pegar links quebrados.

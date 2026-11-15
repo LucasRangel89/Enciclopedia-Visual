@@ -1,12 +1,15 @@
 ---
-parte: "Fundamentos Teoricos"
-categoria: "Composicao"
+part: Fundamentos Teoricos
+category: Composicao
 tags: [perspectiva-um-ponto, perspectiva, composicao, enquadramento, arquitetura]
 tem_imagem: true
-status: "rascunho"
-aliases: ["One-Point Perspective", "Perspectiva Central", "Ponto de Fuga Único"]
+status: rascunho
+aliases:
+  - One-Point Perspective
+  - Perspectiva Central
+  - Ponto de Fuga Único
+draft: false
 ---
-
 # Perspectiva de Um Ponto de Fuga
 
 ## Conceito Técnico

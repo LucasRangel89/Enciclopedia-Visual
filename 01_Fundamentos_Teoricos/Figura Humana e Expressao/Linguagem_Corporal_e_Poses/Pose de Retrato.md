@@ -1,22 +1,15 @@
 ---
-parte: Fundamentos Teoricos
-categoria: Figura Humana e Expressao
-tags:
-  - pose-de-retrato
-  - retrato
-  - figura-humana
-  - poses
-  - iluminaçao
+part: Fundamentos Teoricos
+category: Figura Humana e Expressao
+tags: [pose-de-retrato, retrato, figura-humana, poses, iluminaçao]
 tem_imagem: true
 status: rascunho
 aliases:
   - Portrait Pose
   - Enquadramento de Retrato
   - Pose Studio
-falta:
-  - GPT
-  - Raphael
-  - Leonardo
+falta: [GPT, Raphael, Leonardo]
+draft: false
 ---
 # Pose de Retrato
 

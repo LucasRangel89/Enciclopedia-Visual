@@ -1,23 +1,15 @@
 ---
-parte: Geometria de Cena
-categoria: Angulos e Pontos de Vista
-tags:
-  - angulo-eye-level
-  - nivel-dos-olhos
-  - cinematografia
-  - realismo
-  - neutralidade
+part: Geometria de Cena
+category: Angulos e Pontos de Vista
+tags: [angulo-eye-level, nivel-dos-olhos, cinematografia, realismo, neutralidade]
 tem_imagem: true
 status: rascunho
 aliases:
   - Eye-Level Shot
   - Nível dos Olhos
   - Perspectiva Neutra
-falta:
-  - Gemini
-  - GPT
-  - Leonardo
-  - Raphael
+falta: [Gemini, GPT, Leonardo, Raphael]
+draft: false
 ---
 # Ângulo Eye-Level
 

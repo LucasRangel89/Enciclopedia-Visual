@@ -1,22 +1,15 @@
 ---
-parte: Fundamentos Teoricos
-categoria: Composicao
-tags:
-  - regra-dos-tercos
-  - composicao
-  - enquadramento
-  - fotografia
-  - pintura
+part: Fundamentos Teoricos
+category: Composicao
+tags: [regra-dos-tercos, composicao, enquadramento, fotografia, pintura]
 tem_imagem: true
-falta:
-  - GPT
-  - Leonardo
-  - Raphael
+falta: [GPT, Leonardo, Raphael]
 status: rascunho
 aliases:
   - Rule of Thirds
   - Grade 3x3
   - Pontos de Intersecção
+draft: false
 ---
 # Regra dos Terços
 

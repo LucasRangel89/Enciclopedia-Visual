@@ -1,12 +1,7 @@
 ---
-parte: Fundamentos Teoricos
-categoria: Figura Humana e Expressao
-tags:
-  - postura-aberta
-  - linguagem-corporal
-  - figura-humana
-  - poses
-  - expressao
+part: Fundamentos Teoricos
+category: Figura Humana e Expressao
+tags: [postura-aberta, linguagem-corporal, figura-humana, poses, expressao]
 tem_imagem: true
 status: rascunho
 aliases:
@@ -15,9 +10,8 @@ aliases:
   - Linguagem Receptiva
   - Postura Corporal Aberta
   - Postura Aberta
-falta:
-  - GPT
-  - Raphael
+falta: [GPT, Raphael]
+draft: false
 ---
 # Postura Corporal Aberta
 

@@ -1,15 +1,14 @@
 ---
-part: "01_Fundamentos_Teoricos"
-category: "Tipografia"
-status: "rascunho"
-effort: "2"
-last_tested: "2026-09-19"
-gallery_generators:
-  - "dall-e-3"
+part: 01_Fundamentos_Teoricos
+category: Tipografia
+status: rascunho
+effort: 2
+last_tested: 2026-09-19
+gallery_generators: [dall-e-3]
 aliases:
-  - "Tipografia e Linguagem Visual"
-tags:
-  - "tipografia"
+  - Tipografia e Linguagem Visual
+tags: [tipografia]
+draft: false
 ---
 # Tipografia e Linguagem Visual
 

@@ -1,0 +1,63 @@
+name: Validar cofre
+
+on:
+  push:
+    branches: [main, arena/*]
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: validate-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  audit:
+    name: Auditoria e links
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Diagnóstico do cofre
+        run: python3 scripts/enciclopedia.py audit --output docs/AUDITORIA-CI.md
+
+      - name: Checar links e mídia
+        id: links
+        run: |
+          set +e
+          python3 scripts/enciclopedia.py links --strict > links-report.txt 2>&1
+          code=$?
+          set -e
+          cat links-report.txt
+          echo "exit=$code" >> "$GITHUB_OUTPUT"
+
+      - name: Resumo
+        if: always()
+        run: |
+          {
+            echo "### Diagnóstico do cofre";
+            echo "";
+            echo "- Notas: $(find . -name '*.md' -not -path './.git/*' | wc -l)";
+            echo "- Problemas de link/mídia: $(grep -c '^\[' links-report.txt || true)";
+            echo "- Links quebrados (excl. mídia): $(grep -c '^\[broken\]' links-report.txt || true)";
+            echo "- Mídia ausente: $(grep -c '^\[missing-asset\]' links-report.txt || true)";
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Falhar se houver links quebrados
+        if: steps.links.outputs.exit != '0'
+        run: |
+          echo "::error::Existem links que não resolvem. Rode 'python3 scripts/enciclopedia.py links' localmente."
+          exit 1
+
+      - name: Publicar relatório
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: auditoria
+          path: |
+            docs/AUDITORIA-CI.md
+            links-report.txt
+          retention-days: 14

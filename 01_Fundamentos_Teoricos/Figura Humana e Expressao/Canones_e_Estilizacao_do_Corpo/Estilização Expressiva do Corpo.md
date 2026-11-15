@@ -1,23 +1,15 @@
 ---
-parte: Fundamentos Teoricos
-categoria: Canones e Estilizacao do Corpo
-tags:
-  - estilizacao-do-corpo
-  - expressionismo
-  - distorcao-anatomica
-  - exagero
-  - figura-humana
+part: Fundamentos Teoricos
+category: Canones e Estilizacao do Corpo
+tags: [estilizacao-do-corpo, expressionismo, distorcao-anatomica, exagero, figura-humana]
 tem_imagem: true
 status: rascunho
 aliases:
   - Expressive Body Stylization
   - Deformação Expressiva
   - Exagero Anatômico
-falta:
-  - Gemini
-  - GPT
-  - Leonardo
-  - Raphael
+falta: [Gemini, GPT, Leonardo, Raphael]
+draft: false
 ---
 # Estilização Expressiva do Corpo
 

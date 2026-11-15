@@ -1,23 +1,15 @@
 ---
-parte: Fundamentos Teoricos
-categoria: Expressao Facial e Emocao
-tags:
-  - expressao-facial
-  - alegria
-  - ekman
-  - micro-expressoes
-  - emocoes
+part: Fundamentos Teoricos
+category: Expressao Facial e Emocao
+tags: [expressao-facial, alegria, ekman, micro-expressoes, emocoes]
 tem_imagem: true
 status: rascunho
 aliases:
   - Joy Facial Expression
   - Expressão de Alegria
   - Sorriso Duchenne
-falta:
-  - GPT
-  - Leonardo
-  - Raphael
-  - Gemini
+falta: [GPT, Leonardo, Raphael, Gemini]
+draft: false
 ---
 # Expressão Facial — Alegria
 

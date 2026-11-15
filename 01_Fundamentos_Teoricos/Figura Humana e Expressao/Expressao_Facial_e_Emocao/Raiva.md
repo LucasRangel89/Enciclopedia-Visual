@@ -1,22 +1,15 @@
 ---
-parte: Fundamentos Teoricos
-categoria: Expressao Facial e Emocao
-tags:
-  - expressao-facial
-  - raiva
-  - ekman
-  - micro-expressoes
-  - emocoes
+part: Fundamentos Teoricos
+category: Expressao Facial e Emocao
+tags: [expressao-facial, raiva, ekman, micro-expressoes, emocoes]
 tem_imagem: true
 status: rascunho
 aliases:
   - Anger Facial Expression
   - Expressão de Raiva
   - Fúria Facial
-falta:
-  - GPT
-  - Leonardo
-  - Raphael
+falta: [GPT, Leonardo, Raphael]
+draft: false
 ---
 # Expressão Facial — Raiva
 

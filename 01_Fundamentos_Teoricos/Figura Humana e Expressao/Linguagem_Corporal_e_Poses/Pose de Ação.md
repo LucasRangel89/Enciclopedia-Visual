@@ -1,12 +1,7 @@
 ---
-parte: Fundamentos Teoricos
-categoria: Figura Humana e Expressao
-tags:
-  - pose-de-acao
-  - dinamismo
-  - figura-humana
-  - poses
-  - movimento
+part: Fundamentos Teoricos
+category: Figura Humana e Expressao
+tags: [pose-de-acao, dinamismo, figura-humana, poses, movimento]
 tem_imagem: true
 status: rascunho
 aliases:
@@ -14,10 +9,8 @@ aliases:
   - Dynamic Pose
   - Pose Dinâmica
   - Freeze-Frame
-falta:
-  - GPT
-  - Leonardo
-  - Raphael
+falta: [GPT, Leonardo, Raphael]
+draft: false
 ---
 # Pose de Ação
 

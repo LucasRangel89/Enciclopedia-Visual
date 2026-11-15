@@ -1,15 +1,14 @@
 ---
-part: "01_Fundamentos_Teoricos"
-category: "MOC"
-status: "rascunho"
+part: 01_Fundamentos_Teoricos
+category: MOC
+status: rascunho
 effort: 1
-last_tested: "2026-09-19"
-gallery_generators:
-  - "dall-e-3"
+last_tested: 2026-09-19
+gallery_generators: [dall-e-3]
 aliases: []
-tags: ["moc","fundamentos"]
+tags: [moc, fundamentos]
+draft: false
 ---
-
 # MOC — Fundamentos Teóricos
 
 ## Visão Rápida

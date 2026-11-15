@@ -1,21 +1,15 @@
 ---
-parte: Fundamentos Teoricos
-categoria: Cor
-tags:
-  - cor-quente
-  - cor
-  - teoria-das-cores
-  - iluminação
-  - temperatura-de-cor
+part: Fundamentos Teoricos
+category: Cor
+tags: [cor-quente, cor, teoria-das-cores, iluminação, temperatura-de-cor]
 tem_imagem: true
 status: rascunho
 aliases:
   - Warm Colors
   - Cores Quentes
   - Temperatura Quente
-falta:
-  - GPT
-  - Raphael
+falta: [GPT, Raphael]
+draft: false
 ---
 # Cor Quente
 

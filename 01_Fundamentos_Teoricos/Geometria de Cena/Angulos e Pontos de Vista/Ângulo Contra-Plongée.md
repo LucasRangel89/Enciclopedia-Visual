@@ -1,23 +1,15 @@
 ---
-parte: Geometria de Cena
-categoria: Angulos e Pontos de Vista
-tags:
-  - angulo-contra-plongee
-  - camera-baixa
-  - cinematografia
-  - composicao
-  - poder
+part: Geometria de Cena
+category: Angulos e Pontos de Vista
+tags: [angulo-contra-plongee, camera-baixa, cinematografia, composicao, poder]
 tem_imagem: true
 status: rascunho
 aliases:
   - Low Angle
   - Contra-Plongée
   - Câmera Contra-Plongée
-falta:
-  - Gemini
-  - GPT
-  - Leonardo
-  - Raphael
+falta: [Gemini, GPT, Leonardo, Raphael]
+draft: false
 ---
 # Ângulo Contra-Plongée (Câmera Baixa)
 

@@ -1,22 +1,15 @@
 ---
-parte: Fundamentos Teoricos
-categoria: Abordagens do Nu na Arte
-tags:
-  - nudez-documental
-  - nu-documental
-  - fotografia
-  - realismo
-  - figura-humana
+part: Fundamentos Teoricos
+category: Abordagens do Nu na Arte
+tags: [nudez-documental, nu-documental, fotografia, realismo, figura-humana]
 tem_imagem: true
 status: rascunho
 aliases:
   - Documentary Nude
   - Nu Documental
   - Realismo Anatômico
-falta:
-  - GPT
-  - Leonardo
-  - Raphael
+falta: [GPT, Leonardo, Raphael]
+draft: false
 ---
 # Nudez Documental
 

@@ -1,12 +1,7 @@
 ---
-parte: Fundamentos Teoricos
-categoria: Composicao
-tags:
-  - perspectiva-atmosferica
-  - perspectiva-aerea
-  - composicao
-  - cor
-  - luz
+part: Fundamentos Teoricos
+category: Composicao
+tags: [perspectiva-atmosferica, perspectiva-aerea, composicao, cor, luz]
 tem_imagem: true
 status: rascunho
 aliases:
@@ -14,8 +9,8 @@ aliases:
   - Aerial Perspective
   - Perspectiva Aérea
   - Sfumato
-falta:
-  - Raphael
+falta: [Raphael]
+draft: false
 ---
 # Perspectiva Atmosférica
 

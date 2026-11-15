@@ -1,15 +1,14 @@
 ---
-part: "01_Fundamentos_Teoricos"
-category: "Cor"
-status: "rascunho"
-effort: "2"
-last_tested: "2026-09-19"
-gallery_generators:
-  - "dall-e-3"
+part: 01_Fundamentos_Teoricos
+category: Cor
+status: rascunho
+effort: 2
+last_tested: 2026-09-19
+gallery_generators: [dall-e-3]
 aliases:
-  - "Saturação e Contraste"
-tags:
-  - "cor"
+  - Saturação e Contraste
+tags: [cor]
+draft: false
 ---
 # Saturação e Contraste
 

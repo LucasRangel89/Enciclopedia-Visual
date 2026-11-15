@@ -1,0 +1,208 @@
+# yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
+#
+# Configuração do site da Enciclopédia Visual.
+# Este arquivo vive na RAIZ do cofre e é copiado para site/ por
+# scripts/sync_content.py — edite aqui, não em site/.
+#
+# Documentação: https://quartz.jzhao.xyz/configuration
+
+configuration:
+  pageTitle: "Enciclopédia Visual"
+  pageTitleSuffix: " — Linguagem Visual para IA"
+  enableSPA: true
+  enablePopovers: true
+  prefetch: viewport
+  analytics:
+    provider: null
+  locale: pt-BR
+  # Ajuste para o domínio final (sem https://). Ex.: meusite.github.io
+  baseUrl: lucasrangel89.github.io/enciclopedia-visual
+  ignorePatterns:
+    - private
+    - templates
+    - .obsidian
+    - _fontes
+    - Notas_*
+    - scripts
+    - docs
+    - attachments
+    - site
+    - public
+    - "*.pdf"
+  theme:
+    fontOrigin: googleFonts
+    cdnCaching: true
+    typography:
+      header: Schibsted Grotesk
+      body: Source Sans Pro
+      code: IBM Plex Mono
+    colors:
+      lightMode:
+        light: "#fbf9f6"
+        lightgray: "#e8e2d9"
+        gray: "#b9b0a3"
+        darkgray: "#5c5347"
+        dark: "#2a2622"
+        secondary: "#8a4b2a"
+        tertiary: "#a98b5d"
+        highlight: "rgba(138, 75, 42, 0.14)"
+        textHighlight: "#f6d77688"
+      darkMode:
+        light: "#17161a"
+        lightgray: "#33313a"
+        gray: "#6a6572"
+        darkgray: "#d9d5de"
+        dark: "#efeceF"
+        secondary: "#e0a37a"
+        tertiary: "#c08b5e"
+        highlight: "rgba(224, 163, 122, 0.16)"
+        textHighlight: "#b3aa0288"
+  links:
+    markdownLinkResolution: shortest
+  contentIndex:
+    enableSiteMap: true
+    enableRSS: true
+
+plugins:
+  - source: "@quartz-community/created-modified-date"
+    enabled: true
+    options:
+      defaultDateType: modified
+      priority:
+        - frontmatter
+        - git
+        - filesystem
+    order: 10
+  - source: "@quartz-community/syntax-highlighting"
+    enabled: true
+    options:
+      theme:
+        light: github-light
+        dark: github-dark
+      keepBackground: false
+    order: 20
+  - source: "@quartz-community/github-flavored-markdown"
+    enabled: true
+    order: 30
+  - source: "@quartz-community/obsidian-flavored-markdown"
+    enabled: true
+    options:
+      enableInHtmlEmbed: false
+      enableCheckbox: true
+    order: 40
+  - source: "@quartz-community/table-of-contents"
+    enabled: true
+    order: 50
+    layout:
+      position: right
+      priority: 30
+  - source: "@quartz-community/description"
+    enabled: true
+    order: 70
+  - source: "@quartz-community/latex"
+    enabled: true
+    options:
+      renderEngine: katex
+    order: 80
+  - source: "@quartz-community/quartz-fonts"
+    enabled: true
+  - source: "@quartz-community/explicit-publish"
+    enabled: false
+  - source: "@quartz-community/alias-redirects"
+    enabled: true
+  - source: "@quartz-community/favicon"
+    enabled: true
+  - source: "@quartz-community/og-image"
+    enabled: true
+  - source: "@quartz-community/canvas-page"
+    enabled: true
+  - source: "@quartz-community/content-page"
+    enabled: true
+  - source: "@quartz-community/folder-page"
+    enabled: true
+  - source: "@quartz-community/tag-page"
+    enabled: true
+  - source: "@quartz-community/explorer"
+    enabled: true
+    layout:
+      position: left
+      priority: 50
+  - source: "@quartz-community/graph"
+    enabled: true
+    layout:
+      position: right
+      priority: 10
+  - source: "@quartz-community/search"
+    enabled: true
+    layout:
+      position: left
+      priority: 20
+      group: toolbar
+      groupOptions:
+        grow: true
+  - source: "@quartz-community/backlinks"
+    enabled: true
+    layout:
+      position: right
+      priority: 50
+  - source: "@quartz-community/article-title"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 10
+  - source: "@quartz-community/content-meta"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 20
+  - source: "@quartz-community/tag-list"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 30
+  - source: "@quartz-community/note-properties"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 25
+  - source: "@quartz-community/recent-notes"
+    enabled: true
+    options:
+      title: "Atualizadas recentemente"
+      limit: 12
+      showTags: true
+      hideTagPages: true
+      hideFolderPages: true
+    layout:
+      position: right
+      priority: 30
+  - source: "@quartz-community/page-title"
+    enabled: true
+    layout:
+      position: left
+      priority: 10
+  - source: "@quartz-community/darkmode"
+    enabled: true
+    layout:
+      position: left
+      priority: 30
+      group: toolbar
+  - source: "@quartz-community/reader-mode"
+    enabled: true
+    layout:
+      position: left
+      priority: 35
+      group: toolbar
+  - source: "@quartz-community/breadcrumbs"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 5
+      condition: not-index
+  - source: "@quartz-community/footer"
+    enabled: true
+    options:
+      links:
+        "Repositório": https://github.com/LucasRangel89/Enciclopedia-Visual
+    layout:
+      position: footer

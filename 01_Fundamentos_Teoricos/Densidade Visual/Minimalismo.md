@@ -1,21 +1,15 @@
 ---
-parte: Fundamentos Teoricos
-categoria: Densidade Visual
-tags:
-  - minimalismo-visual
-  - densidade-visual
-  - espaco-negativo
-  - composicao
-  - simplicidade
+part: Fundamentos Teoricos
+category: Densidade Visual
+tags: [minimalismo-visual, densidade-visual, espaco-negativo, composicao, simplicidade]
 tem_imagem: true
 status: rascunho
 aliases:
   - Visual Minimalism
   - Espaço Negativo
   - Less is More
-falta:
-  - GPT
-  - Raphael
+falta: [GPT, Raphael]
+draft: false
 ---
 # Minimalismo Visual
 

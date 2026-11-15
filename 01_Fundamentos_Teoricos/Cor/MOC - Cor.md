@@ -1,9 +1,10 @@
 ---
 type: moc-category
-parent: "[[MOC - Fundamentos Teoricos]]"
-tags:
-  - moc
-  - cor
+parent:
+  - [MOC - Fundamentos]
+tags: [moc, cor]
+status: rascunho
+draft: false
 ---
 # 🎨 MOC - Cor
 
