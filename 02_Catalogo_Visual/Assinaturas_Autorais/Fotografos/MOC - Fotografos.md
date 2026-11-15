@@ -3,7 +3,7 @@ title: MOC - Fotografos
 part: "02_Catalogo_Visual/Assinaturas_Autorais"
 category: MOC
 type: moc-category
-parent: [[MOC - Assinaturas_Autorais]]
+parent: "[[MOC - Assinaturas_Autorais]]"
 status: revisao
 draft: false
 tags: [moc, fotografos]

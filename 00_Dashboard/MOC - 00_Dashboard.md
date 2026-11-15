@@ -3,7 +3,7 @@ title: MOC - 00_Dashboard
 part: "."
 category: MOC
 type: moc-category
-parent: [[index]]
+parent: "[[index]]"
 status: revisao
 draft: false
 tags: [moc, 00-dashboard]

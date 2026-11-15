@@ -3,7 +3,7 @@ title: MOC - Familias Topograficas Base
 part: "01_Fundamentos_Teoricos/Tipografia e Linguagem Visual"
 category: MOC
 type: moc-category
-parent: [[MOC - Tipografia e Linguagem Visual]]
+parent: "[[MOC - Tipografia e Linguagem Visual]]"
 status: revisao
 draft: false
 tags: [moc, familias-topograficas-base]

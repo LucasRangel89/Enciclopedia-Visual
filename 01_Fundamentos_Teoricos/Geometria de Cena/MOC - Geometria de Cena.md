@@ -3,7 +3,7 @@ title: MOC - Geometria de Cena
 part: "01_Fundamentos_Teoricos"
 category: MOC
 type: moc-category
-parent: [[MOC - Fundamentos]]
+parent: "[[MOC - Fundamentos]]"
 status: revisao
 draft: false
 tags: [moc, geometria-de-cena]
@@ -24,6 +24,11 @@ sources: []
 - [[Ângulo Contra-Plongée]]
 - [[Ângulo Eye-Level]]
 - [[Ângulo Plongée (Câmera Alta)]]
+- [[Grande-Angular e Efeito Psicológico]]
+- [[Teleobjetiva e Efeito Psicológico]]
+- [[Movimento Implícito Dolly]]
+- [[Movimento Implícito Pan]]
+- [[Movimento Implícito Tilt]]
 - [[Movimento Implícito — Dolly]]
 - [[Movimento Implícito — Pan]]
 - [[Movimento Implícito — Tilt]]

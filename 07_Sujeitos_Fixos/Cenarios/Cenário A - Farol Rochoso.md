@@ -29,6 +29,6 @@ Coloque a variável de atmosfera/clima no final do prompt._Exemplo de estrutura 
 
 ## 🔗 Conexões Teóricas
 
-- [[Atmosfera e Clima]]
-- [[Paleta de Cores]]
-- [[Fotografia de Paisagem]]
+- [[MOC - Luz]]
+- [[MOC - Cor]]
+- [[MOC - Fotografia]]

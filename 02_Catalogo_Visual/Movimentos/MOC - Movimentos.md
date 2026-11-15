@@ -1,8 +1,7 @@
 ---
 part: 02_Catalogo_Visual/Movimentos
 category: MOC
-parent:
-  - [MOC - Catalogo Visual]
+parent: "[[MOC - Catalogo Visual]]"
 status: rascunho
 effort: 1
 last_tested: 2026-09-19

@@ -3,8 +3,7 @@ title: MOC - Fotografia
 part: 02_Catalogo_Visual
 category: MOC
 type: moc-category
-parent:
-  - [MOC - Catalogo Visual]
+parent: "[[MOC - Catalogo Visual]]"
 status: rascunho
 draft: false
 tags: [moc, fotografia]
@@ -23,4 +22,12 @@ sources: []
 > Use `python3 scripts/enciclopedia.py new "<Nome>" --part 02_Catalogo_Visual --category Fotografia` para criar a primeira nota.
 
 <!-- inicio:indice-automatico -->
+- [[00_README - Fotografia]]
+- [[Fotografia Infravermelha]]
+- [[Fotografia Subaquática]]
+- [[Fotografia de Estúdio - Retrato Clássico]]
+- [[Lomografia]]
+- [[Moda - Editorial de Moda]]
+- [[Polaroid - Instantânea]]
+- [[Street Photography]]
 <!-- fim:indice-automatico -->

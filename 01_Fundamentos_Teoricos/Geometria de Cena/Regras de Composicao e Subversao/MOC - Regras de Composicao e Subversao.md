@@ -3,7 +3,7 @@ title: MOC - Regras de Composicao e Subversao
 part: "01_Fundamentos_Teoricos/Geometria de Cena"
 category: MOC
 type: moc-category
-parent: [[MOC - Geometria de Cena]]
+parent: "[[MOC - Geometria de Cena]]"
 status: revisao
 draft: false
 tags: [moc, regras-de-composicao-e-subversao]

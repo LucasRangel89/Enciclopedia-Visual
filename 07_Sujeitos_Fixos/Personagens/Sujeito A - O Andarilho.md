@@ -30,6 +30,6 @@ No seu arquivo de experimento, use a referência do Obsidian para puxar este tex
 
 ## 🔗 Conexões Teóricas
 
-- [[Composição]]
-- [[Escala]]
-- [[Cinema de Atmosfera]]
+- [[MOC - Composição]]
+- [[MOC - Geometria de Cena]]
+- [[MOC - Catalogo Visual]]

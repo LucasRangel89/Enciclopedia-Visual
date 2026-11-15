@@ -3,7 +3,7 @@ title: MOC - Psicologia_dos_Interiores
 part: "02_Catalogo_Visual/Arquitetura_Cenario_e_Personagem"
 category: MOC
 type: moc-category
-parent: [[MOC - Arquitetura_Cenario_e_Personagem]]
+parent: "[[MOC - Arquitetura_Cenario_e_Personagem]]"
 status: revisao
 draft: false
 tags: [moc, psicologia-dos-interiores]

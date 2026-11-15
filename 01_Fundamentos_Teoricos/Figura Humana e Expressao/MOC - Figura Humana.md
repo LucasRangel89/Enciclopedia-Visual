@@ -1,6 +1,5 @@
 ---
 type: moc-category
-parent: "[[MOC - Fundamentos Teoricos]]"
 tags:
   - moc
   - figura-humana

@@ -3,7 +3,7 @@ title: MOC - Textura e Materialidade
 part: "01_Fundamentos_Teoricos"
 category: MOC
 type: moc-category
-parent: [[MOC - Fundamentos]]
+parent: "[[MOC - Fundamentos]]"
 status: revisao
 draft: false
 tags: [moc, textura-e-materialidade]

@@ -3,7 +3,7 @@ title: MOC - Profundidade de Campo e Abertura
 part: "01_Fundamentos_Teoricos/Geometria de Cena"
 category: MOC
 type: moc-category
-parent: [[MOC - Geometria de Cena]]
+parent: "[[MOC - Geometria de Cena]]"
 status: revisao
 draft: false
 tags: [moc, profundidade-de-campo-e-abertura]
