@@ -1,21 +1,15 @@
 ---
-parte: Fundamentos Teoricos
-categoria: Cor
-tags:
-  - harmonia-triade
-  - cor
-  - teoria-das-cores
-  - paleta
-  - contraste
+part: Fundamentos Teoricos
+category: Cor
+tags: [harmonia-triade, cor, teoria-das-cores, paleta, contraste]
 tem_imagem: true
 status: rascunho
 aliases:
   - Triadic Harmony
   - Tríade Cromática
   - Triadic Colors
-falta:
-  - GPT
-  - Raphael
+falta: [GPT, Raphael]
+draft: false
 ---
 # Harmonia Tríade
 

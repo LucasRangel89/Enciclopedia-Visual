@@ -1,12 +1,7 @@
 ---
-parte: Fundamentos Teoricos
-categoria: Figura Humana e Expressao
-tags:
-  - pose-editorial
-  - moda
-  - figura-humana
-  - poses
-  - estetica
+part: Fundamentos Teoricos
+category: Figura Humana e Expressao
+tags: [pose-editorial, moda, figura-humana, poses, estetica]
 tem_imagem: true
 status: rascunho
 aliases:
@@ -14,10 +9,8 @@ aliases:
   - High Fashion Pose
   - Pose de Moda
   - Pose Avant-Garde
-falta:
-  - GPT
-  - Leonardo
-  - Raphael
+falta: [GPT, Leonardo, Raphael]
+draft: false
 ---
 # Pose Editorial
 

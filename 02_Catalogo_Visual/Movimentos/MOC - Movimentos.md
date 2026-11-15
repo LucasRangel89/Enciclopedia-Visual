@@ -1,15 +1,16 @@
 ---
-part: "02_Catalogo_Visual/Movimentos"
-category: "MOC"
-status: "rascunho"
+part: 02_Catalogo_Visual/Movimentos
+category: MOC
+parent:
+  - [MOC - Catalogo Visual]
+status: rascunho
 effort: 1
-last_tested: "2026-09-19"
-gallery_generators:
-  - "dall-e-3"
+last_tested: 2026-09-19
+gallery_generators: [dall-e-3]
 aliases: []
-tags: ["catalogo","movimentos"]
+tags: [catalogo, movimentos]
+draft: false
 ---
-
 # MOC — Movimentos (Catalogo Visual)
 
 ## Visão Rápida

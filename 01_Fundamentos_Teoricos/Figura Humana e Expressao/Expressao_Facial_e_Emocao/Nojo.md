@@ -1,22 +1,15 @@
 ---
-parte: Fundamentos Teoricos
-categoria: Expressao Facial e Emocao
-tags:
-  - expressao-facial
-  - nojo
-  - ekman
-  - micro-expressoes
-  - emocoes
+part: Fundamentos Teoricos
+category: Expressao Facial e Emocao
+tags: [expressao-facial, nojo, ekman, micro-expressoes, emocoes]
 tem_imagem: true
 status: rascunho
 aliases:
   - Disgust Facial Expression
   - Expressão de Nojo
   - Repulsa Facial
-falta:
-  - GPT
-  - Leonardo
-  - Raphael
+falta: [GPT, Leonardo, Raphael]
+draft: false
 ---
 # Expressão Facial — Nojo
 

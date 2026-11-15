@@ -1,12 +1,7 @@
 ---
-parte: Fundamentos Teoricos
-categoria: Composicao
-tags:
-  - perspectiva-tres-pontos
-  - perspectiva
-  - composicao
-  - enquadramento
-  - cinematografia
+part: Fundamentos Teoricos
+category: Composicao
+tags: [perspectiva-tres-pontos, perspectiva, composicao, enquadramento, cinematografia]
 tem_imagem: true
 status: rascunho
 aliases:
@@ -14,8 +9,8 @@ aliases:
   - Worm's-Eye View
   - Bird's-Eye View
   - Convergência Vertical
-falta:
-  - Raphael
+falta: [Raphael]
+draft: false
 ---
 # Perspectiva de Três Pontos de Fuga
 

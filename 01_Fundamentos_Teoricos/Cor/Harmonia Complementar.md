@@ -1,21 +1,15 @@
 ---
-parte: Fundamentos Teoricos
-categoria: Cor
-tags:
-  - harmonia-complementar
-  - cor
-  - teoria-das-cores
-  - contraste
-  - paleta
+part: Fundamentos Teoricos
+category: Cor
+tags: [harmonia-complementar, cor, teoria-das-cores, contraste, paleta]
 tem_imagem: true
 status: rascunho
 aliases:
   - Complementary Colors
   - Cores Complementares
   - Contraste Complementar
-falta:
-  - GPT
-  - Raphael
+falta: [GPT, Raphael]
+draft: false
 ---
 # Harmonia Complementar
 

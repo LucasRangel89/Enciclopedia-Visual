@@ -1,15 +1,14 @@
 ---
-part: "01_Fundamentos_Teoricos"
-category: "Ritmo e Tempo"
-status: "rascunho"
-effort: "2"
-last_tested: "2026-09-19"
-gallery_generators:
-  - "dall-e-3"
+part: 01_Fundamentos_Teoricos
+category: Ritmo e Tempo
+status: rascunho
+effort: 2
+last_tested: 2026-09-19
+gallery_generators: [dall-e-3]
 aliases:
-  - "Ritmo e Tempo"
-tags:
-  - "ritmo_e_tempo"
+  - Ritmo e Tempo
+tags: [ritmo_e_tempo]
+draft: false
 ---
 # Ritmo e Tempo
 

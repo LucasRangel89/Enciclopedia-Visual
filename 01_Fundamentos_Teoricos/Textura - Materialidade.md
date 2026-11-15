@@ -1,15 +1,14 @@
 ---
-part: "01_Fundamentos_Teoricos"
-category: "Textura e Materialidade"
-status: "rascunho"
-effort: "2"
-last_tested: "2026-09-19"
-gallery_generators:
-  - "dall-e-3"
+part: 01_Fundamentos_Teoricos
+category: Textura e Materialidade
+status: rascunho
+effort: 2
+last_tested: 2026-09-19
+gallery_generators: [dall-e-3]
 aliases:
-  - "Textura e Materialidade"
-tags:
-  - "textura_e_materialidade"
+  - Textura e Materialidade
+tags: [textura_e_materialidade]
+draft: false
 ---
 # Textura e Materialidade
 

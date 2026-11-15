@@ -1,15 +1,14 @@
 ---
-part: "01_Fundamentos_Teoricos"
-category: "Composição"
-status: "rascunho"
-effort: "2"
-last_tested: "2026-09-19"
-gallery_generators:
-  - "dall-e-3"
+part: 01_Fundamentos_Teoricos
+category: Composição
+status: rascunho
+effort: 2
+last_tested: 2026-09-19
+gallery_generators: [dall-e-3]
 aliases:
-  - "Regra dos Terços"
-tags:
-  - "composição"
+  - Regra dos Terços
+tags: [composição]
+draft: false
 ---
 # Regra dos Terços
 

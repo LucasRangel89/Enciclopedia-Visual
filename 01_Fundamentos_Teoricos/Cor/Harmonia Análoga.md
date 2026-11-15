@@ -1,21 +1,15 @@
 ---
-parte: Fundamentos Teoricos
-categoria: Cor
-tags:
-  - harmonia-analoga
-  - cor
-  - teoria-das-cores
-  - paleta
-  - coesao-visual
+part: Fundamentos Teoricos
+category: Cor
+tags: [harmonia-analoga, cor, teoria-das-cores, paleta, coesao-visual]
 tem_imagem: true
 status: rascunho
 aliases:
   - Analogous Colors
   - Cores Análogas
   - Harmonia Vizinha
-falta:
-  - GPT
-  - Raphael
+falta: [GPT, Raphael]
+draft: false
 ---
 # Harmonia Análoga
 

@@ -1,23 +1,15 @@
 ---
-parte: Geometria de Cena
-categoria: Angulos e Pontos de Vista
-tags:
-  - angulo-plongee
-  - camera-alta
-  - cinematografia
-  - composicao
-  - ponto-de-vista
+part: Geometria de Cena
+category: Angulos e Pontos de Vista
+tags: [angulo-plongee, camera-alta, cinematografia, composicao, ponto-de-vista]
 tem_imagem: true
 status: rascunho
 aliases:
   - High Angle
   - Plongée
   - Ponto de Vista Aéreo Limitado
-falta:
-  - Gemini
-  - GPT
-  - Leonardo
-  - Raphael
+falta: [Gemini, GPT, Leonardo, Raphael]
+draft: false
 ---
 # Ângulo Plongée (Câmera Alta)
 

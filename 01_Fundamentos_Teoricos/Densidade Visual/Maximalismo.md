@@ -1,12 +1,7 @@
 ---
-parte: Fundamentos Teoricos
-categoria: Densidade Visual
-tags:
-  - maximalismo-visual
-  - horror-vacui
-  - densidade-visual
-  - detalhamento
-  - poluicao-visual
+part: Fundamentos Teoricos
+category: Densidade Visual
+tags: [maximalismo-visual, horror-vacui, densidade-visual, detalhamento, poluicao-visual]
 tem_imagem: true
 status: rascunho
 aliases:
@@ -14,9 +9,8 @@ aliases:
   - Horror Vacui
   - Poluição Visual Controlada
   - Densidade Detalhada
-falta:
-  - GPT
-  - Raphael
+falta: [GPT, Raphael]
+draft: false
 ---
 # Maximalismo Visual (Horror Vacui)
 

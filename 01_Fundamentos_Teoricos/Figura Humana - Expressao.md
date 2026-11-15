@@ -1,15 +1,14 @@
 ---
-part: "01_Fundamentos_Teoricos"
-category: "Figura Humana e Expressão"
-status: "rascunho"
-effort: "2"
-last_tested: "2026-09-19"
-gallery_generators:
-  - "dall-e-3"
+part: 01_Fundamentos_Teoricos
+category: Figura Humana e Expressão
+status: rascunho
+effort: 2
+last_tested: 2026-09-19
+gallery_generators: [dall-e-3]
 aliases:
-  - "Figura Humana e Expressão"
-tags:
-  - "figura_humana_e_expressão"
+  - Figura Humana e Expressão
+tags: [figura_humana_e_expressão]
+draft: false
 ---
 # Figura Humana e Expressão
 

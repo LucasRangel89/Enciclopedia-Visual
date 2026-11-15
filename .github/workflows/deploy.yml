@@ -1,0 +1,71 @@
+name: Deploy do site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: Build Quartz
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # histórico completo para as datas de modificação
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Cache de dependências
+        uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Clonar Quartz v5
+        run: |
+          git clone --depth 1 --branch v5 https://github.com/jackyzha0/quartz.git site
+
+      - name: Instalar dependências
+        run: cd site && npm ci --no-audit --no-fund
+
+      - name: Sincronizar conteúdo do cofre
+        run: |
+          python3 scripts/sync_content.py --dest site/content
+          cp quartz.config.yaml site/quartz.config.yaml
+
+      - name: Instalar plugins do Quartz
+        run: cd site && npx quartz plugin install
+
+      - name: Build
+        run: cd site && npx quartz build
+
+      - name: Upload do artefato
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/public
+
+  deploy:
+    name: Publicar no GitHub Pages
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

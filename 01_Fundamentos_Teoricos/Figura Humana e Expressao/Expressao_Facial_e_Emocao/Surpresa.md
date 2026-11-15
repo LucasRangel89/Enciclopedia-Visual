@@ -1,23 +1,15 @@
 ---
-parte: Fundamentos Teoricos
-categoria: Expressao Facial e Emocao
-tags:
-  - expressao-facial
-  - surpresa
-  - ekman
-  - micro-expressoes
-  - emocoes
+part: Fundamentos Teoricos
+category: Expressao Facial e Emocao
+tags: [expressao-facial, surpresa, ekman, micro-expressoes, emocoes]
 tem_imagem: true
 status: rascunho
 aliases:
   - Surprise Facial Expression
   - Expressão de Surpresa
   - Espanto Facial
-falta:
-  - Gemini
-  - GPT
-  - Leonardo
-  - Raphael
+falta: [Gemini, GPT, Leonardo, Raphael]
+draft: false
 ---
 # Expressão Facial — Surpresa
 

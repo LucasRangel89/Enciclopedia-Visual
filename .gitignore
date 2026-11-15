@@ -1,0 +1,34 @@
+# ---------------------------------------------------------------- build do site
+# O Quartz vive fora do versionamento: é clonado e gerado por scripts/ e pelo CI.
+site/
+public/
+.quartz/
+node_modules/
+npm-debug.log*
+
+# ---------------------------------------------------------------- Obsidian
+.obsidian/
+.trash/
+*.tmp
+
+# ---------------------------------------------------------------- Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# ---------------------------------------------------------------- sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------------------------------------------------------------- grandes
+# PDFs e fontes de referencia ficao em _fontes/ (versionados com proposito,
+# mas binarios grandes devem preferir Git LFS — ver BLUEPRINT.md)
+*.log
+
+# ---------------------------------------------------------------- artefatos gerados
+scripts/__pycache__/

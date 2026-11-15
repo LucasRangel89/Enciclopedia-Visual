@@ -1,15 +1,13 @@
 ---
 part: "02_Catalogo_Visual/Movimentos/Onda_03"
-category: "Movimento"
-status: "rascunho"
-effort: "2"
-last_tested: "2026-09-19"
-gallery_generators:
-  - "dall-e-3"
-aliases:
-  - "Movimento_13"
-tags:
-  - "movimento"
+category: Movimento
+status: rascunho
+effort: 2
+last_tested: 2026-09-19
+gallery_generators: [dall-e-3]
+aliases: [Movimento_13]
+tags: [movimento]
+draft: true
 ---
 # Movimento_13
 

@@ -1,24 +1,16 @@
 ---
-parte: Fundamentos Teoricos
-categoria: Composicao
-tags:
-  - linhas-guia
-  - composicao
-  - conducao-do-olhar
-  - profundidade
-  - narrativa-visual
+part: Fundamentos Teoricos
+category: Composicao
+tags: [linhas-guia, composicao, conducao-do-olhar, profundidade, narrativa-visual]
 tem_imagem: true
 status: rascunho
 aliases:
   - Leading Lines
   - Linhas de Força
   - Linhas Condutoras
-falta:
-  - GPT
-  - Leonardo
-  - Raphael
+falta: [GPT, Leonardo, Raphael]
+draft: false
 ---
-
 # Linhas Guia (Leading Lines)
 
 ## 📖 Definição e Lógica

@@ -1,21 +1,15 @@
 ---
-parte: Fundamentos Teoricos
-categoria: Cor
-tags:
-  - harmonia-monocromatica
-  - cor
-  - teoria-das-cores
-  - paleta
-  - tom-sobre-tom
+part: Fundamentos Teoricos
+category: Cor
+tags: [harmonia-monocromatica, cor, teoria-das-cores, paleta, tom-sobre-tom]
 tem_imagem: true
 status: rascunho
 aliases:
   - Monochromatic Harmony
   - Monocromático
   - Tom sobre Tom
-falta:
-  - GPT
-  - Raphael
+falta: [GPT, Raphael]
+draft: false
 ---
 # Harmonia Monocromática
 

@@ -1,24 +1,16 @@
 ---
-parte: Fundamentos Teoricos
-categoria: Composicao
-tags:
-  - pesos-visuais
-  - composicao
-  - equilibrio
-  - hierarquia-visual
-  - contraste
+part: Fundamentos Teoricos
+category: Composicao
+tags: [pesos-visuais, composicao, equilibrio, hierarquia-visual, contraste]
 tem_imagem: true
-falta:
-  - GPT
-  - Leonardo
-  - Raphael
+falta: [GPT, Leonardo, Raphael]
 status: rascunho
 aliases:
   - Visual Weight
   - Peso Visual
   - Equilíbrio Visual
+draft: false
 ---
-
 # Pesos Visuais
 
 ## 📖 Definição e Lógica

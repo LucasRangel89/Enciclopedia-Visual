@@ -1,23 +1,15 @@
 ---
-parte: Fundamentos Teoricos
-categoria: Abordagens do Nu na Arte
-tags:
-  - nudez-artistica-classica
-  - nu-na-arte
-  - anatomia
-  - estetica-classica
-  - figura-humana
+part: Fundamentos Teoricos
+category: Abordagens do Nu na Arte
+tags: [nudez-artistica-classica, nu-na-arte, anatomia, estetica-classica, figura-humana]
 tem_imagem: true
 status: rascunho
 aliases:
   - Classical Fine Art Nude
   - Nu Artístico Clássico
   - Estudo Anatômico Clássico
-falta:
-  - GPT
-  - Leonardo
-  - Raphael
-  - Gemini
+falta: [GPT, Leonardo, Raphael, Gemini]
+draft: false
 ---
 # Nudez Artística Clássica
 

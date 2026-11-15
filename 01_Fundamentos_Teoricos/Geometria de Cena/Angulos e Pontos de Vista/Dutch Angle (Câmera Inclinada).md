@@ -1,12 +1,7 @@
 ---
-parte: Geometria de Cena
-categoria: Angulos e Pontos de Vista
-tags:
-  - dutch-angle
-  - camera-inclinada
-  - desequilibrio
-  - cinematografia
-  - tensao
+part: Geometria de Cena
+category: Angulos e Pontos de Vista
+tags: [dutch-angle, camera-inclinada, desequilibrio, cinematografia, tensao]
 tem_imagem: true
 status: rascunho
 aliases:
@@ -14,11 +9,8 @@ aliases:
   - Canted Angle
   - Ângulo Holandês
   - Câmera Torta
-falta:
-  - Gemini
-  - GPT
-  - Leonardo
-  - Raphael
+falta: [Gemini, GPT, Leonardo, Raphael]
+draft: false
 ---
 # Dutch Angle (Câmera Inclinada)
 

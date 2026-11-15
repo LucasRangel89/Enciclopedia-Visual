@@ -1,23 +1,15 @@
 ---
-parte: Fundamentos Teoricos
-categoria: Canones e Estilizacao do Corpo
-tags:
-  - canone-greco-romano
-  - proporcao-corpo
-  - anatomia
-  - proporcao-aurea
-  - grecia-antiga
+part: Fundamentos Teoricos
+category: Canones e Estilizacao do Corpo
+tags: [canone-greco-romano, proporcao-corpo, anatomia, proporcao-aurea, grecia-antiga]
 tem_imagem: true
 status: rascunho
 aliases:
   - Greco-Roman Canon
   - Cânone de Policleto
   - Proporções Clássicas
-falta:
-  - Gemini
-  - GPT
-  - Leonardo
-  - Raphael
+falta: [Gemini, GPT, Leonardo, Raphael]
+draft: false
 ---
 # Cânone Clássico Greco-Romano
 

@@ -1,9 +1,10 @@
 ---
 type: moc-category
-parent: "[[MOC - Fundamentos Teoricos]]"
-tags:
-  - moc
-  - densidade-visual
+parent:
+  - [MOC - Fundamentos]
+tags: [moc, densidade-visual]
+status: rascunho
+draft: false
 ---
 # 📊 MOC - Densidade Visual
 

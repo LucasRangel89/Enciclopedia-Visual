@@ -1,10 +1,14 @@
 ---
-parte: "Fundamentos Teoricos"
-categoria: "Composicao"
+part: Fundamentos Teoricos
+category: Composicao
 tags: [perspectiva-dois-pontos, perspectiva, composicao, enquadramento, arquitetura]
 tem_imagem: true
-status: "rascunho"
-aliases: ["Two-Point Perspective", "Perspectiva Angular", "Visão de Canto"]
+status: rascunho
+aliases:
+  - Two-Point Perspective
+  - Perspectiva Angular
+  - Visão de Canto
+draft: false
 ---
 # Perspectiva de Dois Pontos de Fuga
 

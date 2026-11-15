@@ -1,15 +1,15 @@
 ---
-part: "02_Catalogo_Visual/Movimentos/Onda_07"
-category: "MOC"
-status: "rascunho"
-effort: "1"
-last_tested: "2026-09-19"
-gallery_generators:
-  - "dall-e-3"
-aliases:
-tags:
-  - "movimentos"
-  - "onda"
+part: 02_Catalogo_Visual/Movimentos/Onda_07
+category: MOC
+parent:
+  - [MOC - Movimentos]
+status: rascunho
+effort: 1
+last_tested: 2026-09-19
+gallery_generators: [dall-e-3]
+aliases: []
+tags: [movimentos, onda]
+draft: false
 ---
 # MOC — Onda 07
 
