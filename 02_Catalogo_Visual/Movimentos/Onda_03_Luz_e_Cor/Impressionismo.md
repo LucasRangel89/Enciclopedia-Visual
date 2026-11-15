@@ -61,7 +61,7 @@ O Impressionismo (França, 1870s) revolucionou a pintura ao abandonar os estúdi
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[impressionismo.png]]
+![[Impressionismo_Gemini.jpg]]
 * **Legenda:** [Observação sobre as pinceladas fragmentadas e vibração da luz solar ao ar livre]
 
 ---

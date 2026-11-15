@@ -65,7 +65,7 @@ Surgido no final dos anos 1960 (Joseph Kosuth, Sol LeWitt, John Baldessari), a A
 ## 🖼️ Exemplo Visual
 
 ### 1. Bing
-![[Arte_Conceitual.jpg]]
+![[Arte_Conceitual_Manus.png]]
 * **Legenda:** [Observação sobre a instalação em galeria branca com texto tipográfico minimalista]
 
 ---

@@ -54,7 +54,7 @@ O maximalismo visual — derivado do conceito latino *Horror Vacui* (medo do vaz
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[maximalismo.png]]
+![[Maximalismo_Gemini.jpg]]
 * **Legenda:** [Observação sobre a densidade de adereços e capacidade de gerar múltiplos objetos]
 
 ---

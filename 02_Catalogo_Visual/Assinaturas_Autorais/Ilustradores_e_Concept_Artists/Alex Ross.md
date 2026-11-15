@@ -37,7 +37,7 @@ Ilustrador de super-heróis conhecido por pintura hiper-realista em guache/têmp
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[alex_ross.png]]
+![[Alex_Ross_Manus.png]]
 * **Legenda:** [Observação sobre o realismo anatômico]
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista

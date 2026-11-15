@@ -53,7 +53,7 @@ De acordo com o sistema de codificação de ação facial (FACS) de Paul Ekman, 
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[expressao_raiva.png]]
+![[Raiva_Gemini.jpg]]
 * **Legenda:** [Observação sobre a contração das sobrancelhas e intensidade no olhar]
 
 ---

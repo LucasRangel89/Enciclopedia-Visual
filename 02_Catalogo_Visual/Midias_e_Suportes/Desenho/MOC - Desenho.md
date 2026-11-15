@@ -23,3 +23,15 @@ sources: []
 - [[Grafite]]
 - [[Nanquim - Bico de Pena]]
 <!-- fim:indice-automatico -->
+
+## 🖼️ Prancha comparativa
+
+![[Desenho_tinta_PEN_CHAR_MARKER_SUMI (1).png]]
+
+*Nanquim · Carvão · Marcador · Sumi-e*
+
+## 🖼️ Prancha comparativa
+
+![[Desenho_tinta_PEN_CHAR_MARKER_SUMI (2).png]]
+
+*Nanquim · Carvão · Marcador · Sumi-e*

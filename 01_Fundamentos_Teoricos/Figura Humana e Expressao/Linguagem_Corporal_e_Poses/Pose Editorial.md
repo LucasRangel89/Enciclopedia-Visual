@@ -54,7 +54,7 @@ A pose editorial (comum na alta moda e na fotografia de conceito) prioriza a geo
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[pose_editorial.png]]
+![[Pose_Editorial_Gemini.jpg]]
 * **Legenda:** [Observação sobre a dramaticidade dos ângulos formados pelos braços e pernas]
 
 ---

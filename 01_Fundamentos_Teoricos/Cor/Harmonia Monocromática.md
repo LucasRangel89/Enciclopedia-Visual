@@ -53,7 +53,7 @@ A harmonia monocromática é construída a partir de variações de uma única m
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[harmonia_monocromatica.png]]
+![[Harmonia_Monocromatica_Gemini.jpg]]
 * **Legenda:** [Observação sobre o rigor e consistência da única matiz escolhida]
 
 ---

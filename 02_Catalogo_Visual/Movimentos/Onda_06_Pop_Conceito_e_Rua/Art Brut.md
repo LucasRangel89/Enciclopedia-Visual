@@ -59,7 +59,7 @@ Termo cunhado por Jean Dubuffet na década de 1940 para descrever a **arte criad
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[art_brut.png]]
+![[Art_Brut_Gemini.jpg]]
 * **Legenda:** [Observação sobre o traço instintivo e distorção na figura estilo Art Brut]
 
 ---

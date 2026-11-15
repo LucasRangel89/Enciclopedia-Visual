@@ -61,7 +61,7 @@ Surgido em Nova York no início dos anos 1960 (Frank Stella, Donald Judd, Sol Le
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[minimalismo_arte.png]]
+![[Minimalismo_Gemini.jpg]]
 * **Legenda:** [Observação sobre o monolito geométrico puro e uso de espaço negativo]
 
 ---

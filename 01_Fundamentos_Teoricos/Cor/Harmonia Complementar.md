@@ -53,7 +53,7 @@ A harmonia complementar é estabelecida pela combinação de duas cores localiza
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[harmonia_complementar.png]]
+![[Harmonia_Complementar_Gemini.jpg]]
 * **Legenda:** [Observação sobre a separação do azul e laranja e destaque do sujeito]
 
 ---

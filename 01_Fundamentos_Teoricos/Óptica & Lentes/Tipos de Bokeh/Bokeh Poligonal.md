@@ -39,7 +39,7 @@ Desfoque de fundo com pontos de luz renderizados como polígonos (hexágonos, oc
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[bokeh_poligonal.png]]
+![[Bokeh_Poligonal_Gemini.jpg]]
 * **Legenda:** [Observação sobre a definição das arestas hexagonais]
 ## ⚙️ Prompt de Referência (Testado)
 ```

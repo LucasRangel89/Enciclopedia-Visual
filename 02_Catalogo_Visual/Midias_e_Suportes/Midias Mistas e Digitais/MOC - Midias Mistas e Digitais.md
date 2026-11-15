@@ -25,3 +25,15 @@ sources: []
 - [[Digital Painting]]
 - [[Ilustração Editorial]]
 <!-- fim:indice-automatico -->
+
+## 🖼️ Prancha comparativa
+
+![[Digital_3D_PIXEL_LOWPOLY_CEL_PBR (1).png]]
+
+*Render 3D · Pixel art · Low-poly · Cel shading · PBR*
+
+## 🖼️ Prancha comparativa
+
+![[Digital_3D_PIXEL_LOWPOLY_CEL_PBR (2).png]]
+
+*Render 3D · Pixel art · Low-poly · Cel shading · PBR*

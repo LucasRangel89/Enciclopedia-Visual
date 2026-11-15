@@ -63,7 +63,7 @@ Distribuição de `status`:
 
 ## 4. Links e mídia
 
-- Embeds de imagem/mídia sem arquivo correspondente: **250**
+- Embeds de imagem/mídia sem arquivo correspondente: **191**
 - Wikilinks que não resolvem: **0**
 - Wikilinks ambíguos (mais de um alvo possível): **0**
 
@@ -71,32 +71,32 @@ Distribuição de `status`:
 
 | Nota | Arquivo esperado |
 | :--- | :--- |
-| `01_Fundamentos_Teoricos/Composicao/Perspectiva_e_Pontos_de_Fuga/1 Ponto.md` | `Um_Ponto.png` |
-| `01_Fundamentos_Teoricos/Composicao/Perspectiva_e_Pontos_de_Fuga/2 Pontos.md` | `Dois_Pontos.png` |
-| `01_Fundamentos_Teoricos/Composicao/Perspectiva_e_Pontos_de_Fuga/3 Pontos.md` | `Tres_Pontos.png` |
-| `01_Fundamentos_Teoricos/Composicao/Perspectiva_e_Pontos_de_Fuga/Perspectiva Atmosférica.md` | `Perspectiva_Atmosferica.png` |
-| `01_Fundamentos_Teoricos/Cor/Cor Fria.md` | `cor_fria.png` |
-| `01_Fundamentos_Teoricos/Cor/Cor Quente.md` | `cor_quente.png` |
-| `01_Fundamentos_Teoricos/Cor/Harmonia Análoga.md` | `harmonia_analoga.png` |
-| `01_Fundamentos_Teoricos/Cor/Harmonia Complementar.md` | `harmonia_complementar.png` |
-| `01_Fundamentos_Teoricos/Cor/Harmonia Monocromática.md` | `harmonia_monocromatica.png` |
-| `01_Fundamentos_Teoricos/Cor/Harmonia Tríade.md` | `harmonia_triade.png` |
-| `01_Fundamentos_Teoricos/Densidade Visual/Maximalismo.md` | `maximalismo.png` |
-| `01_Fundamentos_Teoricos/Densidade Visual/Minimalismo (Densidade Visual).md` | `minimalismo.png` |
 | `01_Fundamentos_Teoricos/Figura Humana e Expressao/Abordagens_do_Nu_na_Arte/Nudez Artística Clássica.md` | `nudez_classica.png` |
 | `01_Fundamentos_Teoricos/Figura Humana e Expressao/Abordagens_do_Nu_na_Arte/Nudez Documental.md` | `nudez_documental.png` |
-| `01_Fundamentos_Teoricos/Figura Humana e Expressao/Canones_e_Estilizacao_do_Corpo/Cânone Clássico Greco Romano.md` | `canone_greco_romano.png` |
-| `01_Fundamentos_Teoricos/Figura Humana e Expressao/Canones_e_Estilizacao_do_Corpo/Estilização Expressiva do Corpo.md` | `estilizacao_corpo.png` |
 | `01_Fundamentos_Teoricos/Figura Humana e Expressao/Expressao_Facial_e_Emocao/Alegria.md` | `expressao_alegria.png` |
-| `01_Fundamentos_Teoricos/Figura Humana e Expressao/Expressao_Facial_e_Emocao/Medo.md` | `expressao_medo.png` |
-| `01_Fundamentos_Teoricos/Figura Humana e Expressao/Expressao_Facial_e_Emocao/Nojo.md` | `expressao_nojo.png` |
-| `01_Fundamentos_Teoricos/Figura Humana e Expressao/Expressao_Facial_e_Emocao/Raiva.md` | `expressao_raiva.png` |
 | `01_Fundamentos_Teoricos/Figura Humana e Expressao/Expressao_Facial_e_Emocao/Surpresa.md` | `expressao_surpresa.png` |
 | `01_Fundamentos_Teoricos/Figura Humana e Expressao/Expressao_Facial_e_Emocao/Tristeza.md` | `expressao_tristeza.png` |
-| `01_Fundamentos_Teoricos/Figura Humana e Expressao/Linguagem_Corporal_e_Poses/Pose Editorial.md` | `pose_editorial.png` |
-| `01_Fundamentos_Teoricos/Figura Humana e Expressao/Linguagem_Corporal_e_Poses/Pose de Ação.md` | `pose_acao.png` |
-| `01_Fundamentos_Teoricos/Figura Humana e Expressao/Linguagem_Corporal_e_Poses/Pose de Retrato.md` | `pose_retrato.png` |
-| … | _e mais 225_ |
+| `01_Fundamentos_Teoricos/Geometria de Cena/Angulos e Pontos de Vista/Dutch Angle (Câmera Inclinada).md` | `dutch_angle.png` |
+| `01_Fundamentos_Teoricos/Geometria de Cena/Angulos e Pontos de Vista/Ângulo Contra-Plongée.md` | `contra_plongee.png` |
+| `01_Fundamentos_Teoricos/Geometria de Cena/Angulos e Pontos de Vista/Ângulo Eye-Level.md` | `eye_level.png` |
+| `01_Fundamentos_Teoricos/Geometria de Cena/Angulos e Pontos de Vista/Ângulo Plongée (Câmera Alta).md` | `plongee.png` |
+| `01_Fundamentos_Teoricos/Geometria de Cena/Distancia Focal e Efeito Psicologico/Grande-Angular e Efeito Psicológico.md` | `grande_angular.png` |
+| `01_Fundamentos_Teoricos/Geometria de Cena/Distancia Focal e Efeito Psicologico/Teleobjetiva e Efeito Psicológico.md` | `teleobjetiva.png` |
+| `01_Fundamentos_Teoricos/Geometria de Cena/Regras de Composicao e Subversao/Enquadramento (Frame Dentro do Frame).md` | `enquadramento.png` |
+| `01_Fundamentos_Teoricos/Geometria de Cena/Regras de Composicao e Subversao/Proporção Áurea e Padrão Espiral.md` | `aurea.png` |
+| `01_Fundamentos_Teoricos/Geometria de Cena/Regras de Composicao e Subversao/Simetria como Princípio Compositivo.md` | `simetria.png` |
+| `01_Fundamentos_Teoricos/Geometria de Cena/Regras de Composicao e Subversao/Subversão Deliberada da Composição.md` | `subversao.png` |
+| `01_Fundamentos_Teoricos/Tipografia e Linguagem Visual/Familias Topograficas Base/Tipografia Display - Decorativa.md` | `display.png` |
+| `01_Fundamentos_Teoricos/Tipografia e Linguagem Visual/Familias Topograficas Base/Tipografia Monoespaçada.md` | `monoespacada.png` |
+| `01_Fundamentos_Teoricos/Tipografia e Linguagem Visual/Familias Topograficas Base/Tipografia Script - Cursiva.md` | `script.png` |
+| `01_Fundamentos_Teoricos/Tipografia e Linguagem Visual/Familias Topograficas Base/Tipografia Sem Serifa (Sans-Serif).md` | `sans_serif.png` |
+| `01_Fundamentos_Teoricos/Tipografia e Linguagem Visual/Familias Topograficas Base/Tipografia Serifada.md` | `serifada.png` |
+| `01_Fundamentos_Teoricos/Tipografia e Linguagem Visual/Hierarquia e Composicao Layout/Hierarquia Tipográfica como Composição.md` | `hierarquia.png` |
+| `01_Fundamentos_Teoricos/Tipografia e Linguagem Visual/Tipografia em Engenharia de Prompt/Tipografia como Elemento de Prompt.md` | `tipografia_prompt.png` |
+| `01_Fundamentos_Teoricos/Tipografia e Linguagem Visual/Tipografia por Epoca Historica/Tipografia por Época Histórica.md` | `tipografia_epoca.png` |
+| `01_Fundamentos_Teoricos/Óptica & Lentes/Aberração Cromatica/Aberração Cromática.md` | `aberracao.png` |
+| `02_Catalogo_Visual/Arquitetura_Cenario_e_Personagem/Estilos_Arquitetonicos_Chave/Arquitetura Barroca.md` | `barroca.png` |
+| … | _e mais 166_ |
 
 ## 5. Notas homônimas
 

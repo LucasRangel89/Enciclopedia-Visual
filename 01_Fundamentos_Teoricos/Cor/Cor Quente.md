@@ -53,7 +53,7 @@ Cores quentes são aquelas situadas na metade do círculo cromático composta po
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[cor_quente.png]]
+![[Cor_Quente_Gemini.jpg]]
 * **Legenda:** [Observação sobre a saturação dos amarelos e vermelhos no render]
 
 ---

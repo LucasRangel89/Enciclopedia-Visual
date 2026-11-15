@@ -37,7 +37,7 @@ Ilustrador de ficção científica/militar conhecido por técnica mista digital-
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[ashley_wood.png]]
+![[Ashley_Wood_Manus.png]]
 * **Legenda:** [Observação sobre a sujeira da textura mista]
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista

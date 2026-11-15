@@ -53,7 +53,7 @@ Consiste no uso de 3 a 5 cores que residem lado a lado no círculo cromático (e
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[harmonia_analoga.png]]
+![[Harmonia_Analoga_Gemini.jpg]]
 * **Legenda:** [Observação sobre a suavidade na transição entre tons vizinhos]
 
 ---

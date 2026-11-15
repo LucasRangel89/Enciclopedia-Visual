@@ -31,3 +31,27 @@ sources: []
 - [[Polaroid - Instantânea]]
 - [[Street Photography]]
 <!-- fim:indice-automatico -->
+
+## 🖼️ Prancha comparativa
+
+![[Fotografia_comparativa_FILM_LOMO_POLA_STREET (1).png]]
+
+*Filme · Lomografia · Polaroid · Street*
+
+## 🖼️ Prancha comparativa
+
+![[Fotografia_comparativa_FILM_LOMO_POLA_STREET (2).png]]
+
+*Filme · Lomografia · Polaroid · Street*
+
+## 🖼️ Prancha comparativa
+
+![[Fotos_retrato_STUDIO_CANDID_MACRO_IR (1).png]]
+
+*Estúdio · Candid · Macro · Infravermelho*
+
+## 🖼️ Prancha comparativa
+
+![[Fotos_retrato_STUDIO_CANDID_MACRO_IR (2).png]]
+
+*Estúdio · Candid · Macro · Infravermelho*

@@ -40,7 +40,7 @@ O *tilt* é o movimento vertical da câmera girando em torno de seu eixo (para c
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[tilt.png]]
+![[Tilt_Manus.png]]
 * **Legenda:** [Observação sobre a extensão vertical e a compressão da figura]
 ## ⚙️ Prompt de Referência (Testado)
 ```

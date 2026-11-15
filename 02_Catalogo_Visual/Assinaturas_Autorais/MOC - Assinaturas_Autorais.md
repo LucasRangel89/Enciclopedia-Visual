@@ -53,3 +53,9 @@ sources: []
 - [[Moebius (Jean Giraud)]]
 - [[Simon Stålenhag]]
 <!-- fim:indice-automatico -->
+
+## 🖼️ Prancha comparativa
+
+![[Artistas_estudios_FRAZ_GIGER_KLIMT_HOK.png]]
+
+*Frazetta · Giger · Klimt · Hokusai*

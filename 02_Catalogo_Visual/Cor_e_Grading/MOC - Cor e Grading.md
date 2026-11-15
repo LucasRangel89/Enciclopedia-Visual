@@ -32,3 +32,39 @@ sources: []
 - [[Teal and Orange]]
 - [[Technicolor Saturado]]
 <!-- fim:indice-automatico -->
+
+## 🖼️ Prancha comparativa
+
+![[Atmosfera_NOIR_BLEACH_DAYNIGHT_MATTE (1).png]]
+
+*Noir · Bleach bypass · Day-for-night · Matte painting*
+
+## 🖼️ Prancha comparativa
+
+![[Atmosfera_NOIR_BLEACH_DAYNIGHT_MATTE (2).png]]
+
+*Noir · Bleach bypass · Day-for-night · Matte painting*
+
+## 🖼️ Prancha comparativa
+
+![[Cor_Paleta_TEAL_BLEACH_DAYNIGHT_MATTE.png]]
+
+*Teal · Bleach Bypass · Day-for-Night · Matte*
+
+## 🖼️ Prancha comparativa
+
+![[Cor_e_grading_WARM_COLD_TEAL_NOIR (1).png]]
+
+*Quente · Fria · Teal & Orange · Noir*
+
+## 🖼️ Prancha comparativa
+
+![[Cor_e_grading_WARM_COLD_TEAL_NOIR (2).png]]
+
+*Quente · Fria · Teal & Orange · Noir*
+
+## 🖼️ Prancha comparativa
+
+![[Cor_paleta_WARM_COLD_NOIR_PASTEL.png]]
+
+*Teal · Bleach Bypass · Day-for-Night · Matte*

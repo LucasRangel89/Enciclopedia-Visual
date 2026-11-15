@@ -53,7 +53,7 @@ O Cânone Clássico Greco-Romano é um sistema matemático de proporções para 
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[canone_greco_romano.png]]
+![[Greco_Romana_Gemini.jpg]]
 * **Legenda:** [Observação sobre a aplicação exata do contrapposto e regra das 8 cabeças]
 
 ---

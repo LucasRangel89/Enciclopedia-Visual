@@ -30,3 +30,27 @@ sources: []
 - [[Luz de Vela]]
 - [[Underlight]]
 <!-- fim:indice-automatico -->
+
+## 🖼️ Prancha comparativa
+
+![[Iluminacao_SOFT_HARD_BACK_UNDER (1).png]]
+
+*Suave · Dura · Contraluz · Contra-luz de baixo*
+
+## 🖼️ Prancha comparativa
+
+![[Iluminacao_SOFT_HARD_BACK_UNDER (2).png]]
+
+*Suave · Dura · Contraluz · Contra-luz de baixo*
+
+## 🖼️ Prancha comparativa
+
+![[Iluminacao_SOFT_HARD_BACK_UNDER (3).png]]
+
+*Suave · Dura · Contraluz · Contra-luz de baixo*
+
+## 🖼️ Prancha comparativa
+
+![[Iluminacao_SOFT_HARD_BACK_UNDER.png]]
+
+*Suave · Dura · Contraluz · Contra-luz de baixo*

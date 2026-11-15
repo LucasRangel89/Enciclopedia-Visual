@@ -53,7 +53,7 @@ O *dolly* é o deslocamento físico da câmera para frente ou para trás (difere
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[dolly.png]]
+![[Dolly_Manus.png]]
 * **Legenda:** [Observação sobre as camadas de profundidade e a sensação de aproximação]
 ## ⚙️ Prompt de Referência (Testado)
 ```

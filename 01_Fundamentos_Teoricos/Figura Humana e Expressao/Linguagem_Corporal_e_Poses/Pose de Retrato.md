@@ -53,7 +53,7 @@ A pose de retrato refere-se à arrumação corporal consciente e refinada focada
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[pose_retrato.png]]
+![[Pose_Retrato_Gemini.jpg]]
 * **Legenda:** [Observação sobre o enquadramento do busto e a rotação dos ombros em relação à câmera]
 
 ---

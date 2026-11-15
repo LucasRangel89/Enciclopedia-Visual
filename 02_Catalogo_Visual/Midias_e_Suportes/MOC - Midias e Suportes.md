@@ -49,3 +49,45 @@ sources: []
 - [[Pintura a Óleo]]
 - [[Pixel Art]]
 <!-- fim:indice-automatico -->
+
+## 🖼️ Prancha comparativa
+
+![[Estilo_suporte_OIL_WATER_GRAPH_WOOD.png]]
+
+*Estúdio · Macro · Longa exposição · Infravermelho*
+
+## 🖼️ Prancha comparativa
+
+![[Estilo_suporte_STUDIO_MACRO_LONG_IR.png]]
+
+*Estúdio · Macro · Longa exposição · Infravermelho*
+
+## 🖼️ Prancha comparativa
+
+![[Midias_pintura_desenho_OIL_WATER_GRAPH_PRINT (1).png]]
+
+*Óleo · Aquarela · Grafite · Impressão*
+
+## 🖼️ Prancha comparativa
+
+![[Midias_pintura_desenho_OIL_WATER_GRAPH_PRINT (2).png]]
+
+*Óleo · Aquarela · Grafite · Impressão*
+
+## 🖼️ Prancha comparativa
+
+![[Midia_suporte_35MM_LOMO_POLA_STREET (1).png]]
+
+*35mm · Lomografia · Polaroid · Street*
+
+## 🖼️ Prancha comparativa
+
+![[Midia_suporte_35MM_LOMO_POLA_STREET (2).png]]
+
+*35mm · Lomografia · Polaroid · Street*
+
+## 🖼️ Prancha comparativa
+
+![[Midia_suporte_PIXEL_LOWPOLY_CEL_PBR.png]]
+
+*35mm · Lomografia · Polaroid · Street*

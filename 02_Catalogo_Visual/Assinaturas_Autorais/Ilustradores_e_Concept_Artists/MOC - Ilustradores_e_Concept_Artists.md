@@ -34,3 +34,9 @@ sources: []
 - [[Moebius (Jean Giraud)]]
 - [[Simon Stålenhag]]
 <!-- fim:indice-automatico -->
+
+## 🖼️ Prancha comparativa
+
+![[Concept_ilustracao_CHAR_ENV_PROP_CREAT.png]]
+
+*Personagem · Ambiente · Prop · Criatura*

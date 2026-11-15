@@ -41,7 +41,7 @@ Profundidade de campo rasa ocorre com aberturas grandes (f/1.4 a f/2.8), resulta
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[dof_rasa.png]]
+![[Rasa_Manus.png]]
 * **Legenda:** [Observação sobre a qualidade do desfoque de fundo]
 ## ⚙️ Prompt de Referência (Testado)
 ```

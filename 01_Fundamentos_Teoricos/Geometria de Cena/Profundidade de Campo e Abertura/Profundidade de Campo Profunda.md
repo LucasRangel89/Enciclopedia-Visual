@@ -41,7 +41,7 @@ Profundidade de campo profunda ocorre com aberturas pequenas (f/11 a f/22), mant
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[dof_profunda.png]]
+![[Profunda_Manus.png]]
 * **Legenda:** [Observação sobre a nitidez uniforme entre as camadas]
 ## ⚙️ Prompt de Referência (Testado)
 ```

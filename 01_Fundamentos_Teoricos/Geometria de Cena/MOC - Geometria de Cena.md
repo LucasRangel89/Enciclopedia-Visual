@@ -40,3 +40,15 @@ sources: []
 - [[Simetria como Princípio Compositivo]]
 - [[Subversão Deliberada da Composição]]
 <!-- fim:indice-automatico -->
+
+## 🖼️ Prancha comparativa
+
+![[Distancia_plano_WIDE_MED_CLOSE_MACRO (1).png]]
+
+*Plano aberto · médio · fechado · macro*
+
+## 🖼️ Prancha comparativa
+
+![[Distancia_plano_WIDE_MED_CLOSE_MACRO (2).png]]
+
+*Plano aberto · médio · fechado · macro*

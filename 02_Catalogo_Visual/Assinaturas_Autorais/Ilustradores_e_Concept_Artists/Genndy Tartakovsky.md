@@ -37,7 +37,7 @@ Animador conhecido por design gráfico extremo — silhuetas angulares e alongad
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[tartakovsky.png]]
+![[Tartakovsky_Manus.png]]
 * **Legenda:** [Observação sobre a angularidade da silhueta]
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista

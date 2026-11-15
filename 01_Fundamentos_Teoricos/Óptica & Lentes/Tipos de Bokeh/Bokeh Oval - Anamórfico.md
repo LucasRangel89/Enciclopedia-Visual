@@ -40,7 +40,7 @@ Desfoque de fundo com formato oval/elíptico em vez de circular, característico
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[bokeh_anamorfico.png]]
+![[Bokeh_Oval_Gemini.jpg]]
 * **Legenda:** [Observação sobre o alongamento horizontal das manchas]
 ## ⚙️ Prompt de Referência (Testado)
 ```

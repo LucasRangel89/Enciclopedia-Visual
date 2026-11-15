@@ -65,7 +65,7 @@ O Art Nouveau (1890–1914) foi um movimento internacional de design e arquitetu
 ## 🖼️ Exemplo Visual
 
 ### 1. Bing
-![[Art_Nouveau.jpg]]
+![[Art_Nouveau_Manus.png]]
 * **Legenda:** [Observação sobre as curvas orgânicas de chicote e detalhes em folha de ouro]
 
 ---

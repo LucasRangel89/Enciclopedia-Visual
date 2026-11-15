@@ -54,7 +54,7 @@ A pose de ação é a captura estática (congelamento) de um corpo humano no áp
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[pose_acao.png]]
+![[Pose_Acao_Gemini.jpg]]
 * **Legenda:** [Observação sobre a curvatura da espinha e extensão dos membros no salto]
 
 ---

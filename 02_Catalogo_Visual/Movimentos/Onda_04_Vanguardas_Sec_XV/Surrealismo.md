@@ -62,7 +62,7 @@ O Surrealismo (fundado por André Breton em 1924) buscou libertar o inconsciente
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[surrealismo.png]]
+![[Surrealismo_Gemini.jpg]]
 * **Legenda:** [Observação sobre a arquitetura metafísica e sombras alongadas]
 
 ---

@@ -39,7 +39,7 @@ Técnica de processamento fotoquímico (ou simulação digital) que retém prata
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[Bleach_Bypass.png]]
+![[Bleach_Bypass_ChatGPT.png]]
 * **Legenda:** [Observação sobre a dessaturação parcial]
 ## ⚙️ Prompt de Referência (Testado)
 ```

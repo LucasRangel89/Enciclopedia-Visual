@@ -16,3 +16,15 @@ draft: false
 - [[Harmonia Análoga]]
 - [[Harmonia Complementar]]
 - [[Harmonia Tríade]]
+
+## 🖼️ Prancha comparativa
+
+![[Paletas_humor_CYAN_EARTH_PASTEL_DARK (1).png]]
+
+*Ciano · Terrosa · Pastel · Escura*
+
+## 🖼️ Prancha comparativa
+
+![[Paletas_humor_CYAN_EARTH_PASTEL_DARK (2).png]]
+
+*Ciano · Terrosa · Pastel · Escura*

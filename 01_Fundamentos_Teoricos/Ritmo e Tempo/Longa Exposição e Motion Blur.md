@@ -40,7 +40,7 @@ Obturador lento (segundos a minutos) que acumula luz e movimento ao longo do tem
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[longa_exposicao.png]]
+![[Longa_Exposicao_Manus.png]]
 * **Legenda:** [Observação sobre a suavidade do movimento da água/luz]
 ## ⚙️ Prompt de Referência (Testado)
 ```

@@ -41,7 +41,7 @@ Camada de imperfeição sobreposta à imagem — grão de filme (variação alea
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[grao_ruido.png]]
+![[Grao_Ruido_Manus.png]]
 * **Legenda:** [Observação sobre a densidade do grão]
 ## ⚙️ Prompt de Referência (Testado)
 ```

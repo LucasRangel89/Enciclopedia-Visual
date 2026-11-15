@@ -40,7 +40,7 @@ Desfoque de fundo que gira em espiral ao redor do sujeito, causado por aberraç�
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[bokeh_swirly.png]]
+![[Bokeh_Swirly_Gemini.jpg]]
 * **Legenda:** [Observação sobre a intensidade do giro espiral]
 ## ⚙️ Prompt de Referência (Testado)
 ```

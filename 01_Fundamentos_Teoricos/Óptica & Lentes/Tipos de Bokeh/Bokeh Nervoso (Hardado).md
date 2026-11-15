@@ -41,7 +41,7 @@ Desfoque de fundo com bordas duras, anéis concêntricos visíveis dentro dos c�
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[bokeh_nervoso.png]]
+![[Bokeh_Nervoso_ChatGPT.png]]
 * **Legenda:** [Observação sobre a visibilidade dos anéis concêntricos]
 ## ⚙️ Prompt de Referência (Testado)
 ```

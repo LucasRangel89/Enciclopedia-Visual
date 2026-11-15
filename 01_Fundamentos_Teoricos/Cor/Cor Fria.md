@@ -53,7 +53,7 @@ Cores frias compreendem os azuis, verdes, violetas e cianos no círculo cromáti
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[cor_fria.png]]
+![[Cor_Fria_Gemini.jpg]]
 * **Legenda:** [Observação sobre o domínio de azuis e atmosfera de isolamento]
 
 ---

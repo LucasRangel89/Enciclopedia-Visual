@@ -52,7 +52,7 @@ A harmonia em tríade utiliza três cores equidistantemente espaçadas no círcu
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[harmonia_triade.png]]
+![[Harmonia_Triade_Gemini.jpg]]
 * **Legenda:** [Observação sobre o equilíbrio entre os três pontos cromáticos da cena]
 
 ---

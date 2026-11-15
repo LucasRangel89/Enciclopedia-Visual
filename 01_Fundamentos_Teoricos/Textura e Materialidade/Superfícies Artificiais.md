@@ -40,7 +40,7 @@ Texturas provenientes de manufatura humana — metal escovado, vidro, plástico 
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[superficies_artificiais.png]]
+![[Artificial_Manus.png]]
 * **Legenda:** [Observação sobre a precisão do acabamento]
 ## ⚙️ Prompt de Referência (Testado)
 ```

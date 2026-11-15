@@ -41,7 +41,7 @@ Efeito cinematográfico onde a câmera se afasta enquanto o zoom aproxima (ou vi
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[hitchcock.png]]
+![[Dolly_Zoom_Manus.png]]
 * **Legenda:** [Observação sobre o grau de distorção do fundo]
 ## ⚙️ Prompt de Referência (Testado)
 ```

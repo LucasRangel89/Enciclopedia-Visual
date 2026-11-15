@@ -53,7 +53,7 @@ A expressão facial de medo no padrão de Ekman manifesta-se pela elevação e a
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[expressao_medo.png]]
+![[Medo_Gemini.jpg]]
 * **Legenda:** [Observação sobre os olhos arregalados e elevação das sobrancelhas internas]
 
 ---

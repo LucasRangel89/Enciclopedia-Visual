@@ -35,3 +35,9 @@ sources: []
 - [[Urban Fantasy]]
 - [[Western]]
 <!-- fim:indice-automatico -->
+
+## 🖼️ Prancha comparativa
+
+![[Generos_universos_CYBER_FANTASY_HORROR_LIMINAL.png]]
+
+*Cyberpunk · Fantasia · Horror · Liminal*

@@ -40,7 +40,7 @@ Ilustrador de capas de ficção científica/fantasia conhecido por realismo pict
 ## 🖼️ Exemplo Visual
 
 ### 1. Bing
-![[05_Anexos/Assinaturas_Autorais/Ilustradores_e_Concept_Artists/Whelan.jpg]]
+![[Whelan_Manus.png]]
 * **Legenda:** [Observação sobre a luminosidade da cena]
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista

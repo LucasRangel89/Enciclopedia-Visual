@@ -23,3 +23,15 @@ sources: []
 - [[Xilogravura]]
 - [[Água-forte]]
 <!-- fim:indice-automatico -->
+
+## 🖼️ Prancha comparativa
+
+![[Gravura_impressao_WOODCUT_ETCH_RISO_LITHO (1).png]]
+
+*Xilogravura · Água-forte · Risografia · Litografia*
+
+## 🖼️ Prancha comparativa
+
+![[Gravura_impressao_WOODCUT_ETCH_RISO_LITHO (2).png]]
+
+*Xilogravura · Água-forte · Risografia · Litografia*

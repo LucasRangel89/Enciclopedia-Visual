@@ -30,3 +30,9 @@ sources: []
 - [[Template_Retrato_Pintura_Classica]]
 - [[Template_novo]]
 <!-- fim:indice-automatico -->
+
+## 🖼️ Prancha comparativa
+
+![[Templates_PORTRAIT_SCIFI_CHAR_OBJ.png]]
+
+*Retrato · Sci-fi · Personagem · Objeto*

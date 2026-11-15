@@ -31,3 +31,15 @@ sort file.name asc
 
 ## Estrutura de Onda
 Cada Onda tem seu próprio MOC (`MOC - Onda_0X.md`) com lista de movimentos, autores e obras-chave.
+
+## 🖼️ Prancha comparativa
+
+![[Movimentos_REAL_IMP_EXP_SUR (1).png]]
+
+*Realismo · Impressionismo · Expressionismo · Surrealismo*
+
+## 🖼️ Prancha comparativa
+
+![[Movimentos_REAL_IMP_EXP_SUR (2).png]]
+
+*Realismo · Impressionismo · Expressionismo · Surrealismo*

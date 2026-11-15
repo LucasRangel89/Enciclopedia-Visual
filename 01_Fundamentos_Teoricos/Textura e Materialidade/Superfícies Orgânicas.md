@@ -40,7 +40,7 @@ Texturas provenientes de matéria viva ou natural — pele, madeira, folhas, ped
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[superficies_organicas.png]]
+![[Organicas_Manus.png]]
 * **Legenda:** [Observação sobre o realismo da textura capturada]
 ## ⚙️ Prompt de Referência (Testado)
 ```

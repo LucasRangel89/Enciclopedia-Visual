@@ -39,7 +39,7 @@ Desfoque de fundo com pontos de luz renderizados como círculos perfeitamente un
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[bokeh_circular.png]]
+![[Bokeh_Circular_Suave_ChatGPT.png]]
 * **Legenda:** [Observação sobre a uniformidade dos círculos]
 ## ⚙️ Prompt de Referência (Testado)
 ```

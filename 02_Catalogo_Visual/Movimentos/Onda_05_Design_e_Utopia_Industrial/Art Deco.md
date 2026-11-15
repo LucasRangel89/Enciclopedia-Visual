@@ -59,7 +59,7 @@ Surgido em Paris na década de 1910 e auge nos anos 1920/30, o Art Déco celebro
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[art_deco.png]]
+![[Art_Deco_Gemini.jpg]]
 * **Legenda:** [Observação sobre as torres escalonadas e linhas verticais simétricas]
 
 ---

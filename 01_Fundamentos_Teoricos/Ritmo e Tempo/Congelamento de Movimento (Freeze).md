@@ -41,7 +41,7 @@ Captura de um instante de movimento rápido com nitidez absoluta (obturador ráp
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[freeze.png]]
+![[Freeze_Gemini.jpg]]
 * **Legenda:** [Observação sobre a nitidez dos elementos em movimento]
 ## ⚙️ Prompt de Referência (Testado)
 ```

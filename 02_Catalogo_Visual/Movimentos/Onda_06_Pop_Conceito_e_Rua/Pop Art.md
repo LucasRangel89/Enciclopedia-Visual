@@ -61,7 +61,7 @@ A Pop Art (Reino Unido e EUA, meados dos anos 1950 a 1960) apropriou-se de image
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[pop_art.png]]
+![[Pop_Art_Gemini.jpg]]
 * **Legenda:** [Observação sobre o estilo de serigrafia seriada e cores fluorescentes de Warhol]
 
 ---

@@ -54,7 +54,7 @@ A postura corporal fechada manifesta-se pela criação de barreiras anatômicas 
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[postura_fechada.png]]
+![[Postura_Fechada_Gemini.jpg]]
 * **Legenda:** [Observação sobre a curvatura do tronco e fechamento dos braços sobre o peito]
 
 ---

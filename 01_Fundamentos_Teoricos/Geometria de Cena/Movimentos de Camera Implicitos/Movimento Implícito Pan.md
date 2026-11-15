@@ -53,7 +53,7 @@ O *pan* é o movimento horizontal da câmera girando em torno de seu próprio ei
 ## 🖼️ Exemplo Visual
 
 ### 1. Bing
-![[Pan.jpg]]
+![[Pan_Manus.png]]
 * **Legenda:** [Observação sobre o desfoque horizontal e a sensação de varredura]
 ## ⚙️ Prompt de Referência (Testado)
 ```

@@ -55,7 +55,7 @@ A postura corporal aberta é caracterizada pela exposição consciente do tronco
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[postura_aberta.png]]
+![[Postura_Aberta_Gemini.jpg]]
 * **Legenda:** [Observação sobre a naturalidade do alinhamento dos ombros e abertura do tronco]
 
 ---

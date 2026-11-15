@@ -53,7 +53,7 @@ A micro-expressão universal de nojo/repulsa (mapeada por Ekman) é dominada pel
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[expressao_nojo.png]]
+![[Nojo_Gemini.jpg]]
 * **Legenda:** [Observação sobre o enrugamento preciso do nariz e elevação do lábio]
 
 ---

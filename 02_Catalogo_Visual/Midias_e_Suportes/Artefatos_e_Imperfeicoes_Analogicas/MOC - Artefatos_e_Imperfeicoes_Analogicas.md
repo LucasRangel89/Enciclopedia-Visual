@@ -25,3 +25,15 @@ sources: []
 - [[Trama de Meio-Tom (Halftone)]]
 - [[Videoteipe VHS]]
 <!-- fim:indice-automatico -->
+
+## 🖼️ Prancha comparativa
+
+![[Efeitos_pos-producao_GLOW_HALFTONE_SCAN_VAPOR (1).png]]
+
+*Brilho · Meio-tom · Scanline · Vaporwave*
+
+## 🖼️ Prancha comparativa
+
+![[Efeitos_pos-producao_GLOW_HALFTONE_SCAN_VAPOR (2).png]]
+
+*Brilho · Meio-tom · Scanline · Vaporwave*

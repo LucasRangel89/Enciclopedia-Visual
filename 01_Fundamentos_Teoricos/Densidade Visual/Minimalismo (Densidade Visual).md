@@ -53,7 +53,7 @@ O minimalismo visual é a prática composicional de reduzir os elementos da imag
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[minimalismo.png]]
+![[Minimalismo_Gemini.jpg]]
 * **Legenda:** [Observação sobre o isolamento do sujeito e controle do fundo vazio no DALL-E 3]
 
 ---

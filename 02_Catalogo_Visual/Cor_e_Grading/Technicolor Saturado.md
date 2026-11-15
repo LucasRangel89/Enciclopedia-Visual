@@ -39,7 +39,7 @@ Referência ao processo fotoquímico Technicolor de três tiras (usado em cláss
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[05_Anexos/Cor_e_Grading/Technicolor_Saturado.png]]
+![[Technicolor_Saturado_ChatGPT.png]]
 * **Legenda:** [Observação sobre a intensidade dos vermelhos e verdes]
 ## ⚙️ Prompt de Referência (Testado)
 ```

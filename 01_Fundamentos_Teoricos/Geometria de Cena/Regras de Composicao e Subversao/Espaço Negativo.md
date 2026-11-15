@@ -40,7 +40,7 @@ draft: false
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[espaco_negativo.png]]
+![[Espaco_Negativo_Manus.png]]
 * **Legenda:** [Observação sobre a proporção entre vazio e sujeito]
 ## ⚙️ Prompt de Referência (Testado)
 ```

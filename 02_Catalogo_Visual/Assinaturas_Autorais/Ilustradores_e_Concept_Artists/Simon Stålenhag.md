@@ -40,7 +40,7 @@ Ilustrador conhecido por retrofuturismo melancólico — paisagens suecas suburb
 ## 🖼️ Exemplo Visual
 
 ### 1. Bing
-![[05_Anexos/Assinaturas_Autorais/Ilustradores_e_Concept_Artists/Stalenhag.jpg]]
+![[Stalenhag_Manus.png]]
 * **Legenda:** [Observação sobre o contraste subúrbio/maquinário]
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista

@@ -25,3 +25,21 @@ sources: []
 - [[Ângulo Eye-Level]]
 - [[Ângulo Plongée (Câmera Alta)]]
 <!-- fim:indice-automatico -->
+
+## 🖼️ Prancha comparativa
+
+![[Camera_enquadramento_EYE_TOP_LOW_OTS (2).png]]
+
+*Eye-level · Plongée · Contra-plongée · Over-the-shoulder*
+
+## 🖼️ Prancha comparativa
+
+![[Camera_enquadramento_EYE_TOP_LOW_OTS (3).png]]
+
+*Eye-level · Plongée · Contra-plongée · Over-the-shoulder*
+
+## 🖼️ Prancha comparativa
+
+![[Camera_enquadramento_EYE_TOP_LOW_OTS.png]]
+
+*Eye-level · Plongée · Contra-plongée · Over-the-shoulder*

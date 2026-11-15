@@ -36,3 +36,21 @@ sources: []
 - [[Ruína Romântica]]
 - [[Ruína Urbex (Urbana Contemporânea)]]
 <!-- fim:indice-automatico -->
+
+## 🖼️ Prancha comparativa
+
+![[Atmosfera_efeitos_FOG_RAIN_SNOW_GLITCH (1).png]]
+
+*Névoa · Chuva · Neve · Glitch*
+
+## 🖼️ Prancha comparativa
+
+![[Atmosfera_efeitos_FOG_RAIN_SNOW_GLITCH (2).png]]
+
+*Névoa · Chuva · Neve · Glitch*
+
+## 🖼️ Prancha comparativa
+
+![[Efeitos_atmosfericos_FOG_RAIN_GLOW_GLITCH.png]]
+
+*Névoa · Chuva · Brilho · Glitch*

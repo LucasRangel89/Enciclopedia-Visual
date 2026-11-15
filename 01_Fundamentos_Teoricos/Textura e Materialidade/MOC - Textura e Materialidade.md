@@ -24,3 +24,15 @@ sources: []
 - [[Superfícies Artificiais]]
 - [[Superfícies Orgânicas]]
 <!-- fim:indice-automatico -->
+
+## 🖼️ Prancha comparativa
+
+![[Textura_materiais_METAL_GLASS_CONCRETE_GOLD.png]]
+
+*Metal · Vidro · Concreto · Ouro*
+
+## 🖼️ Prancha comparativa
+
+![[Textura_materiais_SKIN_WOOD_STONE_SNOW.png]]
+
+*Metal · Vidro · Concreto · Ouro*

@@ -53,7 +53,7 @@ A estilização expressiva do corpo é a alteração deliberada, exagero ou defo
 ## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[estilizacao_corpo.png]]
+![[Estilizacao_Expressiva_Gemini.jpg]]
 * **Legenda:** [Observação sobre o alongamento de membros e expressividade das linhas]
 
 ---
