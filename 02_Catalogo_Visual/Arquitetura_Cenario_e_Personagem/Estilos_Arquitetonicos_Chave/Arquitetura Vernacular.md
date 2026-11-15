@@ -1,4 +1,4 @@
----
+
 part: Arquitetura_Cenario_e_Personagem
 category: Estilos_Arquitetonicos_Chave
 tags: [arquitetura-vernacular, estilo-arquitetonico, construcao-tradicional]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Vernacular Architecture
 draft: false
----
+
 # Arquitetura Vernacular
 ## Conceito Técnico
 Construção tradicional local não-projetada por arquitetos profissionais, adaptada diretamente às condições climáticas e materiais disponíveis na região (adobe no deserto, madeira e telhado inclinado em regiões de neve, palafitas em áreas alagadas) — uma honestidade funcional que precede e informa toda arquitetura "erudita" posterior.
@@ -32,21 +32,13 @@ Construção tradicional local não-projetada por arquitetos profissionais, adap
 * `indigenous building wisdom`
 * `functional response to regional environment`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[vernacular_dalle3.png]]
+![[vernacular.png]]
 * **Legenda:** [Observação sobre a adaptação ao clima local]
-### 2. Gemini (Google Imagen)
-![[vernacular_imagen.png]]
-* **Legenda:** [Observação sobre a autenticidade do material]
-### 3. Leonardo AI
-![[vernacular_leonardo.png]]
-* **Legenda:** [Observação sobre a funcionalidade da forma]
-### 4. Raphael AI
-![[vernacular_raphael.png]]
-* **Legenda:** [Observação sobre a sabedoria construtiva transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A traditional adobe village adapted to desert heat with thick clay walls and small windows, local traditional vernacular construction, climate-adapted functional design --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

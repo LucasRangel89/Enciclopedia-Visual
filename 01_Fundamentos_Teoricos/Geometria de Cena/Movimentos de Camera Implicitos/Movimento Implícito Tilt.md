@@ -1,4 +1,4 @@
----
+
 parte: Geometria de Cena
 categoria: Movimentos de Camera Implicitos
 tags:
@@ -21,7 +21,7 @@ extra:
   - Bing
   - manus
   - reve
----
+
 # Movimento Implícito — Tilt
 ## Conceito Técnico
 O *tilt* é o movimento vertical da câmera girando em torno de seu eixo (para cima ou para baixo, sem deslocamento físico). Numa imagem estática, é sugerido por enquadramentos verticais extremos, fortes linhas de fuga verticais, e um sujeito posicionado de modo que o olhar "escale" a composição de baixo para cima (ou o inverso).
@@ -50,21 +50,13 @@ O *tilt* é o movimento vertical da câmera girando em torno de seu eixo (para c
 * `scale reveal`
 * `ground-to-sky composition`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. Bing
-![[Tilt_Bing.jpg]]
+![[Tilt.jpg]]
 * **Legenda:** [Observação sobre a extensão vertical e a compressão da figura]
-### 2. Gemini (Google Imagen)
-![[Tilt_Gemini.jpg]]
-* **Legenda:** [Observação sobre a sensação de escala monumental]
-### 3. Manus
-![[Tilt_Manus.png]]
-* **Legenda:** [Observação sobre a nitidez da linha de fuga vertical]
-### 4. Reve
-![[Tilt_Reve.png]]
-* **Legenda:** [Observação sobre o contraste de escala entre sujeito e estrutura]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 Cinematic tilt shot sensation, a lone figure standing at the base of a colossal ancient tower, extreme vertical framing from ground level extending toward the sky, the structure disappearing into clouds, dramatic scale contrast, moody atmospheric lighting, shot on 24mm wide angle --ar 9:16
 ```
+falta: [Gemini, Manus, Reve]

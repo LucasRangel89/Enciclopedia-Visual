@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Composicao
 tags: [perspectiva-tres-pontos, perspectiva, composicao, enquadramento, cinematografia]
@@ -9,9 +9,9 @@ aliases:
   - Worm's-Eye View
   - Bird's-Eye View
   - Convergência Vertical
-falta: [Raphael]
+falta: [Raphael, Gemini, Leonardo, raphael]
 draft: false
----
+
 # Perspectiva de Três Pontos de Fuga
 
 ## Conceito Técnico
@@ -58,26 +58,13 @@ Adiciona um terceiro ponto de fuga acima ou abaixo da linha do horizonte, além 
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[Tres_Pontos_ChatGPT.png]]
+![[Tres_Pontos.png]]
 * **Legenda:** [Observação sobre a distorção vertical e verticalidade exagerada do DALL-E 3]
 
-### 2. Gemini (Google Imagen)
-![[Tres_Pontos_Gemini.jpg]]
-* **Legenda:** [Observação sobre a sensação de escala e linhas de fuga superiores/inferiores]
-
-### 3. Leonardo AI
-![[Tres_Pontos_Leonardo.jpg]]
-* **Legenda:** [Observação sobre o dinamismo dramático e detalhes de iluminação em ângulo extremo]
-
-### 4. Raphael AI
-![[tres_pontos_raphael.png]]
-* **Legenda:** [Observação sobre a estabilidade do render em vistas de baixo para cima]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```

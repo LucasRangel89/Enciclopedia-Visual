@@ -1,4 +1,4 @@
----
+
 parte: Geografias e Estéticas Não-Ocidentais
 categoria: Geografias e Estéticas Não-Ocidentais
 tags:
@@ -9,7 +9,7 @@ tem_imagem: false
 status: rascunho
 aliases:
   - Islamic Art
----
+
 # Arte Islâmica
 ## Conceito Técnico
 Tradição visual que evita representação figurativa em contextos religiosos, expressando-se através de padrões geométricos infinitamente repetíveis (girih, arabescos), caligrafia árabe elevada a elemento decorativo central, e uma matemática visual de simetria complexa que sugere o infinito divino sem imagem literal.
@@ -34,21 +34,13 @@ Tradição visual que evita representação figurativa em contextos religiosos, 
 * `infinite repeating symmetry`
 * `sacred abstract mathematical design`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[arte_islamica_dalle3.png]]
+![[arte_islamica.png]]
 * **Legenda:** [Observação sobre a precisão da repetição geométrica]
-### 2. Gemini (Google Imagen)
-![[arte_islamica_imagen.png]]
-* **Legenda:** [Observação sobre a fluidez da caligrafia]
-### 3. Leonardo AI
-![[arte_islamica_leonardo.png]]
-* **Legenda:** [Observação sobre a sensação de infinito do padrão]
-### 4. Raphael AI
-![[arte_islamica_raphael.png]]
-* **Legenda:** [Observação sobre a sacralidade transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 An ornate mosque ceiling covered in intricate geometric girih patterns, flowing arabic calligraphy as ornament, infinite repeating symmetry, sacred abstract mathematical design --ar 1:1
 ```
+falta: [imagen, leonardo, raphael]

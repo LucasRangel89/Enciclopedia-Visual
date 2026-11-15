@@ -1,4 +1,4 @@
----
+
 parte: Midias e Suportes
 categoria: Midias Mistas e Digitais
 tags:
@@ -10,7 +10,7 @@ status: rascunho
 aliases:
   - Collage
   - Colagem Fotográfica
----
+
 # Colagem
 ## Conceito Técnico
 Técnica de composição que combina fragmentos de materiais preexistentes (recortes de revista, fotografias, tecido, papel) numa superfície única, criando justaposições que não existiriam naturalmente — associada ao Cubismo, Dadaísmo e à arte pop de Hannah Höch e Richard Hamilton.
@@ -38,21 +38,13 @@ Técnica de composição que combina fragmentos de materiais preexistentes (reco
 * `mixed media assemblage`
 * `photomontage texture`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[colagem_dalle3.png]]
+![[colagem.png]]
 * **Legenda:** [Observação sobre a coerência das justaposições]
-### 2. Gemini (Google Imagen)
-![[colagem_imagen.png]]
-* **Legenda:** [Observação sobre a visibilidade das bordas rasgadas]
-### 3. Leonardo AI
-![[colagem_leonardo.png]]
-* **Legenda:** [Observação sobre o estranhamento gerado pela escala]
-### 4. Raphael AI
-![[colagem_raphael.png]]
-* **Legenda:** [Observação sobre a materialidade da montagem]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A surreal photomontage collage combining vintage magazine cutouts of unrelated scale, visible torn paper edges, layered mixed media texture, juxtaposed fragments creating dreamlike dissonance --ar 4:5
 ```
+falta: [imagen, leonardo, raphael]

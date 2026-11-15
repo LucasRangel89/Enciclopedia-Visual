@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 5 — Design, decoração e utopia industrial
 tags:
@@ -18,7 +18,7 @@ falta:
   - GPT
   - Leonardo
   - Raphael
----
+
 # Construtivismo Soviético
 
 ## Conceito Técnico
@@ -58,27 +58,15 @@ Surgido na Rússia pós-revolucionária (por volta de 1913/1920, com Vladimir Ta
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[construtivismo_dalle3.png]]
+![[construtivismo.png]]
 * **Legenda:** [Observação sobre a paleta em vermelho, preto e branco com diagonais agressivas]
 
-### 2. Gemini (Google Imagen)
-![[construtivismo_imagen.png]]
-* **Legenda:** [Observação sobre a tipografia pesada e fotomontagem de engenharia social]
-
-### 3. Leonardo AI
-![[construtivismo_leonardo.png]]
-* **Legenda:** [Observação sobre o dinamismo industrial e estética de cartaz panfletário]
-
-### 4. Raphael AI
-![[construtivismo_raphael.png]]
-* **Legenda:** [Observação sobre o impacto visual das linhas de força construtivistas]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 Soviet Constructivism propaganda poster design, bold diagonal graphic lines, striking red, black and white color scheme, Alexander Rodchenko aesthetic, heavy industrial typography, dynamic photomontage construction celebrating steel factories, vintage poster texture --ar 16:9
+falta: [imagen, leonardo, raphael]

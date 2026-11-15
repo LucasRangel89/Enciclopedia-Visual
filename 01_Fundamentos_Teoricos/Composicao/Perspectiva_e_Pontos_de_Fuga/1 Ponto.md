@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Composicao
 tags: [perspectiva-um-ponto, perspectiva, composicao, enquadramento, arquitetura]
@@ -9,7 +9,7 @@ aliases:
   - Perspectiva Central
   - Ponto de Fuga Único
 draft: false
----
+
 # Perspectiva de Um Ponto de Fuga
 
 ## Conceito Técnico
@@ -49,27 +49,15 @@ Na perspectiva de um ponto de fuga (perspectiva central), todas as linhas ortogo
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[Um_Ponto_ChatGPT.png]]
+![[Um_Ponto.png]]
 * **Legenda:** [Observação sobre a precisão das linhas ortogonais e simetria gerada pelo DALL-E 3]
 
-### 2. Gemini (Google Imagen)
-![[Um_Ponto_Gemini.jpg]]
-* **Legenda:** [Observação sobre o tratamento de luz e alinhamento do ponto de fuga no Imagen]
-
-### 3. Leonardo AI
-![[Um_Ponto_Leonardo.jpg]]
-* **Legenda:** [Observação sobre texturas, profundidade de campo e renderização no Leonardo]
-
-### 4. Raphael AI
-![[Um_Ponto_Raphael.jpg]]* **Legenda:** [Observação sobre a resposta estética e consistência geométrica no Raphael]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```
 Cinematic wide shot, one-point perspective, an infinite brutalist concrete hallway with glowing neon strips along the floor leading to a single dark figure standing at the perfectly centered vanishing point, symmetrical composition, volumetric fog, moody low-key lighting, teal and orange atmospheric color grading, shot on 35mm film, f/2.8 --ar 16:9
-
+falta: [Gemini, Leonardo, Raphael]

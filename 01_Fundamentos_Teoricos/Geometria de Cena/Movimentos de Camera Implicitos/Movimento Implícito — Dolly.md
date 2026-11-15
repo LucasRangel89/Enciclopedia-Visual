@@ -1,4 +1,4 @@
----
+
 part: Geometria de Cena
 category: Movimentos de Camera Implicitos
 tags: [movimento-dolly, movimento-camera, cinematografia, composicao, profundidade]
@@ -9,7 +9,7 @@ aliases:
   - Travelling
   - Movimento de Aproximação/Afastamento
 draft: false
----
+
 # Movimento Implícito — Dolly
 ## Conceito Técnico
 O *dolly* é o deslocamento físico da câmera para frente ou para trás (diferente do zoom, que é óptico), aproximando ou afastando fisicamente do sujeito. Numa imagem estática, é sugerido por profundidade de campo em camadas bem definidas (primeiro plano, plano médio, fundo) e um sujeito centralizado com espaço de aproximação visível diante dele.
@@ -38,21 +38,13 @@ O *dolly* é o deslocamento físico da câmera para frente ou para trás (difere
 * `physical camera movement sensation`
 * `deep spatial layering`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[dolly_dalle3.png]]
+![[dolly.png]]
 * **Legenda:** [Observação sobre as camadas de profundidade e a sensação de aproximação]
-### 2. Gemini (Google Imagen)
-![[dolly_imagen.png]]
-* **Legenda:** [Observação sobre o foco progressivo do sujeito]
-### 3. Leonardo AI
-![[dolly_leonardo.png]]
-* **Legenda:** [Observação sobre a convergência das linhas de perspectiva]
-### 4. Raphael AI
-![[dolly_raphael.png]]
-* **Legenda:** [Observação sobre a nitidez do sujeito central em relação às camadas]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 Cinematic dolly-in shot sensation, a detective's face slowly emerging from shadow in an interrogation room, sharp foreground desk lamp, midground subject in focus, blurred background walls receding into darkness, converging depth layers, dramatic side lighting, shot on 50mm --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

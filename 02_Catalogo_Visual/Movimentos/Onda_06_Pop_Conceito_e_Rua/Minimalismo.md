@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 6 — Pop, conceito e rua
 tags:
@@ -18,7 +18,7 @@ falta:
   - Gemini
   - Leonardo
   - Raphael
----
+
 # Minimalismo
 
 ## Conceito Técnico
@@ -58,27 +58,15 @@ Surgido em Nova York no início dos anos 1960 (Frank Stella, Donald Judd, Sol Le
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[minimalismo_arte_dalle3.png]]
+![[minimalismo_arte.png]]
 * **Legenda:** [Observação sobre o monolito geométrico puro e uso de espaço negativo]
 
-### 2. Gemini (Google Imagen)
-![[minimalismo_arte_imagen.png]]
-* **Legenda:** [Observação sobre a textura de concreto industrial e iluminação limpa]
-
-### 3. Leonardo AI
-![[minimalismo_arte_leonardo.png]]
-* **Legenda:** [Observação sobre a paleta monocromática e precisão modular]
-
-### 4. Raphael AI
-![[minimalismo_arte_raphael.png]]
-* **Legenda:** [Observação sobre a ausência de narrativa e foco fenomenológico]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 Minimalism art installation in a vast concrete white gallery hall, ultra-clean geometric steel monoliths arranged in a precise modular sequence, Donald Judd aesthetic, monochromatic gray palette, immense negative space, soft ambient museum lighting --ar 16:9
+falta: [imagen, leonardo, raphael]

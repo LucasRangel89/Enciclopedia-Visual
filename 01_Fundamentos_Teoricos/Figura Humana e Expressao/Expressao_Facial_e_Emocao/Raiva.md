@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Expressao Facial e Emocao
 tags: [expressao-facial, raiva, ekman, micro-expressoes, emocoes]
@@ -8,9 +8,9 @@ aliases:
   - Anger Facial Expression
   - Expressão de Raiva
   - Fúria Facial
-falta: [GPT, Leonardo, Raphael]
+falta: [GPT, Leonardo, Raphael, Gemini, leonardo, raphael]
 draft: false
----
+
 # Expressão Facial — Raiva
 
 ## Conceito Técnico
@@ -50,26 +50,13 @@ De acordo com o sistema de codificação de ação facial (FACS) de Paul Ekman, 
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[expressao_raiva_dalle3.png]]
+![[expressao_raiva.png]]
 * **Legenda:** [Observação sobre a contração das sobrancelhas e intensidade no olhar]
 
-### 2. Gemini (Google Imagen)
-![[Raiva_Gemini.jpg]]
-* **Legenda:** [Observação sobre a tensão muscular ao redor da mandíbula e boca]
-
-### 3. Leonardo AI
-![[expressao_raiva_leonardo.png]]
-* **Legenda:** [Observação sobre a definição de rugas glabelares e sobrancelhas caídas]
-
-### 4. Raphael AI
-![[expressao_raiva_raphael.png]]
-* **Legenda:** [Observação sobre o realismo dramático do olhar de raiva em close-up]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```

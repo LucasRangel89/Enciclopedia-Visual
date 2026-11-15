@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Expressao Facial e Emocao
 tags: [expressao-facial, nojo, ekman, micro-expressoes, emocoes]
@@ -8,9 +8,9 @@ aliases:
   - Disgust Facial Expression
   - Expressão de Nojo
   - Repulsa Facial
-falta: [GPT, Leonardo, Raphael]
+falta: [GPT, Leonardo, Raphael, Gemini, leonardo, raphael]
 draft: false
----
+
 # Expressão Facial — Nojo
 
 ## Conceito Técnico
@@ -50,26 +50,13 @@ A micro-expressão universal de nojo/repulsa (mapeada por Ekman) é dominada pel
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[expressao_nojo_dalle3.png]]
+![[expressao_nojo.png]]
 * **Legenda:** [Observação sobre o enrugamento preciso do nariz e elevação do lábio]
 
-### 2. Gemini (Google Imagen)
-![[Nojo_Gemini.jpg]]
-* **Legenda:** [Observação sobre a naturalidade da reação de aversão e olhar esquivo]
-
-### 3. Leonardo AI
-![[expressao_nojo_leonardo.png]]
-* **Legenda:** [Observação sobre a tensão nas bochechas e franzir dos olhos]
-
-### 4. Raphael AI
-![[expressao_nojo_raphael.png]]
-* **Legenda:** [Observação sobre a fidelidade anatômica aos pontos de ação do FACS de Ekman]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```

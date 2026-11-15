@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Composicao
 tags: [perspectiva-dois-pontos, perspectiva, composicao, enquadramento, arquitetura]
@@ -9,7 +9,7 @@ aliases:
   - Perspectiva Angular
   - Visão de Canto
 draft: false
----
+
 # Perspectiva de Dois Pontos de Fuga
 
 ## Conceito Técnico
@@ -49,27 +49,15 @@ Utiliza dois pontos de fuga situados sobre a linha do horizonte, geralmente loca
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[Dois_Pontos_ChatGPT.png]]
+![[Dois_Pontos.png]]
 * **Legenda:** [Observação sobre o enquadramento em ângulo de esquina e proporções de edifícios]
 
-### 2. Gemini (Google Imagen)
-![[Dois_Pontos_Gemini.jpg]]
-* **Legenda:** [Observação sobre a renderização espacial e convergência lateral dos edifícios]
-
-### 3. Leonardo AI
-![[Dois_Pontos_Leonardo.jpg]]
-* **Legenda:** [Observação sobre o realismo dos detalhes arquitetônicos nas duas superfícies]
-
-### 4. Raphael AI
-![[Dois_Pontos_Raphael.jpg]]
-* **Legenda:** [Observação sobre o equilíbrio entre os dois pontos de fuga e iluminação de canto]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```
 Architectural street photograph, two-point perspective, viewing the sharp corner of a vintage 1950s brick building at a wet city intersection, two streets receding into separate horizon vanishing points on the left and right, soft dusk lighting, reflections on wet asphalt, warm shop windows, high detail, shot on Leica M6, 35mm lens --ar 16:9
+falta: [Gemini, Leonardo, Raphael]

@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 7 — Tradições asiáticas
 tags:
@@ -18,7 +18,7 @@ falta:
   - GPT
   - Leonardo
   - Raphael
----
+
 # Mangá / Anime
 
 ## Conceito Técnico
@@ -58,27 +58,15 @@ O Mangá (quadrinho japonês) e o Anime (sua contraparte animada) constituem uma
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[manga_anime_dalle3.png]]
+![[manga_anime.png]]
 * **Legenda:** [Observação sobre o traço limpo e expressividade típica dos olhos no estilo anime]
 
-### 2. Gemini (Google Imagen)
-![[manga_anime_imagen.png]]
-* **Legenda:** [Observação sobre o sombreamento por retículas screentones e cel-shading]
-
-### 3. Leonardo AI
-![[manga_anime_leonardo.png]]
-* **Legenda:** [Observação sobre a iluminação cinematográfica de key visual moderno]
-
-### 4. Raphael AI
-![[manga_anime_raphael.png]]
-* **Legenda:** [Observação sobre o dinamismo das linhas de ação e acabamento digital]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 Cinematic anime key visual of a cyberpunk samurai standing on a futuristic Tokyo rooftop at night, Manga anime art style, clean dynamic line art, expressive detailed eyes, vibrant digital cel shading, neon reflections, dynamic action atmosphere, 4k resolution --ar 16:9
+falta: [imagen, leonardo, raphael]

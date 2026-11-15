@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Figura Humana e Expressao
 tags: [pose-de-acao, dinamismo, figura-humana, poses, movimento]
@@ -9,9 +9,9 @@ aliases:
   - Dynamic Pose
   - Pose Dinâmica
   - Freeze-Frame
-falta: [GPT, Leonardo, Raphael]
+falta: [GPT, Leonardo, Raphael, Gemini, leonardo, raphael]
 draft: false
----
+
 # Pose de Ação
 
 ## Conceito Técnico
@@ -51,26 +51,13 @@ A pose de ação é a captura estática (congelamento) de um corpo humano no áp
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[pose_acao_dalle3.png]]
+![[pose_acao.png]]
 * **Legenda:** [Observação sobre a curvatura da espinha e extensão dos membros no salto]
 
-### 2. Gemini (Google Imagen)
-![[Pose_Acao_Gemini.jpg]]
-* **Legenda:** [Observação sobre a sensação de peso, vetor de movimento e tensão muscular]
-
-### 3. Leonardo AI
-![[pose_acao_leonardo.png]]
-* **Legenda:** [Observação sobre a interação dos tecidos e cabelo em relação à velocidade da pose]
-
-### 4. Raphael AI
-![[pose_acao_raphael.png]]
-* **Legenda:** [Observação sobre a estabilidade anatômica da figura mesmo em torção extrema]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```

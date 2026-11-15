@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Abordagens do Nu na Arte
 tags: [nudez-artistica-classica, nu-na-arte, anatomia, estetica-classica, figura-humana]
@@ -8,9 +8,9 @@ aliases:
   - Classical Fine Art Nude
   - Nu Artístico Clássico
   - Estudo Anatômico Clássico
-falta: [GPT, Leonardo, Raphael, Gemini]
+falta: [GPT, Leonardo, Raphael, Gemini, imagen, leonardo, raphael]
 draft: false
----
+
 # Nudez Artística Clássica
 
 ## Conceito Técnico
@@ -50,26 +50,13 @@ A nudez artística clássica baseia-se na idealização e estilização formal d
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[nudez_classica_dalle3.png]]
+![[nudez_classica.png]]
 * **Legenda:** [Observação sobre a iluminação suave e textura pictórica de estudo anatômico clássico]
 
-### 2. Gemini (Google Imagen)
-![[nudez_classica_imagen.png]]
-* **Legenda:** Sorry, I can't generate unsafe images.
-
-### 3. Leonardo AI
-![[nudez_classica_leonardo.png]]
-* **Legenda:** [Observação sobre o tratamento de pele em estúdio fine-art]
-
-### 4. Raphael AI
-![[nudez_classica_raphael.png]]
-* **Legenda:** [Observação sobre a solenidade da pose e contornos suaves]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```

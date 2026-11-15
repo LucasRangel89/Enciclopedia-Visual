@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 1 — Da tradição pré-moderna
 tags:
@@ -18,7 +18,7 @@ falta:
   - GPT
   - Leonardo
   - Raphael
----
+
 # Romantismo
 
 ## Conceito Técnico
@@ -58,27 +58,15 @@ O Romantismo (final do século XVIII e meados do XIX) rebelou-se contra o racion
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[romantismo_dalle3.png]]
+![[romantismo.png]]
 * **Legenda:** [Observação sobre a imensidão da paisagem montanhosa e figura solitária de costas]
 
-### 2. Gemini (Google Imagen)
-![[romantismo_imagen.png]]
-* **Legenda:** [Observação sobre o tratamento de névoas e céus tempestuosos]
-
-### 3. Leonardo AI
-![[romantismo_leonardo.png]]
-* **Legenda:** [Observação sobre a textura de tinta a óleo e contraste atmosférico]
-
-### 4. Raphael AI
-![[romantismo_raphael.png]]
-* **Legenda:** [Observação sobre a captação do sentimento do sublime romântico]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 Romanticism oil painting of a lone traveler standing on a rocky precipice gazing at a vast sea of fog over mountains at sunset, the aesthetic of the sublime, turbulent dramatic skies, tiny solitary figure, Caspar David Friedrich style, deep emotional atmosphere, masterpiece canvas texture --ar 16:9
+falta: [imagen, leonardo, raphael]

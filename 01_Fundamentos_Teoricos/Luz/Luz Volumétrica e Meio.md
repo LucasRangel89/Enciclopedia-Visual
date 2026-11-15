@@ -1,4 +1,4 @@
----
+
 parte: Luz
 categoria: Luz
 tags:
@@ -20,7 +20,7 @@ falta:
 extra:
   - Bing
   - manus
----
+
 # Luz Volumétrica e Meio
 ## Conceito Técnico
 Luz que se torna visível ao atravessar um meio participante — névoa, fumaça, poeira, água — revelando o próprio feixe luminoso como forma tridimensional, e não apenas seu efeito na superfície onde incide.
@@ -49,21 +49,13 @@ Luz que se torna visível ao atravessar um meio participante — névoa, fumaça
 * `dust particles in light`
 * `light through fog`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. Bing
-![[Luz_Volumetrica_Bing.jpg]]
+![[Luz_Volumetrica.jpg]]
 * **Legenda:** [Observação sobre a visibilidade e nitidez dos feixes]
-### 2. Gemini (Google Imagen)
-![[Luz_Volumetrica_Gemini.jpg]]
-* **Legenda:** [Observação sobre a densidade do meio participante]
-### 3. Leonardo AI
-![[Luz_Volumetrica_Leonardo.jpg]]
-* **Legenda:** [Observação sobre a separação de planos de profundidade]
-### 4. Manus
-![[Luz_Volumetrica_Manus.png]]
-* **Legenda:** [Observação sobre a sensação de sacralidade transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 Ancient forest at dawn, volumetric god rays streaming through the dense canopy, visible light shafts cutting through morning mist, dust particles suspended in the beams, deep atmospheric depth, ethereal and sacred mood --ar 16:9
 ```
+falta: [Gemini, Leonardo, Manus]

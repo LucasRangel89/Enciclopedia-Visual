@@ -1,4 +1,4 @@
----
+
 parte: Cor_e_Grading
 categoria: Cor_e_Grading
 tags:
@@ -10,7 +10,7 @@ status: rascunho
 aliases:
   - Laranja e Azul-Petróleo
   - Teal and Orange Grade
----
+
 # Teal and Orange
 ## Conceito Técnico
 Técnica de color grading dominante no cinema blockbuster contemporâneo, que empurra tons de pele para laranja quente e sombras/fundos para azul-petróleo (teal), criando contraste complementar máximo entre sujeito e ambiente através da roda cromática.
@@ -35,21 +35,13 @@ Técnica de color grading dominante no cinema blockbuster contemporâneo, que em
 * `complementary color contrast`
 * `blockbuster cinematic grade`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[teal_orange_dalle3.png]]
+![[teal_orange.png]]
 * **Legenda:** [Observação sobre o contraste complementar]
-### 2. Gemini (Google Imagen)
-![[teal_orange_imagen.png]]
-* **Legenda:** [Observação sobre a calidez do tom de pele]
-### 3. Leonardo AI
-![[teal_orange_leonardo.png]]
-* **Legenda:** [Observação sobre a profundidade do azul-petróleo]
-### 4. Raphael AI
-![[teal_orange_raphael.png]]
-* **Legenda:** [Observação sobre a sensação de produção cinematográfica]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A hero standing in an explosion-lit battlefield, teal and orange color grading, warm orange skin tones against cool teal shadows and smoke, high contrast cinematic blockbuster grade --ar 21:9
 ```
+falta: [imagen, leonardo, raphael]

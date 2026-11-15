@@ -1,4 +1,4 @@
----
+
 parte: Brasil_e_America_Latina
 categoria: Arte_Popular_Nordestina
 tags:
@@ -9,7 +9,7 @@ tem_imagem: false
 status: rascunho
 aliases:
   - Northeastern Brazilian Woodcut
----
+
 # Xilogravura Nordestina
 ## Conceito Técnico
 Vertente regional da xilogravura tradicional aplicada especificamente à temática e ao vocabulário visual do sertão nordestino — figuras populares (cangaceiros, vaqueiros, beatos), paisagens de caatinga seca, e um estilo de talhe mais anguloso e expressivo que a xilogravura japonesa, refletindo a aspereza do ambiente representado.
@@ -34,21 +34,13 @@ Vertente regional da xilogravura tradicional aplicada especificamente à temáti
 * `sertão folk figures (cangaceiro, vaqueiro)`
 * `dry caatinga landscape texture`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[xilogravura_nordestina_dalle3.png]]
+![[xilogravura_nordestina.png]]
 * **Legenda:** [Observação sobre a angularidade do talhe]
-### 2. Gemini (Google Imagen)
-![[xilogravura_nordestina_imagen.png]]
-* **Legenda:** [Observação sobre a aspereza da paisagem de caatinga]
-### 3. Leonardo AI
-![[xilogravura_nordestina_leonardo.png]]
-* **Legenda:** [Observação sobre a fidelidade ao figurino do cangaceiro]
-### 4. Raphael AI
-![[xilogravura_nordestina_raphael.png]]
-* **Legenda:** [Observação sobre a força expressiva do contraste]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A cangaceiro figure standing in the dry caatinga landscape, Northeastern Brazilian woodcut style, angular expressive carved linework, bold rustic contrast --ar 3:4
 ```
+falta: [imagen, leonardo, raphael]

@@ -1,4 +1,4 @@
----
+
 part: Musica_e_Capas_de_Album
 category: Musica_e_Capas_de_Album
 tags: [bossa-nova, mpb, capa-de-album, musica]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Bossa Nova Album Cover
 draft: false
----
+
 # Bossa Nova (Capa de Álbum)
 ## Conceito Técnico
 Estética de capa associada à Bossa Nova (final dos anos 1950-60), caracterizada por fotografia discreta e elegante, tons pastel frios (azul, verde-água), composição minimalista que evita excesso decorativo, e uma sofisticação despretensiosa que reflete a "batida diferente" suave do próprio gênero musical.
@@ -32,21 +32,13 @@ Estética de capa associada à Bossa Nova (final dos anos 1950-60), caracterizad
 * `minimalist restrained composition`
 * `sophisticated tropical cool`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[bossa_nova_dalle3.png]]
+![[bossa_nova.png]]
 * **Legenda:** [Observação sobre a discrição da fotografia]
-### 2. Gemini (Google Imagen)
-![[bossa_nova_imagen.png]]
-* **Legenda:** [Observação sobre a frieza dos tons pastel]
-### 3. Leonardo AI
-![[bossa_nova_leonardo.png]]
-* **Legenda:** [Observação sobre a contenção da composição]
-### 4. Raphael AI
-![[bossa_nova_raphael.png]]
-* **Legenda:** [Observação sobre a sofisticação despretensiosa transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 An understated elegant portrait against a cool pastel blue background, minimalist restrained composition, sophisticated tropical cool tone --ar 1:1
 ```
+falta: [imagen, leonardo, raphael]

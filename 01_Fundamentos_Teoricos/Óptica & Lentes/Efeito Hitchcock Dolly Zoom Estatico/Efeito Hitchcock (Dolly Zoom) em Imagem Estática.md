@@ -1,4 +1,4 @@
----
+
 part: Óptica & Lentes
 category: Efeito Hitchcock Dolly Zoom Estatico
 tags: [efeito-hitchcock, dolly-zoom, vertigo-effect, distorcao-de-perspectiva, cinematografia]
@@ -9,7 +9,7 @@ aliases:
   - Vertigo Effect
   - Zoom Trombone
 draft: false
----
+
 # Efeito Hitchcock (Dolly Zoom) em Imagem Estática
 ## Conceito Técnico
 Efeito cinematográfico onde a câmera se afasta enquanto o zoom aproxima (ou vice-versa), mantendo o sujeito no mesmo tamanho enquanto o fundo se distorce dramaticamente. Numa imagem estática, é sugerido por uma perspectiva de fundo exageradamente comprimida ou esticada ao redor de um sujeito nítido e de tamanho estável.
@@ -38,21 +38,13 @@ Efeito cinematográfico onde a câmera se afasta enquanto o zoom aproxima (ou vi
 * `reality-bending framing`
 * `psychological perspective distortion`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[hitchcock_dalle3.png]]
+![[hitchcock.png]]
 * **Legenda:** [Observação sobre o grau de distorção do fundo]
-### 2. Gemini (Google Imagen)
-![[hitchcock_imagen.png]]
-* **Legenda:** [Observação sobre a estabilidade do sujeito central]
-### 3. Leonardo AI
-![[hitchcock_leonardo.png]]
-* **Legenda:** [Observação sobre a sensação de vertigem transmitida]
-### 4. Raphael AI
-![[hitchcock_raphael.png]]
-* **Legenda:** [Observação sobre a coerência da perspectiva distorcida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A man standing frozen in a hallway, vertigo effect perspective distortion, the corridor behind him stretching and warping unnaturally into the distance, his figure remaining sharply in focus and unnaturally stable, disorienting psychological tension, muted desaturated tones --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

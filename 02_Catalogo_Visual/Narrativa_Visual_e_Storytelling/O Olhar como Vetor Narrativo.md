@@ -1,4 +1,4 @@
----
+
 part: Narrativa_Visual_e_Storytelling
 category: Narrativa_Visual_e_Storytelling
 tags: [olhar-narrativo, storytelling-visual, direcao-do-olhar]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Gaze as Narrative Vector
 draft: false
----
+
 # O Olhar como Vetor Narrativo
 ## Conceito Técnico
 Princípio onde a direção do olhar de um personagem dentro do quadro funciona como seta invisível, guiando o espectador para o próximo ponto de interesse da composição — o que o personagem olha se torna automaticamente importante, e o ângulo/intensidade desse olhar comunica a relação emocional entre observador e observado.
@@ -32,21 +32,13 @@ Princípio onde a direção do olhar de um personagem dentro do quadro funciona 
 * `implied off-frame point of interest`
 * `emotional relationship communicated through eye direction`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[olhar_vetor_dalle3.png]]
+![[olhar_vetor.png]]
 * **Legenda:** [Observação sobre a clareza da direção do olhar]
-### 2. Gemini (Google Imagen)
-![[olhar_vetor_imagen.png]]
-* **Legenda:** [Observação sobre o mistério do que está fora do quadro]
-### 3. Leonardo AI
-![[olhar_vetor_leonardo.png]]
-* **Legenda:** [Observação sobre a intensidade emocional do olhar]
-### 4. Raphael AI
-![[olhar_vetor_raphael.png]]
-* **Legenda:** [Observação sobre a tensão relacional transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A woman looking intently toward something just outside the frame, her gaze creating tension, gaze as directional narrative vector, implied off-frame point of interest, unresolved emotional tension --ar 4:5
 ```
+falta: [imagen, leonardo, raphael]

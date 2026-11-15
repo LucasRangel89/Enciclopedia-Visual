@@ -1,4 +1,4 @@
----
+
 part: Assinaturas_Autorais
 category: Cineastas_e_Estudios
 tags: [cartoon-saloon, estudio-animacao, assinatura-autoral, folclore-celta]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Cartoon Saloon Style
 draft: false
----
+
 # Cartoon Saloon
 ## Conceito Técnico
 Estúdio irlandês de animação 2D caracterizado por padrões decorativos planos inspirados em arte celta/folclórica, linhas fluidas e ornamentais, paletas de cor terrosas e naturais com acentos dourados, e composições que tratam a tela como tapeçaria bidimensional em vez de espaço tridimensional ilusionista.
@@ -34,20 +34,11 @@ Estúdio irlandês de animação 2D caracterizado por padrões decorativos plano
 * `Celtic-inspired illustration style`
 * `illuminated manuscript quality`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[cartoon_saloon_dalle3.png]]
+![[cartoon_saloon.png]]
 * **Legenda:** [Observação sobre a fluidez do padrão decorativo]
-### 2. Gemini (Google Imagen)
-![[cartoon_saloon_imagen.png]]
-* **Legenda:** [Observação sobre os acentos dourados]
-### 3. Leonardo AI
-![[cartoon_saloon_leonardo.png]]
-* **Legenda:** [Observação sobre a planitude da composição]
-### 4. Raphael AI
-![[cartoon_saloon_raphael.png]]
-* **Legenda:** [Observação sobre a qualidade de manuscrito iluminado]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -57,3 +48,4 @@ A young girl surrounded by swirling forest spirits in a mythical Irish landscape
 ```
 A young girl surrounded by swirling forest spirits in a mythical Irish landscape, flat decorative Celtic-inspired patterns, ornamental flowing linework, two-dimensional tapestry-like composition, earthy palette with gold accents --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

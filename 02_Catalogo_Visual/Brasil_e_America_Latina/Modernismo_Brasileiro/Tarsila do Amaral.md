@@ -1,4 +1,4 @@
----
+
 parte: Brasil_e_America_Latina
 categoria: Modernismo_Brasileiro
 tags:
@@ -10,7 +10,7 @@ tem_imagem: false
 status: rascunho
 aliases:
   - Tarsila do Amaral Style
----
+
 # Tarsila do Amaral
 ## Conceito Técnico
 Pintora modernista brasileira associada ao movimento Antropofágico/Pau-Brasil (anos 1920), caracterizada por formas orgânicas e infladas (corpos, plantas, elementos tropicais tratados como esculturas macias), paleta vibrante de vermelhos, verdes e rosas tropicais, e uma síntese entre vanguarda cubista europeia e temática genuinamente brasileira (fauna, flora, trabalhadores rurais).
@@ -35,20 +35,11 @@ Pintora modernista brasileira associada ao movimento Antropofágico/Pau-Brasil (
 * `synthesis of cubist structure with tropical subject`
 * `monumental simplified figures`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[tarsila_dalle3.png]]
+![[tarsila.png]]
 * **Legenda:** [Observação sobre a organicidade das formas infladas]
-### 2. Gemini (Google Imagen)
-![[tarsila_imagen.png]]
-* **Legenda:** [Observação sobre a vivacidade da paleta tropical]
-### 3. Leonardo AI
-![[tarsila_leonardo.png]]
-* **Legenda:** [Observação sobre a síntese cubista/tropical]
-### 4. Raphael AI
-![[tarsila_raphael.png]]
-* **Legenda:** [Observação sobre a monumentalidade da simplificação]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome da Artista
 ```
@@ -58,3 +49,4 @@ A stylized tropical landscape with organic inflated cactus and figures, Tarsila 
 ```
 A stylized tropical landscape with organic inflated cactus and figures, vibrant Brazilian tropical palette of reds and greens, synthesis of cubist structure with tropical subject, monumental simplified forms --ar 4:5
 ```
+falta: [imagen, leonardo, raphael]

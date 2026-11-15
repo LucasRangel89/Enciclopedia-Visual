@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 4 — Vanguardas do início do séc. XX
 tags:
@@ -18,7 +18,7 @@ falta:
   - GPT
   - Leonardo
   - Raphael
----
+
 # Futurismo
 
 ## Conceito Técnico
@@ -58,27 +58,15 @@ Vanguarda italiana liderada por Filippo Marinetti e Umberto Boccioni a partir de
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[futurismo_dalle3.png]]
+![[futurismo.png]]
 * **Legenda:** [Observação sobre as linhas de força e silhuetas sobrepostas em movimento]
 
-### 2. Gemini (Google Imagen)
-![[futurismo_imagen.png]]
-* **Legenda:** [Observação sobre o dinamismo industrial e fragmentação cinética]
-
-### 3. Leonardo AI
-![[futurismo_leonardo.png]]
-* **Legenda:** [Observação sobre o brilho metálico e sensação de velocidade urbana]
-
-### 4. Raphael AI
-![[futurismo_raphael.png]]
-* **Legenda:** [Observação sobre a exaltação da máquina e energia cinética pura]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 Futurism oil painting of a racing car roaring through a crowded city street at night, lines of force and speed, multiple overlapping motion silhouettes, Umberto Boccioni aesthetic, dynamic industrial energy, kinetic machinery, shattering velocity composition --ar 16:9
+falta: [imagen, leonardo, raphael]

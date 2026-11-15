@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Expressao Facial e Emocao
 tags: [expressao-facial, medo, ekman, micro-expressoes, emocoes]
@@ -8,9 +8,9 @@ aliases:
   - Fear Facial Expression
   - Expressão de Medo
   - Pavor Facial
-falta: [GPT, Leonardo, Raphael]
+falta: [GPT, Leonardo, Raphael, Gemini, leonardo, raphael]
 draft: false
----
+
 # Expressão Facial — Medo
 
 ## Conceito Técnico
@@ -50,26 +50,13 @@ A expressão facial de medo no padrão de Ekman manifesta-se pela elevação e a
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[expressao_medo_dalle3.png]]
+![[expressao_medo.png]]
 * **Legenda:** [Observação sobre os olhos arregalados e elevação das sobrancelhas internas]
 
-### 2. Gemini (Google Imagen)
-![[Medo_Gemini.jpg]]
-* **Legenda:** [Observação sobre a expressão de choque com exposição da esclera]
-
-### 3. Leonardo AI
-![[expressao_medo_leonardo.png]]
-* **Legenda:** [Observação sobre o suor e palidez refletidos pela iluminação de terror]
-
-### 4. Raphael AI
-![[expressao_medo_raphael.png]]
-* **Legenda:** [Observação sobre o estiramento horizontal dos lábios e tensão facial]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```

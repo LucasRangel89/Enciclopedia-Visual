@@ -1,4 +1,4 @@
----
+
 part: Tipografia e Linguagem Visual
 category: Familias Topograficas Base
 tags: [tipografia-script, familia-tipografica, design-grafico]
@@ -9,7 +9,7 @@ aliases:
   - Cursiva
   - Caligrafia
 draft: false
----
+
 # Tipografia Script / Cursiva
 ## Conceito Técnico
 Fontes que imitam a escrita manual cursiva, com traços conectados e fluidos, variando de caligrafia formal (convites de casamento) a assinaturas informais e grafite.
@@ -37,21 +37,13 @@ Fontes que imitam a escrita manual cursiva, com traços conectados e fluidos, va
 * `personal handwriting style`
 * `ornamental cursive text`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[script_dalle3.png]]
+![[script.png]]
 * **Legenda:** [Observação sobre a fluidez dos traços conectados]
-### 2. Gemini (Google Imagen)
-![[script_imagen.png]]
-* **Legenda:** [Observação sobre a sensação de intimidade transmitida]
-### 3. Leonardo AI
-![[script_leonardo.png]]
-* **Legenda:** [Observação sobre a coerência com o suporte manuscrito]
-### 4. Raphael AI
-![[script_raphael.png]]
-* **Legenda:** [Observação sobre o grau de floreio da caligrafia]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A close-up of an old handwritten letter on aged parchment, elegant flowing cursive ink calligraphy, warm candlelight illuminating the page, intimate nostalgic atmosphere --ar 4:3
 ```
+falta: [imagen, leonardo, raphael]

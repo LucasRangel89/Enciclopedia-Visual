@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 4 — Vanguardas do início do séc. XX
 tags:
@@ -18,7 +18,7 @@ falta:
   - GPT
   - Leonardo
   - Raphael
----
+
 # Cubismo
 
 ## Conceito Técnico
@@ -58,27 +58,15 @@ Criado por Pablo Picasso e Georges Braque por volta de 1907, o Cubismo revolucio
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[cubismo_dalle3.png]]
+![[cubismo.png]]
 * **Legenda:** [Observação sobre a fragmentação geométrica e múltiplos ângulos simultâneos]
 
-### 2. Gemini (Google Imagen)
-![[cubismo_imagen.png]]
-* **Legenda:** [Observação sobre a paleta de tons terrosos e planos sobrepostos]
-
-### 3. Leonardo AI
-![[cubismo_leonardo.png]]
-* **Legenda:** [Observação sobre a desconstrução de instrumentos musicais em polígonos]
-
-### 4. Raphael AI
-![[cubismo_raphael.png]]
-* **Legenda:** [Observação sobre o rigor estrutural do cubismo analítico]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 Cubism oil painting of a musician playing a guitar, faceted geometric planes, multiple simultaneous viewpoints, Pablo Picasso analytical style, muted earth tones of browns and grays, fragmented abstract form, deconstructed spatial reality --ar 16:9
+falta: [imagen, leonardo, raphael]

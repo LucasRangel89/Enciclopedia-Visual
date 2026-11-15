@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 2 — Realismo e variantes
 tags:
@@ -18,7 +18,7 @@ falta:
   - GPT
   - Leonardo
   - Raphael
----
+
 # Realismo Mágico (como movimento pictórico)
 
 ## Conceito Técnico
@@ -58,27 +58,15 @@ Como movimento pictórico, o Realismo Mágico (apoiado por correntes da Nova Obj
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[realismo_magico_dalle3.png]]
+![[realismo_magico.png]]
 * **Legenda:** [Observação sobre a nitidez da luz diurna combinada com objetos flutuantes/impossíveis]
 
-### 2. Gemini (Google Imagen)
-![[realismo_magico_imagen.png]]
-* **Legenda:** [Observação sobre a naturalidade dos personagens diante do elemento fantástico]
-
-### 3. Leonardo AI
-![[realismo_magico_imagen.png]]
-* **Legenda:** [Observação sobre a claridade arquitetônica e atmosfera de sonho lúcido]
-
-### 4. Raphael AI
-![[realismo_magico_raphael.png]]
-* **Legenda:** [Observação sobre o equilíbrio entre realismo documental e estranhamento poético]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 Magical Realism oil painting of a quiet colonial courtyard in a sunny Latin American village where gentle glowing clouds float inside the hallway, crisp daylight, serene eerie atmosphere, hyper-detailed realism, subtle impossible anomalies treated as normal, quiet surrealism --ar 16:9
+falta: [imagen, raphael]

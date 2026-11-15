@@ -1,4 +1,4 @@
----
+
 parte: Fotografia
 categoria: Fotografia
 tags:
@@ -11,7 +11,7 @@ status: rascunho
 aliases:
   - Studio Portrait Photography
   - Classic Studio Portrait
----
+
 # Fotografia de Estúdio / Retrato Clássico
 ## Conceito Técnico
 Fotografia de retrato realizada em ambiente controlado com iluminação artificial cuidadosamente posicionada (setups clássicos como luz principal + preenchimento + contraluz), fundo neutro ou controlado, pose e expressão dirigidas deliberadamente — prioriza controle total sobre cada variável em vez do acaso documental.
@@ -39,21 +39,13 @@ Fotografia de retrato realizada em ambiente controlado com iluminação artifici
 * `formal studio portrait quality`
 * `precise controlled shadows`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[retrato_classico_dalle3.png]]
+![[retrato_classico.png]]
 * **Legenda:** [Observação sobre o equilíbrio da luz principal/preenchimento]
-### 2. Gemini (Google Imagen)
-![[retrato_classico_imagen.png]]
-* **Legenda:** [Observação sobre a neutralidade do fundo]
-### 3. Leonardo AI
-![[retrato_classico_leonardo.png]]
-* **Legenda:** [Observação sobre a precisão das sombras controladas]
-### 4. Raphael AI
-![[retrato_classico_raphael.png]]
-* **Legenda:** [Observação sobre a formalidade da pose]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A professional headshot portrait of a business executive, classic three-point studio lighting, key light and fill light balance, controlled neutral grey backdrop, deliberate confident posed expression --ar 4:5
 ```
+falta: [imagen, leonardo, raphael]

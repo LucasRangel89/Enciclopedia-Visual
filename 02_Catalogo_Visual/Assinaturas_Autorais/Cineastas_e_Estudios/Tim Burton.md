@@ -1,4 +1,4 @@
----
+
 part: Assinaturas_Autorais
 category: Cineastas_e_Estudios
 tags: [tim-burton, cineasta, assinatura-autoral, gotico-comico]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Tim Burton Style
 draft: false
----
+
 # Tim Burton
 ## Conceito Técnico
 Estética gótica-cômica com figuras alongadas e esguias, olhos grandes e escuros, paletas monocromáticas contrastadas com um único acento de cor vibrante, ambientes torcidos/espiralados (árvores contorcidas, casas inclinadas), mistura de macabro com ternura infantil.
@@ -34,20 +34,11 @@ Estética gótica-cômica com figuras alongadas e esguias, olhos grandes e escur
 * `twisted spiraling environment design`
 * `tender macabre tone`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[tim_burton_dalle3.png]]
+![[tim_burton.png]]
 * **Legenda:** [Observação sobre o alongamento da figura]
-### 2. Gemini (Google Imagen)
-![[tim_burton_imagen.png]]
-* **Legenda:** [Observação sobre o acento de cor único]
-### 3. Leonardo AI
-![[tim_burton_leonardo.png]]
-* **Legenda:** [Observação sobre a torção do ambiente]
-### 4. Raphael AI
-![[tim_burton_raphael.png]]
-* **Legenda:** [Observação sobre o equilíbrio macabro/ternura]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -57,3 +48,4 @@ A gangly gothic character standing before a twisted crooked house, Tim Burton st
 ```
 A gangly gothic character standing before a twisted crooked house, elongated slender proportions, large dark expressive eyes, monochromatic palette with a single vibrant orange accent, twisted spiraling environment design --ar 3:4
 ```
+falta: [imagen, leonardo, raphael]

@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 1 — Da tradição pré-moderna
 tags:
@@ -18,7 +18,7 @@ falta:
   - GPT
   - Leonardo
   - Raphael
----
+
 
 # Rococó
 
@@ -59,27 +59,15 @@ Nascido na França do século XVIII, o Rococó abandona a gravidade solene do Ba
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[rococo_dalle3.png]]
+![[rococo.png]]
 * **Legenda:** [Observação sobre a paleta em tons pastel e iluminação difusa campestre]
 
-### 2. Gemini (Google Imagen)
-![[rococo_imagen.png]]
-* **Legenda:** [Observação sobre a ornamentação dourada e leveza dos tecidos]
-
-### 3. Leonardo AI
-![[rococo_leonardo.png]]
-* **Legenda:** [Observação sobre o acabamento pictórico delicado e atmosfera cortesã]
-
-### 4. Raphael AI
-![[rococo_raphael.png]]
-* **Legenda:** [Observação sobre as curvas assimétricas e o clima de lazer aristocrático]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 Rococo oil painting of an aristocratic garden party in a sunlit French estate, soft pastel color palette, ornate rocaille architectural details, delicate silk dresses, airy diffused daylight, playful romantic mood, Fragonard aesthetic, highly detailed canvas --ar 16:9
+falta: [imagen, leonardo, raphael]

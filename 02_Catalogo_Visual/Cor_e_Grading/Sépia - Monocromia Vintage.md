@@ -1,4 +1,4 @@
----
+
 parte: Cor_e_Grading
 categoria: Cor_e_Grading
 tags:
@@ -11,7 +11,7 @@ status: rascunho
 aliases:
   - Sepia Tone
   - Monocromia Vintage
----
+
 # Sépia / Monocromia Vintage
 ## Conceito Técnico
 Tratamento monocromático em tons de marrom-amarelado (sépia), historicamente resultado do processo de revelação com sais de prata em fotografias do século XIX-início XX, hoje aplicado deliberadamente para evocar antiguidade fotográfica.
@@ -36,21 +36,13 @@ Tratamento monocromático em tons de marrom-amarelado (sépia), historicamente r
 * `antique photographic quality`
 * `historical archive aesthetic`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[sepia_dalle3.png]]
+![[sepia.png]]
 * **Legenda:** [Observação sobre a calidez do tom marrom]
-### 2. Gemini (Google Imagen)
-![[sepia_imagen.png]]
-* **Legenda:** [Observação sobre a qualidade de antiguidade transmitida]
-### 3. Leonardo AI
-![[sepia_leonardo.png]]
-* **Legenda:** [Observação sobre a fidelidade ao processo histórico]
-### 4. Raphael AI
-![[sepia_raphael.png]]
-* **Legenda:** [Observação sobre a sensação de arquivo preservado]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A formal family portrait from the early 20th century, sepia monochrome tone, warm brown vintage tint, antique photographic quality, historical archive aesthetic --ar 4:5
 ```
+falta: [imagen, leonardo, raphael]

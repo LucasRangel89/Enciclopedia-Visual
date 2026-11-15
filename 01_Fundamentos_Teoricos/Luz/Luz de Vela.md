@@ -1,4 +1,4 @@
----
+
 parte: Fundamentos
 categoria: Iluminacao
 tags:
@@ -15,7 +15,7 @@ aliases:
   - Candlelight
   - Luz de Vela
   - Firelight
----
+
 # Luz de Vela (Candlelight)
 
 ## 📖 Definição e Lógica
@@ -30,19 +30,11 @@ Luz emanando de uma chama pequena e trêmula, com temperatura de cor extremament
 - `golden flicker`
 - `chiaroscuro candlelit scene`
 
-## 🖼️ Galeria de Exemplos Visuais (ChatGPT vs Gemini)
+## 🖼️ Exemplo Visual
 
 > **1. Leonardo:**
-> ![[Luz_de_Vela_Leonardo.jpg]]
+> ![[Luz_de_Vela.jpg]]
 > *Legenda: Observação sobre como a chama esculpiu o rosto e deixou o fundo em trevas.*
-
-> **2. Gemini:**
-> ![[Luz_de_Vela_Gemini.jpg]]
-> *Legenda: Observação sobre como a chama esculpiu o rosto e deixou o fundo em trevas.*
-
-> **3. Raphael:**
-> ![[Luz_de_Vela_Raphael.webp]]
-> *Legenda: Observação sobre como a chama esculpiu o rosto e deixou o fundo em trevas.*
-
 ## ⚙️ Prompt de Referência (Testado)
 `Portrait of a young woman in a dark medieval chamber, face half-illuminated by a single candle on a wooden table. Flickering candlelight, 1800K warm orange glow, deep dancing shadows on stone walls, chiaroscuro effect, intimate and contemplative mood, soft golden light on skin, background lost in darkness.
+falta: [Gemini, Raphael]

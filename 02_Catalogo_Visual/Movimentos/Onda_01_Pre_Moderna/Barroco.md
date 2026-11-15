@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 1 — Da tradição pré-moderna
 tags:
@@ -18,7 +18,7 @@ falta:
   - GPT
   - Leonardo
   - Raphael
----
+
 
 # Barroco
 
@@ -59,27 +59,15 @@ O Barroco (século XVII) caracteriza-se pelo **tenebroismo** extremo e pelo cont
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[barroco_dalle3.png]]
+![[barroco.png]]
 * **Legenda:** [Observação sobre o contraste agressivo de luz e o fundo totalmente escurecido]
 
-### 2. Gemini (Google Imagen)
-![[barroco_imagen.png]]
-* **Legenda:** [Observação sobre a textura dos tecidos pesados e teatralidade da pose]
-
-### 3. Leonardo AI
-![[barroco_leonardo.png]]
-* **Legenda:** [Observação sobre a precisão do tenebrismo e iluminação focalizada]
-
-### 4. Raphael AI
-![[barroco_raphael.png]]
-* **Legenda:** [Observação sobre a carga dramática e diagonais composicionais]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 Baroque oil painting of an alchemist working by candlelight in a dark cellar, extreme tenebrism, dramatic chiaroscuro lighting cutting through deep shadows, rich velvet textures reflecting warm highlights, theatrical emotional intensity, Caravaggio style, masterpiece texture --ar 16:9
+falta: [imagen, leonardo, raphael]

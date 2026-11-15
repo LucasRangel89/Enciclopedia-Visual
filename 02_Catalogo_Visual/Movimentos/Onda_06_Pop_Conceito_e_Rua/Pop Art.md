@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 6 — Pop, conceito e rua
 tags:
@@ -18,7 +18,7 @@ falta:
   - GPT
   - Leonardo
   - Raphael
----
+
 # Pop Art (Expansão)
 
 ## Conceito Técnico
@@ -58,27 +58,15 @@ A Pop Art (Reino Unido e EUA, meados dos anos 1950 a 1960) apropriou-se de image
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[pop_art_dalle3.png]]
+![[pop_art.png]]
 * **Legenda:** [Observação sobre o estilo de serigrafia seriada e cores fluorescentes de Warhol]
 
-### 2. Gemini (Google Imagen)
-![[pop_art_imagen.png]]
-* **Legenda:** [Observação sobre o uso de retículas Ben-Day estilo histórias em quadrinhos]
-
-### 3. Leonardo AI
-![[pop_art_leonardo.png]]
-* **Legenda:** [Observação sobre o contraste de contornos pretos e cores chapadas saturadas]
-
-### 4. Raphael AI
-![[pop_art_raphael.png]]
-* **Legenda:** [Observação sobre a representação icônica de ícones da cultura de massa]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 Pop Art multi-panel serigraphy portrait of a vintage sports car, Andy Warhol silkscreen style, vibrant saturated neon colors, bold graphic black outlines, Ben-Day dot printing texture, mass-culture iconography, high-contrast graphic impact --ar 16:9
+falta: [imagen, leonardo, raphael]

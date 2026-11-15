@@ -1,4 +1,4 @@
----
+
 part: Óptica & Lentes
 category: Tipos de Bokeh
 tags: [bokeh-circular, bokeh-suave, optica, desfoque-de-fundo]
@@ -8,7 +8,7 @@ aliases:
   - Smooth Circular Bokeh
   - Bokeh Cremoso
 draft: false
----
+
 # Bokeh Circular Suave
 ## Conceito Técnico
 Desfoque de fundo com pontos de luz renderizados como círculos perfeitamente uniformes e suaves, produzido por lentes com diafragma bem arredondado (muitas lâminas de abertura).
@@ -36,21 +36,13 @@ Desfoque de fundo com pontos de luz renderizados como círculos perfeitamente un
 * `romantic soft focus`
 * `buttery background blur`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[bokeh_circular_dalle3.png]]
+![[bokeh_circular.png]]
 * **Legenda:** [Observação sobre a uniformidade dos círculos]
-### 2. Gemini (Google Imagen)
-![[bokeh_circular_imagen.png]]
-* **Legenda:** [Observação sobre a suavidade das bordas]
-### 3. Leonardo AI
-![[bokeh_circular_leonardo.png]]
-* **Legenda:** [Observação sobre a atmosfera romântica gerada]
-### 4. Raphael AI
-![[bokeh_circular_raphael.png]]
-* **Legenda:** [Observação sobre a consistência do desfoque]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 Portrait at dusk, smooth circular bokeh from distant string lights, creamy soft background blur, dreamy romantic atmosphere, subject in sharp focus, shot on 85mm f/1.4 --ar 3:2
 ```
+falta: [imagen, leonardo, raphael]

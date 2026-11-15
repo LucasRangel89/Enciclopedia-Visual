@@ -1,4 +1,4 @@
----
+
 parte: Fundamentos
 categoria: Iluminacao
 tags:
@@ -13,7 +13,7 @@ status: rascunho
 aliases:
   - Soft Light
   - Diffused Light
----
+
 # Luz Suave Difusa
 
 ## 📖 Definição e Lógica
@@ -28,16 +28,9 @@ Vem de uma fonte grande e difusa (como janela em dia nublado ou um softbox de es
 - `smooth gradual shadows`
 - `window light quality`
 
-## 🖼️ Galeria de Exemplos Visuais (ChatGPT vs Gemini)
+## 🖼️ Exemplo Visual
 
-> **1. ChatGPT (DALL-E 3):**![[Luz Suave Difusa_ChatGPT.png]]_Legenda: Observação sobre como o ChatGPT interpretou a suavidade das sombras._
-
-> **2. Gemini:**![[Luz Suave Difusa_Gemini.jpg]]_Legenda: Observação sobre como o Gemini interpretou a suavidade das sombras._
-  
-> **3. Leonardo AI:**
-> ![[Luz_Difusa_Leonardo.jpg]]
-> *Legenda: Observação sobre o resultado, pontos fortes e fracos.*
-
+> **1. ChatGPT (DALL-E 3):**![[Luz Suave Difusa.png]]_Legenda: Observação sobre como o ChatGPT interpretou a suavidade das sombras._
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
@@ -48,3 +41,4 @@ Portrait of a middle-aged man, looking slightly to the side, calm expression, da
 
 - **✅ Combina com:** `[[High-Key Lighting]]`, `[[Fotografia Editorial]]`
 - **❌ Conflita com:** `[[Iluminação Rembrandt]]`, `[[Luz Dura]]`
+falta: [Gemini, Leonardo]

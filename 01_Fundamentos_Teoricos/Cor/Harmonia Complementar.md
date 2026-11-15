@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Cor
 tags: [harmonia-complementar, cor, teoria-das-cores, contraste, paleta]
@@ -8,9 +8,9 @@ aliases:
   - Complementary Colors
   - Cores Complementares
   - Contraste Complementar
-falta: [GPT, Raphael]
+falta: [GPT, Raphael, Gemini, Leonardo, raphael]
 draft: false
----
+
 # Harmonia Complementar
 
 ## Conceito Técnico
@@ -50,26 +50,13 @@ A harmonia complementar é estabelecida pela combinação de duas cores localiza
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[harmonia_complementar_dalle3.png]]
+![[harmonia_complementar.png]]
 * **Legenda:** [Observação sobre a separação do azul e laranja e destaque do sujeito]
 
-### 2. Gemini (Google Imagen)
-![[Harmonia_Complementar_Gemini.jpg]]
-* **Legenda:** [Observação sobre o equilíbrio de saturação nas cores opostas]
-
-### 3. Leonardo AI
-![[Harmonia_Complementar_Leonardo.jpg]]
-* **Legenda:** [Observação sobre a aplicação do contraste em luzes direcionais]
-
-### 4. Raphael AI
-![[harmonia_complementar_raphael.png]]
-* **Legenda:** [Observação sobre o impacto visual das cores complementares em sombras e luzes]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```

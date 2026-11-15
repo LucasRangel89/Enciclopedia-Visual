@@ -1,4 +1,4 @@
----
+
 part: Tipografia e Linguagem Visual
 category: Hierarquia e Composicao Layout
 tags: [hierarquia-tipografica, composicao, design-grafico, layout]
@@ -8,7 +8,7 @@ aliases:
   - Typographic Hierarchy
   - Hierarquia de Layout
 draft: false
----
+
 # Hierarquia Tipográfica como Composição
 ## Conceito Técnico
 Organização de múltiplos elementos textuais (título, subtítulo, corpo) através de variações de tamanho, peso, espaçamento e posição, guiando a ordem de leitura como uma composição visual — a tipografia funciona como elemento de composição, não apenas de conteúdo.
@@ -36,21 +36,13 @@ Organização de múltiplos elementos textuais (título, subtítulo, corpo) atra
 * `dominant headline weight`
 * `structured text layout`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[hierarquia_dalle3.png]]
+![[hierarquia.png]]
 * **Legenda:** [Observação sobre a clareza da ordem de leitura]
-### 2. Gemini (Google Imagen)
-![[hierarquia_imagen.png]]
-* **Legenda:** [Observação sobre o contraste de peso entre título e subtítulo]
-### 3. Leonardo AI
-![[hierarquia_leonardo.png]]
-* **Legenda:** [Observação sobre o equilíbrio geral do layout]
-### 4. Raphael AI
-![[hierarquia_raphael.png]]
-* **Legenda:** [Observação sobre a distribuição do espaço negativo no layout]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A magazine cover layout, large bold title dominating the top third of the frame, smaller elegant subtitle text below, clear visual hierarchy guiding the eye, clean editorial composition, balanced negative space --ar 3:4
 ```
+falta: [imagen, leonardo, raphael]

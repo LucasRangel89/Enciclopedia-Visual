@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 4 — Vanguardas do início do séc. XX
 tags:
@@ -19,7 +19,7 @@ falta:
   - GPT
   - Leonardo
   - Raphael
----
+
 # Surrealismo (Expansão: De Chirico, Max Ernst, Man Ray)
 
 ## Conceito Técnico
@@ -59,27 +59,15 @@ O Surrealismo (fundado por André Breton em 1924) buscou libertar o inconsciente
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[surrealismo_dalle3.png]]
+![[surrealismo.png]]
 * **Legenda:** [Observação sobre a arquitetura metafísica e sombras alongadas]
 
-### 2. Gemini (Google Imagen)
-![[surrealismo_imagen.png]]
-* **Legenda:** [Observação sobre a técnica de fotograma experimental no estilo Man Ray]
-
-### 3. Leonardo AI
-![[surrealismo_leonardo.png]]
-* **Legenda:** [Observação sobre a justaposição incongruente de objetos oníricos]
-
-### 4. Raphael AI
-![[surrealismo_raphael.png]]
-* **Legenda:** [Observação sobre a textura de colagem e atmosfera de sonho lúcido]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 Surrealism oil painting in the style of Giorgio de Chirico and Max Ernst, metaphysical piazza with endless arched porticos, long eerie shadows stretching across a deserted plaza, a classical marble bust floating beside a giant wooden clock, uncanny dreamscape, warm golden hour light, high detail --ar 16:9
+falta: [imagen, leonardo, raphael]

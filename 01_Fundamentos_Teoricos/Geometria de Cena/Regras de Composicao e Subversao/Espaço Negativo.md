@@ -1,4 +1,4 @@
----
+
 part: Geometria de Cena
 category: Regras de Composicao e Subversao
 tags: [espaco-negativo, minimalismo, composicao, principios-de-design]
@@ -8,7 +8,7 @@ aliases:
   - Negative Space
   - Espaço Vazio
 draft: false
----
+
 # Espaço Negativo
 ## Conceito Técnico
 Área da composição deliberadamente vazia ou sem detalhe, que envolve ou emoldura o sujeito principal. Não é ausência de design — é um elemento compositivo ativo que direciona a leitura da imagem.
@@ -37,21 +37,13 @@ draft: false
 * `sparse composition`
 * `small subject large space`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[espaco_negativo_dalle3.png]]
+![[espaco_negativo.png]]
 * **Legenda:** [Observação sobre a proporção entre vazio e sujeito]
-### 2. Gemini (Google Imagen)
-![[espaco_negativo_imagen.png]]
-* **Legenda:** [Observação sobre a sensação de solidão gerada]
-### 3. Leonardo AI
-![[espaco_negativo_leonardo.png]]
-* **Legenda:** [Observação sobre a distribuição do vazio no enquadramento]
-### 4. Raphael AI
-![[espaco_negativo_raphael.png]]
-* **Legenda:** [Observação sobre o impacto emocional do espaço vazio]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A single tree standing alone in a vast snow-covered field, vast negative space surrounding the subject, the tree occupying a small fraction of the frame, muted grey winter sky, minimalist composition, quiet melancholic mood --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

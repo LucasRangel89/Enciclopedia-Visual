@@ -1,4 +1,4 @@
----
+
 part: Geometria de Cena
 category: Angulos e Pontos de Vista
 tags: [dutch-angle, camera-inclinada, desequilibrio, cinematografia, tensao]
@@ -9,9 +9,9 @@ aliases:
   - Canted Angle
   - Ângulo Holandês
   - Câmera Torta
-falta: [Gemini, GPT, Leonardo, Raphael]
+falta: [Gemini, GPT, Leonardo, Raphael, imagen, leonardo, raphael]
 draft: false
----
+
 # Dutch Angle (Câmera Inclinada)
 
 ## Conceito Técnico
@@ -51,26 +51,13 @@ O *Dutch angle* (ou ângulo holandês/câmera inclinada) caracteriza-se pela rot
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[dutch_angle_dalle3.png]]
+![[dutch_angle.png]]
 * **Legenda:** [Observação sobre a rotação do horizonte e distorção espacial]
 
-### 2. Gemini (Google Imagen)
-![[dutch_angle_imagen.png]]
-* **Legenda:** [Observação sobre o impacto da diagonal na tensão dramática do ambiente]
-
-### 3. Leonardo AI
-![[dutch_angle_leonardo.png]]
-* **Legenda:** [Observação sobre a integração entre a inclinação e as sombras contrastadas]
-
-### 4. Raphael AI
-![[dutch_angle_raphael.png]]
-* **Legenda:** [Observação sobre o efeito de desorientação e instabilidade gerada]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text

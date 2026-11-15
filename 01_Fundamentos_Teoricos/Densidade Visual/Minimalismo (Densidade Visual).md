@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Densidade Visual
 tags: [minimalismo-visual, densidade-visual, espaco-negativo, composicao, simplicidade]
@@ -8,9 +8,9 @@ aliases:
   - Visual Minimalism
   - Espaço Negativo
   - Less is More
-falta: [GPT, Raphael]
+falta: [GPT, Raphael, Gemini, Leonardo, raphael]
 draft: false
----
+
 # Minimalismo Visual
 
 ## Conceito Técnico
@@ -50,26 +50,13 @@ O minimalismo visual é a prática composicional de reduzir os elementos da imag
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[minimalismo_dalle3.png]]
+![[minimalismo.png]]
 * **Legenda:** [Observação sobre o isolamento do sujeito e controle do fundo vazio no DALL-E 3]
 
-### 2. Gemini (Google Imagen)
-![[Minimalismo_Gemini.jpg]]
-* **Legenda:** [Observação sobre a suavidade dos gradientes no espaço negativo do Imagen]
-
-### 3. Leonardo AI
-![[Minimalismo_Leonardo.jpg]]
-* **Legenda:** [Observação sobre o contraste entre textura detalhada e áreas vazias]
-
-### 4. Raphael AI
-![[minimalismo_raphael.png]]
-* **Legenda:** [Observação sobre a precisão das linhas geométricas e limpeza do quadro]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```

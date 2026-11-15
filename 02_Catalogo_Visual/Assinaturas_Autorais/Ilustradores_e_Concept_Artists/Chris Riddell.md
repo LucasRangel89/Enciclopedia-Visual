@@ -1,4 +1,4 @@
----
+
 part: Assinaturas_Autorais
 category: Ilustradores_e_Concept_Artists
 tags: [chris-riddell, ilustrador, assinatura-autoral, bico-de-pena-gotico]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Chris Riddell Style
 draft: false
----
+
 # Chris Riddell
 ## Conceito Técnico
 Ilustrador infantil/editorial britânico conhecido por linha de bico de pena extremamente fina e ornamentada, figuras esguias e alongadas com roupas elaboradamente detalhadas (rendas, padrões têxteis intrincados), sombreamento via hachura cruzada delicada, e uma sensibilidade gótica-vitoriana lúdica que equilibra o macabro com o encantador.
@@ -33,20 +33,11 @@ Ilustrador infantil/editorial britânico conhecido por linha de bico de pena ext
 * `elaborately detailed lace and textile patterns`
 * `whimsical Victorian gothic sensibility`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[riddell_dalle3.png]]
+![[riddell.png]]
 * **Legenda:** [Observação sobre a finura da linha]
-### 2. Gemini (Google Imagen)
-![[riddell_imagen.png]]
-* **Legenda:** [Observação sobre o detalhe dos padrões têxteis]
-### 3. Leonardo AI
-![[riddell_leonardo.png]]
-* **Legenda:** [Observação sobre a delicadeza da hachura cruzada]
-### 4. Raphael AI
-![[riddell_raphael.png]]
-* **Legenda:** [Observação sobre o equilíbrio macabro/encantador]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -56,3 +47,4 @@ A slender witch character in an elaborately detailed Victorian gown, Chris Ridde
 ```
 A slender witch character in an elaborately detailed Victorian gown, extremely fine ornate pen and ink linework, delicate cross-hatching, elongated slender figure, elaborately detailed lace patterns, whimsical gothic sensibility --ar 3:4
 ```
+falta: [imagen, leonardo, raphael]

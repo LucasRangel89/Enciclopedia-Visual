@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Abordagens do Nu na Arte
 tags: [nudez-documental, nu-documental, fotografia, realismo, figura-humana]
@@ -8,9 +8,9 @@ aliases:
   - Documentary Nude
   - Nu Documental
   - Realismo Anatômico
-falta: [GPT, Leonardo, Raphael]
+falta: [GPT, Leonardo, Raphael, imagen, leonardo, raphael]
 draft: false
----
+
 # Nudez Documental
 
 ## Conceito Técnico
@@ -50,26 +50,13 @@ Ao contrário da idealização clássica, a nudez documental aborda a figura hum
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[nudez_documental_dalle3.png]]
+![[nudez_documental.png]]
 * **Legenda:** [Observação sobre a captura de detalhes reais de pele e iluminação de janela]
 
-### 2. Gemini (Google Imagen)
-![[nudez_documental_imagen.png]]
-* **Legenda:** [Observação sobre o realismo no ambiente doméstico e postura não posada]
-
-### 3. Leonardo AI
-![[nudez_documental_leonardo.png]]
-* **Legenda:** [Observação sobre a retenção de poros, cicatrizes e texturas naturais]
-
-### 4. Raphael AI
-![[nudez_documental_raphael.png]]
-* **Legenda:** [Observação sobre o clima intimista e iluminação natural sem filtros]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```

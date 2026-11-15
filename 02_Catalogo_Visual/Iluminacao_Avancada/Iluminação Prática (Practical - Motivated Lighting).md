@@ -1,4 +1,4 @@
----
+
 parte: Iluminacao_Avancada
 categoria: Iluminacao_Avancada
 tags:
@@ -12,7 +12,7 @@ aliases:
   - Practical Lighting
   - Motivated Lighting
   - Iluminação Motivada
----
+
 # Iluminação Prática (Practical / Motivated Lighting)
 ## Conceito Técnico
 Técnica onde a fonte de luz aparente na cena (uma lâmpada, vela, tela de TV, letreiro) é tratada como a fonte real de iluminação da imagem — a luz "faz sentido" dentro do mundo da cena, mesmo que na prática seja complementada por equipamento adicional invisível.
@@ -37,21 +37,13 @@ Técnica onde a fonte de luz aparente na cena (uma lâmpada, vela, tela de TV, l
 * `believable diegetic illumination`
 * `lamp or screen as apparent light origin`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[pratica_dalle3.png]]
+![[pratica.png]]
 * **Legenda:** [Observação sobre a coerência da fonte visível]
-### 2. Gemini (Google Imagen)
-![[pratica_imagen.png]]
-* **Legenda:** [Observação sobre o realismo da iluminação]
-### 3. Leonardo AI
-![[pratica_leonardo.png]]
-* **Legenda:** [Observação sobre a intimidade do ambiente]
-### 4. Raphael AI
-![[pratica_raphael.png]]
-* **Legenda:** [Observação sobre a credibilidade física da cena]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A person reading in bed illuminated only by a bedside lamp, practical light source, motivated lighting from the visible lamp fixture, believable diegetic illumination, warm intimate glow --ar 4:5
 ```
+falta: [imagen, leonardo, raphael]

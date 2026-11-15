@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Cor
 tags: [cor-fria, cor, teoria-das-cores, iluminação, temperatura-de-cor]
@@ -8,9 +8,9 @@ aliases:
   - Cool Colors
   - Cores Frias
   - Temperatura Fria
-falta: [GPT, Raphael]
+falta: [GPT, Raphael, Gemini, Leonardo, raphael]
 draft: false
----
+
 # Cor Fria
 
 ## Conceito Técnico
@@ -50,26 +50,13 @@ Cores frias compreendem os azuis, verdes, violetas e cianos no círculo cromáti
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[cor_fria_dalle3.png]]
+![[cor_fria.png]]
 * **Legenda:** [Observação sobre o domínio de azuis e atmosfera de isolamento]
 
-### 2. Gemini (Google Imagen)
-![[Cor_Fria_Gemini.jpg]]
-* **Legenda:** [Observação sobre o realismo de neblina e luz fria difusa]
-
-### 3. Leonardo AI
-![[Cor_Fria_Leonardo.jpg]]
-* **Legenda:** [Observação sobre o tratamento de superfícies metálicas/geladas em tons azuis]
-
-### 4. Raphael AI
-![[cor_fria_raphael.png]]
-* **Legenda:** [Observação sobre o equilíbrio entre ciano e cobalto na iluminação]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```

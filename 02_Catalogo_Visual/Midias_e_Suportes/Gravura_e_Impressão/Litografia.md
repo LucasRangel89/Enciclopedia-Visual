@@ -1,4 +1,4 @@
----
+
 parte: Midias e Suportes
 categoria: Gravura_e_Impressão
 tags:
@@ -11,7 +11,7 @@ status: rascunho
 aliases:
   - Lithography
   - Litogravura
----
+
 # Litografia
 ## Conceito Técnico
 Técnica de impressão baseada na repulsão entre óleo e água — a imagem é desenhada com material gorduroso sobre pedra calcária ou placa metálica, permitindo tons contínuos e texturas de giz/crayon, diferente do contraste absoluto da xilogravura. Popularizada em cartazes do fim do século XIX (Toulouse-Lautrec).
@@ -39,21 +39,13 @@ Técnica de impressão baseada na repulsão entre óleo e água — a imagem é 
 * `soft grainy print texture`
 * `Toulouse-Lautrec style poster`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[litografia_dalle3.png]]
+![[litografia.png]]
 * **Legenda:** [Observação sobre a suavidade dos gradientes tonais]
-### 2. Gemini (Google Imagen)
-![[litografia_imagen.png]]
-* **Legenda:** [Observação sobre a textura de giz visível]
-### 3. Leonardo AI
-![[litografia_leonardo.png]]
-* **Legenda:** [Observação sobre a fidelidade ao estilo Belle Époque]
-### 4. Raphael AI
-![[litografia_raphael.png]]
-* **Legenda:** [Observação sobre a sofisticação vintage transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A vintage Belle Époque cabaret poster, continuous tonal gradients with crayon-textured lithographic marks, soft grainy print texture, warm sepia and red palette, Toulouse-Lautrec style poster art --ar 2:3
 ```
+falta: [imagen, leonardo, raphael]

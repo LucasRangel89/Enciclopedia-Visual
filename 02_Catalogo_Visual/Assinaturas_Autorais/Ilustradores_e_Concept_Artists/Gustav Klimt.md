@@ -1,4 +1,4 @@
----
+
 part: Assinaturas_Autorais
 category: Ilustradores_e_Concept_Artists
 tags: [gustav-klimt, pintor, assinatura-autoral, simbolismo-decorativo]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Gustav Klimt Style
 draft: false
----
+
 # Gustav Klimt
 ## Conceito Técnico
 Pintor simbolista conhecido por fusão de figuração realista (rostos e mãos pintados com precisão) com fundo ornamental abstrato em folha de ouro e padrões geométricos decorativos, paleta dourada dominante com acentos de cor joia (esmeralda, vermelho), composições que achatam o espaço em favor do padrão decorativo, temas de sensualidade e transformação.
@@ -34,20 +34,11 @@ Pintor simbolista conhecido por fusão de figuração realista (rostos e mãos p
 * `jewel-tone color accents`
 * `symbolic sensual opulence`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[klimt_dalle3.png]]
+![[klimt.png]]
 * **Legenda:** [Observação sobre a riqueza do padrão dourado]
-### 2. Gemini (Google Imagen)
-![[klimt_imagen.png]]
-* **Legenda:** [Observação sobre o contraste realismo/ornamento]
-### 3. Leonardo AI
-![[klimt_leonardo.png]]
-* **Legenda:** [Observação sobre os acentos de cor joia]
-### 4. Raphael AI
-![[klimt_raphael.png]]
-* **Legenda:** [Observação sobre a planitude decorativa do fundo]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -57,3 +48,4 @@ A woman's portrait embraced by golden ornamental patterns, Gustav Klimt style de
 ```
 A woman's portrait embraced by golden ornamental patterns, abstract gold leaf ornamental background with geometric decorative patterns, realistic painted face and hands, flattened decorative composition, jewel-tone accents --ar 1:1
 ```
+falta: [imagen, leonardo, raphael]

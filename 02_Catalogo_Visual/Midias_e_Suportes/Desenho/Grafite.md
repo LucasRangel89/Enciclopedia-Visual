@@ -1,4 +1,4 @@
----
+
 parte: Midias e Suportes
 categoria: Desenho
 tags:
@@ -12,7 +12,7 @@ aliases:
   - Graphite Drawing
   - Desenho a Lápis
   - Pencil Drawing
----
+
 # Grafite
 ## Conceito Técnico
 Mina de grafite em lápis, permitindo controle extremamente fino de tom através da variação de pressão e dureza do grafite (de 9H, duro e claro, a 9B, macio e escuro) — a mídia de desenho mais precisa e controlável, associada a estudos técnicos e hiper-realismo.
@@ -40,21 +40,13 @@ Mina de grafite em lápis, permitindo controle extremamente fino de tom através
 * `technical pencil study`
 * `smooth graphite blending`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[grafite_dalle3.png]]
+![[grafite.png]]
 * **Legenda:** [Observação sobre a suavidade dos gradientes]
-### 2. Gemini (Google Imagen)
-![[grafite_imagen.png]]
-* **Legenda:** [Observação sobre a precisão da hachura]
-### 3. Leonardo AI
-![[grafite_leonardo.png]]
-* **Legenda:** [Observação sobre o realismo alcançado]
-### 4. Raphael AI
-![[grafite_raphael.png]]
-* **Legenda:** [Observação sobre a nitidez do controle tonal]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A hyper-realistic portrait in graphite pencil, fine controlled linework, subtle smooth tonal gradients from light to deep shading, precise cross-hatching detail, technical pencil study quality --ar 3:4
 ```
+falta: [imagen, leonardo, raphael]

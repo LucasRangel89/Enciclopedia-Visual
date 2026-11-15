@@ -1,11 +1,11 @@
----
+
 parte: "Videogames_Linguagem_Visual"
 categoria: "Videogames_Linguagem_Visual"
 tags: [from-software, estilo-de-estudio, videogame, ruina-gotica]
 tem_imagem: true
 status: "rascunho"
 aliases: ["From Software Style", "Soulslike Aesthetic"]
----
+
 # Estilo Visual From Software
 ## Conceito Técnico
 Estúdio japonês (Dark Souls, Bloodborne, Elden Ring) conhecido por ruína grandiosa e decadente como linguagem visual central — arquitetura gótica/monumental em colapso, armaduras/criaturas com design que mistura beleza e horror corporal, paleta desaturada de cinzas e dourados opacos, e uma narrativa contada através do ambiente (*environmental storytelling*) em vez de diálogo explícito.
@@ -30,21 +30,13 @@ Estúdio japonês (Dark Souls, Bloodborne, Elden Ring) conhecido por ruína gran
 * `desaturated grey and muted gold palette`
 * `environmental storytelling without exposition`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[fromsoft_dalle3.png]]
+![[fromsoft.png]]
 * **Legenda:** [Observação sobre a grandiosidade da arquitetura em ruína]
-### 2. Gemini (Google Imagen)
-![[fromsoft_imagen.png]]
-* **Legenda:** [Observação sobre a ambiguidade do design de criatura]
-### 3. Leonardo AI
-![[fromsoft_leonardo.png]]
-* **Legenda:** [Observação sobre a paleta desaturada]
-### 4. Raphael AI
-![[fromsoft_raphael.png]]
-* **Legenda:** [Observação sobre a melancolia transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A knight in ornate decaying armor standing before a collapsed gothic cathedral, grand decaying gothic architecture, desaturated grey and muted gold palette, melancholic environmental storytelling --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

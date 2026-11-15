@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Canones e Estilizacao do Corpo
 tags: [canone-greco-romano, proporcao-corpo, anatomia, proporcao-aurea, grecia-antiga]
@@ -8,9 +8,9 @@ aliases:
   - Greco-Roman Canon
   - Cânone de Policleto
   - Proporções Clássicas
-falta: [Gemini, GPT, Leonardo, Raphael]
+falta: [Gemini, GPT, Leonardo, Raphael, leonardo, raphael]
 draft: false
----
+
 # Cânone Clássico Greco-Romano
 
 ## Conceito Técnico
@@ -50,26 +50,13 @@ O Cânone Clássico Greco-Romano é um sistema matemático de proporções para 
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[canone_greco_romano_dalle3.png]]
+![[canone_greco_romano.png]]
 * **Legenda:** [Observação sobre a aplicação exata do contrapposto e regra das 8 cabeças]
 
-### 2. Gemini (Google Imagen)
-![[Greco_Romana_Gemini.jpg]]
-* **Legenda:** [Observação sobre o contorno muscular limpo e acabamento marmóreo/heroico]
-
-### 3. Leonardo AI
-![[canone_greco_romano_leonardo.png]]
-* **Legenda:** [Observação sobre a tridimensionalidade da postura e proporções ideais]
-
-### 4. Raphael AI
-![[canone_greco_romano_raphael.png]]
-* **Legenda:** [Observação sobre o equilíbrio de linhas no estilo de escultura helenística]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```

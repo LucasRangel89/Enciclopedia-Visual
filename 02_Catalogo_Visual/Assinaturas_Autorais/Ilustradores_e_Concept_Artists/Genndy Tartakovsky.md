@@ -1,4 +1,4 @@
----
+
 part: Assinaturas_Autorais
 category: Ilustradores_e_Concept_Artists
 tags: [genndy-tartakovsky, animador, assinatura-autoral, design-grafico]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Genndy Tartakovsky Style
 draft: false
----
+
 # Genndy Tartakovsky
 ## Conceito Técnico
 Animador conhecido por design gráfico extremo — silhuetas angulares e alongadas reduzidas a formas geométricas essenciais, uso dramático de sombra chapada (silhueta negra contra fundo colorido) para composição de ação, paleta de cores limitada e ousada por cena, e um senso de composição de quadrinho/storyboard que prioriza a leitura instantânea de movimento sobre o detalhe.
@@ -34,20 +34,11 @@ Animador conhecido por design gráfico extremo — silhuetas angulares e alongad
 * `graphic storyboard-style composition`
 * `instantly readable action`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[tartakovsky_dalle3.png]]
+![[tartakovsky.png]]
 * **Legenda:** [Observação sobre a angularidade da silhueta]
-### 2. Gemini (Google Imagen)
-![[tartakovsky_imagen.png]]
-* **Legenda:** [Observação sobre o contraste silhueta/fundo]
-### 3. Leonardo AI
-![[tartakovsky_leonardo.png]]
-* **Legenda:** [Observação sobre a legibilidade instantânea da ação]
-### 4. Raphael AI
-![[tartakovsky_raphael.png]]
-* **Legenda:** [Observação sobre a ousadia da paleta limitada]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -57,3 +48,4 @@ A warrior's silhouette leaping through the air against a fiery orange sky, Gennd
 ```
 A warrior's silhouette leaping through the air against a fiery orange sky, angular elongated silhouette design, bold flat black silhouette against a colored background, limited bold color palette, graphic instantly readable action --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

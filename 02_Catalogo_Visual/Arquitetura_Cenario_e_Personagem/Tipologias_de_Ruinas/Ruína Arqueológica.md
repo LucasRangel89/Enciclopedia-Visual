@@ -1,4 +1,4 @@
----
+
 part: Arquitetura_Cenario_e_Personagem
 category: Tipologias_de_Ruinas
 tags: [ruina-arqueologica, tipologia-de-ruina, civilizacao-antiga]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Archaeological Ruin
 draft: false
----
+
 # Ruína Arqueológica
 ## Conceito Técnico
 Vestígio de civilização antiga preservado através de escavação e estudo — pedra erodida por milênios mas ainda estruturalmente legível, vegetação controlada ao redor (não invasiva descontrolada), luz natural direta sem obstrução moderna, e uma escala temporal que se estende por séculos ou milênios, não décadas.
@@ -33,21 +33,13 @@ Vestígio de civilização antiga preservado através de escavação e estudo �
 * `deep historical time scale`
 * `lost civilization remnant`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[ruina_arqueologica_dalle3.png]]
+![[ruina_arqueologica.png]]
 * **Legenda:** [Observação sobre a erosão milenar da pedra]
-### 2. Gemini (Google Imagen)
-![[ruina_arqueologica_imagen.png]]
-* **Legenda:** [Observação sobre a vegetação controlada ao redor]
-### 3. Leonardo AI
-![[ruina_arqueologica_leonardo.png]]
-* **Legenda:** [Observação sobre a legibilidade estrutural preservada]
-### 4. Raphael AI
-![[ruina_arqueologica_raphael.png]]
-* **Legenda:** [Observação sobre a reverência histórica transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 The eroded stone remains of an ancient temple partially reclaimed by controlled jungle vegetation, ancient archaeological ruin, deep historical time scale, lost civilization remnant --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

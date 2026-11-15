@@ -1,4 +1,4 @@
----
+
 parte: Familias_de_Linguagem_Visual
 categoria: Familias_de_Linguagem_Visual
 tags:
@@ -10,7 +10,7 @@ tem_imagem: false
 status: rascunho
 aliases:
   - Dream and Incongruity
----
+
 # Sonho e Incongruência
 ## Conceito Técnico
 Família de linguagem visual que atravessa Surrealismo, Realismo Mágico e certas vertentes de fantasia contemplativa, unidas pela justaposição de elementos logicamente incompatíveis apresentados com total naturalidade — a lógica do sonho substitui a lógica física sem perder coerência interna própria.
@@ -35,21 +35,13 @@ Família de linguagem visual que atravessa Surrealismo, Realismo Mágico e certa
 * `surreal internal logic`
 * `poetic irrational coherence`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[sonho_incongruencia_dalle3.png]]
+![[sonho_incongruencia.png]]
 * **Legenda:** [Observação sobre a naturalidade da justaposição impossível]
-### 2. Gemini (Google Imagen)
-![[sonho_incongruencia_imagen.png]]
-* **Legenda:** [Observação sobre a coerência onírica interna]
-### 3. Leonardo AI
-![[sonho_incongruencia_leonardo.png]]
-* **Legenda:** [Observação sobre o fascínio gerado pelo estranhamento]
-### 4. Raphael AI
-![[sonho_incongruencia_raphael.png]]
-* **Legenda:** [Observação sobre a poesia visual transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A staircase leading directly into a cloud-filled sky above a quiet dining room, dreamlike incongruous juxtaposition, impossible elements treated as natural, surreal internal logic --ar 4:5
 ```
+falta: [imagen, leonardo, raphael]

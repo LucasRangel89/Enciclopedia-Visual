@@ -1,4 +1,4 @@
----
+
 part: Assinaturas_Autorais
 category: Cineastas_e_Estudios
 tags: [guillermo-del-toro, cineasta, assinatura-autoral, horror-gotico]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Guillermo del Toro Style
 draft: false
----
+
 # Guillermo del Toro
 ## Conceito Técnico
 Diretor que combina horror gótico com empatia por criaturas/"monstros", paleta rica em vermelhos profundos e âmbar contra azuis noturnos, design de criatura biomecânico-orgânico detalhado, interiores barrocos carregados de objetos simbólicos (relógios, insetos, mecanismos).
@@ -35,20 +35,11 @@ Diretor que combina horror gótico com empatia por criaturas/"monstros", paleta 
 * `intricate symbolic props`
 * `dark fantasy richness`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[gdt_dalle3.png]]
+![[gdt.png]]
 * **Legenda:** [Observação sobre o contraste âmbar/azul]
-### 2. Gemini (Google Imagen)
-![[gdt_imagen.png]]
-* **Legenda:** [Observação sobre a textura da pele da criatura]
-### 3. Leonardo AI
-![[gdt_leonardo.png]]
-* **Legenda:** [Observação sobre a densidade do interior vitoriano]
-### 4. Raphael AI
-![[gdt_raphael.png]]
-* **Legenda:** [Observação sobre a simpatia transmitida pela criatura]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -58,3 +49,4 @@ A sympathetic creature hiding in an ornate Victorian library, Guillermo del Toro
 ```
 A sympathetic creature hiding in an ornate Victorian library, gothic fairy tale atmosphere, deep amber and red tones against midnight blue shadows, biomechanical organic creature design with intricate skin texture, ornate cluttered interior --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

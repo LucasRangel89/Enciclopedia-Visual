@@ -1,4 +1,4 @@
----
+
 part: Generos e Universos
 category: Generos e Universos
 tags: [pos-apocaliptico, genero-visual, colapso-civilizacional]
@@ -6,7 +6,7 @@ tem_imagem: true
 status: rascunho
 aliases: [Post-Apocalyptic]
 draft: false
----
+
 # Pós-Apocalíptico
 ## Conceito Técnico
 Gênero visual que retrata o mundo após colapso civilizacional (guerra, praga, desastre), caracterizado por arquitetura em ruína conquistada pela natureza, paleta terrosa e desbotada pelo tempo/radiação, escassez de recursos visível em improvisação e remendo, e uma tensão entre a beleza da decadência e o perigo da sobrevivência.
@@ -32,21 +32,13 @@ Gênero visual que retrata o mundo após colapso civilizacional (guerra, praga, 
 * `sublime beauty in decay`
 * `scarcity and makeshift resourcefulness`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[pos_apocaliptico_dalle3.png]]
+![[pos_apocaliptico.png]]
 * **Legenda:** [Observação sobre a retomada da natureza sobre a ruína]
-### 2. Gemini (Google Imagen)
-![[pos_apocaliptico_imagen.png]]
-* **Legenda:** [Observação sobre o desbotamento da paleta]
-### 3. Leonardo AI
-![[pos_apocaliptico_leonardo.png]]
-* **Legenda:** [Observação sobre o improviso do equipamento]
-### 4. Raphael AI
-![[pos_apocaliptico_raphael.png]]
-* **Legenda:** [Observação sobre a beleza sublime da decadência]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 An overgrown highway with rusted abandoned cars, nature reclaiming crumbling architecture in the background, weathered faded color palette, sublime desolate beauty, a lone survivor figure with improvised patched gear --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 2 — Realismo e variantes
 tags:
@@ -18,7 +18,7 @@ falta:
   - GPT
   - Leonardo
   - Raphael
----
+
 # Realismo Clássico
 
 ## Conceito Técnico
@@ -58,27 +58,15 @@ Surgido na França em meados do século XIX (liderado por Gustave Courbet), o Re
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[realismo_classico_dalle3.png]]
+![[realismo_classico.png]]
 * **Legenda:** [Observação sobre a sobriedade cromática e crueza do ambiente de trabalho]
 
-### 2. Gemini (Google Imagen)
-![[realismo_classico_imagen.png]]
-* **Legenda:** [Observação sobre a textura das roupas e iluminação natural sem adornos]
-
-### 3. Leonardo AI
-![[realismo_classico_leonardo.png]]
-* **Legenda:** [Observação sobre o realismo anatômico e ausência de idealização heroica]
-
-### 4. Raphael AI
-![[realismo_classico_raphael.png]]
-* **Legenda:** [Observação sobre a densidade dos tons terrosos e honestidade visual]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 Classical Realism oil painting of stonecutters breaking rocks by the roadside, unidealized everyday scene, earthy and sober color palette, raw material textures, natural overcast daylight, Gustave Courbet style, honest social documentary atmosphere, heavy brushwork --ar 16:9
+falta: [imagen, leonardo, raphael]

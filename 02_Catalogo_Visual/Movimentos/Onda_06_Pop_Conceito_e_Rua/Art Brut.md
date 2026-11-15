@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 6 — Pop, conceito e rua
 tags:
@@ -16,7 +16,7 @@ aliases:
 falta:
   - Gemini
   - Leonardo
----
+
 # Art Brut / Outsider Art
 
 ## Conceito Técnico
@@ -56,28 +56,16 @@ Termo cunhado por Jean Dubuffet na década de 1940 para descrever a **arte criad
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[art_brut_dalle3.png]]
+![[art_brut.png]]
 * **Legenda:** [Observação sobre o traço instintivo e distorção na figura estilo Art Brut]
 
-### 2. Gemini (Google Imagen)
-![[Art_Brut_Gemini.jpg]]
-* **Legenda:** [Observação sobre a textura de papelão gasto e padrões obsessivos]
-
-### 3. Leonardo AI
-![[Art_Brut_Leonardo.jpg]]
-* **Legenda:** [Observação sobre a crueza dos materiais e paleta improvisada]
-
-### 4. Raphael AI
-![[art_brut_raphael.png]]
-* **Legenda:** [Observação sobre a autenticidade psicológica e rejeição ao academicismo]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```markdown
 Art Brut painting style, Outsider art portrait of a fantastical creature, raw instinctive drawing, obsessive intricate background patterns, Jean Dubuffet aesthetic, naive distorted figures, scratched mixed media on dirty cardboard background, unfiltered expression --ar 16:9```
 ```
+falta: [Gemini, Leonardo, raphael]

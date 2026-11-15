@@ -1,4 +1,4 @@
----
+
 part: Geometria de Cena
 category: Profundidade de Campo e Abertura
 tags: [profundidade-de-campo, dof-rasa, bokeh, abertura, fotografia]
@@ -9,7 +9,7 @@ aliases:
   - DOF Rasa
   - Foco Seletivo
 draft: false
----
+
 # Profundidade de Campo Rasa
 ## Conceito Técnico
 Profundidade de campo rasa ocorre com aberturas grandes (f/1.4 a f/2.8), resultando numa fina fatia de foco nítido enquanto o primeiro plano e o fundo se dissolvem em bokeh. O efeito isola visualmente o sujeito do ambiente ao redor.
@@ -38,21 +38,13 @@ Profundidade de campo rasa ocorre com aberturas grandes (f/1.4 a f/2.8), resulta
 * `creamy bokeh`
 * `out-of-focus foreground`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[dof_rasa_dalle3.png]]
+![[dof_rasa.png]]
 * **Legenda:** [Observação sobre a qualidade do desfoque de fundo]
-### 2. Gemini (Google Imagen)
-![[dof_rasa_imagen.png]]
-* **Legenda:** [Observação sobre a nitidez seletiva do sujeito]
-### 3. Leonardo AI
-![[dof_rasa_leonardo.png]]
-* **Legenda:** [Observação sobre a transição entre foco e desfoque]
-### 4. Raphael AI
-![[dof_rasa_raphael.png]]
-* **Legenda:** [Observação sobre a sensação de intimidade gerada]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 Portrait photography, shallow depth of field shot at f/1.4, a woman's face in sharp focus, soft creamy bokeh background of city lights, warm ambient tones, subject isolated from surroundings, shot on 85mm lens --ar 3:2
 ```
+falta: [imagen, leonardo, raphael]

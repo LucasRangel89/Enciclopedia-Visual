@@ -1,4 +1,4 @@
----
+
 parte: Geometria de Cena
 categoria: Distancia Focal e Efeito Psicologico
 tags:
@@ -18,7 +18,7 @@ falta:
   - GPT
   - Leonardo
   - Raphael
----
+
 # Grande-Angular e Efeito Psicológico
 
 ## Conceito Técnico
@@ -58,27 +58,15 @@ Lentes grande-angulares (geralmente abaixo de 35mm, como 24mm, 18mm ou lentes *f
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[grande_angular_dalle3.png]]
+![[grande_angular.png]]
 * **Legenda:** [Observação sobre a curvatura nas bordas e exagero na profundidade espacial]
 
-### 2. Gemini (Google Imagen)
-![[grande_angular_imagen.png]]
-* **Legenda:** [Observação sobre a expansão do campo de visão e isolamento do sujeito]
-
-### 3. Leonardo AI
-![[grande_angular_leonardo.png]]
-* **Legenda:** [Observação sobre a nitidez estendida em todos os planos da imagem]
-
-### 4. Raphael AI
-![[grande_angular_raphael.png]]
-* **Legenda:** [Observação sobre a distorção característica de lentes curtas em ambientes fechados]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 Cinematic interior shot of a strange eccentric character inside a cramped vintage control room, shot on a wide-angle 24mm lens, exaggerated spatial depth, barrel distortion at the frame edges, hyper-deep focus, quirky Stanley Kubrick aesthetic, fluorescent overhead flickering light, high detail --ar 16:9
+falta: [imagen, leonardo, raphael]

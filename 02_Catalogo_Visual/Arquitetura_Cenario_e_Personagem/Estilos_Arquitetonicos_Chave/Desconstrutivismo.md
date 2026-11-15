@@ -1,4 +1,4 @@
----
+
 part: Arquitetura_Cenario_e_Personagem
 category: Estilos_Arquitetonicos_Chave
 tags: [desconstrutivismo, estilo-arquitetonico, geometria-fragmentada]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Deconstructivist Architecture
 draft: false
----
+
 # Desconstrutivismo
 ## Conceito Técnico
 Movimento arquitetônico contemporâneo (Gehry, Hadid) que fragmenta e distorce a geometria tradicional — superfícies curvas fluidas ou fragmentos angulares não-euclidianos, ausência de linhas retas previsíveis, uma sensação de instabilidade estrutural controlada, e o uso de materiais avançados (titânio, compósitos) para tornar formas antes impossíveis construíveis.
@@ -32,21 +32,13 @@ Movimento arquitetônico contemporâneo (Gehry, Hadid) que fragmenta e distorce 
 * `controlled structural instability`
 * `futuristic advanced material construction`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[desconstrutivismo_dalle3.png]]
+![[desconstrutivismo.png]]
 * **Legenda:** [Observação sobre a fluidez da fragmentação]
-### 2. Gemini (Google Imagen)
-![[desconstrutivismo_imagen.png]]
-* **Legenda:** [Observação sobre a sensação de instabilidade controlada]
-### 3. Leonardo AI
-![[desconstrutivismo_leonardo.png]]
-* **Legenda:** [Observação sobre o material avançado utilizado]
-### 4. Raphael AI
-![[desconstrutivismo_raphael.png]]
-* **Legenda:** [Observação sobre o fascínio futurista transmitido]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A museum building with fluid fragmented titanium surfaces defying conventional geometry, controlled structural instability, futuristic sculptural architecture --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

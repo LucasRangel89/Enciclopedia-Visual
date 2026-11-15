@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Figura Humana e Expressao
 tags: [pose-editorial, moda, figura-humana, poses, estetica]
@@ -9,9 +9,9 @@ aliases:
   - High Fashion Pose
   - Pose de Moda
   - Pose Avant-Garde
-falta: [GPT, Leonardo, Raphael]
+falta: [GPT, Leonardo, Raphael, Gemini, leonardo, raphael]
 draft: false
----
+
 # Pose Editorial
 
 ## Conceito Técnico
@@ -51,26 +51,13 @@ A pose editorial (comum na alta moda e na fotografia de conceito) prioriza a geo
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[pose_editorial_dalle3.png]]
+![[pose_editorial.png]]
 * **Legenda:** [Observação sobre a dramaticidade dos ângulos formados pelos braços e pernas]
 
-### 2. Gemini (Google Imagen)
-![[Pose_Editorial_Gemini.jpg]]
-* **Legenda:** [Observação sobre o caimento das roupas e expressão neutra/distante do modelo]
-
-### 3. Leonardo AI
-![[pose_editorial_leonardo.png]]
-* **Legenda:** [Observação sobre a interação entre a geometria da pose e as sombras de estúdio]
-
-### 4. Raphael AI
-![[pose_editorial_raphael.png]]
-* **Legenda:** [Observação sobre a sofisticação da composição e alinhamento vanguardista do corpo]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```

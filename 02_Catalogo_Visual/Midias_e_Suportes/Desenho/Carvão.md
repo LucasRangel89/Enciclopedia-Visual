@@ -1,4 +1,4 @@
----
+
 parte: Midias e Suportes
 categoria: Desenho
 tags:
@@ -11,7 +11,7 @@ status: rascunho
 aliases:
   - Charcoal Drawing
   - Desenho a Carvão
----
+
 # Carvão
 ## Conceito Técnico
 Bastão de carbono puro usado para desenho, capaz de produzir desde traços claros e esfumaçados até negros profundos e aveludados — facilmente esfumado com o dedo ou esfuminho, e igualmente fácil de apagar/corrigir, o que favorece um processo gestual e expressivo.
@@ -39,21 +39,13 @@ Bastão de carbono puro usado para desenho, capaz de produzir desde traços clar
 * `visible fingerprint smudging`
 * `dramatic monochrome shading`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[carvao_dalle3.png]]
+![[carvao.png]]
 * **Legenda:** [Observação sobre a profundidade dos negros]
-### 2. Gemini (Google Imagen)
-![[carvao_imagen.png]]
-* **Legenda:** [Observação sobre a suavidade do esfumaçado]
-### 3. Leonardo AI
-![[carvao_leonardo.png]]
-* **Legenda:** [Observação sobre a visibilidade do gesto do artista]
-### 4. Raphael AI
-![[carvao_raphael.png]]
-* **Legenda:** [Observação sobre o contraste dramático geral]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A dramatic portrait study in charcoal, deep velvety blacks contrasted with smudged soft greys, visible expressive gestural strokes, high contrast tonal shading, textured drawing paper --ar 3:4
 ```
+falta: [imagen, leonardo, raphael]

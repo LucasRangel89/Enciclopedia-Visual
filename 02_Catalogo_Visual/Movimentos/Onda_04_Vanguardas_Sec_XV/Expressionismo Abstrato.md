@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 4 — Vanguardas do início do séc. XX
 tags:
@@ -18,7 +18,7 @@ falta:
   - GPT
   - Leonardo
   - Raphael
----
+
 # Expressionismo Abstrato
 
 ## Conceito Técnico
@@ -58,27 +58,15 @@ Nascido em Nova York nos anos 1940/50 (Jackson Pollock, Mark Rothko, Willem de K
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[expressionismo_abstrato_dalle3.png]]
+![[expressionismo_abstrato.png]]
 * **Legenda:** [Observação sobre o emaranhado rítmico de respingos de tinta no estilo Action Painting]
 
-### 2. Gemini (Google Imagen)
-![[expressionismo_abstrato_imagen.png]]
-* **Legenda:** [Observação sobre os campos de cor luminosos e profundidade meditativa]
-
-### 3. Leonardo AI
-![[expressionismo_abstrato_leonardo.png]]
-* **Legenda:** [Observação sobre a densidade das camadas de tinta sobrepostas]
-
-### 4. Raphael AI
-![[expressionismo_abstrato_raphael.png]]
-* **Legenda:** [Observação sobre a escala monumental e impacto gestual puro]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 Abstract Expressionism massive oil painting in the style of Jackson Pollock, action painting drip technique, chaotic layered paint splatters, intricate web of metallic and primary colors, raw gestural energy, museum gallery setting, huge canvas --ar 16:9
+falta: [imagen, leonardo, raphael]

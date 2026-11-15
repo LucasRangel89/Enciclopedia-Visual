@@ -1,4 +1,4 @@
----
+
 parte: Midias e Suportes
 categoria: Midias Mistas e Digitais
 tags:
@@ -10,7 +10,7 @@ status: rascunho
 aliases:
   - Editorial Illustration
   - Ilustração de Revista
----
+
 # Ilustração Editorial
 ## Conceito Técnico
 Ilustração comissionada para acompanhar texto jornalístico/editorial (revistas, jornais, ensaios), que precisa comunicar um conceito abstrato ou crítico de forma imediata e memorável — prioriza a clareza conceitual e a metáfora visual sobre o detalhe descritivo.
@@ -38,21 +38,13 @@ Ilustração comissionada para acompanhar texto jornalístico/editorial (revista
 * `satirical visual commentary`
 * `modern flat illustration`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[ilustracao_editorial_dalle3.png]]
+![[ilustracao_editorial.png]]
 * **Legenda:** [Observação sobre a clareza da metáfora visual]
-### 2. Gemini (Google Imagen)
-![[ilustracao_editorial_imagen.png]]
-* **Legenda:** [Observação sobre a simplificação das formas]
-### 3. Leonardo AI
-![[ilustracao_editorial_leonardo.png]]
-* **Legenda:** [Observação sobre o impacto conceitual imediato]
-### 4. Raphael AI
-![[ilustracao_editorial_raphael.png]]
-* **Legenda:** [Observação sobre a coerência com o tom editorial]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 An editorial illustration representing the concept of information overload, a single figure drowning in a sea of paper documents, bold simplified shapes, modern flat illustration style, striking visual metaphor --ar 3:4
 ```
+falta: [imagen, leonardo, raphael]

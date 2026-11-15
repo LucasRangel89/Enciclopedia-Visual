@@ -1,4 +1,4 @@
----
+
 part: Textura e Materialidade
 category: Textura e Materialidade
 tags: [superficies-organicas, textura, materialidade, fisicalidade]
@@ -8,7 +8,7 @@ aliases:
   - Organic Surfaces
   - Texturas Naturais
 draft: false
----
+
 # Superfícies Orgânicas
 ## Conceito Técnico
 Texturas provenientes de matéria viva ou natural — pele, madeira, folhas, pedra erodida, água, pelo — caracterizadas por irregularidade, variação sutil de padrão e imperfeição não-repetitiva.
@@ -37,21 +37,13 @@ Texturas provenientes de matéria viva ou natural — pele, madeira, folhas, ped
 * `tactile organic material`
 * `living surface texture`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[superficies_organicas_dalle3.png]]
+![[superficies_organicas.png]]
 * **Legenda:** [Observação sobre o realismo da textura capturada]
-### 2. Gemini (Google Imagen)
-![[superficies_organicas_imagen.png]]
-* **Legenda:** [Observação sobre a irregularidade natural do padrão]
-### 3. Leonardo AI
-![[superficies_organicas_leonardo.png]]
-* **Legenda:** [Observação sobre a ausência de artificialidade]
-### 4. Raphael AI
-![[superficies_organicas_raphael.png]]
-* **Legenda:** [Observação sobre a sensação tátil transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 Extreme close-up portrait, visible skin pores and natural texture, unretouched organic detail, soft natural window light, authentic tactile realism, shallow depth of field --ar 1:1
 ```
+falta: [imagen, leonardo, raphael]

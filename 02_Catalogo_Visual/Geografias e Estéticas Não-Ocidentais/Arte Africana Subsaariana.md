@@ -1,4 +1,4 @@
----
+
 parte: Geografias e Estéticas Não-Ocidentais
 categoria: Geografias e Estéticas Não-Ocidentais
 tags:
@@ -10,7 +10,7 @@ tem_imagem: false
 status: rascunho
 aliases:
   - Sub-Saharan African Art
----
+
 # Arte Africana Subsaariana
 ## Conceito Técnico
 Tradição visual vasta e diversa (centenas de culturas distintas) frequentemente unificada visualmente por máscaras e esculturas de madeira com estilização geométrica do rosto/corpo, padrões têxteis vibrantes de significado simbólico codificado (kente, adire), e uma integração entre objeto visual e função ritual/comunitária que não separa "arte" de "vida".
@@ -35,21 +35,13 @@ Tradição visual vasta e diversa (centenas de culturas distintas) frequentement
 * `ceremonial ritual object aesthetic`
 * `expressive geometric body abstraction`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[arte_africana_dalle3.png]]
+![[arte_africana.png]]
 * **Legenda:** [Observação sobre a geometrização da máscara]
-### 2. Gemini (Google Imagen)
-![[arte_africana_imagen.png]]
-* **Legenda:** [Observação sobre a vivacidade do padrão têxtil]
-### 3. Leonardo AI
-![[arte_africana_leonardo.png]]
-* **Legenda:** [Observação sobre a função ritual comunicada]
-### 4. Raphael AI
-![[arte_africana_raphael.png]]
-* **Legenda:** [Observação sobre o poder simbólico transmitido]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A ceremonial wooden mask with stylized geometric facial features, vibrant symbolic textile pattern in the background, ritual ceremonial object aesthetic, expressive geometric abstraction --ar 1:1
 ```
+falta: [imagen, leonardo, raphael]

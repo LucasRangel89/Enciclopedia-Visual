@@ -1,4 +1,4 @@
----
+
 part: Geometria de Cena
 category: Angulos e Pontos de Vista
 tags: [angulo-eye-level, nivel-dos-olhos, cinematografia, realismo, neutralidade]
@@ -8,9 +8,9 @@ aliases:
   - Eye-Level Shot
   - Nível dos Olhos
   - Perspectiva Neutra
-falta: [Gemini, GPT, Leonardo, Raphael]
+falta: [Gemini, GPT, Leonardo, Raphael, imagen, leonardo, raphael]
 draft: false
----
+
 # Ângulo Eye-Level
 
 ## Conceito Técnico
@@ -50,26 +50,13 @@ O ângulo *eye-level* (nível dos olhos) é a configuração padrão de câmera 
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[eye_level_dalle3.png]]
+![[eye_level.png]]
 * **Legenda:** [Observação sobre a simetria horizontal e naturalidade do enquadramento]
 
-### 2. Gemini (Google Imagen)
-![[eye_level_imagen.png]]
-* **Legenda:** [Observação sobre o alinhamento perfeito dos olhos com o eixo da lente]
-
-### 3. Leonardo AI
-![[eye_level_leonardo.png]]
-* **Legenda:** [Observação sobre a imersão na conversa e ausência de viés de escala]
-
-### 4. Raphael AI
-![[eye_level_raphael.png]]
-* **Legenda:** [Observação sobre a clareza fotorrealista e neutralidade da cena]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text

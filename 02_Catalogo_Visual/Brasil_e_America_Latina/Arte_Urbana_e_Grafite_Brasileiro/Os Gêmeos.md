@@ -1,4 +1,4 @@
----
+
 parte: Brasil_e_America_Latina
 categoria: Arte_Urbana_e_Grafite_Brasileiro
 tags:
@@ -11,7 +11,7 @@ status: rascunho
 aliases:
   - Os Gêmeos Style
   - Gustavo e Otávio Pandolfo
----
+
 # Os Gêmeos
 ## Conceito Técnico
 Dupla de grafiteiros paulistanos (Gustavo e Otávio Pandolfo) conhecida por personagens de pele amarela, oníricos e folclóricos, inspirados em contos populares brasileiros e na cultura da periferia paulistana, com composições em grande escala em fachadas de prédios, paleta vibrante mas terrosa, e uma narrativa visual onírica que mistura infância, folclore e crítica social sutil.
@@ -36,32 +36,11 @@ Dupla de grafiteiros paulistanos (Gustavo e Otávio Pandolfo) conhecida por pers
 * `earthy vibrant palette`
 * `whimsical Brazilian urban folklore narrative`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[Gemeos_ChatGPT.png]]
+![[Gemeos.png]]
 * **Legenda:** [Observação sobre o onirismo do personagem]
-### 2. Gemini (Google Imagen)
-![[Gemeos_Gemini.jpg]]
-* **Legenda:** [Observação sobre a escala monumental do mural]
-### 3. Leonardo AI
-![[Gemeos_Leonardo.jpg]]
-* **Legenda:** [Observação sobre a paleta terrosa vibrante]
-### 4. Raphael AI
-![[Gemeos_Raphael.jpg]]
-* **Legenda:** [Observação sobre a narrativa folclórica transmitida]
-### 5. Bing
-![[Gemeos_Bing.jpg]]
-* **Legenda:** [Observação sobre o onirismo do personagem]
-### 6. Reve
-![[Gemeos_Reve.png]]
-* **Legenda:** [Observação sobre a escala monumental do mural]
-### 7. Krea
-![[Gemeos_Krea.jpg]]
-* **Legenda:** [Observação sobre a paleta terrosa vibrante]
-### 8. Manus
-![[Gemeos_Manus.png]]
-* **Legenda:** [Observação sobre a narrativa folclórica transmitida]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome dos Artistas
 ```
@@ -71,3 +50,4 @@ A giant mural on a building facade depicting a yellow-skinned dreamlike folk cha
 ```
 A giant mural on a building facade depicting a yellow-skinned dreamlike folk character, large-scale urban mural composition, earthy vibrant palette, whimsical Brazilian folklore narrative --ar 9:16
 ```
+falta: [Gemini, Leonardo, Raphael, Bing, Reve, Krea, Manus]

@@ -1,4 +1,4 @@
----
+
 part: Geometria de Cena
 category: Regras de Composicao e Subversao
 tags: [subversao-composicao, quebra-de-regra, composicao, desequilibrio-visual]
@@ -8,7 +8,7 @@ aliases:
   - Composição Desequilibrada
   - Quebra Deliberada de Regras
 draft: false
----
+
 # Subversão Deliberada da Composição
 ## Conceito Técnico
 Uso intencional de desequilíbrio, descentralização extrema ou violação das regras clássicas (terços, simetria, espaço negativo convencional) como escolha expressiva — não como erro técnico, mas como ferramenta narrativa.
@@ -37,21 +37,13 @@ Uso intencional de desequilíbrio, descentralização extrema ou violação das 
 * `claustrophobic negative space`
 * `disorienting composition`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[subversao_dalle3.png]]
+![[subversao.png]]
 * **Legenda:** [Observação sobre o grau de desequilíbrio percebido]
-### 2. Gemini (Google Imagen)
-![[subversao_imagen.png]]
-* **Legenda:** [Observação sobre a tensão gerada pelo espaço vazio]
-### 3. Leonardo AI
-![[subversao_leonardo.png]]
-* **Legenda:** [Observação sobre o posicionamento extremo do sujeito]
-### 4. Raphael AI
-![[subversao_raphael.png]]
-* **Legenda:** [Observação sobre a sensação de instabilidade transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A figure pushed to the extreme left edge of the frame, disproportionate empty space pressing from the right, tilted horizon line, harsh unnatural lighting, unsettling and disorienting composition, psychological tension --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

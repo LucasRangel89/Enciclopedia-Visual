@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Cor
 tags: [harmonia-monocromatica, cor, teoria-das-cores, paleta, tom-sobre-tom]
@@ -8,9 +8,9 @@ aliases:
   - Monochromatic Harmony
   - Monocromático
   - Tom sobre Tom
-falta: [GPT, Raphael]
+falta: [GPT, Raphael, Gemini, Leonardo, raphael]
 draft: false
----
+
 # Harmonia Monocromática
 
 ## Conceito Técnico
@@ -50,26 +50,13 @@ A harmonia monocromática é construída a partir de variações de uma única m
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[harmonia_monocromatica_dalle3.png]]
+![[harmonia_monocromatica.png]]
 * **Legenda:** [Observação sobre o rigor e consistência da única matiz escolhida]
 
-### 2. Gemini (Google Imagen)
-![[Harmonia_Monocromatica_Gemini.jpg]]
-* **Legenda:** [Observação sobre o contraste de valor (claro/escuro) dentro do tom]
-
-### 3. Leonardo AI
-![[Harmonia_Monocromatica_Leonardo.jpg]]
-* **Legenda:** [Observação sobre o destaque de texturas por conta da ausência de outras cores]
-
-### 4. Raphael AI
-![[harmonia_monocromatica_raphael.png]]
-* **Legenda:** [Observação sobre o clima imersivo tom-sobre-tom]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```

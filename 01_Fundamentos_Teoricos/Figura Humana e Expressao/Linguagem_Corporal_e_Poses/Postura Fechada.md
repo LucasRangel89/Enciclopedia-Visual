@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Figura Humana e Expressao
 tags: [postura-fechada, linguagem-corporal, figura-humana, poses, expressao]
@@ -9,9 +9,9 @@ aliases:
   - Postura Defensiva
   - Linguagem Protegida
   - Postura Corporal Fechada
-falta: [GPT, Raphael]
+falta: [GPT, Raphael, Gemini, Leonardo, raphael]
 draft: false
----
+
 # Postura Corporal Fechada
 
 ## Conceito Técnico
@@ -51,26 +51,13 @@ A postura corporal fechada manifesta-se pela criação de barreiras anatômicas 
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[postura_fechada_dalle3.png]]
+![[postura_fechada.png]]
 * **Legenda:** [Observação sobre a curvatura do tronco e fechamento dos braços sobre o peito]
 
-### 2. Gemini (Google Imagen)
-![[Postura_Fechada_Gemini.jpg]]
-* **Legenda:** [Observação sobre a carga dramática transmitida pelo olhar esquivo e ombros caídos]
-
-### 3. Leonardo AI
-![[Postura_Fechada_Leonardo.jpg]]
-* **Legenda:** [Observação sobre a integração entre a postura defensiva e as sombras projetadas]
-
-### 4. Raphael AI
-![[postura_fechada_raphael.png]]
-* **Legenda:** [Observação sobre a anatomia da pose encolhida e a tensão muscular visível]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```

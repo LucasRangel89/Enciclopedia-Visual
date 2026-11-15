@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Figura Humana e Expressao
 tags: [postura-aberta, linguagem-corporal, figura-humana, poses, expressao]
@@ -10,9 +10,9 @@ aliases:
   - Linguagem Receptiva
   - Postura Corporal Aberta
   - Postura Aberta
-falta: [GPT, Raphael]
+falta: [GPT, Raphael, Gemini, Leonardo, raphael]
 draft: false
----
+
 # Postura Corporal Aberta
 
 ## Conceito Técnico
@@ -52,26 +52,13 @@ A postura corporal aberta é caracterizada pela exposição consciente do tronco
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[postura_aberta_dalle3.png]]
+![[postura_aberta.png]]
 * **Legenda:** [Observação sobre a naturalidade do alinhamento dos ombros e abertura do tronco]
 
-### 2. Gemini (Google Imagen)
-![[Postura_Aberta_Gemini.jpg]]
-* **Legenda:** [Observação sobre a expressão de confiança e relaxamento muscular da pose]
-
-### 3. Leonardo AI
-![[Postura_Aberta_Leonardo.jpg]]
-* **Legenda:** [Observação sobre a renderização da iluminação no peito exposto e mãos visíveis]
-
-### 4. Raphael AI
-![[postura_aberta_raphael.png]]
-* **Legenda:** [Observação sobre o impacto da postura expansiva na presença de cena do personagem]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```

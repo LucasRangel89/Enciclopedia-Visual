@@ -1,4 +1,4 @@
----
+
 parte: Brasil_e_America_Latina
 categoria: Arte_Urbana_e_Grafite_Brasileiro
 tags:
@@ -10,7 +10,7 @@ status: rascunho
 aliases:
   - Pichação
   - São Paulo Tag Style
----
+
 # Pichação Paulistana
 ## Conceito Técnico
 Estilo de escrita urbana genuinamente brasileiro (distinto do graffiti internacional), caracterizado por letras verticais, alongadas e crípticas inspiradas em runas nórdicas e heavy metal, aplicadas em preto sobre superfícies altas e de difícil acesso — prioriza risco físico e visibilidade territorial sobre legibilidade ou cor.
@@ -35,21 +35,13 @@ Estilo de escrita urbana genuinamente brasileiro (distinto do graffiti internaci
 * `rune-inspired angular script`
 * `territorial urban presence marking`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[pichacao_dalle3.png]]
+![[pichacao.png]]
 * **Legenda:** [Observação sobre a verticalidade da escrita]
-### 2. Gemini (Google Imagen)
-![[pichacao_imagen.png]]
-* **Legenda:** [Observação sobre a ilegibilidade proposital]
-### 3. Leonardo AI
-![[pichacao_leonardo.png]]
-* **Legenda:** [Observação sobre a altura de risco da aplicação]
-### 4. Raphael AI
-![[pichacao_raphael.png]]
-* **Legenda:** [Observação sobre a presença territorial transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A tall building facade covered in vertical cryptic black lettering high above the street, rune-inspired angular script, territorial urban presence marking, gritty São Paulo cityscape --ar 9:16
 ```
+falta: [imagen, leonardo, raphael]

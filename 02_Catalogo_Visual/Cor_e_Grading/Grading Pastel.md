@@ -1,4 +1,4 @@
----
+
 parte: Cor_e_Grading
 categoria: Cor_e_Grading
 tags:
@@ -10,7 +10,7 @@ tem_imagem: false
 status: rascunho
 aliases:
   - Pastel Color Grade
----
+
 # Grading Pastel
 ## Conceito Técnico
 Tratamento de cor que reduz a saturação e eleva a luminosidade geral, resultando em tons suaves e "empoeirados" (mostarda, rosa-velho, verde-sálvia, azul-bebê) — associado a uma estética contemporânea de nostalgia controlada e composição cuidadosamente curada.
@@ -35,21 +35,13 @@ Tratamento de cor que reduz a saturação e eleva a luminosidade geral, resultan
 * `elevated luminosity reduced saturation`
 * `curated contemporary softness`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[grading_pastel_dalle3.png]]
+![[grading_pastel.png]]
 * **Legenda:** [Observação sobre a suavidade dos tons empoeirados]
-### 2. Gemini (Google Imagen)
-![[grading_pastel_imagen.png]]
-* **Legenda:** [Observação sobre a luminosidade elevada]
-### 3. Leonardo AI
-![[grading_pastel_leonardo.png]]
-* **Legenda:** [Observação sobre a curadoria da composição]
-### 4. Raphael AI
-![[grading_pastel_raphael.png]]
-* **Legenda:** [Observação sobre a delicadeza emocional transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A minimalist breakfast table setting with fresh flowers, soft pastel color grade, muted dusty pink and sage tones, elevated luminosity, curated contemporary softness --ar 4:5
 ```
+falta: [imagen, leonardo, raphael]

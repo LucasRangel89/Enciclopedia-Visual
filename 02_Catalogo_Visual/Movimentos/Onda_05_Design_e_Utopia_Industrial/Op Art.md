@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 5 — Design, decoração e utopia industrial
 tags:
@@ -18,7 +18,7 @@ falta:
   - GPT
   - Leonardo
   - Raphael
----
+
 # Op Art
 
 ## Conceito Técnico
@@ -58,27 +58,15 @@ A Op Art (Optical Art), que ganhou projeção mundial nos anos 1960 com artistas
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[op_art_dalle3.png]]
+![[op_art.png]]
 * **Legenda:** [Observação sobre a ilusão de movimento tridimensional em padrão preto e branco]
 
-### 2. Gemini (Google Imagen)
-![[op_art_imagen.png]]
-* **Legenda:** [Observação sobre a precisão matemática da malha geométrica distorcida]
-
-### 3. Leonardo AI
-![[op_art_leonardo.png]]
-* **Legenda:** [Observação sobre o efeito de vibração na retina do observador]
-
-### 4. Raphael AI
-![[op_art_raphael.png]]
-* **Legenda:** [Observação sobre a clareza do padrão hipnótico de Victor Vasarely]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 Op Art optical illusion masterwork, vibrating black and white geometric pattern creating an illusion of 3D spherical motion and depth, Victor Vasarely aesthetic, rigorous mathematical grid, hypnotic warp effect, pristine vector precision --ar 16:9
+falta: [imagen, leonardo, raphael]

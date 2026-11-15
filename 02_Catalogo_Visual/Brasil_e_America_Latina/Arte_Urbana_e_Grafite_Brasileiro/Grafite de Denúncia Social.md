@@ -1,4 +1,4 @@
----
+
 parte: Brasil_e_America_Latina
 categoria: Arte_Urbana_e_Grafite_Brasileiro
 tags:
@@ -10,7 +10,7 @@ tem_imagem: false
 status: rascunho
 aliases:
   - Social Protest Street Art
----
+
 # Grafite de Denúncia Social
 ## Conceito Técnico
 Vertente do grafite brasileiro contemporâneo que usa a parede como veículo direto de crítica política e social — retratos realistas de figuras marginalizadas (crianças de rua, trabalhadores, vítimas de violência estatal) combinados com texto/slogan direto, cores fortes de alto contraste, e uma intenção explícita de confrontar o espectador com desigualdade visível na própria cidade.
@@ -35,21 +35,13 @@ Vertente do grafite brasileiro contemporâneo que usa a parede como veículo dir
 * `high contrast bold color`
 * `urban wall as public protest space`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[grafite_denuncia_dalle3.png]]
+![[grafite_denuncia.png]]
 * **Legenda:** [Observação sobre o realismo do retrato]
-### 2. Gemini (Google Imagen)
-![[grafite_denuncia_imagen.png]]
-* **Legenda:** [Observação sobre a integração do texto de crítica]
-### 3. Leonardo AI
-![[grafite_denuncia_leonardo.png]]
-* **Legenda:** [Observação sobre o contraste cromático forte]
-### 4. Raphael AI
-![[grafite_denuncia_raphael.png]]
-* **Legenda:** [Observação sobre o confronto direto transmitido]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A realistic large-scale mural portrait of a street child on a crumbling wall with bold protest text beside it, direct social critique integration, high contrast bold color, urban wall as public protest space --ar 4:5
 ```
+falta: [imagen, leonardo, raphael]

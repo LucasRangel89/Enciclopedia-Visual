@@ -1,4 +1,4 @@
----
+
 part: Assinaturas_Autorais
 category: Cineastas_e_Estudios
 tags: [ridley-scott, cineasta, assinatura-autoral, ficcao-cientifica]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Ridley Scott Style
 draft: false
----
+
 # Ridley Scott
 ## Conceito Técnico
 Diretor de world-building denso e atmosférico — interiores industriais/futuristas carregados de névoa e feixes de luz volumétrica, contraste entre tecnologia hiper-avançada e sujeira/desgaste ("used future"), silhuetas dramáticas contra luz forte de fundo, escala monumental de arquitetura versus pequenez humana.
@@ -34,20 +34,11 @@ Diretor de world-building denso e atmosférico — interiores industriais/futuri
 * `dramatic silhouette against strong backlight`
 * `richly detailed world-building texture`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[ridley_scott_dalle3.png]]
+![[ridley_scott.png]]
 * **Legenda:** [Observação sobre a densidade da névoa]
-### 2. Gemini (Google Imagen)
-![[ridley_scott_imagen.png]]
-* **Legenda:** [Observação sobre o contraste de escala]
-### 3. Leonardo AI
-![[ridley_scott_leonardo.png]]
-* **Legenda:** [Observação sobre a sujeira/desgaste do ambiente]
-### 4. Raphael AI
-![[ridley_scott_raphael.png]]
-* **Legenda:** [Observação sobre a silhueta contra a luz de fundo]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -57,3 +48,4 @@ A lone figure walking through a rain-soaked industrial megacity street, Ridley S
 ```
 A lone figure walking through a rain-soaked industrial megacity street, dense volumetric fog with dramatic backlighting, used-future industrial grime and rust, monumental architecture dwarfing the human figure, richly detailed world-building --ar 21:9
 ```
+falta: [imagen, leonardo, raphael]

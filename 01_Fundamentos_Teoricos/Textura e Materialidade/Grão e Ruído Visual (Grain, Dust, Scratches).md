@@ -1,4 +1,4 @@
----
+
 part: Textura e Materialidade
 category: Textura e Materialidade
 tags: [grao-visual, ruido-visual, textura, imperfeicao-analogica]
@@ -9,7 +9,7 @@ aliases:
   - Visual Noise
   - Analog Imperfection
 draft: false
----
+
 # Grão e Ruído Visual (Grain, Dust, Scratches)
 ## Conceito Técnico
 Camada de imperfeição sobreposta à imagem — grão de filme (variação aleatória de densidade de prata), poeira, arranhões, vinhetagem — resultado de processos analógicos ou aplicada deliberadamente como assinatura estética.
@@ -38,21 +38,13 @@ Camada de imperfeição sobreposta à imagem — grão de filme (variação alea
 * `weathered film look`
 * `nostalgic grain overlay`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[grao_ruido_dalle3.png]]
+![[grao_ruido.png]]
 * **Legenda:** [Observação sobre a densidade do grão]
-### 2. Gemini (Google Imagen)
-![[grao_ruido_imagen.png]]
-* **Legenda:** [Observação sobre a distribuição de poeira e arranhões]
-### 3. Leonardo AI
-![[grao_ruido_leonardo.png]]
-* **Legenda:** [Observação sobre a fidelidade à estética analógica]
-### 4. Raphael AI
-![[grao_ruido_raphael.png]]
-* **Legenda:** [Observação sobre a sensação de nostalgia transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 Vintage photograph of an empty diner at night, visible fine film grain, subtle dust and scratches overlay, warm nostalgic color tones, analog imperfection, memory-like quality --ar 3:2
 ```
+falta: [imagen, leonardo, raphael]

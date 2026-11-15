@@ -1,11 +1,11 @@
----
+
 parte: "Publicidade_por_Decadas"
 categoria: "Publicidade_por_Decadas"
 tags: [publicidade-anos-1970, estetica-terrosa, decada]
 tem_imagem: true
 status: "rascunho"
 aliases: ["Publicidade Anos 1970", "1970s Advertising"]
----
+
 # Anos 1970 — Terroso e Autêntico
 ## Conceito Técnico
 Publicidade caracterizada por paleta terrosa e desbotada (marrom, laranja queimado, amarelo mostarda, verde-oliva), tipografia com serifa arredondada ou display *groovy*, fotografia com grão visível e luz natural quente, e uma retórica de autenticidade "natural" e "orgânica" em reação ao artificialismo plástico da década anterior.
@@ -30,21 +30,13 @@ Publicidade caracterizada por paleta terrosa e desbotada (marrom, laranja queima
 * `warm natural grain photography`
 * `organic authentic product imagery`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[decada_1970_dalle3.png]]
+![[decada_1970.png]]
 * **Legenda:** [Observação sobre o desbotamento da paleta terrosa]
-### 2. Gemini (Google Imagen)
-![[decada_1970_imagen.png]]
-* **Legenda:** [Observação sobre o grão da fotografia]
-### 3. Leonardo AI
-![[decada_1970_leonardo.png]]
-* **Legenda:** [Observação sobre a fidelidade à tipografia groovy]
-### 4. Raphael AI
-![[decada_1970_raphael.png]]
-* **Legenda:** [Observação sobre a autenticidade transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A 1970s advertisement for natural granola featuring warm earthy tones and grainy photography, earthy faded palette of brown and mustard, rounded groovy typography, organic authentic imagery --ar 3:4
 ```
+falta: [imagen, leonardo, raphael]

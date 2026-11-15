@@ -1,4 +1,4 @@
----
+
 part: Textura e Materialidade
 category: Textura e Materialidade
 tags: [superficies-artificiais, textura, materialidade, fisicalidade]
@@ -8,7 +8,7 @@ aliases:
   - Artificial Surfaces
   - Texturas Sintéticas
 draft: false
----
+
 # Superfícies Artificiais
 ## Conceito Técnico
 Texturas provenientes de manufatura humana — metal escovado, vidro, plástico injetado, tecido sintético, concreto polido — caracterizadas por padrões regulares, repetição controlada e acabamento previsível.
@@ -37,21 +37,13 @@ Texturas provenientes de manufatura humana — metal escovado, vidro, plástico 
 * `cold precise surface`
 * `reflective artificial material`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[superficies_artificiais_dalle3.png]]
+![[superficies_artificiais.png]]
 * **Legenda:** [Observação sobre a precisão do acabamento]
-### 2. Gemini (Google Imagen)
-![[superficies_artificiais_imagen.png]]
-* **Legenda:** [Observação sobre a regularidade do padrão]
-### 3. Leonardo AI
-![[superficies_artificiais_leonardo.png]]
-* **Legenda:** [Observação sobre a sensação de frieza técnica]
-### 4. Raphael AI
-![[superficies_artificiais_raphael.png]]
-* **Legenda:** [Observação sobre a qualidade das reflexões]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 Close-up of a futuristic device, brushed metal surface with precise machined edges, polished glass reflections, uniform manufactured finish, cold clinical studio lighting, sci-fi product photography --ar 1:1
 ```
+falta: [imagen, leonardo, raphael]

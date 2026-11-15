@@ -1,4 +1,4 @@
----
+
 parte: Fotografia
 categoria: Fotografia
 tags:
@@ -11,7 +11,7 @@ status: rascunho
 aliases:
   - Fashion Photography
   - Fashion Editorial
----
+
 # Moda / Editorial de Moda
 ## Conceito Técnico
 Fotografia comercial/artística voltada à apresentação de vestuário e estilo, combinando composição e iluminação altamente estilizadas com narrativa visual implícita (a roupa conta uma história de identidade/aspiração), poses deliberadamente teatrais ou dinâmicas, e um alto padrão de acabamento pós-produção.
@@ -38,21 +38,13 @@ Fotografia comercial/artística voltada à apresentação de vestuário e estilo
 * `aspirational styling narrative`
 * `editorial magazine quality`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[moda_editorial_dalle3.png]]
+![[moda_editorial.png]]
 * **Legenda:** [Observação sobre a teatralidade da pose]
-### 2. Gemini (Google Imagen)
-![[moda_editorial_imagen.png]]
-* **Legenda:** [Observação sobre o glamour da iluminação]
-### 3. Leonardo AI
-![[moda_editorial_leonardo.png]]
-* **Legenda:** [Observação sobre o polimento da pós-produção]
-### 4. Raphael AI
-![[moda_editorial_raphael.png]]
-* **Legenda:** [Observação sobre a qualidade editorial geral]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A model in avant-garde couture posed dramatically against an urban backdrop, dynamic editorial fashion pose, glamorous stylized lighting, high-fashion polished finish, aspirational magazine quality --ar 3:4
 ```
+falta: [imagen, leonardo, raphael]

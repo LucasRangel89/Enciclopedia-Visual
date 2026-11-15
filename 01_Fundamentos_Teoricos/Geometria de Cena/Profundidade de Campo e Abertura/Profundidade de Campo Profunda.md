@@ -1,4 +1,4 @@
----
+
 part: Geometria de Cena
 category: Profundidade de Campo e Abertura
 tags: [profundidade-de-campo, dof-profunda, abertura, composicao, fotografia]
@@ -9,7 +9,7 @@ aliases:
   - DOF Profunda
   - Pan Focus
 draft: false
----
+
 # Profundidade de Campo Profunda
 ## Conceito Técnico
 Profundidade de campo profunda ocorre com aberturas pequenas (f/11 a f/22), mantendo nítido desde o primeiro plano até o fundo. Todos os elementos da cena competem igualmente pela atenção do observador.
@@ -38,21 +38,13 @@ Profundidade de campo profunda ocorre com aberturas pequenas (f/11 a f/22), mant
 * `sharp foreground to background`
 * `documentary focus`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[dof_profunda_dalle3.png]]
+![[dof_profunda.png]]
 * **Legenda:** [Observação sobre a nitidez uniforme entre as camadas]
-### 2. Gemini (Google Imagen)
-![[dof_profunda_imagen.png]]
-* **Legenda:** [Observação sobre a distribuição de detalhe pela cena]
-### 3. Leonardo AI
-![[dof_profunda_leonardo.png]]
-* **Legenda:** [Observação sobre a sensação documental gerada]
-### 4. Raphael AI
-![[dof_profunda_raphael.png]]
-* **Legenda:** [Observação sobre a clareza do horizonte distante]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 Landscape photography, deep depth of field shot at f/16, a sprawling mountain village with every layer in sharp focus from foreground wildflowers to distant peaks, golden hour light, expansive documentary composition, shot on 24mm lens --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

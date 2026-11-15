@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Cor
 tags: [harmonia-analoga, cor, teoria-das-cores, paleta, coesao-visual]
@@ -8,9 +8,9 @@ aliases:
   - Analogous Colors
   - Cores Análogas
   - Harmonia Vizinha
-falta: [GPT, Raphael]
+falta: [GPT, Raphael, Gemini, Leonardo, raphael]
 draft: false
----
+
 # Harmonia Análoga
 
 ## Conceito Técnico
@@ -50,26 +50,13 @@ Consiste no uso de 3 a 5 cores que residem lado a lado no círculo cromático (e
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[harmonia_analoga_dalle3.png]]
+![[harmonia_analoga.png]]
 * **Legenda:** [Observação sobre a suavidade na transição entre tons vizinhos]
 
-### 2. Gemini (Google Imagen)
-![[Harmonia_Analoga_Gemini.jpg]]
-* **Legenda:** [Observação sobre a naturalidade e coesão dos tons orgânicos]
-
-### 3. Leonardo AI
-![[Harmonia_Analoga_Leonardo.jpg]]
-* **Legenda:** [Observação sobre a gradação cromática na iluminação]
-
-### 4. Raphael AI
-![[harmonia_analoga_raphael.png]]
-* **Legenda:** [Observação sobre a ausência de choques cromáticos e sensação de calma]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```

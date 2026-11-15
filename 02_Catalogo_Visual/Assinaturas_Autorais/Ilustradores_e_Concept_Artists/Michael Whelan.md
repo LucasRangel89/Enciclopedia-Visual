@@ -1,4 +1,4 @@
----
+
 parte: Assinaturas_Autorais
 categoria: Ilustradores_e_Concept_Artists
 tags:
@@ -10,7 +10,7 @@ tem_imagem: true
 status: rascunho
 aliases:
   - Michael Whelan Style
----
+
 # Michael Whelan
 ## Conceito Técnico
 Ilustrador de capas de ficção científica/fantasia conhecido por realismo pictórico luminoso, composições que equilibram figura humana com paisagens cósmicas/fantásticas vastas, luz atmosférica dramática (frequentemente múltiplas fontes de luz coloridas), texturas de superfície extremamente detalhadas (escamas, metal, tecido), e um equilíbrio entre grandiosidade épica e intimidade do sujeito central.
@@ -37,20 +37,11 @@ Ilustrador de capas de ficção científica/fantasia conhecido por realismo pict
 * `richly detailed surface textures`
 * `epic yet personal composition`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. Bing
-![[05_Anexos/Assinaturas_Autorais/Ilustradores_e_Concept_Artists/Whelan_Bing.jpg]]
+![[05_Anexos/Assinaturas_Autorais/Ilustradores_e_Concept_Artists/Whelan.jpg]]
 * **Legenda:** [Observação sobre a luminosidade da cena]
-### 2. Gemini (Google Imagen)
-![[Whelan_Gemini.jpg]]
-* **Legenda:** [Observação sobre o equilíbrio figura/paisagem]
-### 3. Leonardo AI
-![[Whelan_Leonardo.jpg]]
-* **Legenda:** [Observação sobre o detalhe das texturas de superfície]
-### 4. Manus
-![[Whelan_Manus.png]]
-* **Legenda:** [Observação sobre a dramaticidade das múltiplas luzes]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -60,3 +51,4 @@ A lone explorer standing before a glowing alien portal in a vast cosmic landscap
 ```
 A lone explorer standing before a glowing alien portal in a vast cosmic landscape, luminous painterly realism, dramatic atmospheric multi-colored lighting, richly detailed surface textures, epic yet intimate composition --ar 3:4
 ```
+falta: [Gemini, Leonardo, Manus]

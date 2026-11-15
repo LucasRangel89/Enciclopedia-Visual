@@ -1,4 +1,4 @@
----
+
 part: Óptica & Lentes
 category: Tipos de Bokeh
 tags: [bokeh-anamorfico, bokeh-oval, optica, lente-anamorfica]
@@ -9,7 +9,7 @@ aliases:
   - Oval Bokeh
   - Cat's Eye Bokeh
 draft: false
----
+
 # Bokeh Oval / Anamórfico
 ## Conceito Técnico
 Desfoque de fundo com formato oval/elíptico em vez de circular, característico de lentes anamórficas cinematográficas — frequentemente acompanhado de flare horizontal azul.
@@ -37,21 +37,13 @@ Desfoque de fundo com formato oval/elíptico em vez de circular, característico
 * `stretched bokeh highlights`
 * `anamorphic lens character`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[bokeh_anamorfico_dalle3.png]]
+![[bokeh_anamorfico.png]]
 * **Legenda:** [Observação sobre o alongamento horizontal das manchas]
-### 2. Gemini (Google Imagen)
-![[bokeh_anamorfico_imagen.png]]
-* **Legenda:** [Observação sobre o flare azul associado]
-### 3. Leonardo AI
-![[bokeh_anamorfico_leonardo.png]]
-* **Legenda:** [Observação sobre a sensação de "cinema" transmitida]
-### 4. Raphael AI
-![[bokeh_anamorfico_raphael.png]]
-* **Legenda:** [Observação sobre a consistência do formato oval]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 Cinematic wide shot of a figure walking through a rain-soaked street at night, oval anamorphic bokeh from distant neon signs, horizontal blue lens flare streaks, widescreen cinematic composition, moody blue-orange color grade --ar 21:9
 ```
+falta: [imagen, leonardo, raphael]

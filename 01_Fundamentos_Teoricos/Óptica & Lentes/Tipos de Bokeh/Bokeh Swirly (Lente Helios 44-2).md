@@ -1,4 +1,4 @@
----
+
 part: Óptica & Lentes
 category: Tipos de Bokeh
 tags: [bokeh-swirly, lente-helios, optica, desfoque-de-fundo]
@@ -9,7 +9,7 @@ aliases:
   - Helios Bokeh
   - Bokeh Espiral
 draft: false
----
+
 # Bokeh Swirly (Lente Helios 44-2)
 ## Conceito Técnico
 Desfoque de fundo que gira em espiral ao redor do sujeito, causado por aberração astigmática de lentes específicas — a mais famosa é a Helios 44-2, lente soviética vintage.
@@ -37,21 +37,13 @@ Desfoque de fundo que gira em espiral ao redor do sujeito, causado por aberraç�
 * `dreamlike background distortion`
 * `hypnotic swirl blur`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[bokeh_swirly_dalle3.png]]
+![[bokeh_swirly.png]]
 * **Legenda:** [Observação sobre a intensidade do giro espiral]
-### 2. Gemini (Google Imagen)
-![[bokeh_swirly_imagen.png]]
-* **Legenda:** [Observação sobre a fidelidade ao efeito Helios]
-### 3. Leonardo AI
-![[bokeh_swirly_leonardo.png]]
-* **Legenda:** [Observação sobre a atmosfera nostálgica gerada]
-### 4. Raphael AI
-![[bokeh_swirly_raphael.png]]
-* **Legenda:** [Observação sobre a simetria do padrão espiral]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 Vintage portrait of a woman among autumn trees, swirly spiral bokeh rotating around the subject, Helios 44-2 lens character, dreamy nostalgic atmosphere, warm film-like color tones --ar 3:2
 ```
+falta: [imagen, leonardo, raphael]

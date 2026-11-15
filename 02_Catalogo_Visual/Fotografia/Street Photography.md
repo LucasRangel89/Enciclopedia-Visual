@@ -1,4 +1,4 @@
----
+
 parte: Fotografia
 categoria: Fotografia
 tags:
@@ -11,7 +11,7 @@ status: rascunho
 aliases:
   - Fotografia de Rua
   - Candid Street Photography
----
+
 # Street Photography
 ## Conceito Técnico
 Fotografia documental não-encenada de momentos espontâneos da vida pública urbana, capturada discretamente (frequentemente com lentes de distância focal normal, 35-50mm), priorizando o momento decisivo — o instante exato de significado narrativo dentro do fluxo caótico da rua — sobre a composição cuidadosamente planejada.
@@ -39,21 +39,13 @@ Fotografia documental não-encenada de momentos espontâneos da vida pública ur
 * `natural available light`
 * `authentic unstaged humanity`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[street_photography_dalle3.png]]
+![[street_photography.png]]
 * **Legenda:** [Observação sobre a naturalidade da interação capturada]
-### 2. Gemini (Google Imagen)
-![[street_photography_imagen.png]]
-* **Legenda:** [Observação sobre a discrição do enquadramento]
-### 3. Leonardo AI
-![[street_photography_leonardo.png]]
-* **Legenda:** [Observação sobre a autenticidade da luz disponível]
-### 4. Raphael AI
-![[street_photography_raphael.png]]
-* **Legenda:** [Observação sobre a força do momento decisivo]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A street vendor and a passerby caught in an unplanned candid interaction on a busy city sidewalk, decisive candid moment, natural available light, discreet observational framing, authentic unstaged urban documentary --ar 3:2
 ```
+falta: [imagen, leonardo, raphael]

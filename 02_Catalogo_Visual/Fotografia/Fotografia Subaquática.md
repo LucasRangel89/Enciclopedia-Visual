@@ -1,4 +1,4 @@
----
+
 parte: Fotografia
 categoria: Fotografia
 tags:
@@ -9,7 +9,7 @@ tem_imagem: false
 status: rascunho
 aliases:
   - Underwater Photography
----
+
 # Fotografia Subaquática
 ## Conceito Técnico
 Fotografia capturada abaixo da superfície da água, caracterizada por difusão azul-esverdeada progressiva da cor com a profundidade (a água absorve comprimentos de onda vermelhos primeiro), partículas suspensas visíveis, raios de luz solar refratados entrando de cima, e movimento fluido de cabelo/tecido/organismos na correnteza.
@@ -37,21 +37,13 @@ Fotografia capturada abaixo da superfície da água, caracterizada por difusão 
 * `submerged dreamlike silence`
 * `aquatic light rays`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[subaquatica_dalle3.png]]
+![[subaquatica.png]]
 * **Legenda:** [Observação sobre a difusão azul-esverdeada]
-### 2. Gemini (Google Imagen)
-![[subaquatica_imagen.png]]
-* **Legenda:** [Observação sobre os raios de luz refratados]
-### 3. Leonardo AI
-![[subaquatica_leonardo.png]]
-* **Legenda:** [Observação sobre a fluidez do movimento capturado]
-### 4. Raphael AI
-![[subaquatica_raphael.png]]
-* **Legenda:** [Observação sobre a sensação de suspensão/ausência de peso]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A swimmer suspended weightlessly underwater with hair floating freely, progressive blue-green color diffusion, refracted sunbeams filtering from above, suspended particles, dreamlike weightless quality --ar 4:5
 ```
+falta: [imagen, leonardo, raphael]

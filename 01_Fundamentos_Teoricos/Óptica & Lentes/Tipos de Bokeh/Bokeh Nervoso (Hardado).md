@@ -1,4 +1,4 @@
----
+
 part: Óptica & Lentes
 category: Tipos de Bokeh
 tags: [bokeh-nervoso, bokeh-hardado, optica, desfoque-de-fundo]
@@ -9,7 +9,7 @@ aliases:
   - Nervous Bokeh
   - Onion Ring Bokeh
 draft: false
----
+
 # Bokeh Nervoso (Hardado)
 ## Conceito Técnico
 Desfoque de fundo com bordas duras, anéis concêntricos visíveis dentro dos círculos ("onion rings") e textura agitada, típico de lentes espelhadas (catadióptricas) ou lentes antigas mal corrigidas.
@@ -38,21 +38,13 @@ Desfoque de fundo com bordas duras, anéis concêntricos visíveis dentro dos c�
 * `agitated background blur`
 * `ring bokeh`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[bokeh_nervoso_dalle3.png]]
+![[bokeh_nervoso.png]]
 * **Legenda:** [Observação sobre a visibilidade dos anéis concêntricos]
-### 2. Gemini (Google Imagen)
-![[bokeh_nervoso_imagen.png]]
-* **Legenda:** [Observação sobre a dureza das bordas]
-### 3. Leonardo AI
-![[bokeh_nervoso_leonardo.png]]
-* **Legenda:** [Observação sobre o desconforto visual gerado]
-### 4. Raphael AI
-![[bokeh_nervoso_raphael.png]]
-* **Legenda:** [Observação sobre a fidelidade ao efeito de lente espelhada]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 Night portrait with distant city lights, busy nervous bokeh with visible onion-ring texture, hard-edged background blur from a mirror lens, subtle unsettling atmosphere, sharp subject in foreground --ar 3:2
 ```
+falta: [imagen, leonardo, raphael]

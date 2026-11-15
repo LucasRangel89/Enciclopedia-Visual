@@ -1,4 +1,4 @@
----
+
 part: Arquitetura_Cenario_e_Personagem
 category: Estilos_Arquitetonicos_Chave
 tags: [arquitetura-barroca, estilo-arquitetonico, ornamentacao-dramatica]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Baroque Architecture
 draft: false
----
+
 # Arquitetura Barroca
 ## Conceito Técnico
 Estilo do século XVII-XVIII que exagera a linguagem clássica renascentista em direção ao movimento, drama e ornamentação excessiva — curvas dinâmicas, colunas torsas, esculturas integradas à arquitetura em movimento aparente, e um uso teatral de luz e sombra para criar espetáculo emocional a serviço do poder religioso/monárquico.
@@ -32,21 +32,13 @@ Estilo do século XVII-XVIII que exagera a linguagem clássica renascentista em 
 * `theatrical light and shadow`
 * `excessive decorative grandeur`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[barroca_dalle3.png]]
+![[barroca.png]]
 * **Legenda:** [Observação sobre o dinamismo das curvas]
-### 2. Gemini (Google Imagen)
-![[barroca_imagen.png]]
-* **Legenda:** [Observação sobre a teatralidade da luz]
-### 3. Leonardo AI
-![[barroca_leonardo.png]]
-* **Legenda:** [Observação sobre a densidade da ornamentação]
-### 4. Raphael AI
-![[barroca_raphael.png]]
-* **Legenda:** [Observação sobre o espetáculo emocional transmitido]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 An ornate baroque church interior with dramatic golden ornamentation and dynamic curved columns, theatrical light streaming from above, excessive decorative grandeur --ar 9:16
 ```
+falta: [imagen, leonardo, raphael]

@@ -1,4 +1,4 @@
----
+
 part: Arquitetura_Cenario_e_Personagem
 category: Psicologia_dos_Interiores
 tags: [interior-de-poder, psicologia-do-interior, intimidacao]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Power Interior
 draft: false
----
+
 # Interior de Poder
 ## Conceito Técnico
 Espaço interior projetado deliberadamente para comunicar autoridade e intimidação a quem entra — escala vertical exagerada (pé-direito muito alto), materiais nobres e escuros (madeira maciça, mármore, couro), simetria formal rigorosa, e um posicionamento espacial que força o visitante a atravessar distância significativa antes de chegar à figura de poder.
@@ -33,21 +33,13 @@ Espaço interior projetado deliberadamente para comunicar autoridade e intimida�
 * `rigorous formal symmetry`
 * `psychological control through architecture`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[interior_poder_dalle3.png]]
+![[interior_poder.png]]
 * **Legenda:** [Observação sobre a escala vertical exagerada]
-### 2. Gemini (Google Imagen)
-![[interior_poder_imagen.png]]
-* **Legenda:** [Observação sobre a nobreza dos materiais]
-### 3. Leonardo AI
-![[interior_poder_leonardo.png]]
-* **Legenda:** [Observação sobre a simetria formal]
-### 4. Raphael AI
-![[interior_poder_raphael.png]]
-* **Legenda:** [Observação sobre a intimidação transmitida pelo percurso]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A vast executive office with towering ceilings, dark marble and mahogany surfaces, rigorous formal symmetry, a small figure approaching the distant desk, intimidating power interior --ar 9:16
 ```
+falta: [imagen, leonardo, raphael]

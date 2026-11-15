@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 7 — Tradições asiáticas
 tags:
@@ -18,7 +18,7 @@ falta:
   - GPT
   - Leonardo
   - Raphael
----
+
 # Sumi-e
 
 ## Conceito Técnico
@@ -58,27 +58,15 @@ O Sumi-e (ou Suibokuga) é a arte tradicional oriental de **pintura monocromáti
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[sumi_e_dalle3.png]]
+![[sumi_e.png]]
 * **Legenda:** [Observação sobre as lavagens de tinta preta e diluição fluida em papel de arroz]
 
-### 2. Gemini (Google Imagen)
-![[sumi_e_imagen.png]]
-* **Legenda:** [Observação sobre a economia de traços e espaço negativo zen]
-
-### 3. Leonardo AI
-![[sumi_e_leonardo.png]]
-* **Legenda:** [Observação sobre a textura absorvente do papel e gradientes de cinza]
-
-### 4. Raphael AI
-![[sumi_e_raphael.png]]
-* **Legenda:** [Observação sobre a captura do espírito essencial do bambu ou montanha]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 Sumi-e ink wash painting of a solitary pine tree on a misty mountain cliff, Suibokuga monochrome style, fluid black ink brushstrokes, Zen minimalist philosophy, absorbent rice paper texture, vast meditative negative space, spontaneous mastery --ar 16:9
+falta: [imagen, leonardo, raphael]

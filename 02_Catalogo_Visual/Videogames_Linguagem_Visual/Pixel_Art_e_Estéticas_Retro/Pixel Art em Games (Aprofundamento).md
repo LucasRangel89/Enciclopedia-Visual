@@ -1,11 +1,11 @@
----
+
 parte: "Videogames_Linguagem_Visual"
 categoria: "Videogames_Linguagem_Visual"
 tags: [pixel-art, videogame, sprite, estetica-retro]
 tem_imagem: true
 status: "rascunho"
 aliases: ["Pixel Art de Games", "Sprite Art"]
----
+
 # Pixel Art em Games (Aprofundamento)
 ## Conceito Técnico
 Aplicação da pixel art especificamente ao contexto de jogos eletrônicos, onde a resolução não é escolha estética isolada mas resultado histórico de limitação de hardware (8-bit NES, 16-bit SNES/Genesis) posteriormente adotado como linguagem deliberada — cada era tem paleta de cores limitada característica, técnicas de dithering para simular gradiente, e um vocabulário de "sprite" (personagem animado em poucos quadros) distinto da ilustração pixelada estática.
@@ -31,21 +31,13 @@ Aplicação da pixel art especificamente ao contexto de jogos eletrônicos, onde
 * `sprite-based character animation`
 * `retro console aesthetic`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[pixel_games_dalle3.png]]
+![[pixel_games.png]]
 * **Legenda:** [Observação sobre a fidelidade à paleta da era]
-### 2. Gemini (Google Imagen)
-![[pixel_games_imagen.png]]
-* **Legenda:** [Observação sobre o dithering do gradiente]
-### 3. Leonardo AI
-![[pixel_games_leonardo.png]]
-* **Legenda:** [Observação sobre a legibilidade do sprite]
-### 4. Raphael AI
-![[pixel_games_raphael.png]]
-* **Legenda:** [Observação sobre a nostalgia retrô transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A knight sprite character standing in a 16-bit platformer level, limited SNES-era color palette, dithering gradient shading, retro console pixel art aesthetic --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

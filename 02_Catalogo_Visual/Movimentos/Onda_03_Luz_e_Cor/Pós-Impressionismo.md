@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 3 — A luz e a cor se libertam (fim séc. XIX)
 tags:
@@ -18,7 +18,7 @@ falta:
   - GPT
   - Leonardo
   - Raphael
----
+
 # Pós-Impressionismo (Van Gogh, Cézanne)
 
 ## Conceito Técnico
@@ -58,27 +58,15 @@ O Pós-Impressionismo (1886–1905) agrupa artistas que partiram das conquistas 
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[pos_impressionismo_dalle3.png]]
+![[pos_impressionismo.png]]
 * **Legenda:** [Observação sobre o impasto espesso e ondulações dinâmicas no estilo Van Gogh]
 
-### 2. Gemini (Google Imagen)
-![[pos_impressionismo_imagen.png]]
-* **Legenda:** [Observação sobre a estruturação geométrica dos planos à maneira de Cézanne]
-
-### 3. Leonardo AI
-![[pos_impressionismo_leonardo.png]]
-* **Legenda:** [Observação sobre a força emocional das cores complementares vibrantes]
-
-### 4. Raphael AI
-![[pos_impressionismo_raphael.png]]
-* **Legenda:** [Observação sobre a textura de tinta oleosa em relevo na tela]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 Post-Impressionism oil painting of a wheat field under a swirling turbulent night sky, thick impasto paint texture, swirling expressive brushwork, Vincent van Gogh aesthetic, emotional vibrant colors, pulsating energetic atmosphere, heavy palette knife marks --ar 16:9
+falta: [imagen, leonardo, raphael]

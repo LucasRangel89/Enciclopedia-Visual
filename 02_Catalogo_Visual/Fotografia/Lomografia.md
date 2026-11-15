@@ -1,4 +1,4 @@
----
+
 parte: Fotografia
 categoria: Fotografia
 tags:
@@ -11,7 +11,7 @@ status: rascunho
 aliases:
   - Lomography
   - Lomo
----
+
 # Lomografia
 ## Conceito Técnico
 Estilo fotográfico derivado de câmeras soviéticas baratas (LOMO LC-A), caracterizado por vinhetagem pesada nas bordas, saturação de cor exagerada e imprevisível, foco impreciso propositalmente aceito, e uma filosofia de "não pensar, apenas disparar" que valoriza o acidente sobre o controle técnico.
@@ -39,21 +39,13 @@ Estilo fotográfico derivado de câmeras soviéticas baratas (LOMO LC-A), caract
 * `unpredictable light leaks`
 * `cheap film camera character`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[lomografia_dalle3.png]]
+![[lomografia.png]]
 * **Legenda:** [Observação sobre a intensidade da vinhetagem]
-### 2. Gemini (Google Imagen)
-![[lomografia_imagen.png]]
-* **Legenda:** [Observação sobre a imprevisibilidade da saturação]
-### 3. Leonardo AI
-![[lomografia_leonardo.png]]
-* **Legenda:** [Observação sobre a suavidade do foco impreciso]
-### 4. Raphael AI
-![[lomografia_raphael.png]]
-* **Legenda:** [Observação sobre a energia espontânea da cena]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A candid street scene of friends laughing at an outdoor cafe, heavy dark vignetting, oversaturated unpredictable color shift, spontaneous snapshot aesthetic, plastic lens softness at the edges --ar 1:1
 ```
+falta: [imagen, leonardo, raphael]

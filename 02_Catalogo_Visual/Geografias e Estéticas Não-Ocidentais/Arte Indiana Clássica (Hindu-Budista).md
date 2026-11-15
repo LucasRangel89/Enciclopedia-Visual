@@ -1,4 +1,4 @@
----
+
 parte: Geografias e Estéticas Não-Ocidentais
 categoria: Geografias e Estéticas Não-Ocidentais
 tags:
@@ -9,7 +9,7 @@ tem_imagem: false
 status: rascunho
 aliases:
   - Classical Hindu-Buddhist Art
----
+
 # Arte Indiana Clássica (Hindu-Budista)
 ## Conceito Técnico
 Tradição escultórica e pictórica ligada a templos hindus e budistas, caracterizada por figuras divinas com múltiplos braços/atributos simbólicos, proporção corporal idealizada e sinuosa (*tribhanga*), cores vibrantes de significado ritual codificado (açafrão, vermelho, dourado), e uma densidade ornamental que cobre cada superfície disponível.
@@ -34,21 +34,13 @@ Tradição escultórica e pictórica ligada a templos hindus e budistas, caracte
 * `vibrant ritual color symbolism (saffron, red, gold)`
 * `dense ornamental temple carving`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[arte_indiana_classica_dalle3.png]]
+![[arte_indiana_classica.png]]
 * **Legenda:** [Observação sobre a densidade da ornamentação]
-### 2. Gemini (Google Imagen)
-![[arte_indiana_classica_imagen.png]]
-* **Legenda:** [Observação sobre a sinuosidade da postura]
-### 3. Leonardo AI
-![[arte_indiana_classica_leonardo.png]]
-* **Legenda:** [Observação sobre a vivacidade das cores rituais]
-### 4. Raphael AI
-![[arte_indiana_classica_raphael.png]]
-* **Legenda:** [Observação sobre a transcendência transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A multi-armed Hindu deity in sinuous tribhanga posture holding symbolic attributes, vibrant ritual saffron and gold colors, dense ornamental temple carving surrounding the figure --ar 3:4
 ```
+falta: [imagen, leonardo, raphael]

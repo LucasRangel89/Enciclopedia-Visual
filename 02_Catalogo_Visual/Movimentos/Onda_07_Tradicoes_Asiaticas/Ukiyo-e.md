@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 7 — Tradições asiáticas
 tags:
@@ -18,7 +18,7 @@ falta:
   - GPT
   - Leonardo
   - Raphael
----
+
 # Ukiyo-e
 
 ## Conceito Técnico
@@ -58,27 +58,15 @@ O Ukiyo-e ("Imagens do Mundo Flutuante") é o tradicional gênero de **xilogravu
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[ukiyo_e_dalle3.png]]
+![[ukiyo_e.png]]
 * **Legenda:** [Observação sobre as linhas de tinta preta e gradientes bokashi tradicionais]
 
-### 2. Gemini (Google Imagen)
-![[ukiyo_e_imagen.png]]
-* **Legenda:** [Observação sobre a textura de papel de arroz e composição plana clássica]
-
-### 3. Leonardo AI
-![[ukiyo_e_leonardo.png]]
-* **Legenda:** [Observação sobre o estilo de Katsushika Hokusai em paisagens nipônicas]
-
-### 4. Raphael AI
-![[ukiyo_e_raphael.png]]
-* **Legenda:** [Observação sobre a elegância do mundo flutuante e pureza das cores]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 Ukiyo-e traditional woodblock print of a majestic snow-capped mountain behind blooming cherry blossoms, Katsushika Hokusai aesthetic, clean black ink outlines, flat perspective composition, bokashi color gradient shading, traditional Japanese rice paper texture --ar 16:9
+falta: [imagen, leonardo, raphael]

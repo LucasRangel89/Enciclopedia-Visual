@@ -1,4 +1,4 @@
----
+
 part: Assinaturas_Autorais
 category: Cineastas_e_Estudios
 tags: [tarkovsky, cineasta, assinatura-autoral, cinema-contemplativo]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Tarkovsky Style
 draft: false
----
+
 # Andrei Tarkovsky
 ## Conceito Técnico
 Cineasta de longas tomadas contemplativas, composições com elementos naturais (água, fogo, vento movendo cortinas/grama) como presença quase espiritual, paleta desaturada tendendo a sépia/verde-oliva, arquitetura em ruína ou decadência poética, e um ritmo visual deliberadamente lento que trata o tempo como material da imagem.
@@ -34,20 +34,11 @@ Cineasta de longas tomadas contemplativas, composições com elementos naturais 
 * `meditative stillness`
 * `time as visual material`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[tarkovsky_dalle3.png]]
+![[tarkovsky.png]]
 * **Legenda:** [Observação sobre a atmosfera contemplativa]
-### 2. Gemini (Google Imagen)
-![[tarkovsky_imagen.png]]
-* **Legenda:** [Observação sobre a paleta sépia/verde-oliva]
-### 3. Leonardo AI
-![[tarkovsky_leonardo.png]]
-* **Legenda:** [Observação sobre o movimento dos elementos naturais]
-### 4. Raphael AI
-![[tarkovsky_raphael.png]]
-* **Legenda:** [Observação sobre a decadência poética do ambiente]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -57,3 +48,4 @@ An abandoned room with water slowly dripping and curtains moving in the wind, Ta
 ```
 An abandoned room with water slowly dripping and curtains moving gently in the wind, desaturated sepia and olive-green palette, poetic architectural decay, meditative contemplative stillness, natural elements as spiritual presence --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

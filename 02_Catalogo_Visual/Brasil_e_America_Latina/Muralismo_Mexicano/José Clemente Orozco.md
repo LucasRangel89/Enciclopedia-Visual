@@ -1,4 +1,4 @@
----
+
 parte: Brasil_e_America_Latina
 categoria: Muralismo_Mexicano
 tags:
@@ -9,7 +9,7 @@ tem_imagem: false
 status: rascunho
 aliases:
   - Orozco Style
----
+
 # José Clemente Orozco
 ## Conceito Técnico
 Muralista mexicano conhecido por uma visão mais sombria e trágica da condição humana em comparação a Rivera e Siqueiros — figuras alongadas e angulosas expressando sofrimento e desumanização, paleta frequentemente restrita a tons terrosos e vermelhos sangrentos, e uma crítica visual à violência histórica sem o otimismo revolucionário explícito dos contemporâneos.
@@ -34,20 +34,11 @@ Muralista mexicano conhecido por uma visão mais sombria e trágica da condiçã
 * `dehumanizing historical violence imagery`
 * `somber unresolved moral weight`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[orozco_dalle3.png]]
+![[orozco.png]]
 * **Legenda:** [Observação sobre a angularidade trágica das figuras]
-### 2. Gemini (Google Imagen)
-![[orozco_imagen.png]]
-* **Legenda:** [Observação sobre a restrição cromática]
-### 3. Leonardo AI
-![[orozco_leonardo.png]]
-* **Legenda:** [Observação sobre o peso moral transmitido]
-### 4. Raphael AI
-![[orozco_raphael.png]]
-* **Legenda:** [Observação sobre a ausência de redenção na cena]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -57,3 +48,4 @@ Elongated angular figures in anguish amid the ruins of war, José Clemente Orozc
 ```
 Elongated angular figures in anguish amid the ruins of war, restricted earthy and blood-red palette, dehumanizing historical violence imagery, somber tragic weight --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

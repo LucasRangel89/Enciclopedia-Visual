@@ -1,4 +1,4 @@
----
+
 part: Assinaturas_Autorais
 category: Fotografos
 tags: [irving-penn, fotografo, assinatura-autoral, retrato-de-estudio]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Irving Penn Style
 draft: false
----
+
 # Irving Penn
 ## Conceito Técnico
 Fotógrafo de retrato/moda conhecido por fundos neutros lisos (cinza ou branco), luz de estúdio suave e uniforme, composições extremamente simplificadas que isolam o sujeito de qualquer contexto, e uma abordagem quase escultural ao corpo/objeto — tratando roupa, rosto ou objeto cotidiano com a mesma dignidade formal de uma natureza-morta clássica.
@@ -34,20 +34,11 @@ Fotógrafo de retrato/moda conhecido por fundos neutros lisos (cinza ou branco),
 * `isolated subject with no context`
 * `timeless minimalist elegance`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[irving_penn_dalle3.png]]
+![[irving_penn.png]]
 * **Legenda:** [Observação sobre a limpeza do fundo neutro]
-### 2. Gemini (Google Imagen)
-![[irving_penn_imagen.png]]
-* **Legenda:** [Observação sobre a uniformidade da luz de estúdio]
-### 3. Leonardo AI
-![[irving_penn_leonardo.png]]
-* **Legenda:** [Observação sobre a qualidade escultural da pose]
-### 4. Raphael AI
-![[irving_penn_raphael.png]]
-* **Legenda:** [Observação sobre a elegância atemporal transmitida]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -57,3 +48,4 @@ A fashion model posed against a plain grey backdrop, Irving Penn style sculptura
 ```
 A fashion model posed against a plain grey backdrop, seamless neutral studio background, soft even studio lighting, sculptural simplified composition, formal dignified posing, timeless minimalist elegance --ar 4:5
 ```
+falta: [imagen, leonardo, raphael]

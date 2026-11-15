@@ -1,11 +1,11 @@
----
+
 parte: "Publicidade_por_Decadas"
 categoria: "Publicidade_por_Decadas"
 tags: [publicidade-anos-1960, psicodelico, contracultura, decada]
 tem_imagem: true
 status: "rascunho"
 aliases: ["Publicidade Psicodélica", "1960s Advertising"]
----
+
 # Anos 1960 — Revolução Visual (Psicodélico)
 ## Conceito Técnico
 Publicidade da contracultura caracterizada por tipografia distorcida e fluida (letras que se curvam e derretem), padrões psicodélicos de espiral e caleidoscópio, paleta saturada de cores complementares vibrantes (laranja/roxo, rosa/verde), e fotografia/ilustração que rejeita a limpeza mid-century em favor de caos visual controlado e experimentação com Op Art.
@@ -30,21 +30,13 @@ Publicidade da contracultura caracterizada por tipografia distorcida e fluida (l
 * `saturated complementary color clash (orange-purple, pink-green)`
 * `counterculture Op Art influence`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[decada_1960_dalle3.png]]
+![[decada_1960.png]]
 * **Legenda:** [Observação sobre a fluidez da tipografia derretida]
-### 2. Gemini (Google Imagen)
-![[decada_1960_imagen.png]]
-* **Legenda:** [Observação sobre o padrão de espiral hipnótico]
-### 3. Leonardo AI
-![[decada_1960_leonardo.png]]
-* **Legenda:** [Observação sobre o contraste de cores complementares]
-### 4. Raphael AI
-![[decada_1960_raphael.png]]
-* **Legenda:** [Observação sobre a energia contracultural transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A 1960s psychedelic concert poster with swirling melting typography, kaleidoscope spiral background pattern, saturated orange and purple color clash, counterculture visual energy --ar 2:3
 ```
+falta: [imagen, leonardo, raphael]

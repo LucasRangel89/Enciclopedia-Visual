@@ -1,4 +1,4 @@
----
+
 part: Generos e Universos
 category: Generos e Universos
 tags: [steampunk, genero-visual, retrofuturismo, era-vitoriana]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Steampunk Aesthetic
 draft: false
----
+
 # Steampunk
 ## Conceito Técnico
 Gênero visual retrofuturista que projeta tecnologia avançada através da estética vitoriana industrial — engrenagens de latão, vapor, madeira nobre combinada com metal trabalhado, aviões dirigíveis e maquinário mecânico visível em vez de eletrônica oculta.
@@ -34,21 +34,13 @@ Gênero visual retrofuturista que projeta tecnologia avançada através da esté
 * `airship and dirigible design`
 * `visible mechanical engineering`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[steampunk_dalle3.png]]
+![[steampunk.png]]
 * **Legenda:** [Observação sobre o detalhe das engrenagens expostas]
-### 2. Gemini (Google Imagen)
-![[steampunk_imagen.png]]
-* **Legenda:** [Observação sobre a fusão madeira/metal]
-### 3. Leonardo AI
-![[steampunk_leonardo.png]]
-* **Legenda:** [Observação sobre o design do dirigível]
-### 4. Raphael AI
-![[steampunk_raphael.png]]
-* **Legenda:** [Observação sobre o tom vitoriano geral]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 An elaborate brass and copper flying machine with exposed clockwork gears docked at a Victorian industrial airship tower, ornate steam-powered machinery, visible mechanical engineering, warm brass tones --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

@@ -1,4 +1,4 @@
----
+
 parte: Iluminacao_Avancada
 categoria: Iluminacao_Avancada
 tags:
@@ -10,7 +10,7 @@ tem_imagem: false
 status: rascunho
 aliases:
   - Low-Key Lighting
----
+
 # Low-Key Lighting (Iluminação Baixa-Chave)
 ## Conceito Técnico
 Esquema de iluminação com uma única fonte dominante (ou poucas) e vastas áreas de sombra não preenchida, resultando em alto contraste e uma imagem predominantemente escura onde apenas elementos selecionados recebem luz.
@@ -36,21 +36,13 @@ Esquema de iluminação com uma única fonte dominante (ou poucas) e vastas áre
 * `high contrast dramatic darkness`
 * `selective illumination`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[low_key_dalle3.png]]
+![[low_key.png]]
 * **Legenda:** [Observação sobre a vastidão da sombra]
-### 2. Gemini (Google Imagen)
-![[low_key_imagen.png]]
-* **Legenda:** [Observação sobre o contraste dramático]
-### 3. Leonardo AI
-![[low_key_leonardo.png]]
-* **Legenda:** [Observação sobre a seletividade da iluminação]
-### 4. Raphael AI
-![[low_key_raphael.png]]
-* **Legenda:** [Observação sobre o mistério transmitido]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A mysterious figure partially visible in a dimly lit room, low-key lighting, single dominant light source, vast unfilled shadow areas, high contrast dramatic darkness --ar 4:5
 ```
+falta: [imagen, leonardo, raphael]

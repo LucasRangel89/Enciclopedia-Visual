@@ -1,4 +1,4 @@
----
+
 part: Geometria de Cena
 category: Regras de Composicao e Subversao
 tags: [enquadramento, frame-dentro-do-frame, composicao, profundidade]
@@ -8,7 +8,7 @@ aliases:
   - Frame Within a Frame
   - Moldura Natural
 draft: false
----
+
 # Enquadramento (Frame Dentro do Frame)
 ## Conceito Técnico
 Uso de elementos da própria cena — portas, janelas, arcos, galhos, vãos — como moldura secundária ao redor do sujeito principal, criando uma "imagem dentro da imagem" e reforçando a profundidade.
@@ -37,21 +37,13 @@ Uso de elementos da própria cena — portas, janelas, arcos, galhos, vãos — 
 * `secondary border`
 * `contained perspective`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[enquadramento_dalle3.png]]
+![[enquadramento.png]]
 * **Legenda:** [Observação sobre a nitidez da moldura interna]
-### 2. Gemini (Google Imagen)
-![[enquadramento_imagen.png]]
-* **Legenda:** [Observação sobre o direcionamento do olhar]
-### 3. Leonardo AI
-![[enquadramento_leonardo.png]]
-* **Legenda:** [Observação sobre a profundidade em camadas]
-### 4. Raphael AI
-![[enquadramento_raphael.png]]
-* **Legenda:** [Observação sobre a sensação de intimidade ou aprisionamento]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A woman viewed through an old wooden doorway, the doorway naturally framing her silhouette against warm interior light, dark foreground edges of the frame, deep layered composition, cinematic contrast --ar 3:4
 ```
+falta: [imagen, leonardo, raphael]

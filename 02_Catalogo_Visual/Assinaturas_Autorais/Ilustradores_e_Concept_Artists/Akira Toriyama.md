@@ -1,4 +1,4 @@
----
+
 part: Assinaturas_Autorais
 category: Ilustradores_e_Concept_Artists
 tags: [akira-toriyama, ilustrador, assinatura-autoral, manga-design]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Akira Toriyama Style
 draft: false
----
+
 # Akira Toriyama
 ## Conceito Técnico
 Ilustrador de mangá/anime conhecido por design de personagem extremamente legível e simplificado (formas arredondadas, contornos limpos e grossos), veículos e maquinário com design "redondo" e brincalhão inspirado em carros/robôs reais, paleta de cores primárias vibrantes e planas, e um equilíbrio entre ação dinâmica e humor visual constante.
@@ -34,20 +34,11 @@ Ilustrador de mangá/anime conhecido por design de personagem extremamente legí
 * `instantly readable silhouette`
 * `dynamic action with visual humor`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[toriyama_dalle3.png]]
+![[toriyama.png]]
 * **Legenda:** [Observação sobre a legibilidade da silhueta]
-### 2. Gemini (Google Imagen)
-![[toriyama_imagen.png]]
-* **Legenda:** [Observação sobre a vivacidade das cores primárias]
-### 3. Leonardo AI
-![[toriyama_leonardo.png]]
-* **Legenda:** [Observação sobre a limpeza do contorno]
-### 4. Raphael AI
-![[toriyama_raphael.png]]
-* **Legenda:** [Observação sobre o equilíbrio entre ação e humor]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -57,3 +48,4 @@ A spiky-haired warrior powering up with energy aura, Akira Toriyama style bold m
 ```
 A spiky-haired warrior powering up with energy aura, rounded simplified character design, thick clean bold outlines, vibrant flat primary color palette, instantly readable dynamic silhouette --ar 3:4
 ```
+falta: [imagen, leonardo, raphael]

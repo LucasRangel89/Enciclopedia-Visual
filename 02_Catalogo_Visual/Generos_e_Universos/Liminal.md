@@ -1,4 +1,4 @@
----
+
 part: Generos e Universos
 category: Generos e Universos
 tags: [liminal, genero-visual, espacos-liminares, uncanny]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Liminal Spaces
 draft: false
----
+
 # Liminal
 ## Conceito Técnico
 Gênero visual (originado da estética de internet "liminal spaces") que retrata espaços de transição arquitetônica vazios de pessoas — corredores, piscinas vazias, estacionamentos, shoppings fechados — sob iluminação fluorescente uniforme e monótona, gerando um estranhamento (*unheimlich*) através da familiaridade sem função ou presença humana.
@@ -34,21 +34,13 @@ Gênero visual (originado da estética de internet "liminal spaces") que retrata
 * `dreamlike in-between quality`
 * `unsettling absence of people`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[liminal_dalle3.png]]
+![[liminal.png]]
 * **Legenda:** [Observação sobre a monotonia da luz fluorescente]
-### 2. Gemini (Google Imagen)
-![[liminal_imagen.png]]
-* **Legenda:** [Observação sobre a familiaridade do espaço vazio]
-### 3. Leonardo AI
-![[liminal_leonardo.png]]
-* **Legenda:** [Observação sobre o estranhamento gerado]
-### 4. Raphael AI
-![[liminal_raphael.png]]
-* **Legenda:** [Observação sobre a qualidade onírica do "entre lugares"]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 An empty fluorescent-lit shopping mall corridor at night with no people present, uniform monotonous fluorescent lighting, unpopulated familiar interior, uncanny nostalgic emptiness, dreamlike liminal quality --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

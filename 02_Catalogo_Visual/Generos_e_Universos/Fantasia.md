@@ -1,4 +1,4 @@
----
+
 part: Generos e Universos
 category: Generos e Universos
 tags: [fantasia, genero-visual, mitologia, magia]
@@ -6,7 +6,7 @@ tem_imagem: true
 status: rascunho
 aliases: [Fantasy]
 draft: false
----
+
 # Fantasia
 ## Conceito Técnico
 Gênero visual ancorado em mundos com magia, mitologia e sistemas de crença sobrenaturais, geralmente situados em ambientações pré-tecnológicas ou paralelas ao real — caracterizado por arquitetura orgânica ou monumental impossível, criaturas míticas, e uma paleta que oscila entre o luminoso épico e o sombrio gótico dependendo da subvertente.
@@ -32,21 +32,13 @@ Gênero visual ancorado em mundos com magia, mitologia e sistemas de crença sob
 * `epic luminous or gothic dark palette`
 * `sense of wonder and enchantment`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[fantasia_dalle3.png]]
+![[fantasia.png]]
 * **Legenda:** [Observação sobre a coerência da arquitetura impossível]
-### 2. Gemini (Google Imagen)
-![[fantasia_imagen.png]]
-* **Legenda:** [Observação sobre a luminosidade épica]
-### 3. Leonardo AI
-![[fantasia_leonardo.png]]
-* **Legenda:** [Observação sobre o design da criatura mítica]
-### 4. Raphael AI
-![[fantasia_raphael.png]]
-* **Legenda:** [Observação sobre o encantamento transmitido]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A towering castle built into the roots of an ancient impossibly large tree, mythical magical world-building, epic luminous atmosphere, enchanted glowing details, sense of wonder --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

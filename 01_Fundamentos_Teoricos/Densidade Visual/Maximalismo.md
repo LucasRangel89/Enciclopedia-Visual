@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Densidade Visual
 tags: [maximalismo-visual, horror-vacui, densidade-visual, detalhamento, poluicao-visual]
@@ -9,9 +9,9 @@ aliases:
   - Horror Vacui
   - Poluição Visual Controlada
   - Densidade Detalhada
-falta: [GPT, Raphael]
+falta: [GPT, Raphael, Gemini, Leonardo, raphael]
 draft: false
----
+
 # Maximalismo Visual (Horror Vacui)
 
 ## Conceito Técnico
@@ -51,26 +51,13 @@ O maximalismo visual — derivado do conceito latino *Horror Vacui* (medo do vaz
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[maximalismo_dalle3.png]]
+![[maximalismo.png]]
 * **Legenda:** [Observação sobre a densidade de adereços e capacidade de gerar múltiplos objetos]
 
-### 2. Gemini (Google Imagen)
-![[Maximalismo_Gemini.jpg]]
-* **Legenda:** [Observação sobre a clareza dos micro-detalhes em áreas sobrecarregadas]
-
-### 3. Leonardo AI
-![[Maximalismo_Leonardo.jpg]]
-* **Legenda:** [Observação sobre a aplicação de texturas complexas e iluminação em camadas]
-
-### 4. Raphael AI
-![[maximalismo_raphael.png]]
-* **Legenda:** [Observação sobre a riqueza de linhas e detalhamento nas bordas da imagem]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```

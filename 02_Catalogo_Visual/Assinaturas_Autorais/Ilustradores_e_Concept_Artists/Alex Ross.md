@@ -1,4 +1,4 @@
----
+
 part: Assinaturas_Autorais
 category: Ilustradores_e_Concept_Artists
 tags: [alex-ross, ilustrador, assinatura-autoral, super-herois]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Alex Ross Style
 draft: false
----
+
 # Alex Ross
 ## Conceito Técnico
 Ilustrador de super-heróis conhecido por pintura hiper-realista em guache/têmpera (não tinta de quadrinho tradicional), modelos de referência fotográfica reais dando peso anatômico crível a figuras de fantasia, iluminação dramática de estúdio fotográfico aplicada a personagens icônicos, e uma monumentalidade quase de pintura religiosa clássica aplicada à cultura pop.
@@ -34,20 +34,11 @@ Ilustrador de super-heróis conhecido por pintura hiper-realista em guache/têmp
 * `painterly gouache texture`
 * `iconic pop culture elevated to fine art`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[alex_ross_dalle3.png]]
+![[alex_ross.png]]
 * **Legenda:** [Observação sobre o realismo anatômico]
-### 2. Gemini (Google Imagen)
-![[alex_ross_imagen.png]]
-* **Legenda:** [Observação sobre a dramaticidade da luz de estúdio]
-### 3. Leonardo AI
-![[alex_ross_leonardo.png]]
-* **Legenda:** [Observação sobre a textura pictórica do guache]
-### 4. Raphael AI
-![[alex_ross_raphael.png]]
-* **Legenda:** [Observação sobre a monumentalidade da composição]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -57,3 +48,4 @@ A superhero standing in a heroic pose against a dramatic sky, Alex Ross style hy
 ```
 A superhero standing in a heroic pose against a dramatic sky, hyper-realistic gouache painting technique, photographic reference-based anatomy, dramatic studio lighting, monumental heroic composition --ar 3:4
 ```
+falta: [imagen, leonardo, raphael]

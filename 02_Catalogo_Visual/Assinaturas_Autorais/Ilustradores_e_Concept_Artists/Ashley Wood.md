@@ -1,4 +1,4 @@
----
+
 part: Assinaturas_Autorais
 category: Ilustradores_e_Concept_Artists
 tags: [ashley-wood, ilustrador, assinatura-autoral, ficcao-militar]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Ashley Wood Style
 draft: false
----
+
 # Ashley Wood
 ## Conceito Técnico
 Ilustrador de ficção científica/militar conhecido por técnica mista digital-tradicional deliberadamente "suja" — manchas de tinta, respingos e texturas de aquarela sobrepostas a linhas digitais precisas, paleta desaturada e terrosa, personagens robóticos/militares tratados com pincelada expressiva em vez de renderização limpa, sensação de rascunho de guerra acabado.
@@ -34,20 +34,11 @@ Ilustrador de ficção científica/militar conhecido por técnica mista digital-
 * `war-sketch battlefield feel`
 * `gritty robotic design`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[ashley_wood_dalle3.png]]
+![[ashley_wood.png]]
 * **Legenda:** [Observação sobre a sujeira da textura mista]
-### 2. Gemini (Google Imagen)
-![[ashley_wood_imagen.png]]
-* **Legenda:** [Observação sobre a paleta terrosa militar]
-### 3. Leonardo AI
-![[ashley_wood_leonardo.png]]
-* **Legenda:** [Observação sobre o contraste entre linha digital e mancha]
-### 4. Raphael AI
-![[ashley_wood_raphael.png]]
-* **Legenda:** [Observação sobre a sensação de esboço de guerra]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -57,3 +48,4 @@ A battle-worn combat robot standing in a war-torn landscape, Ashley Wood style g
 ```
 A battle-worn combat robot standing in a war-torn landscape, messy ink splatter and watercolor texture over digital linework, desaturated earthy military palette, expressive loose brushwork, gritty battlefield sketch feel --ar 4:5
 ```
+falta: [imagen, leonardo, raphael]

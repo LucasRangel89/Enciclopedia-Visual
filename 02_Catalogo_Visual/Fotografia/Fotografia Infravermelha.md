@@ -1,4 +1,4 @@
----
+
 parte: Fotografia
 categoria: Fotografia
 tags:
@@ -11,7 +11,7 @@ status: rascunho
 aliases:
   - Infrared Photography
   - IR Photography
----
+
 # Fotografia Infravermelha
 ## Conceito Técnico
 Fotografia que captura luz infravermelha invisível ao olho humano (através de filme especial ou filtro que bloqueia luz visível), resultando em folhagem branca brilhante ("efeito neve"), céus escurecidos e dramáticos, e uma inversão geral da lógica tonal esperada da natureza.
@@ -39,21 +39,13 @@ Fotografia que captura luz infravermelha invisível ao olho humano (através de 
 * `inverted natural tonal logic`
 * `ethereal ghostly quality`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[infravermelha_dalle3.png]]
+![[infravermelha.png]]
 * **Legenda:** [Observação sobre o brilho da folhagem]
-### 2. Gemini (Google Imagen)
-![[infravermelha_imagen.png]]
-* **Legenda:** [Observação sobre o escurecimento do céu]
-### 3. Leonardo AI
-![[infravermelha_leonardo.png]]
-* **Legenda:** [Observação sobre a inversão tonal geral]
-### 4. Raphael AI
-![[infravermelha_raphael.png]]
-* **Legenda:** [Observação sobre a qualidade etérea transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A forest landscape with a small stream, infrared photography with bright white glowing foliage, darkened dramatic sky, otherworldly ethereal quality, inverted natural tones --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

@@ -1,4 +1,4 @@
----
+
 part: Arquitetura_Cenario_e_Personagem
 category: Estilos_Arquitetonicos_Chave
 tags: [brutalismo, estilo-arquitetonico, concreto-exposto]
@@ -8,7 +8,7 @@ aliases:
   - Brutalist Architecture
   - Béton Brut
 draft: false
----
+
 # Brutalismo
 ## Conceito Técnico
 Estilo pós-guerra (meados do século XX) que expõe concreto bruto (*béton brut*) sem revestimento, formas geométricas maciças e monolíticas, texturas ásperas de fôrma de madeira visível no concreto, e uma honestidade material que rejeita qualquer suavização decorativa — associado tanto a utopia social quanto a autoritarismo, dependendo do contexto.
@@ -33,21 +33,13 @@ Estilo pós-guerra (meados do século XX) que expõe concreto bruto (*béton bru
 * `rough wood-formed concrete texture`
 * `honest unadorned material weight`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[brutalismo_dalle3.png]]
+![[brutalismo.png]]
 * **Legenda:** [Observação sobre a aspereza da textura de concreto]
-### 2. Gemini (Google Imagen)
-![[brutalismo_imagen.png]]
-* **Legenda:** [Observação sobre a monumentalidade da forma]
-### 3. Leonardo AI
-![[brutalismo_leonardo.png]]
-* **Legenda:** [Observação sobre a ambiguidade opressivo/utópico]
-### 4. Raphael AI
-![[brutalismo_raphael.png]]
-* **Legenda:** [Observação sobre o peso visual transmitido]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A massive monolithic brutalist government building with raw exposed concrete surfaces, rough wood-formed texture, imposing geometric weight, overcast sky --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

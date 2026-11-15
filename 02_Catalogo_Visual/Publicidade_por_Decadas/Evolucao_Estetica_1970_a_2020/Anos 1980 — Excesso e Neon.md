@@ -1,11 +1,11 @@
----
+
 parte: "Publicidade_por_Decadas"
 categoria: "Publicidade_por_Decadas"
 tags: [publicidade-anos-1980, neon, decada]
 tem_imagem: true
 status: "rascunho"
 aliases: ["Publicidade Anos 1980", "1980s Advertising"]
----
+
 # Anos 1980 — Excesso e Neon
 ## Conceito Técnico
 Publicidade caracterizada por cores neon saturadas (rosa-choque, ciano, roxo elétrico) contra fundo preto ou gradiente, tipografia geométrica com efeito de brilho/cromo, grades de perspectiva futuristas (grid de linhas convergentes), e uma retórica visual de excesso, luxo conspícuo e tecnologia como espetáculo.
@@ -30,21 +30,13 @@ Publicidade caracterizada por cores neon saturadas (rosa-choque, ciano, roxo el�
 * `futuristic perspective grid lines`
 * `conspicuous excess and technological spectacle`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[decada_1980_dalle3.png]]
+![[decada_1980.png]]
 * **Legenda:** [Observação sobre a saturação do neon]
-### 2. Gemini (Google Imagen)
-![[decada_1980_imagen.png]]
-* **Legenda:** [Observação sobre o brilho da tipografia cromada]
-### 3. Leonardo AI
-![[decada_1980_leonardo.png]]
-* **Legenda:** [Observação sobre a perspectiva do grid futurista]
-### 4. Raphael AI
-![[decada_1980_raphael.png]]
-* **Legenda:** [Observação sobre o espetáculo tecnológico transmitido]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A 1980s advertisement for a new electronics product with neon pink and cyan lighting against a black background, saturated neon colors, chrome glow typography effect, futuristic perspective grid --ar 3:4
 ```
+falta: [imagen, leonardo, raphael]

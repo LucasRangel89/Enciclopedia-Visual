@@ -1,4 +1,4 @@
----
+
 parte: Familias_de_Linguagem_Visual
 categoria: Familias_de_Linguagem_Visual
 tags:
@@ -10,7 +10,7 @@ tem_imagem: false
 status: rascunho
 aliases:
   - Dark Craft
----
+
 # Artesanato Sombrio
 ## Conceito Técnico
 Família de linguagem visual que atravessa Tim Burton, Laika e a ilustração gótica-vitoriana lúdica, unidas pela combinação de macabro e artesania tátil visível — o sombrio não é polido ou hiper-realista, mas apresentado com textura de feito-à-mão (costura, madeira entalhada, linha fina), tornando o grotesco acolhedor em vez de repulsivo.
@@ -35,21 +35,13 @@ Família de linguagem visual que atravessa Tim Burton, Laika e a ilustração g�
 * `gothic whimsical warmth`
 * `stitched or carved dark aesthetic`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[artesanato_sombrio_dalle3.png]]
+![[artesanato_sombrio.png]]
 * **Legenda:** [Observação sobre a visibilidade da textura artesanal]
-### 2. Gemini (Google Imagen)
-![[artesanato_sombrio_imagen.png]]
-* **Legenda:** [Observação sobre o equilíbrio macabro/acolhedor]
-### 3. Leonardo AI
-![[artesanato_sombrio_leonardo.png]]
-* **Legenda:** [Observação sobre a ternura transmitida]
-### 4. Raphael AI
-![[artesanato_sombrio_raphael.png]]
-* **Legenda:** [Observação sobre o clima gótico-vitoriano geral]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A stitched patchwork creature sitting by candlelight in a cluttered workshop, handcrafted tactile darkness, macabre made cozy through visible craft texture, gothic whimsical warmth --ar 4:5
 ```
+falta: [imagen, leonardo, raphael]

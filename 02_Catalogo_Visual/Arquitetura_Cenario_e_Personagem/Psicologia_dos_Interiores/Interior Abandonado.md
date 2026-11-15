@@ -1,4 +1,4 @@
----
+
 part: Arquitetura_Cenario_e_Personagem
 category: Psicologia_dos_Interiores
 tags: [interior-abandonado, psicologia-do-interior, decadencia]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Abandoned Interior
 draft: false
----
+
 # Interior Abandonado
 ## Conceito Técnico
 Espaço interior que já foi habitado mas foi deixado ao abandono — poeira acumulada em superfícies, plantas invasoras infiltrando por rachaduras, objetos pessoais deixados para trás congelados no tempo, luz entrando por aberturas não intencionais (buracos no teto, janelas quebradas), e uma decomposição visível da matéria em processo lento.
@@ -33,21 +33,13 @@ Espaço interior que já foi habitado mas foi deixado ao abandono — poeira acu
 * `unintentional light through damage`
 * `slow material decomposition`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[interior_abandonado_dalle3.png]]
+![[interior_abandonado.png]]
 * **Legenda:** [Observação sobre o acúmulo de poeira]
-### 2. Gemini (Google Imagen)
-![[interior_abandonado_imagen.png]]
-* **Legenda:** [Observação sobre a vegetação invasora]
-### 3. Leonardo AI
-![[interior_abandonado_leonardo.png]]
-* **Legenda:** [Observação sobre os objetos congelados no tempo]
-### 4. Raphael AI
-![[interior_abandonado_raphael.png]]
-* **Legenda:** [Observação sobre a melancolia transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 An abandoned Victorian living room with dust-covered furniture and vines growing through broken windows, abandoned interior decay, frozen personal objects left behind, melancholic emptiness --ar 4:5
 ```
+falta: [imagen, leonardo, raphael]

@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Expressao Facial e Emocao
 tags: [expressao-facial, surpresa, ekman, micro-expressoes, emocoes]
@@ -8,9 +8,9 @@ aliases:
   - Surprise Facial Expression
   - Expressão de Surpresa
   - Espanto Facial
-falta: [Gemini, GPT, Leonardo, Raphael]
+falta: [Gemini, GPT, Leonardo, Raphael, imagen, leonardo, raphael]
 draft: false
----
+
 # Expressão Facial — Surpresa
 
 ## Conceito Técnico
@@ -50,26 +50,13 @@ A expressão facial de surpresa é a mais breve de todas as micro-expressões (d
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[expressao_surpresa_dalle3.png]]
+![[expressao_surpresa.png]]
 * **Legenda:** [Observação sobre o arqueamento das sobrancelhas e queda relaxada da mandíbula]
 
-### 2. Gemini (Google Imagen)
-![[expressao_surpresa_imagen.png]]
-* **Legenda:** [Observação sobre a amplidão do olhar arregalado e espontaneidade do espanto]
-
-### 3. Leonardo AI
-![[expressao_surpresa_leonardo.png]]
-* **Legenda:** [Observação sobre as linhas horizontais na testa e formato oval da boca]
-
-### 4. Raphael AI
-![[expressao_surpresa_raphael.png]]
-* **Legenda:** [Observação sobre a captura do milissegundo de choque na iluminação]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text

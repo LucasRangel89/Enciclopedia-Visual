@@ -1,4 +1,4 @@
----
+
 parte: Assinaturas_Autorais
 categoria: Ilustradores_e_Concept_Artists
 tags:
@@ -10,7 +10,7 @@ tem_imagem: false
 status: rascunho
 aliases:
   - Keith Haring Style
----
+
 # Keith Haring
 ## Conceito Técnico
 Artista pop/street art conhecido por figuras humanas reduzidas a contorno grosso uniforme sem detalhe interno, poses dinâmicas e radiantes (linhas de movimento irradiando do corpo), paleta de cores primárias vibrantes e chapadas, composições densas com repetição de padrão figura-fundo, e uma energia visual imediatamente legível mesmo à distância.
@@ -37,20 +37,11 @@ Artista pop/street art conhecido por figuras humanas reduzidas a contorno grosso
 * `dense repetitive pattern composition`
 * `universally legible dynamic energy`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[haring_dalle3.png]]
+![[haring.png]]
 * **Legenda:** [Observação sobre a uniformidade do contorno]
-### 2. Gemini (Google Imagen)
-![[haring_imagen.png]]
-* **Legenda:** [Observação sobre a vivacidade das cores primárias]
-### 3. Leonardo AI
-![[haring_leonardo.png]]
-* **Legenda:** [Observação sobre a legibilidade das linhas de movimento]
-### 4. Raphael AI
-![[haring_raphael.png]]
-* **Legenda:** [Observação sobre a densidade do padrão repetitivo]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -60,3 +51,4 @@ A crowd of dancing figures radiating energy lines against a bright background, K
 ```
 A crowd of dancing figures radiating energy lines against a bright background, thick uniform outline figures with no internal detail, vibrant flat primary colors, dense repetitive pattern composition --ar 1:1
 ```
+falta: [imagen, leonardo, raphael]

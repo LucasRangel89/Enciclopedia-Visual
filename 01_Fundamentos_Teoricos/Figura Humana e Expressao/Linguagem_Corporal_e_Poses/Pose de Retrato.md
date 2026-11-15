@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Figura Humana e Expressao
 tags: [pose-de-retrato, retrato, figura-humana, poses, iluminaçao]
@@ -8,9 +8,9 @@ aliases:
   - Portrait Pose
   - Enquadramento de Retrato
   - Pose Studio
-falta: [GPT, Raphael, Leonardo]
+falta: [GPT, Raphael, Leonardo, Gemini, leonardo, raphael]
 draft: false
----
+
 # Pose de Retrato
 
 ## Conceito Técnico
@@ -50,26 +50,13 @@ A pose de retrato refere-se à arrumação corporal consciente e refinada focada
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[pose_retrato_dalle3.png]]
+![[pose_retrato.png]]
 * **Legenda:** [Observação sobre o enquadramento do busto e a rotação dos ombros em relação à câmera]
 
-### 2. Gemini (Google Imagen)
-![[Pose_Retrato_Gemini.jpg]]
-* **Legenda:** [Observação sobre a sutileza na inclinação da cabeça e nitidez nos olhos]
-
-### 3. Leonardo AI
-![[pose_retrato_leonardo.png]]
-* **Legenda:** [Observação sobre o degradê de iluminação de estúdio na estrutura facial e pescoço]
-
-### 4. Raphael AI
-![[pose_retrato_raphael.png]]
-* **Legenda:** [Observação sobre o acabamento e tridimensionalidade da pose de três quartos]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```

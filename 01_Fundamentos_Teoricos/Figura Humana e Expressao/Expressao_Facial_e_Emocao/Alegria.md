@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Expressao Facial e Emocao
 tags: [expressao-facial, alegria, ekman, micro-expressoes, emocoes]
@@ -8,9 +8,9 @@ aliases:
   - Joy Facial Expression
   - Expressão de Alegria
   - Sorriso Duchenne
-falta: [GPT, Leonardo, Raphael, Gemini]
+falta: [GPT, Leonardo, Raphael, Gemini, imagen, leonardo, raphael]
 draft: false
----
+
 # Expressão Facial — Alegria
 
 ## Conceito Técnico
@@ -50,26 +50,13 @@ A genuína expressão de alegria (conhecida neurologicamente como **Sorriso de D
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[expressao_alegria_dalle3.png]]
+![[expressao_alegria.png]]
 * **Legenda:** [Observação sobre a presença de pés de galinha nos olhos e elevação de bochechas]
 
-### 2. Gemini (Google Imagen)
-![[expressao_alegria_imagen.png]]
-* **Legenda:** [Observação sobre o brilho e calor da expressão genuína de riso]
-
-### 3. Leonardo AI
-![[expressao_alegria_leonardo.png]]
-* **Legenda:** [Observação sobre a naturalidade da abertura do sorriso em estúdio]
-
-### 4. Raphael AI
-![[expressao_alegria_raphael.png]]
-* **Legenda:** [Observação sobre a autencidade do sorriso Duchenne renderizado]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text

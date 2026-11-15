@@ -1,4 +1,4 @@
----
+
 part: Assinaturas_Autorais
 category: Cineastas_e_Estudios
 tags: [denis-villeneuve, cineasta, assinatura-autoral, minimalismo-monumental]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Denis Villeneuve Style
 draft: false
----
+
 # Denis Villeneuve
 ## Conceito Técnico
 Composições monumentais e minimalistas, escala arquitetônica opressiva, paleta desaturada com tons terrosos/ocre ou azul-acinzentados, silêncio visual (grandes áreas negativas), luz difusa e atmosférica, personagens pequenos contra estruturas geométricas imensas.
@@ -34,20 +34,11 @@ Composições monumentais e minimalistas, escala arquitetônica opressiva, palet
 * `small figure against imposing geometric structure`
 * `contemplative existential scale`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[villeneuve_dalle3.png]]
+![[villeneuve.png]]
 * **Legenda:** [Observação sobre a escala monumental]
-### 2. Gemini (Google Imagen)
-![[villeneuve_imagen.png]]
-* **Legenda:** [Observação sobre a paleta desaturada]
-### 3. Leonardo AI
-![[villeneuve_leonardo.png]]
-* **Legenda:** [Observação sobre o vazio negativo ao redor da figura]
-### 4. Raphael AI
-![[villeneuve_raphael.png]]
-* **Legenda:** [Observação sobre a difusão da luz atmosférica]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -57,3 +48,4 @@ A tiny figure standing before a colossal geometric monolith in a desert, Denis V
 ```
 A tiny figure standing before a colossal geometric monolith in a desert, monumental minimalist architecture, desaturated ochre and grey-blue color palette, diffused atmospheric light, vast negative space, contemplative existential scale --ar 21:9
 ```
+falta: [imagen, leonardo, raphael]

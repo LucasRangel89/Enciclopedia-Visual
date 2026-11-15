@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 1 — Da tradição pré-moderna
 tags:
@@ -18,7 +18,7 @@ falta:
   - GPT
   - Leonardo
   - Raphael
----
+
 # Renascimento
 
 ## Conceito Técnico
@@ -58,27 +58,15 @@ O Renascimento (séculos XV e XVI) marcou o resgate dos cânones clássicos grec
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[renascimento_dalle3.png]]
+![[renascimento.png]]
 * **Legenda:** [Observação sobre a aplicação da perspectiva linear e iluminação sfumato]
 
-### 2. Gemini (Google Imagen)
-![[renascimento_imagen.png]]
-* **Legenda:** [Observação sobre o equilíbrio de massas e harmonia cromática clássica]
-
-### 3. Leonardo AI
-![[renascimento_leonardo.png]]
-* **Legenda:** [Observação sobre a textura de óleo sobre tela e riqueza de pigmentos]
-
-### 4. Raphael AI
-![[renascimento_raphael.png]]
-* **Legenda:** [Observação sobre a precisão anatômica e solenidade composicional]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 High Renaissance master oil painting depicting a scholarly philosopher in a grand study, linear perspective geometry, triangular composition, sfumato lighting filtering through a tall arched window, rich jewel-toned pigments, flawless anatomical realism, museum collection aesthetic, ultra-detailed --ar 16:9
+falta: [imagen, leonardo, raphael]

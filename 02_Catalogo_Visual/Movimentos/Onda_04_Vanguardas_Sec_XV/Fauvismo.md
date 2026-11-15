@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 4 — Vanguardas do início do séc. XX
 tags:
@@ -18,7 +18,7 @@ falta:
   - GPT
   - Leonardo
   - Raphael
----
+
 # Fauvismo
 
 ## Conceito Técnico
@@ -58,27 +58,15 @@ Liderado por Henri Matisse e André Derain em Paris (1905), o Fauvismo (do franc
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[fauvismo_dalle3.png]]
+![[fauvismo.png]]
 * **Legenda:** [Observação sobre o uso de cores puras arbitrárias em árvores e céus]
 
-### 2. Gemini (Google Imagen)
-![[fauvismo_imagen.png]]
-* **Legenda:** [Observação sobre os planos decorativos sem sombreamento tradicional]
-
-### 3. Leonardo AI
-![[fauvismo_leonardo.png]]
-* **Legenda:** [Observação sobre a intensidade solar e harmonia cromática ousada]
-
-### 4. Raphael AI
-![[fauvismo_raphael.png]]
-* **Legenda:** [Observação sobre a liberdade expressiva do traço fauvista]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 Fauvism oil painting of a Mediterranean coastal landscape with bright red trees and an intense turquoise sea, wild arbitrary pure colors, bold non-naturalistic palette, Henri Matisse style, flat decorative color planes, vibrant sun-drenched atmosphere --ar 16:9
+falta: [imagen, leonardo, raphael]

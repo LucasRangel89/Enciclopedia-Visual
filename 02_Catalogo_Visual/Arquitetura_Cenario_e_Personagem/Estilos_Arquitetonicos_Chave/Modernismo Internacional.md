@@ -1,4 +1,4 @@
----
+
 part: Arquitetura_Cenario_e_Personagem
 category: Estilos_Arquitetonicos_Chave
 tags: [modernismo-internacional, estilo-arquitetonico, funcionalismo]
@@ -8,7 +8,7 @@ aliases:
   - International Style
   - Modernist Architecture
 draft: false
----
+
 # Modernismo Internacional
 ## Conceito Técnico
 Movimento arquitetônico do início-meados do século XX (Mies van der Rohe, Le Corbusier) que rejeita ornamento histórico em favor de estrutura funcional exposta — planos de vidro e aço, linhas retas puras, espaço aberto fluido ("planta livre"), e o princípio de que "a forma segue a função" sem concessão decorativa.
@@ -33,21 +33,13 @@ Movimento arquitetônico do início-meados do século XX (Mies van der Rohe, Le 
 * `open flowing floor plan`
 * `form follows function honesty`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[modernismo_dalle3.png]]
+![[modernismo.png]]
 * **Legenda:** [Observação sobre a limpeza das linhas estruturais]
-### 2. Gemini (Google Imagen)
-![[modernismo_imagen.png]]
-* **Legenda:** [Observação sobre a transparência do vidro]
-### 3. Leonardo AI
-![[modernismo_leonardo.png]]
-* **Legenda:** [Observação sobre a fluidez do espaço aberto]
-### 4. Raphael AI
-![[modernismo_raphael.png]]
-* **Legenda:** [Observação sobre a frieza elegante transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A modernist glass and steel building with pure clean structural lines against a clear sky, open flowing interior visible through glass walls, functional honest architecture --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

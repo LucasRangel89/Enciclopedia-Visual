@@ -1,4 +1,4 @@
----
+
 part: Arquitetura_Cenario_e_Personagem
 category: Estilos_Arquitetonicos_Chave
 tags: [arquitetura-gotica, estilo-arquitetonico, verticalidade]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Gothic Architecture
 draft: false
----
+
 # Arquitetura Gótica
 ## Conceito Técnico
 Estilo medieval (séculos XII-XVI) caracterizado por verticalidade extrema apontando para o céu, arcos ogivais pontiagudos, abóbadas nervuradas, vitrais coloridos filtrando luz mística, e contrafortes voadores que permitem paredes altas e finas repletas de janela — uma arquitetura que subordina a estrutura física à aspiração espiritual.
@@ -33,21 +33,13 @@ Estilo medieval (séculos XII-XVI) caracterizado por verticalidade extrema apont
 * `colorful stained glass filtered light`
 * `flying buttress structure`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[gotica_dalle3.png]]
+![[gotica.png]]
 * **Legenda:** [Observação sobre a extensão vertical]
-### 2. Gemini (Google Imagen)
-![[gotica_imagen.png]]
-* **Legenda:** [Observação sobre a cor filtrada pelo vitral]
-### 3. Leonardo AI
-![[gotica_leonardo.png]]
-* **Legenda:** [Observação sobre a nervura da abóbada]
-### 4. Raphael AI
-![[gotica_raphael.png]]
-* **Legenda:** [Observação sobre a aspiração espiritual transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 The soaring interior of a gothic cathedral with pointed arches and ribbed vaults, colorful stained glass filtering mystical light, extreme vertical spiritual aspiration --ar 9:16
 ```
+falta: [imagen, leonardo, raphael]

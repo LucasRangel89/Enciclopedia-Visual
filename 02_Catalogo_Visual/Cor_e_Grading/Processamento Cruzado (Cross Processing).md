@@ -1,4 +1,4 @@
----
+
 parte: Cor_e_Grading
 categoria: Cor_e_Grading
 tags:
@@ -11,7 +11,7 @@ status: rascunho
 aliases:
   - Cross Processing
   - Xpro
----
+
 # Processamento Cruzado (Cross Processing)
 ## Conceito Técnico
 Técnica analógica (hoje simulada digitalmente) de revelar filme num processo químico diferente do originalmente formulado para ele (ex.: filme de slide revelado em químico de negativo), resultando em deslocamentos de cor imprevisíveis, contraste elevado e uma paleta frequentemente dominada por verdes/amarelos ou magentas inesperados.
@@ -36,21 +36,13 @@ Técnica analógica (hoje simulada digitalmente) de revelar filme num processo q
 * `elevated contrast`
 * `experimental alternative color treatment`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[cross_processing_dalle3.png]]
+![[cross_processing.png]]
 * **Legenda:** [Observação sobre o deslocamento de cor obtido]
-### 2. Gemini (Google Imagen)
-![[cross_processing_imagen.png]]
-* **Legenda:** [Observação sobre o contraste elevado]
-### 3. Leonardo AI
-![[cross_processing_leonardo.png]]
-* **Legenda:** [Observação sobre a energia alternativa transmitida]
-### 4. Raphael AI
-![[cross_processing_raphael.png]]
-* **Legenda:** [Observação sobre a imprevisibilidade do resultado]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 An alternative fashion editorial shot in an urban parking garage, cross processed color shift, unpredictable green-yellow cast, elevated contrast, experimental alternative color treatment --ar 4:5
 ```
+falta: [imagen, leonardo, raphael]

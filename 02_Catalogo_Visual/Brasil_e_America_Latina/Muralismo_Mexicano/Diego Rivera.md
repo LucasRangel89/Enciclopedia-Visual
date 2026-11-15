@@ -1,4 +1,4 @@
----
+
 parte: Brasil_e_America_Latina
 categoria: Muralismo_Mexicano
 tags:
@@ -9,7 +9,7 @@ tem_imagem: false
 status: rascunho
 aliases:
   - Diego Rivera Style
----
+
 # Diego Rivera
 ## Conceito Técnico
 Muralista mexicano conhecido por composições monumentais narrando história/luta de classes através de multidões densas e estratificadas em camadas (trabalhadores, líderes, máquinas industriais coexistindo na mesma cena), figuras robustas e volumosas com forte modelagem escultural, e paleta terrosa vibrante inspirada em pigmentos pré-colombianos.
@@ -34,20 +34,11 @@ Muralista mexicano conhecido por composições monumentais narrando história/lu
 * `earthy pre-Columbian inspired palette`
 * `layered historical narrative mural`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[diego_rivera_dalle3.png]]
+![[diego_rivera.png]]
 * **Legenda:** [Observação sobre a densidade da multidão em camadas]
-### 2. Gemini (Google Imagen)
-![[diego_rivera_imagen.png]]
-* **Legenda:** [Observação sobre o volume escultural das figuras]
-### 3. Leonardo AI
-![[diego_rivera_leonardo.png]]
-* **Legenda:** [Observação sobre a paleta terrosa pré-colombiana]
-### 4. Raphael AI
-![[diego_rivera_raphael.png]]
-* **Legenda:** [Observação sobre a épica histórica transmitida]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -57,3 +48,4 @@ A monumental mural depicting layered generations of workers building a great cit
 ```
 A monumental mural depicting layered generations of workers building a great city, dense stratified crowd composition, sculptural figure volume, earthy pre-Columbian palette, epic historical narrative --ar 21:9
 ```
+falta: [imagen, leonardo, raphael]

@@ -1,4 +1,4 @@
----
+
 parte: Fundamentos
 categoria: Iluminacao
 tags:
@@ -15,7 +15,7 @@ aliases:
   - Backlight
   - Rim Light
   - Contre-Jour
----
+
 # Contraluz (Backlight / Rim Light)
 
 ## 📖 Definição e Lógica
@@ -30,19 +30,11 @@ A fonte de luz posicionada atrás do sujeito, apontando na direção da câmera 
 - `strong backlight`
 - `edge glow`
 
-## 🖼️ Galeria de Exemplos Visuais (ChatGPT vs Gemini)
+## 🖼️ Exemplo Visual
 
 > **1. Leonardo:**
-> ![[Contraluz_Leonardo.jpg]]
+> ![[Contraluz.jpg]]
 > *Legenda: Observação sobre o halo de luz separando o sujeito do fundo.*
-
-> **2. Gemini:**
-> ![[Contraluz_Gemini.jpg]]
-> *Legenda: Observação sobre o halo de luz separando o sujeito do fundo.*
-
-> **3. Raphael:**
-> ![[Contraluz_Raphael.jpg]]
-> *Legenda: Observação sobre o halo de luz separando o sujeito do fundo.*
-
 ## ⚙️ Prompt de Referência (Testado)
 ```Silhouette of a lone figure standing on a hilltop at dusk, facing away from camera. Strong backlight from a low sun behind the subject, rim light tracing the outline of shoulders and hair, deep shadows swallowing facial features, atmospheric haze, mysterious and transcendent mood, cinematic composition.
+falta: [Gemini, Raphael]

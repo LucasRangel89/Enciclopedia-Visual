@@ -1,11 +1,11 @@
----
+
 parte: "Videogames_Linguagem_Visual"
 categoria: "Videogames_Linguagem_Visual"
 tags: [concept-art-games, concept-art-cinema, videogame, producao-de-asset]
 tem_imagem: true
 status: "rascunho"
 aliases: ["Game Concept Art vs Film Concept Art"]
----
+
 # Concept Art de Games vs. Concept Art de Cinema
 ## Conceito Técnico
 Distinção de propósito entre as duas práticas — concept art de cinema prioriza mood e pitch visual para uma equipe de produção física única (um filme, um resultado final), enquanto concept art de games precisa ser modular e funcional: múltiplos ângulos do mesmo personagem/objeto para modelagem 3D, variações de estado (dano, cor de time, evolução), e turnarounds técnicos que servem diretamente à produção de asset, não apenas inspiração atmosférica.
@@ -30,21 +30,13 @@ Distinção de propósito entre as duas práticas — concept art de cinema prio
 * `game-ready technical concept sheet`
 * `state variation reference (damage, team color)`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[concept_games_dalle3.png]]
+![[concept_games.png]]
 * **Legenda:** [Observação sobre a consistência entre os ângulos]
-### 2. Gemini (Google Imagen)
-![[concept_games_imagen.png]]
-* **Legenda:** [Observação sobre a clareza funcional do design]
-### 3. Leonardo AI
-![[concept_games_leonardo.png]]
-* **Legenda:** [Observação sobre a utilidade técnica do sheet]
-### 4. Raphael AI
-![[concept_games_raphael.png]]
-* **Legenda:** [Observação sobre a modularidade transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A character turnaround reference sheet showing front, side and back views of a sci-fi soldier, multi-angle turnaround, modular functional asset design, game-ready technical concept sheet --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

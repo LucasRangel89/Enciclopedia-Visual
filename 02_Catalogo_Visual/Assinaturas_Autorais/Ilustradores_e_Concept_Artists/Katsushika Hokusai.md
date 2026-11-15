@@ -1,4 +1,4 @@
----
+
 parte: Assinaturas_Autorais
 categoria: Ilustradores_e_Concept_Artists
 tags:
@@ -11,7 +11,7 @@ status: rascunho
 aliases:
   - Hokusai Style
   - Katsushika Hokusai
----
+
 # Katsushika Hokusai
 ## Conceito Técnico
 Mestre ukiyo-e conhecido por composições que capturam a força da natureza em movimento congelado (ondas, vento) através de linhas curvas dinâmicas e repetição rítmica de forma, uso do Azul da Prússia (azul profundo importado) como cor de assinatura, perspectiva plana com Monte Fuji frequentemente presente como âncora constante e distante, e uma harmonia entre a pequenez humana e a imensidão natural.
@@ -37,20 +37,11 @@ Mestre ukiyo-e conhecido por composições que capturam a força da natureza em 
 * `flattened perspective with distant constant landmark`
 * `harmony between human smallness and natural immensity`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[hokusai_dalle3.png]]
+![[hokusai.png]]
 * **Legenda:** [Observação sobre o ritmo das linhas curvas]
-### 2. Gemini (Google Imagen)
-![[hokusai_imagen.png]]
-* **Legenda:** [Observação sobre a fidelidade do Azul da Prússia]
-### 3. Leonardo AI
-![[hokusai_leonardo.png]]
-* **Legenda:** [Observação sobre a planitude da perspectiva]
-### 4. Raphael AI
-![[hokusai_raphael.png]]
-* **Legenda:** [Observação sobre a harmonia entre humano e natureza]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -60,3 +51,4 @@ Small fishing boats caught in a massive curling wave with a distant mountain vis
 ```
 Small fishing boats caught in a massive curling wave with a distant mountain visible, dynamic curving rhythmic linework, deep Prussian blue dominant color, flattened perspective with distant constant landmark, stylized natural force --ar 3:2
 ```
+falta: [imagen, leonardo, raphael]

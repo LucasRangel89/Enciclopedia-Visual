@@ -1,4 +1,4 @@
----
+
 part: Assinaturas_Autorais
 category: Cineastas_e_Estudios
 tags: [pixar, estudio-animacao, assinatura-autoral, 3d]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Pixar Style
 draft: false
----
+
 # Pixar
 ## Conceito Técnico
 Estilo de animação 3D caracterizado por personagens com proporções levemente exageradas (cabeças maiores, olhos grandes) mas anatomia coerente, iluminação global calorosa e cinematográfica, texturas de superfície extremamente detalhadas (pelo, tecido, água), e uma linguagem visual que equilibra caricatura com emoção genuína e legível.
@@ -35,20 +35,11 @@ Estilo de animação 3D caracterizado por personagens com proporções levemente
 * `coherent believable anatomy`
 * `family-friendly emotional warmth`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[pixar_dalle3.png]]
+![[pixar.png]]
 * **Legenda:** [Observação sobre a expressividade dos olhos]
-### 2. Gemini (Google Imagen)
-![[pixar_imagen.png]]
-* **Legenda:** [Observação sobre a qualidade da iluminação global]
-### 3. Leonardo AI
-![[pixar_leonardo.png]]
-* **Legenda:** [Observação sobre o detalhe da textura de superfície]
-### 4. Raphael AI
-![[pixar_raphael.png]]
-* **Legenda:** [Observação sobre a coerência anatômica]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -58,3 +49,4 @@ A small robot character exploring an abandoned overgrown city, Pixar style 3D an
 ```
 A small robot character exploring an abandoned overgrown city, 3D animated character design with slightly exaggerated proportions, warm cinematic global illumination, detailed surface textures, coherent believable anatomy --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

@@ -1,4 +1,4 @@
----
+
 part: Geometria de Cena
 category: Angulos e Pontos de Vista
 tags: [angulo-contra-plongee, camera-baixa, cinematografia, composicao, poder]
@@ -8,9 +8,9 @@ aliases:
   - Low Angle
   - Contra-Plongée
   - Câmera Contra-Plongée
-falta: [Gemini, GPT, Leonardo, Raphael]
+falta: [Gemini, GPT, Leonardo, Raphael, imagen, leonardo, raphael]
 draft: false
----
+
 # Ângulo Contra-Plongée (Câmera Baixa)
 
 ## Conceito Técnico
@@ -50,26 +50,13 @@ O ângulo *contra-plongée* (ou câmera baixa) posiciona a lente abaixo do níve
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[contra_plongee_dalle3.png]]
+![[contra_plongee.png]]
 * **Legenda:** [Observação sobre a ampliação da escala e imponência do personagem]
 
-### 2. Gemini (Google Imagen)
-![[contra_plongee_imagen.png]]
-* **Legenda:** [Observação sobre o uso do céu e linha de horizonte baixa]
-
-### 3. Leonardo AI
-![[contra_plongee_leonardo.png]]
-* **Legenda:** [Observação sobre a projeção de sombras e iluminação dramática inferior]
-
-### 4. Raphael AI
-![[contra_plongee_raphael.png]]
-* **Legenda:** [Observação sobre o impacto visual da perspectiva de baixo para cima]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text

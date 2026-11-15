@@ -1,11 +1,11 @@
----
+
 parte: "Videogames_Linguagem_Visual"
 categoria: "Videogames_Linguagem_Visual"
 tags: [valve, estilo-de-estudio, videogame, ficcao-cientifica-crivel]
 tem_imagem: true
 status: "rascunho"
 aliases: ["Valve Style"]
----
+
 # Estilo Visual Valve
 ## Conceito Técnico
 Estúdio conhecido por ficção científica "suja" e crível (Half-Life, Portal, Left 4 Dead) — tecnologia avançada apresentada com desgaste realista e função visível (nada é decorativo sem propósito mecânico aparente), paleta industrial acinzentada com acentos de cor funcional (laranja de perigo, azul de portal), e um design de ambiente que soa fisicamente plausível mesmo em cenários fantásticos.
@@ -30,21 +30,13 @@ Estúdio conhecido por ficção científica "suja" e crível (Half-Life, Portal,
 * `industrial grey palette with functional color accents`
 * `physically plausible environment design`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[valve_dalle3.png]]
+![[valve.png]]
 * **Legenda:** [Observação sobre o desgaste realista da tecnologia]
-### 2. Gemini (Google Imagen)
-![[valve_imagen.png]]
-* **Legenda:** [Observação sobre os acentos de cor funcional]
-### 3. Leonardo AI
-![[valve_leonardo.png]]
-* **Legenda:** [Observação sobre a plausibilidade física do ambiente]
-### 4. Raphael AI
-![[valve_raphael.png]]
-* **Legenda:** [Observação sobre a tensão mundano/ameaça transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 An abandoned research facility corridor with weathered industrial machinery and orange hazard markings, gritty grounded industrial sci-fi, weathered functional technology, physically plausible environment --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

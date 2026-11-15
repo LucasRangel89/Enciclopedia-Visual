@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 6 — Pop, conceito e rua
 tags:
@@ -18,7 +18,7 @@ falta:
   - GPT
   - Leonardo
   - Raphael
----
+
 # Street Art / Graffiti
 
 ## Conceito Técnico
@@ -58,27 +58,15 @@ A Street Art e o Graffiti (consolidados globalmente a partir de Nova York nos an
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[street_art_dalle3.png]]
+![[street_art.png]]
 * **Legenda:** [Observação sobre o spray de tinta em parede de tijolos envelhecidos]
 
-### 2. Gemini (Google Imagen)
-![[street_art_imagen.png]]
-* **Legenda:** [Observação sobre a técnica de estêncil e escorridos de tinta reais]
-
-### 3. Leonardo AI
-![[street_art_leonardo.png]]
-* **Legenda:** [Observação sobre a atmosfera urbana crua e marcas neoexpressionistas]
-
-### 4. Raphael AI
-![[street_art_raphael.png]]
-* **Legenda:** [Observação sobre o impacto da arte de rua em becos metropolitanos]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 Street Art graffiti mural on a weathered urban brick wall, vibrant spray paint drips, complex stencil art technique combined with neo-expressionist marks, gritty metropolitan alleyway background, dramatic daylight casting shadows on brick texture --ar 16:9
+falta: [imagen, leonardo, raphael]

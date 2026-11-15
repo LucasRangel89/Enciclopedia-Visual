@@ -1,4 +1,4 @@
----
+
 parte: Geometria de Cena
 categoria: Movimentos de Camera Implicitos
 tags:
@@ -21,7 +21,7 @@ extra:
   - Bing
   - manus
   - reve
----
+
 # Movimento Implícito — Pan
 ## Conceito Técnico
 O *pan* é o movimento horizontal da câmera girando em torno de seu próprio eixo (sem deslocamento físico), varrendo a cena da esquerda para a direita ou vice-versa. Numa imagem estática, esse movimento é sugerido através de desfoque horizontal seletivo no fundo, linhas de movimento (motion trails) na direção da varredura, e camadas de profundidade desalinhadas lateralmente entre si.
@@ -50,21 +50,13 @@ O *pan* é o movimento horizontal da câmera girando em torno de seu próprio ei
 * `implied camera pan`
 * `motion streak`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. Bing
-![[Pan_Bing.jpg]]
+![[Pan.jpg]]
 * **Legenda:** [Observação sobre o desfoque horizontal e a sensação de varredura]
-### 2. Gemini (Google Imagen)
-![[Pan_Gemini.jpg]]
-* **Legenda:** [Observação sobre a direção do movimento sugerido]
-### 3. Manus
-![[Pan_Manus.png]]
-* **Legenda:** [Observação sobre a renderização das linhas de movimento]
-### 4. Reve
-![[Pan_Reve.png]]
-* **Legenda:** [Observação sobre a clareza da sensação de câmera em deslocamento]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 Cinematic panning shot sensation, a motorcycle speeding through a desert highway at sunset, horizontal motion blur streaks trailing behind the vehicle, dust particles suspended mid-air, negative space ahead of the subject suggesting continued movement, warm golden light, shot on 35mm --ar 16:9
 ```
+falta: [Gemini, Manus, Reve]

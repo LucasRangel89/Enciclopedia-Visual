@@ -1,4 +1,4 @@
----
+
 parte: Iluminacao_Avancada
 categoria: Iluminacao_Avancada
 tags:
@@ -11,7 +11,7 @@ status: rascunho
 aliases:
   - Silhouette Lighting
   - Silhueta
----
+
 # Silhueta (Silhouette Lighting)
 ## Conceito Técnico
 Setup onde o sujeito é posicionado inteiramente entre a câmera e uma fonte de luz muito mais forte que qualquer luz frontal, resultando na perda total de detalhe interno do sujeito — apenas o contorno da forma permanece visível contra o fundo iluminado.
@@ -36,21 +36,13 @@ Setup onde o sujeito é posicionado inteiramente entre a câmera e uma fonte de 
 * `complete loss of internal detail`
 * `pure form contour against bright background`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[silhueta_dalle3.png]]
+![[silhueta.png]]
 * **Legenda:** [Observação sobre a nitidez do contorno]
-### 2. Gemini (Google Imagen)
-![[silhueta_imagen.png]]
-* **Legenda:** [Observação sobre a ausência total de detalhe interno]
-### 3. Leonardo AI
-![[silhueta_leonardo.png]]
-* **Legenda:** [Observação sobre o brilho do fundo]
-### 4. Raphael AI
-![[silhueta_raphael.png]]
-* **Legenda:** [Observação sobre a universalidade da forma]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A lone figure standing on a hilltop against a blazing orange sunset, silhouette lighting, subject fully backlit with no frontal fill, complete loss of internal detail, pure iconic form --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

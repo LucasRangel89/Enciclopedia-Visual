@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 3 — A luz e a cor se libertam (fim séc. XIX)
 tags:
@@ -18,7 +18,7 @@ falta:
   - GPT
   - Leonardo
   - Raphael
----
+
 # Impressionismo (Expansão)
 
 ## Conceito Técnico
@@ -58,27 +58,15 @@ O Impressionismo (França, 1870s) revolucionou a pintura ao abandonar os estúdi
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[impressionismo_dalle3.png]]
+![[impressionismo.png]]
 * **Legenda:** [Observação sobre as pinceladas fragmentadas e vibração da luz solar ao ar livre]
 
-### 2. Gemini (Google Imagen)
-![[impressionismo_imagen.png]]
-* **Legenda:** [Observação sobre a dissolução de contornos em reflexos de água e folhagens]
-
-### 3. Leonardo AI
-![[impressionismo_leonardo.png]]
-* **Legenda:** [Observação sobre a paleta de cores puras justapostas]
-
-### 4. Raphael AI
-![[impressionismo_raphael.png]]
-* **Legenda:** [Observação sobre o dinamismo atmosférico e captação do instante fugaz]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 Impressionist oil painting of a bustling Parisian boulevard in the rain at twilight, rapid visible brushstrokes, shimmering light reflections on wet pavement, vibrant unblended pigments, Claude Monet style, plein-air atmosphere, beautiful color vibrations --ar 16:9
+falta: [imagen, leonardo, raphael]

@@ -1,4 +1,4 @@
----
+
 parte: Assinaturas_Autorais
 categoria: Ilustradores_e_Concept_Artists
 tags:
@@ -12,7 +12,7 @@ status: rascunho
 aliases:
   - Moebius Style
   - Jean Giraud
----
+
 # Moebius (Jean Giraud)
 ## Conceito Técnico
 Ilustrador francês de ficção científica conhecido por linha clara (*ligne claire*) — contornos uniformes sem variação de espessura, cor plana com sombreamento mínimo, paisagens de ficção científica vastas e surreais com arquitetura orgânica improvável, personagens esguios e elegantes, e um senso de escala onírica onde o pequeno e o monumental convivem sem hierarquia rígida.
@@ -39,20 +39,11 @@ Ilustrador francês de ficção científica conhecido por linha clara (*ligne cl
 * `elegant slender character design`
 * `dreamlike serene scale`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[moebius_dalle3.png]]
+![[moebius.png]]
 * **Legenda:** [Observação sobre a uniformidade da linha]
-### 2. Gemini (Google Imagen)
-![[moebius_imagen.png]]
-* **Legenda:** [Observação sobre a planitude da cor]
-### 3. Leonardo AI
-![[moebius_leonardo.png]]
-* **Legenda:** [Observação sobre a escala onírica da paisagem]
-### 4. Raphael AI
-![[moebius_raphael.png]]
-* **Legenda:** [Observação sobre a serenidade do estranhamento]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -62,3 +53,4 @@ A slender traveler crossing a vast alien desert with organic towering structures
 ```
 A slender traveler crossing a vast alien desert with organic towering structures, clean uniform ligne claire line art, flat minimal shading, vast surreal science fiction landscape, dreamlike serene scale --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

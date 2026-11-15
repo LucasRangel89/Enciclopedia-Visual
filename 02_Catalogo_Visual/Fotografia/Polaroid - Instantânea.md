@@ -1,4 +1,4 @@
----
+
 parte: Fotografia
 categoria: Fotografia
 tags:
@@ -11,7 +11,7 @@ status: rascunho
 aliases:
   - Instant Photography
   - Polaroid Photography
----
+
 # Polaroid / Instantânea
 ## Conceito Técnico
 Fotografia que revela a imagem instantaneamente através de processo químico embutido no próprio filme, resultando em bordas brancas largas características, cores levemente desbotadas e quentes, baixo contraste, e uma qualidade tátil de objeto físico único e irreproduzível — cada Polaroid é original, sem negativo para reimprimir.
@@ -39,20 +39,11 @@ Fotografia que revela a imagem instantaneamente através de processo químico em
 * `tangible physical photo object`
 * `nostalgic warm cast`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[Polaroid_ChatGPT.png]]
+![[Polaroid.png]]
 * **Legenda:** [Observação sobre a moldura branca característica]
-### 2. Gemini (Google Imagen)
-![[Polaroid_Gemini.jpg]]
-* **Legenda:** [Observação sobre o desbotamento das cores]
-### 3. Leonardo AI
-![[Polaroid_Leonardo.jpg]]
-* **Legenda:** [Observação sobre o baixo contraste geral]
-### 4. Reve
-![[Polaroid_Reve.png]]
-* **Legenda:** [Observação sobre a sensação de objeto físico único]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A close-up portrait of a smiling friend at a birthday party, characteristic white polaroid border frame, warm faded color tones, low contrast instant film look, soft dreamy nostalgic exposure --ar 1:1
@@ -62,3 +53,4 @@ KREA
 ![[Polaroid_Manus.png]]
 BING
 ![[Polaroid_Bing.jpg]]
+falta: [Gemini, Leonardo, Reve]

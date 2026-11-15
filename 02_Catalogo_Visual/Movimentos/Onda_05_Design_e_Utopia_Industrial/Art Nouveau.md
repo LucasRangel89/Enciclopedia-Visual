@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 5 — Design, decoração e utopia industrial
 tags:
@@ -22,7 +22,7 @@ extra:
   - Bing
   - manus
   - reve
----
+
 # Art Nouveau (Expansão)
 
 ## Conceito Técnico
@@ -62,27 +62,15 @@ O Art Nouveau (1890–1914) foi um movimento internacional de design e arquitetu
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. Bing
-![[Art_Nouveau_Bing.jpg]]
+![[Art_Nouveau.jpg]]
 * **Legenda:** [Observação sobre as curvas orgânicas de chicote e detalhes em folha de ouro]
 
-### 2. Gemini (Google Imagen)
-![[05_Anexos/Movimentos/Onda_05_Design_e_Utopia_Industrial/Art_Nouveau_Gemini.jpg]]
-* **Legenda:** [Observação sobre a moldura decorativa floral no estilo de Alphonse Mucha]
-
-### 3. Manus
-![[Art_Nouveau_Manus.png]]
-* **Legenda:** [Observação sobre os mosaicos dourados e padrões inspirados em Gustav Klimt]
-
-### 4. Reve
-![[Art_Nouveau_Reve.png]]
-* **Legenda:** [Observação sobre a harmonia entre a figura feminina e os motivos botânicos]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```
 Art Nouveau poster illustration of an ethereal forest nymph surrounded by flowing whiplash organic lines and blooming lilies, Alphonse Mucha and Gustav Klimt aesthetic, intricate gold leaf mosaic patterns, delicate floral motifs, elegant decorative composition --ar 9:16
+falta: [Gemini, Manus, Reve]

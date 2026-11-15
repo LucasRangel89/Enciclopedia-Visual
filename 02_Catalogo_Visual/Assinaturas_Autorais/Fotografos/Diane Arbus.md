@@ -1,4 +1,4 @@
----
+
 part: Assinaturas_Autorais
 category: Fotografos
 tags: [diane-arbus, fotografo, assinatura-autoral, retrato-frontal]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Diane Arbus Style
 draft: false
----
+
 # Diane Arbus
 ## Conceito Técnico
 Fotógrafa de retrato em formato quadrado (médio-formato), flash direto na câmera que achata a imagem e cria sombra dura atrás do sujeito, composição frontal implacável, sujeitos frequentemente à margem da normalidade social capturados com dignidade e desconforto simultâneos, olhar direto para a câmera que "encara de volta" o espectador.
@@ -34,20 +34,11 @@ Fotógrafa de retrato em formato quadrado (médio-formato), flash direto na câm
 * `subject looking directly into camera`
 * `unposed documentary intensity`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[arbus_dalle3.png]]
+![[arbus.png]]
 * **Legenda:** [Observação sobre a dureza do flash direto]
-### 2. Gemini (Google Imagen)
-![[arbus_imagen.png]]
-* **Legenda:** [Observação sobre o confronto do olhar direto]
-### 3. Leonardo AI
-![[arbus_leonardo.png]]
-* **Legenda:** [Observação sobre o formato quadrado]
-### 4. Raphael AI
-![[arbus_raphael.png]]
-* **Legenda:** [Observação sobre o contraste em preto e branco]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -57,3 +48,4 @@ A person in an unusual costume standing in their backyard, Diane Arbus style unf
 ```
 A person in an unusual costume standing in their backyard, square format medium format film photography, direct on-camera flash lighting, stark high-contrast black and white, unflinching frontal composition, subject looking directly into camera --ar 1:1
 ```
+falta: [imagen, leonardo, raphael]

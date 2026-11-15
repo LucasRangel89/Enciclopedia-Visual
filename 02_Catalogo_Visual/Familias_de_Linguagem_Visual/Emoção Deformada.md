@@ -1,4 +1,4 @@
----
+
 parte: Familias_de_Linguagem_Visual
 categoria: Familias_de_Linguagem_Visual
 tags:
@@ -10,7 +10,7 @@ tem_imagem: false
 status: rascunho
 aliases:
   - Deformed Emotion
----
+
 # Emoção Deformada
 ## Conceito Técnico
 Família de linguagem visual que atravessa Expressionismo, Art Brut e certas vertentes de horror, unidas pela distorção da forma como veículo direto de estado emocional — a anatomia, a perspectiva e a cor cedem à necessidade de expressar sentimento intenso, não à precisão descritiva.
@@ -35,21 +35,13 @@ Família de linguagem visual que atravessa Expressionismo, Art Brut e certas ver
 * `raw unfiltered feeling over precision`
 * `visceral deformed line quality`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[emocao_deformada_dalle3.png]]
+![[emocao_deformada.png]]
 * **Legenda:** [Observação sobre a intensidade da distorção]
-### 2. Gemini (Google Imagen)
-![[emocao_deformada_imagen.png]]
-* **Legenda:** [Observação sobre a leitura emocional imediata]
-### 3. Leonardo AI
-![[emocao_deformada_leonardo.png]]
-* **Legenda:** [Observação sobre a autenticidade transmitida]
-### 4. Raphael AI
-![[emocao_deformada_raphael.png]]
-* **Legenda:** [Observação sobre o desconforto produtivo gerado]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A face contorted in anguish rendered with expressive exaggerated distortion, emotion-driven anatomy exaggeration, raw unfiltered feeling over precision, visceral deformed brushwork --ar 1:1
 ```
+falta: [imagen, leonardo, raphael]

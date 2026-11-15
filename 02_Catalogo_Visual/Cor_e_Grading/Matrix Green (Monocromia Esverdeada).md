@@ -1,4 +1,4 @@
----
+
 parte: Cor_e_Grading
 categoria: Cor_e_Grading
 tags:
@@ -11,7 +11,7 @@ status: rascunho
 aliases:
   - Matrix Green Grade
   - Monocromia Verde Digital
----
+
 # Matrix Green (Monocromia Esverdeada)
 ## Conceito Técnico
 Grading que empurra toda a imagem para um matiz verde dominante, associado à estética "mundo digital/simulado" popularizada por Matrix (1999) — usado como código visual para diferenciar realidades (simulação vs. mundo real) ou para evocar corrupção tecnológica/vigilância.
@@ -37,21 +37,13 @@ Grading que empurra toda a imagem para um matiz verde dominante, associado à es
 * `cold technological tint`
 * `surveillance-style color treatment`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[matrix_green_dalle3.png]]
+![[matrix_green.png]]
 * **Legenda:** [Observação sobre a dominância do matiz verde]
-### 2. Gemini (Google Imagen)
-![[matrix_green_imagen.png]]
-* **Legenda:** [Observação sobre a frieza tecnológica transmitida]
-### 3. Leonardo AI
-![[matrix_green_leonardo.png]]
-* **Legenda:** [Observação sobre a sensação de simulação digital]
-### 4. Raphael AI
-![[matrix_green_raphael.png]]
-* **Legenda:** [Observação sobre a consistência do tom em toda a cena]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A figure typing at a terminal surrounded by cascading data streams, dominant green color cast, digital simulation aesthetic, monochromatic green grade, cold technological atmosphere --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

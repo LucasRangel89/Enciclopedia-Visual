@@ -1,4 +1,4 @@
----
+
 parte: Brasil_e_America_Latina
 categoria: Arte_Popular_Nordestina
 tags:
@@ -9,7 +9,7 @@ tem_imagem: false
 status: rascunho
 aliases:
   - Mamulengo Puppet Theater
----
+
 # Mamulengo
 ## Conceito Técnico
 Teatro de bonecos popular nordestino, com marionetes de cabeça de madeira entalhada, feições exageradas e caricatas, cores vivas e contrastantes, e uma estética "tosca" deliberada que prioriza expressividade cômica sobre refinamento técnico — herança de tradição afro-indígena-ibérica sincrética.
@@ -34,21 +34,13 @@ Teatro de bonecos popular nordestino, com marionetes de cabeça de madeira ental
 * `vivid contrasting folk colors`
 * `deliberately rustic handcrafted puppet aesthetic`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[mamulengo_dalle3.png]]
+![[mamulengo.png]]
 * **Legenda:** [Observação sobre o exagero das feições talhadas]
-### 2. Gemini (Google Imagen)
-![[mamulengo_imagen.png]]
-* **Legenda:** [Observação sobre a vivacidade das cores]
-### 3. Leonardo AI
-![[mamulengo_leonardo.png]]
-* **Legenda:** [Observação sobre o humor transmitido pela expressão]
-### 4. Raphael AI
-![[mamulengo_raphael.png]]
-* **Legenda:** [Observação sobre a rusticidade artesanal do boneco]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A carved wooden puppet head with exaggerated caricatured features and a wide comic grin, vivid contrasting folk colors, deliberately rustic handcrafted puppet theater aesthetic --ar 1:1
 ```
+falta: [imagen, leonardo, raphael]

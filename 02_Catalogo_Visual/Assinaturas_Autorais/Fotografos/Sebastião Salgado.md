@@ -1,4 +1,4 @@
----
+
 part: Assinaturas_Autorais
 category: Fotografos
 tags: [sebastiao-salgado, fotografo, assinatura-autoral, documental-epico]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Sebastião Salgado Style
 draft: false
----
+
 # Sebastião Salgado
 ## Conceito Técnico
 Fotógrafo documental em preto e branco de grande formato, contraste tonal extremamente rico (do negro profundo ao branco puro, com vasta gama de cinzas intermediários), composições épicas de trabalho humano e paisagem em escala monumental, luz dramática frequentemente natural (raios de sol entre nuvens, poeira suspensa), e uma dignidade visual conferida a trabalhadores e migrantes através de composição quase bíblica.
@@ -34,20 +34,11 @@ Fotógrafo documental em preto e branco de grande formato, contraste tonal extre
 * `biblical dignified framing`
 * `large format film detail`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[salgado_dalle3.png]]
+![[salgado.png]]
 * **Legenda:** [Observação sobre a riqueza da gama tonal]
-### 2. Gemini (Google Imagen)
-![[salgado_imagen.png]]
-* **Legenda:** [Observação sobre a dramaticidade da luz natural]
-### 3. Leonardo AI
-![[salgado_leonardo.png]]
-* **Legenda:** [Observação sobre a escala épica da composição]
-### 4. Raphael AI
-![[salgado_raphael.png]]
-* **Legenda:** [Observação sobre a dignidade conferida aos sujeitos]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -57,3 +48,4 @@ A vast crowd of laborers working in an open-pit mine, Sebastião Salgado style e
 ```
 A vast crowd of laborers working in an open-pit mine, rich black and white tonal range from deep blacks to pure whites, epic documentary scale, dramatic natural light through suspended dust, monumental dignified composition --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

@@ -1,4 +1,4 @@
----
+
 parte: Midias e Suportes
 categoria: Desenho
 tags:
@@ -12,7 +12,7 @@ aliases:
   - Ink Drawing
   - Pen and Ink
   - Nanquim
----
+
 # Nanquim / Bico de Pena
 ## Conceito Técnico
 Tinta preta permanente aplicada com pena metálica ou pincel, produzindo linhas de contraste absoluto (preto puro sobre branco) sem meio-tom direto — o tom é simulado através de técnicas de hachura, pontilhismo (estipulação) ou densidade de linhas cruzadas.
@@ -41,21 +41,13 @@ Tinta preta permanente aplicada com pena metálica ou pincel, produzindo linhas 
 * `classic comic book inking`
 * `engraving-style linework`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[nanquim_dalle3.png]]
+![[nanquim.png]]
 * **Legenda:** [Observação sobre a densidade da hachura]
-### 2. Gemini (Google Imagen)
-![[nanquim_imagen.png]]
-* **Legenda:** [Observação sobre a nitidez do contraste absoluto]
-### 3. Leonardo AI
-![[nanquim_leonardo.png]]
-* **Legenda:** [Observação sobre a precisão do traço da pena]
-### 4. Raphael AI
-![[nanquim_raphael.png]]
-* **Legenda:** [Observação sobre a consistência da estipulação]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A detailed botanical illustration in pen and ink, pure black ink on white paper, fine cross-hatching and stippling for shading, high contrast linework, classic engraving-style precision --ar 3:4
 ```
+falta: [imagen, leonardo, raphael]

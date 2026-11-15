@@ -1,4 +1,4 @@
----
+
 part: Arquitetura_Cenario_e_Personagem
 category: Estilos_Arquitetonicos_Chave
 tags: [arquitetura-renascentista, estilo-arquitetonico, proporcao-classica]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Renaissance Architecture
 draft: false
----
+
 # Arquitetura Renascentista
 ## Conceito Técnico
 Estilo arquitetônico europeu (séculos XV-XVI) que retoma proporção clássica greco-romana — simetria matemática rigorosa, colunas de ordem clássica (dórica, jônica, coríntia), cúpulas centralizadas, e uma harmonia geométrica que expressa racionalidade humanista em oposição à verticalidade mística gótica anterior.
@@ -32,21 +32,13 @@ Estilo arquitetônico europeu (séculos XV-XVI) que retoma proporção clássica
 * `centralized dome composition`
 * `humanist geometric harmony`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[renascentista_dalle3.png]]
+![[renascentista.png]]
 * **Legenda:** [Observação sobre a precisão da simetria]
-### 2. Gemini (Google Imagen)
-![[renascentista_imagen.png]]
-* **Legenda:** [Observação sobre a fidelidade às ordens clássicas]
-### 3. Leonardo AI
-![[renascentista_leonardo.png]]
-* **Legenda:** [Observação sobre a centralização da cúpula]
-### 4. Raphael AI
-![[renascentista_raphael.png]]
-* **Legenda:** [Observação sobre a harmonia geométrica geral]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A grand Renaissance palace facade with perfect classical symmetry, Greco-Roman column orders, centralized dome in the background, humanist geometric harmony --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

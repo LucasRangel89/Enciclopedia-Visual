@@ -1,4 +1,4 @@
----
+
 parte: Midias e Suportes
 categoria: Midias Mistas e Digitais
 tags:
@@ -12,7 +12,7 @@ aliases:
   - 3D Rendering
   - CGI
   - Computer Generated Imagery
----
+
 # 3D Render
 ## Conceito Técnico
 Imagem gerada a partir de modelos tridimensionais em software (Blender, Cinema 4D, Octane), com simulação computacional de luz, sombra, reflexo e material — permite fotorrealismo extremo ou estilização deliberada (toon shading, low-poly), dependendo do motor de renderização escolhido.
@@ -41,21 +41,13 @@ Imagem gerada a partir de modelos tridimensionais em software (Blender, Cinema 4
 * `physically based rendering`
 * `toon-shaded 3D style`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[render_3d_dalle3.png]]
+![[render_3d.png]]
 * **Legenda:** [Observação sobre a qualidade dos reflexos]
-### 2. Gemini (Google Imagen)
-![[render_3d_imagen.png]]
-* **Legenda:** [Observação sobre a precisão da iluminação global]
-### 3. Leonardo AI
-![[render_3d_leonardo.png]]
-* **Legenda:** [Observação sobre o realismo do material]
-### 4. Raphael AI
-![[render_3d_raphael.png]]
-* **Legenda:** [Observação sobre a limpeza geométrica geral]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A futuristic vehicle design, octane render, ray-traced reflections and global illumination, physically based materials, studio CGI lighting setup, hyper-detailed surface texture --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

@@ -1,4 +1,4 @@
----
+
 part: Generos e Universos
 category: Generos e Universos
 tags: [western, genero-visual, fronteira-americana]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Western Genre
 draft: false
----
+
 # Western
 ## Conceito Técnico
 Gênero visual ancorado no imaginário da fronteira norte-americana do século XIX — paisagens desérticas vastas, arquitetura de madeira desgastada pelo sol e vento, luz dura e alta ao meio-dia projetando sombras curtas e definidas, e uma iconografia de conflito entre lei/ordem e território selvagem.
@@ -33,21 +33,13 @@ Gênero visual ancorado no imaginário da fronteira norte-americana do século X
 * `frontier lawlessness iconography`
 * `solitary heroic figure against vast wilderness`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[western_dalle3.png]]
+![[western.png]]
 * **Legenda:** [Observação sobre a dureza da luz do meio-dia]
-### 2. Gemini (Google Imagen)
-![[western_imagen.png]]
-* **Legenda:** [Observação sobre o desgaste da arquitetura de madeira]
-### 3. Leonardo AI
-![[western_leonardo.png]]
-* **Legenda:** [Observação sobre a vastidão da paisagem]
-### 4. Raphael AI
-![[western_raphael.png]]
-* **Legenda:** [Observação sobre a solidão da figura central]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A lone gunslinger standing in the dusty main street of a frontier town at high noon, vast arid desert landscape stretching behind, harsh directional sunlight casting short defined shadows, weathered wooden architecture --ar 21:9
 ```
+falta: [imagen, leonardo, raphael]

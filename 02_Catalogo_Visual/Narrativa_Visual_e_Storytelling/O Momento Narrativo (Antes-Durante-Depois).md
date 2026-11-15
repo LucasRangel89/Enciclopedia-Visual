@@ -1,4 +1,4 @@
----
+
 part: Narrativa_Visual_e_Storytelling
 category: Narrativa_Visual_e_Storytelling
 tags: [momento-narrativo, storytelling-visual, composicao-narrativa]
@@ -8,7 +8,7 @@ aliases:
   - Narrative Moment
   - Before-During-After
 draft: false
----
+
 # O Momento Narrativo (Antes/Durante/Depois)
 ## Conceito Técnico
 Princípio de composição narrativa que escolhe deliberadamente qual instante de uma ação contar — o momento "antes" (tensão de expectativa, a faca ainda não caiu), o "durante" (o clímax do ato, geralmente o mais óbvio e menos interessante), ou o "depois" (as consequências, o rosto processando o que aconteceu) — cada escolha muda radicalmente o que o espectador sente e precisa inferir.
@@ -33,21 +33,13 @@ Princípio de composição narrativa que escolhe deliberadamente qual instante d
 * `aftermath emotional processing`
 * `implied action through selected instant`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[momento_narrativo_dalle3.png]]
+![[momento_narrativo.png]]
 * **Legenda:** [Observação sobre a clareza do instante escolhido]
-### 2. Gemini (Google Imagen)
-![[momento_narrativo_imagen.png]]
-* **Legenda:** [Observação sobre a tensão implícita transmitida]
-### 3. Leonardo AI
-![[momento_narrativo_leonardo.png]]
-* **Legenda:** [Observação sobre o peso emocional do "depois"]
-### 4. Raphael AI
-![[momento_narrativo_raphael.png]]
-* **Legenda:** [Observação sobre o espaço deixado para a imaginação]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A woman staring at a shattered vase on the floor, moments after it fell, aftermath emotional processing, implied action through selected instant, quiet weighted stillness --ar 4:5
 ```
+falta: [imagen, leonardo, raphael]

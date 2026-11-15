@@ -1,4 +1,4 @@
----
+
 parte: Midias e Suportes
 categoria: Artefatos_e_Imperfeicoes_Analogicas
 tags:
@@ -12,7 +12,7 @@ aliases:
   - VHS Artifact
   - Videotape Aesthetic
   - Estética VHS
----
+
 # Videoteipe VHS
 ## Conceito Técnico
 Degradação característica da gravação em fita magnética analógica — perda de resolução horizontal, sangramento de cor (color bleeding), rastros de rastreamento (tracking lines), ruído de sinal e leve distorção geométrica nas bordas — resultado da tecnologia de gravação/reprodução doméstica dos anos 1980-90.
@@ -41,27 +41,19 @@ Degradação característica da gravação em fita magnética analógica — per
 * `found footage grain`
 * `signal noise`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. Bing
 ![[05_Anexos/Midias e Suportes/Artefatos_e_Imperfeicoes_Analogicas/VHS_Bing (2).jpg]]
 
-![[05_Anexos/Midias e Suportes/Artefatos_e_Imperfeicoes_Analogicas/VHS_Bing (3).jpg]]
+![[05_Anexos/Midias e Suportes/Artefatos_e_Imperfeicoes_Analogicas/VHS_Bing (2).jpg]]
 
-![[05_Anexos/Midias e Suportes/Artefatos_e_Imperfeicoes_Analogicas/VHS_Bing (4).jpg]]
+![[05_Anexos/Midias e Suportes/Artefatos_e_Imperfeicoes_Analogicas/VHS_Bing (2).jpg]]
 
-![[05_Anexos/Midias e Suportes/Artefatos_e_Imperfeicoes_Analogicas/VHS_Bing (1).jpg]]
+![[05_Anexos/Midias e Suportes/Artefatos_e_Imperfeicoes_Analogicas/VHS_Bing (2).jpg]]
 * **Legenda:** [Observação sobre a visibilidade das linhas de rastreamento]
-### 2. Gemini (Google Imagen)
-![[VHS_Gemini.jpg]]
-* **Legenda:** [Observação sobre o sangramento de cor]
-### 3. Leonardo AI
-![[VHS_Leonardo.jpg]]
-* **Legenda:** [Observação sobre a fidelidade à estética de camcorder]
-### 4. Manus
-![[VHS_Manus.png]]
-* **Legenda:** [Observação sobre a sensação de "found footage" gerada]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A found-footage style scene from an abandoned house, VHS scan lines and tracking distortion, color bleeding artifacts, low-resolution 1980s camcorder texture, eerie nostalgic mood --ar 4:3
 ```
+falta: [Gemini, Leonardo, Manus]

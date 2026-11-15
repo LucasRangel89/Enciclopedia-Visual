@@ -1,4 +1,4 @@
----
+
 parte: Brasil_e_America_Latina
 categoria: Concretismo_Tropicalia_e_Neoconcretismo
 tags:
@@ -12,7 +12,7 @@ status: rascunho
 aliases:
   - Neoconcretism
   - Neo-Concrete Movement
----
+
 # Neoconcretismo — Lygia Clark e Hélio Oiticica
 ## Conceito Técnico
 Ramificação brasileira do concretismo que rejeita a frieza puramente racional em favor da participação sensorial do espectador — obras concebidas para serem tocadas, vestidas ou habitadas (Bichos de Lygia Clark, Parangolés de Hélio Oiticica), fundindo geometria abstrata com experiência corporal e cor vibrante tropical.
@@ -37,21 +37,13 @@ Ramificação brasileira do concretismo que rejeita a frieza puramente racional 
 * `art meant to be touched or worn`
 * `fusion of rational structure and bodily experience`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[neoconcretismo_dalle3.png]]
+![[neoconcretismo.png]]
 * **Legenda:** [Observação sobre a interação corpo/objeto]
-### 2. Gemini (Google Imagen)
-![[neoconcretismo_imagen.png]]
-* **Legenda:** [Observação sobre a vivacidade da cor tropical]
-### 3. Leonardo AI
-![[neoconcretismo_leonardo.png]]
-* **Legenda:** [Observação sobre o movimento da forma geométrica]
-### 4. Raphael AI
-![[neoconcretismo_raphael.png]]
-* **Legenda:** [Observação sobre a fusão razão/sensualidade transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A dancer wrapped in a flowing multicolored geometric cape in motion, participatory sensorial geometric object, vibrant tropical color on abstract form, fusion of structure and bodily movement --ar 4:5
 ```
+falta: [imagen, leonardo, raphael]

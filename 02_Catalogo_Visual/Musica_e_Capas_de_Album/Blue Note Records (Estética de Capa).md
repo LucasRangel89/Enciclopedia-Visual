@@ -1,4 +1,4 @@
----
+
 part: Musica_e_Capas_de_Album
 category: Musica_e_Capas_de_Album
 tags: [blue-note-records, jazz, capa-de-album, musica]
@@ -8,7 +8,7 @@ aliases:
   - Blue Note Style
   - Reid Miles Design
 draft: false
----
+
 # Blue Note Records (Estética de Capa)
 ## Conceito Técnico
 Linguagem visual associada ao selo de jazz Blue Note (design de Reid Miles), caracterizada por blocos de cor sólida e ousada, fotografia dramática em preto e branco de músicos em ação/reflexão, tipografia sans-serif geométrica sobreposta de forma assimétrica e ousada, e uma sofisticação gráfica minimalista que trata o design de capa como arte independente da música.
@@ -33,21 +33,13 @@ Linguagem visual associada ao selo de jazz Blue Note (design de Reid Miles), car
 * `asymmetrical geometric sans-serif typography`
 * `sophisticated minimalist jazz design`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[blue_note_dalle3.png]]
+![[blue_note.png]]
 * **Legenda:** [Observação sobre o drama da fotografia em P&B]
-### 2. Gemini (Google Imagen)
-![[blue_note_imagen.png]]
-* **Legenda:** [Observação sobre a ousadia do bloco de cor]
-### 3. Leonardo AI
-![[blue_note_leonardo.png]]
-* **Legenda:** [Observação sobre a assimetria da tipografia]
-### 4. Raphael AI
-![[blue_note_raphael.png]]
-* **Legenda:** [Observação sobre a sofisticação gráfica geral]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A dramatic black and white photograph of a saxophonist mid-performance, bold solid orange color block, asymmetrical geometric sans-serif typography, sophisticated minimalist design --ar 1:1
 ```
+falta: [imagen, leonardo, raphael]

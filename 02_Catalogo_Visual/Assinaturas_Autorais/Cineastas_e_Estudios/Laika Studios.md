@@ -1,4 +1,4 @@
----
+
 part: Assinaturas_Autorais
 category: Cineastas_e_Estudios
 tags: [laika, stop-motion, estudio-animacao, assinatura-autoral]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Laika Style
 draft: false
----
+
 # Laika Studios
 ## Conceito Técnico
 Estúdio de stop-motion caracterizado por texturas tangíveis e imperfeitas de bonecos físicos (tecido, madeira, silicone visível), paletas sombrias e outonais, temas gótico-infantis mais sombrios que a média, e uma qualidade tátil deliberada que preserva a "imperfeição" do artesanato manual mesmo com acabamento digital.
@@ -34,20 +34,11 @@ Estúdio de stop-motion caracterizado por texturas tangíveis e imperfeitas de b
 * `visible fabric and stitching detail`
 * `tactile physical materiality`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[laika_dalle3.png]]
+![[laika.png]]
 * **Legenda:** [Observação sobre a textura tátil do boneco]
-### 2. Gemini (Google Imagen)
-![[laika_imagen.png]]
-* **Legenda:** [Observação sobre a paleta outonal]
-### 3. Leonardo AI
-![[laika_leonardo.png]]
-* **Legenda:** [Observação sobre a visibilidade da costura]
-### 4. Raphael AI
-![[laika_raphael.png]]
-* **Legenda:** [Observação sobre o tom gótico-infantil]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -57,3 +48,4 @@ A stitched fabric puppet character walking through an autumn forest at dusk, Lai
 ```
 A stitched fabric puppet character walking through an autumn forest at dusk, visible stop-motion puppet texture with tangible handcrafted imperfection, muted autumnal color palette, gothic storybook tone, visible fabric stitching detail --ar 4:5
 ```
+falta: [imagen, leonardo, raphael]

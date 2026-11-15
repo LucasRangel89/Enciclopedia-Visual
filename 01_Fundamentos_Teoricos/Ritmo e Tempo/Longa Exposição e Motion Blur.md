@@ -1,4 +1,4 @@
----
+
 part: Ritmo e Tempo
 category: Ritmo e Tempo
 tags: [longa-exposicao, motion-blur, velocidade-de-obturador, ritmo-visual]
@@ -8,7 +8,7 @@ aliases:
   - Long Exposure
   - Slow Shutter Speed
 draft: false
----
+
 # Longa Exposição e Motion Blur
 ## Conceito Técnico
 Obturador lento (segundos a minutos) que acumula luz e movimento ao longo do tempo, transformando elementos em movimento (água, luzes, nuvens, multidões) em rastros suaves e contínuos, enquanto elementos estáticos permanecem nítidos.
@@ -37,21 +37,13 @@ Obturador lento (segundos a minutos) que acumula luz e movimento ao longo do tem
 * `ghostly blur`
 * `time exposure photography`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[longa_exposicao_dalle3.png]]
+![[longa_exposicao.png]]
 * **Legenda:** [Observação sobre a suavidade do movimento da água/luz]
-### 2. Gemini (Google Imagen)
-![[longa_exposicao_imagen.png]]
-* **Legenda:** [Observação sobre o contraste entre nítido e borrado]
-### 3. Leonardo AI
-![[longa_exposicao_leonardo.png]]
-* **Legenda:** [Observação sobre a continuidade dos rastros de luz]
-### 4. Raphael AI
-![[longa_exposicao_raphael.png]]
-* **Legenda:** [Observação sobre a sensação de tempo acumulado]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 Waterfall in a forest, long exposure photography, silky smooth flowing water motion blur, surrounding rocks and trees perfectly sharp and still, soft diffused daylight, serene tranquil mood --ar 3:4
 ```
+falta: [imagen, leonardo, raphael]

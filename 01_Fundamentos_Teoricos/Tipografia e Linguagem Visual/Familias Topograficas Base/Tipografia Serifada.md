@@ -1,4 +1,4 @@
----
+
 part: Tipografia e Linguagem Visual
 category: Familias Topograficas Base
 tags: [tipografia-serifada, familia-tipografica, design-grafico]
@@ -8,7 +8,7 @@ aliases:
   - Serif Typeface
   - Serifa
 draft: false
----
+
 # Tipografia Serifada
 ## Conceito Técnico
 Fontes com pequenos traços de acabamento (serifas) nas extremidades das letras, historicamente ligadas à tipografia impressa clássica e à escrita cinzelada em pedra romana.
@@ -36,21 +36,13 @@ Fontes com pequenos traços de acabamento (serifas) nas extremidades das letras,
 * `engraved serif text`
 * `literary typeface style`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[serifada_dalle3.png]]
+![[serifada.png]]
 * **Legenda:** [Observação sobre a nitidez das serifas]
-### 2. Gemini (Google Imagen)
-![[serifada_imagen.png]]
-* **Legenda:** [Observação sobre a sensação de formalidade]
-### 3. Leonardo AI
-![[serifada_leonardo.png]]
-* **Legenda:** [Observação sobre a coerência com o suporte/material]
-### 4. Raphael AI
-![[serifada_raphael.png]]
-* **Legenda:** [Observação sobre a legibilidade da fonte serifada]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A close-up of an old bronze plaque, elegant engraved serif typography, weathered patina, soft directional light emphasizing the carved letters, formal and authoritative mood --ar 4:3
 ```
+falta: [imagen, leonardo, raphael]

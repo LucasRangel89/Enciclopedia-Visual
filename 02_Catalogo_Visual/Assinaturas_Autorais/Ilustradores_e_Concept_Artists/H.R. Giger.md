@@ -1,4 +1,4 @@
----
+
 parte: Assinaturas_Autorais
 categoria: Ilustradores_e_Concept_Artists
 tags:
@@ -11,7 +11,7 @@ status: rascunho
 aliases:
   - H.R. Giger Style
   - Gigerian
----
+
 # H.R. Giger
 ## Conceito Técnico
 Artista de horror biomecânico conhecido por fusão orgânico-mecânica (ossos e tubos hidráulicos indistinguíveis), monocromia quase total em tons de cinza-metálico e preto, superfícies úmidas e brilhantes com textura exoesquelética, formas alongadas ameaçadoras, e composições que sugerem organismos vivos dentro de estruturas industriais.
@@ -38,20 +38,11 @@ Artista de horror biomecânico conhecido por fusão orgânico-mecânica (ossos e
 * `elongated threatening biomechanical forms`
 * `visceral industrial horror`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[giger_dalle3.png]]
+![[giger.png]]
 * **Legenda:** [Observação sobre a fusão orgânico-mecânica]
-### 2. Gemini (Google Imagen)
-![[giger_imagen.png]]
-* **Legenda:** [Observação sobre a monocromia metálica]
-### 3. Leonardo AI
-![[giger_leonardo.png]]
-* **Legenda:** [Observação sobre a textura úmida/exoesquelética]
-### 4. Raphael AI
-![[giger_raphael.png]]
-* **Legenda:** [Observação sobre a ameaça das formas alongadas]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -61,3 +52,4 @@ A biomechanical alien creature emerging from industrial pipes, H.R. Giger style 
 ```
 A biomechanical alien creature emerging from industrial pipes, biomechanical fusion of bone and machinery, monochromatic metallic grey and black tones, wet glossy exoskeletal texture, elongated threatening organic-mechanical forms --ar 3:4
 ```
+falta: [imagen, leonardo, raphael]

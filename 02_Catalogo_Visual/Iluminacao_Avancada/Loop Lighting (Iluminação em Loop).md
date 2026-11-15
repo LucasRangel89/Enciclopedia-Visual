@@ -1,4 +1,4 @@
----
+
 parte: Iluminacao_Avancada
 categoria: Iluminacao_Avancada
 tags:
@@ -10,7 +10,7 @@ tem_imagem: false
 status: rascunho
 aliases:
   - Loop Lighting
----
+
 # Loop Lighting (Iluminação em Loop)
 ## Conceito Técnico
 Setup intermediário entre butterfly e split, onde a luz principal é posicionada ligeiramente acima e ao lado do rosto, criando uma pequena sombra circular ("loop") do nariz na bochecha, sem tocar o lábio superior — o setup de retrato mais versátil e naturalmente lisonjeiro.
@@ -35,21 +35,13 @@ Setup intermediário entre butterfly e split, onde a luz principal é posicionad
 * `subtle dimensional facial modeling`
 * `versatile flattering portrait light`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[loop_lighting_dalle3.png]]
+![[loop_lighting.png]]
 * **Legenda:** [Observação sobre a sombra circular na bochecha]
-### 2. Gemini (Google Imagen)
-![[loop_lighting_imagen.png]]
-* **Legenda:** [Observação sobre a naturalidade da modelagem]
-### 3. Leonardo AI
-![[loop_lighting_leonardo.png]]
-* **Legenda:** [Observação sobre o equilíbrio entre suavidade e dimensão]
-### 4. Raphael AI
-![[loop_lighting_raphael.png]]
-* **Legenda:** [Observação sobre a versatilidade do resultado]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A professional editorial portrait, loop lighting setup, small circular nose shadow visible on the cheek, subtle dimensional facial modeling, naturally flattering studio light --ar 4:5
 ```
+falta: [imagen, leonardo, raphael]

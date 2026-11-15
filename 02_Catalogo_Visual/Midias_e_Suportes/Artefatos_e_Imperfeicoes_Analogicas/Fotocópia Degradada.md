@@ -1,4 +1,4 @@
----
+
 parte: Midias e Suportes
 categoria: Artefatos_e_Imperfeicoes_Analogicas
 tags:
@@ -12,7 +12,7 @@ aliases:
   - Photocopy Artifact
   - Xerox Degradation
   - Cópia Geracional
----
+
 # Fotocópia Degradada
 ## Conceito Técnico
 Degradação progressiva de contraste e detalhe que ocorre quando uma imagem é fotocopiada repetidamente (cópia de cópia) — cada geração perde informação tonal, ganha ruído granulado, e endurece o contraste até restarem apenas manchas de preto e branco puro, sem meio-tom.
@@ -40,21 +40,13 @@ Degradação progressiva de contraste e detalhe que ocorre quando uma imagem é 
 * `punk flyer aesthetic`
 * `lo-fi black and white texture`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. Bing
-![[Fotocopia_Bing.jpg]]
+![[Fotocopia.jpg]]
 * **Legenda:** [Observação sobre a dureza do contraste]
-### 2. Gemini (Google Imagen)
-![[Fotocopia_Gemini.jpg]]
-* **Legenda:** [Observação sobre o ruído granulado do toner]
-### 3. Leonardo AI
-![[Fotocopia_Leonardo.jpg]]
-* **Legenda:** [Observação sobre a coerência com o estilo punk/DIY]
-### 4. Manus
-![[Fotocopia_Manus.png]]
-* **Legenda:** [Observação sobre a sensação de degradação geracional]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A punk show flyer with generational photocopy degradation, harsh blown-out black and white contrast, grainy toner texture and xerox streaking, DIY underground aesthetic --ar 3:4
 ```
+falta: [Gemini, Leonardo, Manus]

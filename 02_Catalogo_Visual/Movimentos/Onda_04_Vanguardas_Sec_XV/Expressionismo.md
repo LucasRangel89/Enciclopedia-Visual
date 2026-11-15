@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 4 — Vanguardas do início do séc. XX
 tags:
@@ -18,7 +18,7 @@ falta:
   - GPT
   - Leonardo
   - Raphael
----
+
 # Expressionismo
 
 ## Conceito Técnico
@@ -58,27 +58,15 @@ Surgido no norte da Europa no início do século XX (com expoentes como Edvard M
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[expressionismo_dalle3.png]]
+![[expressionismo.png]]
 * **Legenda:** [Observação sobre as formas angulares distorcidas e cores ácidas emocionais]
 
-### 2. Gemini (Google Imagen)
-![[expressionismo_imagen.png]]
-* **Legenda:** [Observação sobre a atmosfera de angústia urbana e pinceladas agressivas]
-
-### 3. Leonardo AI
-![[expressionismo_expressionismo_leonardo.png]]
-* **Legenda:** [Observação sobre o contraste entre tons febris e sombras profundas]
-
-### 4. Raphael AI
-![[expressionismo_raphael.png]]
-* **Legenda:** [Observação sobre o impacto psicológico do traço expressionista alemão]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 German Expressionism oil painting of a crowded city street at night with distorted angular figures, acidic unnatural color palette of sickly greens and deep reds, Edvard Munch aesthetic, raw emotional angst, rough aggressive brushwork, psychological dread atmosphere --ar 16:9
+falta: [imagen, leonardo, raphael]

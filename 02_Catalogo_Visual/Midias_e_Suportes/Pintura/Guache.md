@@ -1,4 +1,4 @@
----
+
 parte: Midias e Suportes
 categoria: Pintura
 tags:
@@ -11,7 +11,7 @@ status: rascunho
 aliases:
   - Gouache
   - Aquarela Opaca
----
+
 # Guache
 ## Conceito Técnico
 Tinta à base de água similar à aquarela, mas com pigmento mais concentrado e adição de branco/carga opaca, resultando em cor chapada e mate em vez de transparente — permite correção por sobreposição, ao contrário da aquarela pura.
@@ -39,21 +39,13 @@ Tinta à base de água similar à aquarela, mas com pigmento mais concentrado e 
 * `chalky matte finish`
 * `children's book illustration style`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[guache_dalle3.png]]
+![[guache.png]]
 * **Legenda:** [Observação sobre a opacidade da cor]
-### 2. Gemini (Google Imagen)
-![[guache_imagen.png]]
-* **Legenda:** [Observação sobre a chapadura das áreas de cor]
-### 3. Leonardo AI
-![[guache_leonardo.png]]
-* **Legenda:** [Observação sobre o acabamento fosco]
-### 4. Raphael AI
-![[guache_raphael.png]]
-* **Legenda:** [Observação sobre a coerência com ilustração editorial]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A children's book illustration of a forest scene, opaque matte gouache texture, flat solid color areas, chalky finish, warm inviting palette, editorial illustration style --ar 4:3
 ```
+falta: [imagen, leonardo, raphael]

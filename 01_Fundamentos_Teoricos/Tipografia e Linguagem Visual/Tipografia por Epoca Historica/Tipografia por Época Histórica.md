@@ -1,4 +1,4 @@
----
+
 part: Tipografia e Linguagem Visual
 category: Tipografia por Epoca Historica
 tags: [tipografia-historica, epoca, design-grafico, contexto-temporal]
@@ -8,7 +8,7 @@ aliases:
   - Historical Typography
   - Tipografia de Período
 draft: false
----
+
 # Tipografia por Época Histórica
 ## Conceito Técnico
 Visão geral de como estilos tipográficos ancoram uma imagem a um período histórico específico — da caligrafia manuscrita medieval, passando por serifas clássicas do Iluminismo, tipografia industrial vitoriana, art déco geométrico dos anos 1920-30, até o design digital contemporâneo.
@@ -39,21 +39,13 @@ Visão geral de como estilos tipográficos ancoram uma imagem a um período hist
 * `period-accurate signage`
 * `historical typeface style`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[tipografia_epoca_dalle3.png]]
+![[tipografia_epoca.png]]
 * **Legenda:** [Observação sobre a fidelidade ao período representado]
-### 2. Gemini (Google Imagen)
-![[tipografia_epoca_imagen.png]]
-* **Legenda:** [Observação sobre a coerência entre tipografia e suporte]
-### 3. Leonardo AI
-![[tipografia_epoca_leonardo.png]]
-* **Legenda:** [Observação sobre o nível de detalhe ornamental]
-### 4. Raphael AI
-![[tipografia_epoca_raphael.png]]
-* **Legenda:** [Observação sobre a credibilidade histórica gerada]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A 1920s art deco theater poster, geometric gold lettering with sharp angular serifs, deep emerald and black color palette, ornamental border details, period-accurate vintage print texture --ar 2:3
 ```
+falta: [imagen, leonardo, raphael]

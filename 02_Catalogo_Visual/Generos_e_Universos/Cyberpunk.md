@@ -1,4 +1,4 @@
----
+
 part: Generos e Universos
 category: Generos e Universos
 tags: [cyberpunk, genero-visual, alta-tecnologia-baixa-vida]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Cyberpunk Aesthetic
 draft: false
----
+
 # Cyberpunk
 ## Conceito Técnico
 Subgênero de ficção científica que combina "alta tecnologia, baixa vida" — megacidades verticais dominadas por corporações, saturação visual de anúncios holográficos e neon, modificação corporal cibernética visível, chuva constante refletindo luz artificial, e desigualdade social extrema expressa em contraste vertical (elite no topo, marginalizados embaixo).
@@ -34,21 +34,13 @@ Subgênero de ficção científica que combina "alta tecnologia, baixa vida" —
 * `corporate dystopian inequality`
 * `rain-soaked reflective neon streets`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[cyberpunk_dalle3.png]]
+![[cyberpunk.png]]
 * **Legenda:** [Observação sobre a saturação de neon e holograma]
-### 2. Gemini (Google Imagen)
-![[cyberpunk_imagen.png]]
-* **Legenda:** [Observação sobre a modificação cibernética visível]
-### 3. Leonardo AI
-![[cyberpunk_leonardo.png]]
-* **Legenda:** [Observação sobre a escala vertical da megacidade]
-### 4. Raphael AI
-![[cyberpunk_raphael.png]]
-* **Legenda:** [Observação sobre o reflexo da chuva nas luzes]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A cybernetically augmented figure walking through a rain-soaked neon-drenched megacity street, holographic advertisements towering above, high-tech low-life aesthetic, vertical corporate dystopian scale --ar 9:16
 ```
+falta: [imagen, leonardo, raphael]

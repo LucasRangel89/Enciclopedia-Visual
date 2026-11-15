@@ -1,4 +1,4 @@
----
+
 parte: Brasil_e_America_Latina
 categoria: Realismo_Magico_Visual
 tags:
@@ -9,7 +9,7 @@ tem_imagem: false
 status: rascunho
 aliases:
   - Latin American Magical Realism
----
+
 # Realismo Mágico Latino-Americano (estética visual)
 ## Conceito Técnico
 Sensibilidade visual paralela à literatura de Gabriel García Márquez e outros autores latino-americanos, onde o extraordinário e o sobrenatural são apresentados dentro do cotidiano mais banal, sem separação de categoria — uma mulher que voa durante o trabalho doméstico, chuva de flores numa sala de estar comum — tratados com a mesma luz e textura fotográfica do real.
@@ -34,21 +34,13 @@ Sensibilidade visual paralela à literatura de Gabriel García Márquez e outros
 * `matter-of-fact magical treatment`
 * `Latin American everyday mysticism`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[realismo_magico_dalle3.png]]
+![[realismo_magico.png]]
 * **Legenda:** [Observação sobre a naturalidade do elemento impossível]
-### 2. Gemini (Google Imagen)
-![[realismo_magico_imagen.png]]
-* **Legenda:** [Observação sobre o realismo fotográfico mantido]
-### 3. Leonardo AI
-![[realismo_magico_leonardo.png]]
-* **Legenda:** [Observação sobre a ausência de espanto explícito]
-### 4. Raphael AI
-![[realismo_magico_raphael.png]]
-* **Legenda:** [Observação sobre a fusão mito/cotidiano transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A woman calmly hanging laundry while flower petals fall like rain inside her living room, extraordinary element within mundane daily life, photographic realism applied to impossible occurrence, matter-of-fact magical treatment --ar 4:5
 ```
+falta: [imagen, leonardo, raphael]

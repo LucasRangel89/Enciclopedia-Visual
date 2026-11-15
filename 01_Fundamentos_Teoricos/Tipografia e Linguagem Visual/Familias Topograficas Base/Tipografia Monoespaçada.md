@@ -1,4 +1,4 @@
----
+
 part: Tipografia e Linguagem Visual
 category: Familias Topograficas Base
 tags: [tipografia-monoespacada, familia-tipografica, design-grafico]
@@ -8,7 +8,7 @@ aliases:
   - Monospaced Typeface
   - Fonte de Largura Fixa
 draft: false
----
+
 # Tipografia Monoespaçada
 ## Conceito Técnico
 Fontes onde cada caractere ocupa exatamente a mesma largura horizontal, historicamente ligadas a máquinas de escrever e, hoje, a terminais de computador e código-fonte.
@@ -36,21 +36,13 @@ Fontes onde cada caractere ocupa exatamente a mesma largura horizontal, historic
 * `hacker aesthetic text`
 * `retro computer font`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[monoespacada_dalle3.png]]
+![[monoespacada.png]]
 * **Legenda:** [Observação sobre a regularidade da largura dos caracteres]
-### 2. Gemini (Google Imagen)
-![[monoespacada_imagen.png]]
-* **Legenda:** [Observação sobre a fidelidade à estética de terminal]
-### 3. Leonardo AI
-![[monoespacada_leonardo.png]]
-* **Legenda:** [Observação sobre o brilho/contraste do texto na tela]
-### 4. Raphael AI
-![[monoespacada_raphael.png]]
-* **Legenda:** [Observação sobre a sensação tecnológica transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A dark computer terminal screen, glowing green monospaced text scrolling across the display, dim room lighting, cyberpunk hacker aesthetic, sharp technical precision --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

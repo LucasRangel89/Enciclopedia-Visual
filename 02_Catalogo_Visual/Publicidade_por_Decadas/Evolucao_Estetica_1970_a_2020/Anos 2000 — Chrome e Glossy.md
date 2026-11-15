@@ -1,11 +1,11 @@
----
+
 parte: "Publicidade_por_Decadas"
 categoria: "Publicidade_por_Decadas"
 tags: [publicidade-anos-2000, glossy, web-2-0, decada]
 tem_imagem: true
 status: "rascunho"
 aliases: ["Publicidade Anos 2000", "2000s Advertising"]
----
+
 # Anos 2000 — Chrome e Glossy
 ## Conceito Técnico
 Publicidade caracterizada por superfícies extremamente polidas e reflexivas (cromo, vidro, plástico brilhante), 3D render fotorrealista aplicado a produtos de consumo, gradientes suaves de azul/branco associados à era "Web 2.0", e uma retórica visual de otimismo tecnológico limpo pós-Y2K.
@@ -30,21 +30,13 @@ Publicidade caracterizada por superfícies extremamente polidas e reflexivas (cr
 * `soft blue and white Web 2.0 gradient`
 * `clean post-Y2K technological optimism`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[decada_2000_dalle3.png]]
+![[decada_2000.png]]
 * **Legenda:** [Observação sobre o polimento das superfícies]
-### 2. Gemini (Google Imagen)
-![[decada_2000_imagen.png]]
-* **Legenda:** [Observação sobre o realismo do render 3D]
-### 3. Leonardo AI
-![[decada_2000_leonardo.png]]
-* **Legenda:** [Observação sobre a suavidade do gradiente azul]
-### 4. Raphael AI
-![[decada_2000_raphael.png]]
-* **Legenda:** [Observação sobre o otimismo tecnológico transmitido]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A glossy product advertisement featuring a chrome device with reflective glass surfaces, photorealistic 3D render, soft blue and white gradient background, clean technological optimism --ar 1:1
 ```
+falta: [imagen, leonardo, raphael]

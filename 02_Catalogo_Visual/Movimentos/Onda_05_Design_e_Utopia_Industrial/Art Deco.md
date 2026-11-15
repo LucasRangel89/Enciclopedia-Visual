@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 5 — Design, decoração e utopia industrial
 tags:
@@ -16,7 +16,7 @@ aliases:
 falta:
   - Gemini
   - Leonardo
----
+
 # Art Déco
 
 ## Conceito Técnico
@@ -56,27 +56,15 @@ Surgido em Paris na década de 1910 e auge nos anos 1920/30, o Art Déco celebro
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[art_deco_dalle3.png]]
+![[art_deco.png]]
 * **Legenda:** [Observação sobre as torres escalonadas e linhas verticais simétricas]
 
-### 2. Gemini (Google Imagen)
-![[Art_Deco_Gemini.jpg]]
-* **Legenda:** [Observação sobre o acabamento em cromo polido e detalhes dourados]
-
-### 3. Leonardo AI
-![[Art_Deco_Leonardo.jpg]]
-* **Legenda:** [Observação sobre os padrões chevron e atmosfera da Era do Jazz]
-
-### 4. Raphael AI
-![[art_deco_raphael.png]]
-* **Legenda:** [Observação sobre a monumentalidade arquitetônica e elegância industrial]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```
 Art Deco architectural poster of a grand skyscraper lobby in New York during the 1920s, strict geometric vertical symmetry, stepped ziggurat ceiling details, polished chrome and gold accents, sleek black marble pillars, Roaring Twenties glamour, cinematic lighting --ar 16:9
+falta: [Gemini, Leonardo, raphael]

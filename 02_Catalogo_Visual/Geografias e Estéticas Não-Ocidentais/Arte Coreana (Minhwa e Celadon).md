@@ -1,4 +1,4 @@
----
+
 parte: Geografias e Estéticas Não-Ocidentais
 categoria: Geografias e Estéticas Não-Ocidentais
 tags:
@@ -11,7 +11,7 @@ status: rascunho
 aliases:
   - Korean Folk Art
   - Minhwa
----
+
 # Arte Coreana (Minhwa e Celadon)
 ## Conceito Técnico
 Tradição visual coreana que combina a cerâmica celadon (verde-azulada, superfície incisa delicada) com a pintura popular *minhwa* — imagens folclóricas de tigres, pinheiros, gruas e símbolos de longevidade, tratadas com ingenuidade decorativa deliberada, cores planas vibrantes, e um humor visual que contrasta com a solenidade da pintura clássica chinesa vizinha.
@@ -37,21 +37,13 @@ Tradição visual coreana que combina a cerâmica celadon (verde-azulada, superf
 * `flat vibrant folk color palette`
 * `celadon-inspired blue-green tones`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[arte_coreana_dalle3.png]]
+![[arte_coreana.png]]
 * **Legenda:** [Observação sobre a ingenuidade decorativa do tigre]
-### 2. Gemini (Google Imagen)
-![[arte_coreana_imagen.png]]
-* **Legenda:** [Observação sobre a vivacidade das cores planas]
-### 3. Leonardo AI
-![[arte_coreana_leonardo.png]]
-* **Legenda:** [Observação sobre o humor visual transmitido]
-### 4. Raphael AI
-![[arte_coreana_raphael.png]]
-* **Legenda:** [Observação sobre a fidelidade ao simbolismo de longevidade]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A folk painting of a whimsical tiger beneath a twisted pine tree with a crane nearby, Korean minhwa style, deliberately naive decorative charm, flat vibrant folk colors, symbolic longevity imagery --ar 4:5
 ```
+falta: [imagen, leonardo, raphael]

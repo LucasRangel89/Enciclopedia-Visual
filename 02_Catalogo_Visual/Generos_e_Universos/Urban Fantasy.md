@@ -1,4 +1,4 @@
----
+
 part: Generos e Universos
 category: Generos e Universos
 tags: [urban-fantasy, genero-visual, magia-urbana]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Urban Fantasy Genre
 draft: false
----
+
 # Urban Fantasy
 ## Conceito Técnico
 Gênero visual que insere elementos mágicos/míticos dentro de ambientes urbanos contemporâneos reconhecíveis, caracterizado pelo contraste entre o mundano (concreto, néon, trânsito) e o sobrenatural escondido à vista de todos — magia disfarçada em becos, grafite ou vitrines comuns.
@@ -32,21 +32,13 @@ Gênero visual que insere elementos mágicos/míticos dentro de ambientes urbano
 * `magic disguised in plain sight`
 * `contrast between ordinary city life and hidden mysticism`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[urban_fantasy_dalle3.png]]
+![[urban_fantasy.png]]
 * **Legenda:** [Observação sobre a discrição da magia na cena]
-### 2. Gemini (Google Imagen)
-![[urban_fantasy_imagen.png]]
-* **Legenda:** [Observação sobre o contraste concreto/sobrenatural]
-### 3. Leonardo AI
-![[urban_fantasy_leonardo.png]]
-* **Legenda:** [Observação sobre a integração do elemento mágico ao cenário]
-### 4. Raphael AI
-![[urban_fantasy_raphael.png]]
-* **Legenda:** [Observação sobre a atmosfera geral da cena]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A hooded figure casting a subtle glowing spell in a rain-soaked alley behind a busy modern city street, supernatural elements hidden within contemporary urban setting, contrast between neon signage and hidden magic, moody atmospheric mood --ar 9:16
 ```
+falta: [imagen, leonardo, raphael]

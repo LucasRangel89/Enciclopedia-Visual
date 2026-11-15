@@ -1,4 +1,4 @@
----
+
 parte: Midias e Suportes
 categoria: Artefatos_e_Imperfeicoes_Analogicas
 tags:
@@ -11,7 +11,7 @@ status: rascunho
 aliases:
   - Screen Printing
   - Silkscreen
----
+
 # Serigrafia
 ## Conceito Técnico
 Técnica de impressão onde tinta é forçada através de uma tela de malha fina (com áreas bloqueadas por estêncil) diretamente sobre a superfície — permite cores extremamente saturadas e chapadas, aplicadas em camadas separadas registradas manualmente. Assinatura visual de Andy Warhol e da Pop Art.
@@ -39,21 +39,13 @@ Técnica de impressão onde tinta é forçada através de uma tela de malha fina
 * `pop art print aesthetic`
 * `bold ink layering`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[serigrafia_dalle3.png]]
+![[serigrafia.png]]
 * **Legenda:** [Observação sobre a saturação das cores]
-### 2. Gemini (Google Imagen)
-![[serigrafia_imagen.png]]
-* **Legenda:** [Observação sobre o desalinhamento de registro]
-### 3. Leonardo AI
-![[serigrafia_leonardo.png]]
-* **Legenda:** [Observação sobre a fidelidade ao estilo Warhol]
-### 4. Raphael AI
-![[serigrafia_raphael.png]]
-* **Legenda:** [Observação sobre a separação de cores em camadas]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A Warhol-style silkscreen portrait, flat saturated colors in bold color separation, slight print registration offset, repeated pop art composition, vibrant limited palette --ar 1:1
 ```
+falta: [imagen, leonardo, raphael]

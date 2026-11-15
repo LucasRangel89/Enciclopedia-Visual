@@ -1,4 +1,4 @@
----
+
 parte: Brasil_e_America_Latina
 categoria: Concretismo_Tropicalia_e_Neoconcretismo
 tags:
@@ -9,7 +9,7 @@ tem_imagem: false
 status: rascunho
 aliases:
   - Concrete Art Brazil
----
+
 # Concretismo
 ## Conceito Técnico
 Movimento de arte e poesia brasileiro (anos 1950) que aplica princípios de geometria pura, rigor matemático e ausência total de referência figurativa ou emocional explícita — formas geométricas planas, cores primárias ou monocromáticas, e uma crença na "arte como objeto" racional e universal, sem narrativa ou sentimento pessoal embutido.
@@ -34,21 +34,13 @@ Movimento de arte e poesia brasileiro (anos 1950) que aplica princípios de geom
 * `flat primary or monochromatic color`
 * `art as rational universal object`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[concretismo_dalle3.png]]
+![[concretismo.png]]
 * **Legenda:** [Observação sobre o rigor da geometria]
-### 2. Gemini (Google Imagen)
-![[concretismo_imagen.png]]
-* **Legenda:** [Observação sobre a planitude da cor]
-### 3. Leonardo AI
-![[concretismo_leonardo.png]]
-* **Legenda:** [Observação sobre a frieza racional transmitida]
-### 4. Raphael AI
-![[concretismo_raphael.png]]
-* **Legenda:** [Observação sobre a universalidade da forma]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A composition of precise overlapping geometric planes in primary colors, pure geometric abstraction, rigorous mathematical composition, rational universal clarity --ar 1:1
 ```
+falta: [imagen, leonardo, raphael]

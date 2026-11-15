@@ -1,4 +1,4 @@
----
+
 part: Narrativa_Visual_e_Storytelling
 category: Narrativa_Visual_e_Storytelling
 tags: [prop-storytelling, storytelling-visual, objeto-narrativo]
@@ -8,7 +8,7 @@ aliases:
   - Prop Storytelling
   - Narrativa através do Objeto
 draft: false
----
+
 # Prop Storytelling
 ## Conceito Técnico
 Técnica onde um objeto físico dentro do quadro carrega significado narrativo além de sua função literal — uma aliança guardada numa gaveta, uma xícara com batom manchado, um brinquedo infantil num cenário de guerra — o objeto conta uma história que nenhum diálogo precisaria explicar, funcionando como pista visual condensada.
@@ -33,21 +33,13 @@ Técnica onde um objeto físico dentro do quadro carrega significado narrativo a
 * `condensed visual storytelling clue`
 * `meaningful detail within otherwise ordinary scene`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[prop_storytelling_dalle3.png]]
+![[prop_storytelling.png]]
 * **Legenda:** [Observação sobre a clareza do significado do objeto]
-### 2. Gemini (Google Imagen)
-![[prop_storytelling_imagen.png]]
-* **Legenda:** [Observação sobre o contraste entre objeto e cenário]
-### 3. Leonardo AI
-![[prop_storytelling_leonardo.png]]
-* **Legenda:** [Observação sobre a economia narrativa alcançada]
-### 4. Raphael AI
-![[prop_storytelling_raphael.png]]
-* **Legenda:** [Observação sobre o peso emocional transmitido pelo objeto]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A single child's stuffed toy lying abandoned in the rubble of a bombed building, symbolically loaded prop object, condensed visual storytelling clue, quiet devastating implication --ar 4:5
 ```
+falta: [imagen, leonardo, raphael]

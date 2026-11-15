@@ -1,4 +1,4 @@
----
+
 part: Tipografia e Linguagem Visual
 category: Tipografia em Engenharia de Prompt
 tags: [tipografia-prompt, texto-em-imagem, engenharia-de-prompt, design-grafico]
@@ -8,7 +8,7 @@ aliases:
   - Text in AI Image
   - Tipografia em Prompt de IA
 draft: false
----
+
 # Tipografia como Elemento de Prompt
 ## Conceito Técnico
 Como descrever texto/tipografia dentro de um prompt de geração de imagem. Geradores de IA historicamente têm dificuldade em renderizar texto legível; a descrição precisa ser específica sobre onde, como e que tipo de tipografia aparece, aceitando que legibilidade perfeita nem sempre é garantida.
@@ -37,21 +37,13 @@ Como descrever texto/tipografia dentro de um prompt de geração de imagem. Gera
 * `decorative title text`
 * `readable-style typography`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[tipografia_prompt_dalle3.png]]
+![[tipografia_prompt.png]]
 * **Legenda:** [Observação sobre a legibilidade obtida]
-### 2. Gemini (Google Imagen)
-![[tipografia_prompt_imagen.png]]
-* **Legenda:** [Observação sobre a coerência do estilo com o ambiente]
-### 3. Leonardo AI
-![[tipografia_prompt_leonardo.png]]
-* **Legenda:** [Observação sobre a fidelidade ao tipo de letra descrito]
-### 4. Raphael AI
-![[tipografia_prompt_raphael.png]]
-* **Legenda:** [Observação sobre a integração da tipografia à cena]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A rain-soaked city street at night, a glowing neon sign with bold retro typography above a diner entrance, reflections on wet pavement, moody cinematic lighting, readable stylized lettering --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

@@ -1,4 +1,4 @@
----
+
 part: Assinaturas_Autorais
 category: Cineastas_e_Estudios
 tags: [christopher-nolan, cineasta, assinatura-autoral, arquitetura-narrativa]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Christopher Nolan Style
 draft: false
----
+
 # Christopher Nolan
 ## Conceito Técnico
 Diretor de arquitetura narrativa complexa expressa visualmente através de composições geométricas precisas, paleta fria e dessaturada (azuis-acinzentados, cinzas metálicos), escala IMAX de ambientes vastos e verticais, e uma tendência a distorcer/dobrar espaço arquitetônico (cidades que se curvam sobre si mesmas) como metáfora visual de tempo/percepção.
@@ -34,20 +34,11 @@ Diretor de arquitetura narrativa complexa expressa visualmente através de compo
 * `gravity-defying structure`
 * `intellectual controlled tension`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[nolan_dalle3.png]]
+![[nolan.png]]
 * **Legenda:** [Observação sobre a precisão geométrica]
-### 2. Gemini (Google Imagen)
-![[nolan_imagen.png]]
-* **Legenda:** [Observação sobre a dobra da arquitetura]
-### 3. Leonardo AI
-![[nolan_leonardo.png]]
-* **Legenda:** [Observação sobre a escala vertical]
-### 4. Raphael AI
-![[nolan_raphael.png]]
-* **Legenda:** [Observação sobre a frieza da paleta]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -57,3 +48,4 @@ A city street folding upward into the sky above a lone figure, Christopher Nolan
 ```
 A city street folding upward into the sky above a lone figure, vast vertical IMAX-scale environment, precise geometric architecture, cool desaturated blue-grey palette, gravity-defying folding structure --ar 21:9
 ```
+falta: [imagen, leonardo, raphael]

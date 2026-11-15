@@ -1,4 +1,4 @@
----
+
 parte: Fundamentos
 categoria: Iluminacao
 tags:
@@ -15,7 +15,7 @@ aliases:
   - Golden Hour
   - Hora Dourada
   - Magic Hour
----
+
 # Golden Hour (Hora Dourada)
 
 ## 📖 Definição e Lógica
@@ -30,19 +30,11 @@ A luz do sol durante a primeira e a última hora do dia, quando o astro está ba
 - `amber backlight`
 - `long shadows at dusk`
 
-## 🖼️ Galeria de Exemplos Visuais (ChatGPT vs Gemini)
+## 🖼️ Exemplo Visual
 
 > **1. Leonardo:**
-> ![[Golden_Hour_Leonardo.jpg]]
+> ![[Golden_Hour.jpg]]
 > *Legenda: Observação sobre a suavidade das sombras e o tom dourado uniforme.*
-
-> **2. Gemini:**
-> ![[Golden_Hour_Gemini.jpg]]
-> *Legenda: Observação sobre a suavidade das sombras e o tom dourado uniforme.*
-
-> **3. Raphael:**
-> ![[Golden_Hour_Raphael.webp]]
-> *Legenda: Observação sobre a suavidade das sombras e o tom dourado uniforme.*
-
 ## ⚙️ Prompt de Referência (Testado)
 `Portrait of a woman standing in a wheat field, facing the horizon, hair gently blowing. Golden hour sunlight, warm diffused glow, low sun angle, soft long shadows, amber tones throughout, nostalgic and melancholic mood, lens flare subtle, skin bathed in golden light.
+falta: [Gemini, Raphael]

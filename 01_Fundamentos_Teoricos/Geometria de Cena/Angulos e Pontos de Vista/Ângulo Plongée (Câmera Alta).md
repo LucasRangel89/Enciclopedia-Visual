@@ -1,4 +1,4 @@
----
+
 part: Geometria de Cena
 category: Angulos e Pontos de Vista
 tags: [angulo-plongee, camera-alta, cinematografia, composicao, ponto-de-vista]
@@ -8,9 +8,9 @@ aliases:
   - High Angle
   - Plongée
   - Ponto de Vista Aéreo Limitado
-falta: [Gemini, GPT, Leonardo, Raphael]
+falta: [Gemini, GPT, Leonardo, Raphael, imagen, leonardo, raphael]
 draft: false
----
+
 # Ângulo Plongée (Câmera Alta)
 
 ## Conceito Técnico
@@ -50,26 +50,13 @@ O ângulo *plongée* (ou câmera alta) ocorre quando a câmera é posicionada ac
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[plongee_dalle3.png]]
+![[plongee.png]]
 * **Legenda:** [Observação sobre a inclinação descendente e compactação da figura no cenário]
 
-### 2. Gemini (Google Imagen)
-![[plongee_imagen.png]]
-* **Legenda:** [Observação sobre a sensação de isolamento e proporção do ambiente]
-
-### 3. Leonardo AI
-![[plongee_leonardo.png]]
-* **Legenda:** [Observação sobre a renderização do piso e enquadramento de cima para baixo]
-
-### 4. Raphael AI
-![[plongee_raphael.png]]
-* **Legenda:** [Observação sobre a clareza da perspectiva e vulnerabilidade transmitida]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text

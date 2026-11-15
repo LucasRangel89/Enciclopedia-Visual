@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 4 — Vanguardas do início do séc. XX
 tags:
@@ -18,7 +18,7 @@ falta:
   - GPT
   - Leonardo
   - Raphael
----
+
 # Dadaísmo
 
 ## Conceito Técnico
@@ -58,27 +58,15 @@ Nascido em Zurique em 1916 (Cabaret Voltaire) como resposta niilista à brutalid
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[dadaismo_dalle3.png]]
+![[dadaismo.png]]
 * **Legenda:** [Observação sobre a fotomontagem caótica com recortes de jornal e absurdos visuais]
 
-### 2. Gemini (Google Imagen)
-![[dadaismo_dalle3.png]]
-* **Legenda:** [Observação sobre a textura vintage de papel e justaposição irônica]
-
-### 3. Leonardo AI
-![[dadaismo_leonardo.png]]
-* **Legenda:** [Observação sobre o acabamento de ready-made e colagem fragmentada]
-
-### 4. Raphael AI
-![[dadaismo_raphael.png]]
-* **Legenda:** [Observação sobre o espírito anti-arte e anarquia visual dadaísta]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 Dadaism vintage photomontage collage, chaotic newspaper and magazine clippings, absurd juxtaposition of mechanical gears and Victorian portraits, Hannah Höch style, ironic anti-art composition, aged paper grain, sepia and monochrome tones --ar 16:9
+falta: [dalle3, leonardo, raphael]

@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Cor
 tags: [cor-quente, cor, teoria-das-cores, iluminação, temperatura-de-cor]
@@ -8,9 +8,9 @@ aliases:
   - Warm Colors
   - Cores Quentes
   - Temperatura Quente
-falta: [GPT, Raphael]
+falta: [GPT, Raphael, Gemini, Leonardo, raphael]
 draft: false
----
+
 # Cor Quente
 
 ## Conceito Técnico
@@ -50,26 +50,13 @@ Cores quentes são aquelas situadas na metade do círculo cromático composta po
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[cor_quente_dalle3.png]]
+![[cor_quente.png]]
 * **Legenda:** [Observação sobre a saturação dos amarelos e vermelhos no render]
 
-### 2. Gemini (Google Imagen)
-![[Cor_Quente_Gemini.jpg]]
-* **Legenda:** [Observação sobre a fidelidade da iluminação de Sunset e calor atmosférico]
-
-### 3. Leonardo AI
-![[Cor_Quente_Leonardo.jpg]]
-* **Legenda:** [Observação sobre o contraste de tons terrosos e âmbar]
-
-### 4. Raphael AI
-![[cor_quente_raphael.png]]
-* **Legenda:** [Observação sobre a suavidade das luzes quentes e sombras quentes]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```

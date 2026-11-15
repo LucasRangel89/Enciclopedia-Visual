@@ -1,4 +1,4 @@
----
+
 parte: Familias_de_Linguagem_Visual
 categoria: Familias_de_Linguagem_Visual
 tags:
@@ -9,7 +9,7 @@ tem_imagem: false
 status: rascunho
 aliases:
   - Contemplative Nature
----
+
 # Natureza Contemplativa
 ## Conceito Técnico
 Família de linguagem visual que atravessa Sumi-e, o cinema de Tarkovsky, Studio Ghibli e a pintura romântica de paisagem, unidas pela representação da natureza como presença ativa e quase consciente — o elemento natural não é cenário passivo, mas participante silencioso da cena, tratado com reverência contemplativa.
@@ -34,21 +34,13 @@ Família de linguagem visual que atravessa Sumi-e, o cinema de Tarkovsky, Studio
 * `human scale humbled by natural world`
 * `quiet spiritual stillness`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[natureza_contemplativa_dalle3.png]]
+![[natureza_contemplativa.png]]
 * **Legenda:** [Observação sobre a presença silenciosa da natureza]
-### 2. Gemini (Google Imagen)
-![[natureza_contemplativa_imagen.png]]
-* **Legenda:** [Observação sobre a escala humana diante do ambiente]
-### 3. Leonardo AI
-![[natureza_contemplativa_leonardo.png]]
-* **Legenda:** [Observação sobre a serenidade transmitida]
-### 4. Raphael AI
-![[natureza_contemplativa_raphael.png]]
-* **Legenda:** [Observação sobre a reverência da composição]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A tiny figure sitting beneath an ancient towering tree in misty morning light, nature as active silent presence, contemplative reverent framing, human scale humbled by natural world --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

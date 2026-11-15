@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 5 — Design, decoração e utopia industrial
 tags:
@@ -18,7 +18,7 @@ falta:
   - GPT
   - Leonardo
   - Raphael
----
+
 # Bauhaus
 
 ## Conceito Técnico
@@ -58,27 +58,15 @@ Fundada por Walter Gropius na Alemanha (1919–1933), a Bauhaus revolucionou o d
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[bauhaus_dalle3.png]]
+![[bauhaus.png]]
 * **Legenda:** [Observação sobre o uso de cores primárias e geometrias puras ortogonais]
 
-### 2. Gemini (Google Imagen)
-![[bauhaus_imagen.png]]
-* **Legenda:** [Observação sobre o mobiliário em aço tubular e arquitetura funcionalista]
-
-### 3. Leonardo AI
-![[bauhaus_leonardo.png]]
-* **Legenda:** [Observação sobre a tipografia limpa e layout editorial racional]
-
-### 4. Raphael AI
-![[bauhaus_raphael.png]]
-* **Legenda:** [Observação sobre a clareza estrutural e ausência total de ornamentos]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 Bauhaus minimalist interior design poster, pure geometric shapes of circles and squares, primary colors of red, blue, and yellow against a neutral gray background, clean orthogonal grid lines, functionalist aesthetic, typography layout --ar 16:9
+falta: [imagen, leonardo, raphael]

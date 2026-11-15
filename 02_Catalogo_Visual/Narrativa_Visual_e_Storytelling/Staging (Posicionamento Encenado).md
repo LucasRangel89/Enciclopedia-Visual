@@ -1,11 +1,11 @@
----
+
 parte: "Narrativa_Visual_e_Storytelling"
 categoria: "Narrativa_Visual_e_Storytelling"
 tags: [staging, storytelling-visual, blocking, hierarquia-espacial]
 tem_imagem: true
 status: "rascunho"
 aliases: ["Staging", "Blocking Composicional"]
----
+
 # Staging (Posicionamento Encenado)
 ## Conceito Técnico
 Arte de organizar deliberadamente a posição física de personagens e objetos dentro do quadro (herdada do teatro) para comunicar hierarquia, relação de poder e estado emocional através da geometria espacial — quem está mais alto, mais próximo da câmera, mais centralizado, ou de costas, carrega significado antes mesmo de qualquer ação acontecer.
@@ -30,21 +30,13 @@ Arte de organizar deliberadamente a posição física de personagens e objetos d
 * `relative height and proximity as relationship indicator`
 * `theatrical staging composition`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[staging_dalle3.png]]
+![[staging.png]]
 * **Legenda:** [Observação sobre a clareza da hierarquia espacial]
-### 2. Gemini (Google Imagen)
-![[staging_imagen.png]]
-* **Legenda:** [Observação sobre o contraste de altura/proximidade]
-### 3. Leonardo AI
-![[staging_leonardo.png]]
-* **Legenda:** [Observação sobre a leitura de poder na composição]
-### 4. Raphael AI
-![[staging_raphael.png]]
-* **Legenda:** [Observação sobre a qualidade teatral do posicionamento]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 Two executives in an office, one standing tall near the window and one seated small in shadow, deliberate character blocking, spatial hierarchy communicating power dynamic, theatrical staging composition --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

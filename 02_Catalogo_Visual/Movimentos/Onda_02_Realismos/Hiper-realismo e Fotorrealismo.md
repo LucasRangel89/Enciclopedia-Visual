@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 2 — Realismo e variantes
 tags:
@@ -18,7 +18,7 @@ falta:
   - GPT
   - Leonardo
   - Raphael
----
+
 
 # Hiper-Realismo / Fotorrealismo
 
@@ -59,27 +59,15 @@ O Hiper-Realismo (e sua raiz no Fotorrealismo dos anos 1960/70) utiliza técnica
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[hiper_realismo_dalle3.png]]
+![[hiper_realismo.png]]
 * **Legenda:** [Observação sobre a precisão nos reflexos de água e nitidez extrema]
 
-### 2. Gemini (Google Imagen)
-![[hiper_realismo_imagen.png]]
-* **Legenda:** [Observação sobre a textura de pele e ausência de imperfeições de pincel]
-
-### 3. Leonardo AI
-![[hiper_realismo_leonardo.png]]
-* **Legenda:** [Observação sobre o brilho metálico e transparências complexas]
-
-### 4. Raphael AI
-![[hiper_realismo_raphael.png]]
-* **Legenda:** [Observação sobre a simulação perfeita de fotografia de estúdio em pintura]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 Hyperrealistic oil painting of a close-up human eye with a city skyline reflected in the cornea, microscopic detail rendering, flawless water droplets on eyelashes, photorealistic precision, indistinguishable from a high-res macro photograph, sharp hyper-focused edges, 8k resolution --ar 16:9
+falta: [imagen, leonardo, raphael]

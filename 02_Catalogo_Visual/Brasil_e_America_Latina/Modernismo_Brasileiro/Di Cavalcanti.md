@@ -1,4 +1,4 @@
----
+
 parte: Brasil_e_America_Latina
 categoria: Modernismo_Brasileiro
 tags:
@@ -10,7 +10,7 @@ tem_imagem: false
 status: rascunho
 aliases:
   - Di Cavalcanti Style
----
+
 # Di Cavalcanti
 ## Conceito Técnico
 Pintor modernista brasileiro conhecido por retratar a vida urbana popular carioca — mulatas voluptuosas, sambistas, malandros e cenas de carnaval, com contornos curvos sensuais, cores quentes e vibrantes, e uma celebração da miscigenação cultural brasileira como identidade estética central.
@@ -35,20 +35,11 @@ Pintor modernista brasileiro conhecido por retratar a vida urbana popular carioc
 * `carnival and samba celebration imagery`
 * `cultural mixture celebrated through curved form`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[di_cavalcanti_dalle3.png]]
+![[di_cavalcanti.png]]
 * **Legenda:** [Observação sobre a sensualidade da curva]
-### 2. Gemini (Google Imagen)
-![[di_cavalcanti_imagen.png]]
-* **Legenda:** [Observação sobre o calor da paleta]
-### 3. Leonardo AI
-![[di_cavalcanti_leonardo.png]]
-* **Legenda:** [Observação sobre a energia celebratória da cena]
-### 4. Raphael AI
-![[di_cavalcanti_raphael.png]]
-* **Legenda:** [Observação sobre a fidelidade ao imaginário carnavalesco]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -58,3 +49,4 @@ A group of samba dancers celebrating in a vibrant carnival street scene, Di Cava
 ```
 A group of samba dancers celebrating in a vibrant carnival street scene, sensual curved figure forms, warm vibrant tropical palette, joyful cultural celebration imagery --ar 4:5
 ```
+falta: [imagen, leonardo, raphael]

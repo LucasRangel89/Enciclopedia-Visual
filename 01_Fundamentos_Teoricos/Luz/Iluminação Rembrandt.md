@@ -1,4 +1,4 @@
----
+
 parte: Fundamentos
 categoria: Iluminacao
 tags:
@@ -14,7 +14,7 @@ status: rascunho
 aliases:
   - Rembrandt Lighhing
   - Luz Rembrandt
----
+
 # Iluminação Rembrandt
 
 ## 📖 Definição e Lógica
@@ -29,15 +29,9 @@ A iluminação de Rembrandt é uma técnica clássica de retrato que cria um tri
 - `classic portrait lighting`
 - `3:1 contrast ratio`
 
-## 🖼️ Galeria de Exemplos Visuais (ChatGPT vs Gemini)
+## 🖼️ Exemplo Visual
 
-> **1. ChatGPT (DALL-E 3):**![[Rembrandt_exemplo_ChatGPT.png]]_Legenda: Observação sobre como o ChatGPT interpretou o triângulo de luz e o contraste._
-
-> **2. Gemini:**![[Rembrandt_exemplo_Gemini.jpg]]_Legenda: Observação sobre como o Gemini interpretou o triângulo de luz e o contraste._
-  
-> **3. Leonardo AI:**
-> ![[Rembrandt_Leonardo.jpg]]
-> *Legenda: Observação sobre o resultado, pontos fortes e fracos.*
+> **1. ChatGPT (DALL-E 3):**![[Rembrandt_exemplo.png]]_Legenda: Observação sobre como o ChatGPT interpretou o triângulo de luz e o contraste._
 ## ⚙️ Prompt de Referência (Testado)
 
 ```
@@ -48,3 +42,4 @@ Portrait of a middle-aged man, looking slightly to the side, calm expression, da
 
 - **✅ Combina com:** `[[Pintura a Óleo]]`, `[[Chiaroscuro]]`, `[[Tons Terrosos]]`
 - **❌ Conflita com:** `[[Luz Suave Difusa]]`, `[[High-Key Lighting]]`
+falta: [Gemini, Leonardo]

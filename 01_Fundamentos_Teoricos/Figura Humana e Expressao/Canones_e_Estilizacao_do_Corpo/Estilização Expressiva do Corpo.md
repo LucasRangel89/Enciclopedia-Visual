@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Canones e Estilizacao do Corpo
 tags: [estilizacao-do-corpo, expressionismo, distorcao-anatomica, exagero, figura-humana]
@@ -8,9 +8,9 @@ aliases:
   - Expressive Body Stylization
   - Deformação Expressiva
   - Exagero Anatômico
-falta: [Gemini, GPT, Leonardo, Raphael]
+falta: [Gemini, GPT, Leonardo, Raphael, leonardo, raphael]
 draft: false
----
+
 # Estilização Expressiva do Corpo
 
 ## Conceito Técnico
@@ -50,26 +50,13 @@ A estilização expressiva do corpo é a alteração deliberada, exagero ou defo
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[estilizacao_corpo_dalle3.png]]
+![[estilizacao_corpo.png]]
 * **Legenda:** [Observação sobre o alongamento de membros e expressividade das linhas]
 
-### 2. Gemini (Google Imagen)
-![[Estilizacao_Expressiva_Gemini.jpg]]
-* **Legenda:** [Observação sobre a fluidez dos contornos e quebra do realismo anatômico]
-
-### 3. Leonardo AI
-![[estilizacao_corpo_leonardo.png]]
-* **Legenda:** [Observação sobre o uso de ângulos marcados e estilo gráfico de ilustração]
-
-### 4. Raphael AI
-![[estilizacao_corpo_raphael.png]]
-* **Legenda:** [Observação sobre a carga psicológica transmitida pelas deformações corporais]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```

@@ -1,4 +1,4 @@
----
+
 parte: Midias e Suportes
 categoria: Gravura_e_Impressão
 tags:
@@ -12,7 +12,7 @@ aliases:
   - Etching
   - Gravura em Metal
   - Aquaforte
----
+
 # Água-forte
 ## Conceito Técnico
 Técnica de gravura em metal onde uma placa de cobre coberta por verniz é riscada com uma agulha, exposta a ácido que corrói as linhas expostas, entintada e prensada — permite linhas extremamente finas e detalhadas, com rica gama de hachuras. Associada a Rembrandt e Goya.
@@ -40,21 +40,13 @@ Técnica de gravura em metal onde uma placa de cobre coberta por verniz é risca
 * `intricate engraved detail`
 * `antique print quality`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[agua_forte_dalle3.png]]
+![[agua_forte.png]]
 * **Legenda:** [Observação sobre a finura da linha gravada]
-### 2. Gemini (Google Imagen)
-![[agua_forte_imagen.png]]
-* **Legenda:** [Observação sobre a densidade das sombras hachuradas]
-### 3. Leonardo AI
-![[agua_forte_leonardo.png]]
-* **Legenda:** [Observação sobre a fidelidade ao estilo Rembrandt]
-### 4. Raphael AI
-![[agua_forte_raphael.png]]
-* **Legenda:** [Observação sobre a qualidade antiga da impressão]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A Rembrandt-style etched portrait in dramatic chiaroscuro, fine detailed linework with dense cross-hatching shadows, copper plate print texture, intricate engraved detail, antique print quality --ar 3:4
 ```
+falta: [imagen, leonardo, raphael]

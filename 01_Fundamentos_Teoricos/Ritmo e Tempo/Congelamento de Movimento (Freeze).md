@@ -1,4 +1,4 @@
----
+
 part: Ritmo e Tempo
 category: Ritmo e Tempo
 tags: [freeze-frame, congelamento-de-movimento, velocidade-de-obturador, ritmo-visual]
@@ -9,7 +9,7 @@ aliases:
   - Alta Velocidade de Obturador
   - Movimento Congelado
 draft: false
----
+
 # Congelamento de Movimento (Freeze)
 ## Conceito Técnico
 Captura de um instante de movimento rápido com nitidez absoluta (obturador rápido, 1/1000s ou mais), congelando gotas d'água, poeira, cabelo ou membros no ar sem qualquer borrão.
@@ -38,21 +38,13 @@ Captura de um instante de movimento rápido com nitidez absoluta (obturador ráp
 * `frozen droplets`
 * `peak action moment`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[freeze_dalle3.png]]
+![[freeze.png]]
 * **Legenda:** [Observação sobre a nitidez dos elementos em movimento]
-### 2. Gemini (Google Imagen)
-![[freeze_imagen.png]]
-* **Legenda:** [Observação sobre a sensação de instante suspenso]
-### 3. Leonardo AI
-![[freeze_leonardo.png]]
-* **Legenda:** [Observação sobre o detalhe capturado no auge da ação]
-### 4. Raphael AI
-![[freeze_raphael.png]]
-* **Legenda:** [Observação sobre a ausência total de borrão]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 An athlete captured mid-jump, freeze frame with fast shutter speed, every muscle and droplet of sweat frozen with crystal-sharp clarity, dynamic peak action moment, dramatic side lighting, high-speed photography --ar 4:5
 ```
+falta: [imagen, leonardo, raphael]

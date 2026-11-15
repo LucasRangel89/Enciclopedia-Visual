@@ -1,4 +1,4 @@
----
+
 part: Assinaturas_Autorais
 category: Cineastas_e_Estudios
 tags: [miyazaki, studio-ghibli, cineasta, assinatura-autoral, animacao]
@@ -8,7 +8,7 @@ aliases:
   - Studio Ghibli Style
   - Miyazaki Style
 draft: false
----
+
 # Hayao Miyazaki / Studio Ghibli
 ## Conceito Técnico
 Paleta suave e naturalista, céus e nuvens pintados à mão com textura visível, personagens com expressões simples mas emotivas, ambientes naturais exuberantes e detalhados, criaturas fantásticas integradas organicamente à natureza, e um ritmo visual contemplativo (momentos de pausa sem ação, o conceito de "ma").
@@ -36,20 +36,11 @@ Paleta suave e naturalista, céus e nuvens pintados à mão com textura visível
 * `expressive simple character design`
 * `wind and cloud movement`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[ghibli_dalle3.png]]
+![[ghibli.png]]
 * **Legenda:** [Observação sobre a textura pintada à mão do céu]
-### 2. Gemini (Google Imagen)
-![[ghibli_imagen.png]]
-* **Legenda:** [Observação sobre a suavidade da paleta]
-### 3. Leonardo AI
-![[ghibli_leonardo.png]]
-* **Legenda:** [Observação sobre a integração da criatura à natureza]
-### 4. Raphael AI
-![[ghibli_raphael.png]]
-* **Legenda:** [Observação sobre o tom contemplativo geral]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -59,3 +50,4 @@ A young girl standing in a windswept meadow with a giant forest spirit nearby, S
 ```
 A young girl standing in a windswept meadow with a giant forest spirit nearby, hand-painted watercolor-like backgrounds, soft naturalistic color palette, lush detailed nature environment, gentle contemplative atmosphere --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

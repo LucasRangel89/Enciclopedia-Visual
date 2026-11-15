@@ -1,4 +1,4 @@
----
+
 parte: Midias e Suportes
 categoria: Midias Mistas e Digitais
 tags:
@@ -10,7 +10,7 @@ status: rascunho
 aliases:
   - Concept Art
   - Arte Conceitual de Produção
----
+
 # Concept Art
 ## Conceito Técnico
 Ilustração de pré-produção usada em jogos, cinema e animação para explorar e comunicar visualmente personagens, cenários e objetos antes da produção final — prioriza clareza funcional (silhueta legível, design de material, escala) sobre acabamento decorativo, servindo como documento de referência para outras equipes.
@@ -39,21 +39,13 @@ Ilustração de pré-produção usada em jogos, cinema e animação para explora
 * `pre-production illustration`
 * `game/film concept sheet`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[concept_art_dalle3.png]]
+![[concept_art.png]]
 * **Legenda:** [Observação sobre a legibilidade da silhueta]
-### 2. Gemini (Google Imagen)
-![[concept_art_imagen.png]]
-* **Legenda:** [Observação sobre a clareza do design funcional]
-### 3. Leonardo AI
-![[concept_art_leonardo.png]]
-* **Legenda:** [Observação sobre a utilidade como referência de produção]
-### 4. Raphael AI
-![[concept_art_raphael.png]]
-* **Legenda:** [Observação sobre o equilíbrio entre estilo e função]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A creature design concept art sheet, clear readable silhouette, functional anatomical design, muted color palette for material clarity, production reference illustration style --ar 16:9
 ```
+falta: [imagen, leonardo, raphael]

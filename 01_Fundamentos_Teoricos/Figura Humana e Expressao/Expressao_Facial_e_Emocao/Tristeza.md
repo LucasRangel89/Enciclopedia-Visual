@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Expressao Facial e Emocao
 tags: [expressao-facial, tristeza, ekman, micro-expressoes, emocoes]
@@ -8,9 +8,9 @@ aliases:
   - Sadness Facial Expression
   - Expressão de Tristeza
   - Melancolia Facial
-falta: [Gemini, GPT, Raphael, Leonardo]
+falta: [Gemini, GPT, Raphael, Leonardo, imagen, leonardo, raphael]
 draft: false
----
+
 # Expressão Facial — Tristeza
 
 ## Conceito Técnico
@@ -50,26 +50,13 @@ A expressão facial de tristeza no sistema de Ekman é uma das mais difíceis de
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[expressao_tristeza_dalle3.png]]
+![[expressao_tristeza.png]]
 * **Legenda:** [Observação sobre o ângulo dos cantos internos das sobrancelhas e umidade dos olhos]
 
-### 2. Gemini (Google Imagen)
-![[expressao_tristeza_imagen.png]]
-* **Legenda:** [Observação sobre a queda dos cantos dos lábios e perda de tom facial]
-
-### 3. Leonardo AI
-![[expressao_tristeza_leonardo.png]]
-* **Legenda:** [Observação sobre o efeito melancólico da luz fria na pele]
-
-### 4. Raphael AI
-![[expressao_tristeza_raphael.png]]
-* **Legenda:** [Observação sobre a sutileza dramática e verossimilhança do luto]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text

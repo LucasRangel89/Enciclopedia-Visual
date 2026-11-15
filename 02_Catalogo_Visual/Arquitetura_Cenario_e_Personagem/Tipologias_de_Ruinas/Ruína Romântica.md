@@ -1,4 +1,4 @@
----
+
 part: Arquitetura_Cenario_e_Personagem
 category: Tipologias_de_Ruinas
 tags: [ruina-romantica, tipologia-de-ruina, decadencia-poetica]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Romantic Picturesque Ruin
 draft: false
----
+
 # Ruína Romântica
 ## Conceito Técnico
 Ruína tratada esteticamente como objeto de contemplação melancólica e beleza, tradição que remonta à pintura romântica do século XVIII-XIX — arcos e colunas parcialmente desmoronados emoldurados por vegetação exuberante, luz dourada de fim de tarde, e uma composição que celebra a passagem do tempo como algo belo e poético em vez de trágico.
@@ -33,21 +33,13 @@ Ruína tratada esteticamente como objeto de contemplação melancólica e beleza
 * `poetic melancholic decay`
 * `contemplative beauty in time's passage`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[ruina_romantica_dalle3.png]]
+![[ruina_romantica.png]]
 * **Legenda:** [Observação sobre a exuberância da hera]
-### 2. Gemini (Google Imagen)
-![[ruina_romantica_imagen.png]]
-* **Legenda:** [Observação sobre a qualidade dourada da luz]
-### 3. Leonardo AI
-![[ruina_romantica_leonardo.png]]
-* **Legenda:** [Observação sobre a beleza poética da decadência]
-### 4. Raphael AI
-![[ruina_romantica_raphael.png]]
-* **Legenda:** [Observação sobre a contemplação transmitida]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 Ivy-covered crumbling stone arches bathed in golden late afternoon light, romantic picturesque ruin, poetic melancholic decay, contemplative beauty in time's passage --ar 3:2
 ```
+falta: [imagen, leonardo, raphael]

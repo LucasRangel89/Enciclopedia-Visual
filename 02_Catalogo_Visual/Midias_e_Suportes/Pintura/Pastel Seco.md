@@ -1,4 +1,4 @@
----
+
 parte: Midias e Suportes
 categoria: Pintura
 tags:
@@ -10,7 +10,7 @@ status: rascunho
 aliases:
   - Dry Pastel
   - Pastel de Giz
----
+
 # Pastel Seco
 ## Conceito Técnico
 Pigmento puro compactado em bastão (giz), aplicado diretamente sobre papel texturizado, sem aglutinante líquido — permite mistura direta com o dedo e sobreposição de camadas de cor granulada e aveludada. Associado a Degas e seus retratos de bailarinas.
@@ -38,21 +38,13 @@ Pigmento puro compactado em bastão (giz), aplicado diretamente sobre papel text
 * `luminous diffused color`
 * `Degas-style softness`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[pastel_seco_dalle3.png]]
+![[pastel_seco.png]]
 * **Legenda:** [Observação sobre a granulação do pigmento]
-### 2. Gemini (Google Imagen)
-![[pastel_seco_imagen.png]]
-* **Legenda:** [Observação sobre a suavidade do esfumaçado]
-### 3. Leonardo AI
-![[pastel_seco_leonardo.png]]
-* **Legenda:** [Observação sobre a luminosidade difusa]
-### 4. Raphael AI
-![[pastel_seco_raphael.png]]
-* **Legenda:** [Observação sobre a fidelidade ao estilo de Degas]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A ballet dancer captured mid-movement, soft grainy pastel texture, velvety chalk pigment blended with smudged strokes, luminous diffused color palette, visible paper grain, Degas-style softness --ar 3:4
 ```
+falta: [imagen, leonardo, raphael]

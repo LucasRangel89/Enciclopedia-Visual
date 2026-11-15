@@ -1,4 +1,4 @@
----
+
 parte: Assinaturas_Autorais
 categoria: Ilustradores_e_Concept_Artists
 tags:
@@ -10,7 +10,7 @@ tem_imagem: true
 status: rascunho
 aliases:
   - Simon Stålenhag Style
----
+
 # Simon Stålenhag
 ## Conceito Técnico
 Ilustrador conhecido por retrofuturismo melancólico — paisagens suecas suburbanas/rurais mundanas (campos, subúrbios, estradas) contrastadas com maquinário de ficção científica retro-tecnológico enorme e enferrujado, luz difusa de fim de tarde/crepúsculo, paleta desaturada nostálgica, e uma escala que trata o fantástico como parte banal da paisagem cotidiana.
@@ -37,20 +37,11 @@ Ilustrador conhecido por retrofuturismo melancólico — paisagens suecas suburb
 * `banal treatment of the extraordinary`
 * `quiet science fiction atmosphere`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. Bing
-![[05_Anexos/Assinaturas_Autorais/Ilustradores_e_Concept_Artists/Stalenhag_Bing.jpg]]
+![[05_Anexos/Assinaturas_Autorais/Ilustradores_e_Concept_Artists/Stalenhag.jpg]]
 * **Legenda:** [Observação sobre o contraste subúrbio/maquinário]
-### 2. Gemini (Google Imagen)
-![[Stalenhag_Gemini.jpg]]
-* **Legenda:** [Observação sobre a luz difusa do crepúsculo]
-### 3. Leonardo AI
-![[Stalenhag_Leonardo.jpg]]
-* **Legenda:** [Observação sobre a melancolia da paleta]
-### 4. Manus
-![[Stalenhag_Manus.png]]
-* **Legenda:** [Observação sobre a naturalidade do elemento fantástico]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -60,3 +51,4 @@ A massive rusted robot standing quietly in a suburban field at dusk, Simon Stål
 ```
 A massive rusted robot standing quietly in a suburban field at dusk, mundane suburban landscape with retro-futuristic machinery, diffused dusk light, melancholic nostalgic color palette, quiet banal science fiction atmosphere --ar 16:9
 ```
+falta: [Gemini, Leonardo, Manus]

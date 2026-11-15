@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Composicao
 tags: [perspectiva-atmosferica, perspectiva-aerea, composicao, cor, luz]
@@ -9,9 +9,9 @@ aliases:
   - Aerial Perspective
   - Perspectiva Aérea
   - Sfumato
-falta: [Raphael]
+falta: [Raphael, Gemini, Leonardo, raphael]
 draft: false
----
+
 # Perspectiva Atmosférica
 
 ## Conceito Técnico
@@ -59,26 +59,13 @@ Também chamada de *perspectiva aérea*, é o método de criar profundidade espa
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[Perspectiva_Atmosferica_ChatGPT.png]]
+![[Perspectiva_Atmosferica.png]]
 * **Legenda:** [Observação sobre a gradação de azul nos planos de fundo e perda de contraste]
 
-### 2. Gemini (Google Imagen)
-![[Perspectiva_Atmosferica_Gemini.jpg]]
-* **Legenda:** [Observação sobre o realismo do nevoeiro volumétrico e dispersão de luz]
-
-### 3. Leonardo AI
-![[Perspectiva_Atmosferica_Leonardo.jpg]]
-* **Legenda:** [Observação sobre a separação por camadas de profundidade da vegetação]
-
-### 4. Raphael AI
-![[perspectiva_atmosferica_raphael.png]]
-* **Legenda:** [Observação sobre a suavidade das bordas e transição dos tons quentes para frios]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```

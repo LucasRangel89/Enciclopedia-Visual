@@ -1,4 +1,4 @@
----
+
 part: Assinaturas_Autorais
 category: Fotografos
 tags: [richard-avedon, fotografo, assinatura-autoral, retrato-honesto]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Richard Avedon Style
 draft: false
----
+
 # Richard Avedon
 ## Conceito Técnico
 Fotógrafo de retrato conhecido por fundo branco absoluto sem sombra, luz frontal dura e reveladora que expõe cada detalhe/textura da pele sem retoque, poses e expressões capturadas em movimento/espontaneidade (não posadas rigidamente), e uma honestidade visual quase clínica que recusa embelezamento.
@@ -34,20 +34,11 @@ Fotógrafo de retrato conhecido por fundo branco absoluto sem sombra, luz fronta
 * `stark documentary honesty`
 * `no shadow high-key lighting`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[avedon_dalle3.png]]
+![[avedon.png]]
 * **Legenda:** [Observação sobre a ausência de sombra]
-### 2. Gemini (Google Imagen)
-![[avedon_imagen.png]]
-* **Legenda:** [Observação sobre a textura da pele sem retoque]
-### 3. Leonardo AI
-![[avedon_leonardo.png]]
-* **Legenda:** [Observação sobre a espontaneidade da expressão]
-### 4. Raphael AI
-![[avedon_raphael.png]]
-* **Legenda:** [Observação sobre a dureza da luz frontal]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -57,3 +48,4 @@ An elderly man's weathered face captured against a stark white background, Richa
 ```
 An elderly man's weathered face captured against a stark white background, pure white seamless backdrop, harsh frontal revealing light, unretouched skin texture, spontaneous unposed expression, stark documentary honesty --ar 4:5
 ```
+falta: [imagen, leonardo, raphael]

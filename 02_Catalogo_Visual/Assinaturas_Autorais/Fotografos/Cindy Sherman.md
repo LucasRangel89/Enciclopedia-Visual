@@ -1,4 +1,4 @@
----
+
 part: Assinaturas_Autorais
 category: Fotografos
 tags: [cindy-sherman, fotografo, assinatura-autoral, retrato-encenado]
@@ -7,7 +7,7 @@ status: rascunho
 aliases:
   - Cindy Sherman Style
 draft: false
----
+
 # Cindy Sherman
 ## Conceito Técnico
 Fotógrafa que atua como sua própria modelo, incorporando personagens/arquétipos através de figurino, maquiagem e cenário elaborados — a fotografia funciona como performance encenada de identidade, frequentemente referenciando gêneros visuais existentes (cinema noir, publicidade vintage, retrato clássico) de forma deliberadamente artificial e teatral.
@@ -34,20 +34,11 @@ Fotógrafa que atua como sua própria modelo, incorporando personagens/arquétip
 * `performative identity portraiture`
 * `constructed narrative scene`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[cindy_sherman_dalle3.png]]
+![[cindy_sherman.png]]
 * **Legenda:** [Observação sobre a qualidade de "still" de filme]
-### 2. Gemini (Google Imagen)
-![[cindy_sherman_imagen.png]]
-* **Legenda:** [Observação sobre a elaboração do figurino]
-### 3. Leonardo AI
-![[cindy_sherman_leonardo.png]]
-* **Legenda:** [Observação sobre a artificialidade proposital da cena]
-### 4. Raphael AI
-![[cindy_sherman_raphael.png]]
-* **Legenda:** [Observação sobre a fidelidade à referência de gênero]
----
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
@@ -57,3 +48,4 @@ A woman in 1950s attire posed in a dramatic doorway like a film noir still, Cind
 ```
 A woman in 1950s attire posed in a dramatic doorway like a film noir still, staged cinematic film-still aesthetic, elaborate costume and makeup transformation, deliberately artificial theatrical staging, vintage film genre reference --ar 3:2
 ```
+falta: [imagen, leonardo, raphael]

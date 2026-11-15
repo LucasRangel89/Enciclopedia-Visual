@@ -1,4 +1,4 @@
----
+
 parte: Midias e Suportes
 categoria: Artefatos_e_Imperfeicoes_Analogicas
 tags:
@@ -12,7 +12,7 @@ aliases:
   - Halftone
   - Trama de Pontos
   - Ben-Day Dots
----
+
 # Trama de Meio-Tom (Halftone)
 ## Conceito Técnico
 Técnica de reprodução gráfica que simula tons contínuos através de uma grade de pontos de tamanho variável — quanto maior o ponto, mais escura a área parece à distância. Base da impressão jornalística e de quadrinhos em offset, popularizada visualmente por Roy Lichtenstein com os "Ben-Day dots".
@@ -40,21 +40,13 @@ Técnica de reprodução gráfica que simula tons contínuos através de uma gra
 * `vintage comic book printing`
 * `dot screen texture`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[halftone_dalle3.png]]
+![[halftone.png]]
 * **Legenda:** [Observação sobre a regularidade da trama de pontos]
-### 2. Gemini (Google Imagen)
-![[halftone_imagen.png]]
-* **Legenda:** [Observação sobre a fidelidade ao estilo Lichtenstein]
-### 3. Leonardo AI
-![[halftone_leonardo.png]]
-* **Legenda:** [Observação sobre a legibilidade do gradiente de pontos]
-### 4. Raphael AI
-![[halftone_raphael.png]]
-* **Legenda:** [Observação sobre a textura de jornal vintage]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A pop art style portrait with visible halftone dot pattern, Ben-Day dots creating tonal gradients, vintage newsprint texture, bold primary colors, comic book printing aesthetic --ar 3:4
 ```
+falta: [imagen, leonardo, raphael]

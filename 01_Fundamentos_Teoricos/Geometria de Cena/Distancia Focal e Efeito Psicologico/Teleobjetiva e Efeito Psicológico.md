@@ -1,4 +1,4 @@
----
+
 parte: Geometria de Cena
 categoria: Distancia Focal e Efeito Psicologico
 tags:
@@ -18,7 +18,7 @@ falta:
   - Gemini
   - Leonardo
   - Raphael
----
+
 # Teleobjetiva e Efeito Psicológico
 
 ## Conceito Técnico
@@ -58,27 +58,15 @@ Lentes teleobjetivas (acima de 85mm, chegando a 200mm, 400mm ou mais) caracteriz
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[teleobjetiva_dalle3.png]]
+![[teleobjetiva.png]]
 * **Legenda:** [Observação sobre a compressão do cenário de fundo e desfoque suave]
 
-### 2. Gemini (Google Imagen)
-![[teleobjetiva_imagen.png]]
-* **Legenda:** [Observação sobre o isolamento cirúrgico do sujeito em relação ao ambiente]
-
-### 3. Leonardo AI
-![[teleobjetiva_leonardo.png]]
-* **Legenda:** [Observação sobre a qualidade do bokeh e aproximação visual do fundo]
-
-### 4. Raphael AI
-![[teleobjetiva_raphael.png]]
-* **Legenda:** [Observação sobre o efeito de vigilância e foco absoluto nas feições]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 Cinematic street portrait of a woman walking through a crowded Tokyo street at twilight, shot on a telephoto 200mm lens, extreme background compression making the neon city lights appear massive and stacked behind her, shallow depth of field, creamy bokeh, isolated subject framing, voyeuristic spy thriller aesthetic --ar 16:9
+falta: [imagen, leonardo, raphael]

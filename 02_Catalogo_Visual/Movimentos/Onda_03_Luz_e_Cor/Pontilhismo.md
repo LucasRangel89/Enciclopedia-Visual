@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 3 — A luz e a cor se libertam (fim séc. XIX)
 tags:
@@ -18,7 +18,7 @@ falta:
   - GPT
   - Leonardo
   - Raphael
----
+
 
 # Pontilhismo
 
@@ -59,27 +59,15 @@ Desenvolvido por Georges Seurat e Paul Signac no final do século XIX, o Pontilh
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[pontilhismo_dalle3.png]]
+![[pontilhismo.png]]
 * **Legenda:** [Observação sobre a matriz de pontos coloridos puros e mixagem à distância]
 
-### 2. Gemini (Google Imagen)
-![[pontilhismo_imagen.png]]
-* **Legenda:** [Observação sobre a luminosidade gerada pela justaposição de cores primárias]
-
-### 3. Leonardo AI
-![[pontilhismo_leonardo.png]]
-* **Legenda:** [Observação sobre a rigidez geométrica e textura granulada pontilhada]
-
-### 4. Raphael AI
-![[pontilhismo_raphael.png]]
-* **Legenda:** [Observação sobre o brilho atmosférico característico do divisionismo]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```text
 Pointillism oil painting of a sunny riverbank with trees and people relaxing, divisionism technique, thousands of tiny pure color dots, optical color mixing, Georges Seurat aesthetic, luminous vibrating surface, radiant pastoral atmosphere --ar 16:9
+falta: [imagen, leonardo, raphael]

@@ -1,4 +1,4 @@
----
+
 part: Geometria de Cena
 category: Regras de Composicao e Subversao
 tags: [proporcao-aurea, espiral-de-fibonacci, composicao, principios-de-design]
@@ -9,7 +9,7 @@ aliases:
   - Espiral de Fibonacci
   - Phi Grid
 draft: false
----
+
 # Proporção Áurea e Padrão Espiral
 ## Conceito Técnico
 Proporção matemática (aproximadamente 1:1.618) que organiza elementos numa espiral logarítmica, guiando o olhar de forma orgânica e progressiva até o ponto focal — diferente da grade rígida da regra dos terços.
@@ -38,21 +38,13 @@ Proporção matemática (aproximadamente 1:1.618) que organiza elementos numa es
 * `natural proportion`
 * `golden spiral`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[aurea_dalle3.png]]
+![[aurea.png]]
 * **Legenda:** [Observação sobre o alinhamento com a curva espiral]
-### 2. Gemini (Google Imagen)
-![[aurea_imagen.png]]
-* **Legenda:** [Observação sobre a fluidez do percurso visual]
-### 3. Leonardo AI
-![[aurea_leonardo.png]]
-* **Legenda:** [Observação sobre a naturalidade da composição]
-### 4. Raphael AI
-![[aurea_raphael.png]]
-* **Legenda:** [Observação sobre o ponto de convergência]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A single seashell on wet sand, composed using golden ratio spiral framing, the shell's natural spiral aligning with the Fibonacci curve, soft natural light, minimalist background, macro photography --ar 1:1
 ```
+falta: [imagen, leonardo, raphael]

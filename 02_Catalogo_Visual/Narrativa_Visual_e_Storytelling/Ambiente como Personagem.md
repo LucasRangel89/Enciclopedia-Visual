@@ -1,4 +1,4 @@
----
+
 part: Narrativa_Visual_e_Storytelling
 category: Narrativa_Visual_e_Storytelling
 tags: [ambiente-como-personagem, storytelling-visual, cenario-ativo]
@@ -8,7 +8,7 @@ aliases:
   - Setting as Character
   - Environment as Character
 draft: false
----
+
 # Ambiente como Personagem
 ## Conceito Técnico
 Tratamento do cenário/ambiente não como pano de fundo passivo, mas como força ativa com "vontade" própria dentro da narrativa — a casa que parece hostil, a floresta que parece observar, a cidade que parece devorar seus habitantes — através de escolhas de composição, luz e escala que atribuem intencionalidade ao espaço.
@@ -33,21 +33,13 @@ Tratamento do cenário/ambiente não como pano de fundo passivo, mas como força
 * `atmospheric intentionality through light and scale`
 * `space that seems to watch or consume`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[ambiente_personagem_dalle3.png]]
+![[ambiente_personagem.png]]
 * **Legenda:** [Observação sobre a intencionalidade transmitida pelo espaço]
-### 2. Gemini (Google Imagen)
-![[ambiente_personagem_imagen.png]]
-* **Legenda:** [Observação sobre a escala exagerada do ambiente]
-### 3. Leonardo AI
-![[ambiente_personagem_leonardo.png]]
-* **Legenda:** [Observação sobre a hostilidade/proteção sugerida]
-### 4. Raphael AI
-![[ambiente_personagem_raphael.png]]
-* **Legenda:** [Observação sobre a presença quase consciente do cenário]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A crooked old house looming over a small figure approaching its front door, environment with active narrative agency, setting as antagonist, atmospheric intentionality through exaggerated scale --ar 9:16
 ```
+falta: [imagen, leonardo, raphael]

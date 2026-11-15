@@ -1,4 +1,4 @@
----
+
 parte: Movimentos Artísticos
 categoria: Onda 6 — Pop, conceito e rua
 tags:
@@ -22,7 +22,7 @@ extra:
   - Bing
   - manus
   - reve
----
+
 # Arte Conceitual
 
 ## Conceito Técnico
@@ -62,27 +62,15 @@ Surgido no final dos anos 1960 (Joseph Kosuth, Sol LeWitt, John Baldessari), a A
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. Bing
-![[Arte_Conceitual_Bing.jpg]]
+![[Arte_Conceitual.jpg]]
 * **Legenda:** [Observação sobre a instalação em galeria branca com texto tipográfico minimalista]
 
-### 2. Gemini (Google Imagen)
-![[Arte_Conceitual_Gemini.jpg]]
-* **Legenda:** [Observação sobre a austeridade documental e foco na ideia filosófica]
-
-### 3. Manus
-![[Arte_Conceitual_Manus.png]]
-* **Legenda:** [Observação sobre a desmaterialização do objeto artístico]
-
-### 4. Reve
-![[Arte_Conceitual_Reve.png]]
-* **Legenda:** [Observação sobre a clareza analítica no estilo de Joseph Kosuth]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```
 Conceptual Art gallery installation, stark white museum wall displaying a minimal black typography text defining the concept of space, Joseph Kosuth aesthetic, austere documentation photography, intellectual art statement, perfectly lit clean room --ar 16:9
+falta: [Gemini, Manus, Reve]

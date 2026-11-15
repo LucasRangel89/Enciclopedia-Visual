@@ -1,4 +1,4 @@
----
+
 part: Geometria de Cena
 category: Movimentos de Camera Implicitos
 tags: [movimento-tilt, movimento-camera, cinematografia, composicao, verticalidade]
@@ -8,7 +8,7 @@ aliases:
   - Tilting
   - Movimento Vertical de Câmera
 draft: false
----
+
 # Movimento Implícito — Tilt
 ## Conceito Técnico
 O *tilt* é o movimento vertical da câmera girando em torno de seu eixo (para cima ou para baixo, sem deslocamento físico). Numa imagem estática, é sugerido por enquadramentos verticais extremos, fortes linhas de fuga verticais, e um sujeito posicionado de modo que o olhar "escale" a composição de baixo para cima (ou o inverso).
@@ -37,21 +37,13 @@ O *tilt* é o movimento vertical da câmera girando em torno de seu eixo (para c
 * `scale reveal`
 * `ground-to-sky composition`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[tilt_dalle3.png]]
+![[tilt.png]]
 * **Legenda:** [Observação sobre a extensão vertical e a compressão da figura]
-### 2. Gemini (Google Imagen)
-![[tilt_imagen.png]]
-* **Legenda:** [Observação sobre a sensação de escala monumental]
-### 3. Leonardo AI
-![[tilt_leonardo.png]]
-* **Legenda:** [Observação sobre a nitidez da linha de fuga vertical]
-### 4. Raphael AI
-![[tilt_raphael.png]]
-* **Legenda:** [Observação sobre o contraste de escala entre sujeito e estrutura]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 Cinematic tilt shot sensation, a lone figure standing at the base of a colossal ancient tower, extreme vertical framing from ground level extending toward the sky, the structure disappearing into clouds, dramatic scale contrast, moody atmospheric lighting, shot on 24mm wide angle --ar 9:16
 ```
+falta: [imagen, leonardo, raphael]

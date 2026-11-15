@@ -1,4 +1,4 @@
----
+
 part: Óptica & Lentes
 category: Aberração Cromatica
 tags: [aberracao-cromatica, optica, franjas-de-cor, lente]
@@ -9,7 +9,7 @@ aliases:
   - Franjas Cromáticas
   - Fringing
 draft: false
----
+
 # Aberração Cromática
 ## Conceito Técnico
 Fenômeno óptico onde a lente não converge todos os comprimentos de onda de luz no mesmo ponto, criando franjas coloridas (tipicamente magenta/verde ou vermelho/azul) nas bordas de alto contraste da imagem.
@@ -38,21 +38,13 @@ Fenômeno óptico onde a lente não converge todos os comprimentos de onda de lu
 * `optical color separation`
 * `edge fringing`
 ---
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
+
 ### 1. ChatGPT (DALL-E 3)
-![[aberracao_dalle3.png]]
+![[aberracao.png]]
 * **Legenda:** [Observação sobre a cor e localização das franjas]
-### 2. Gemini (Google Imagen)
-![[aberracao_imagen.png]]
-* **Legenda:** [Observação sobre a sutileza do efeito]
-### 3. Leonardo AI
-![[aberracao_leonardo.png]]
-* **Legenda:** [Observação sobre o realismo do artefato óptico]
-### 4. Raphael AI
-![[aberracao_raphael.png]]
-* **Legenda:** [Observação sobre a consistência nas bordas de alto contraste]
----
 ## ⚙️ Prompt de Referência (Testado)
 ```
 Backlit tree branches against a bright sky, subtle chromatic aberration with purple-green fringing on the high-contrast edges, vintage lens imperfection, natural realistic photographic artifact --ar 3:2
 ```
+falta: [imagen, leonardo, raphael]

@@ -1,4 +1,4 @@
----
+
 part: Fundamentos Teoricos
 category: Cor
 tags: [harmonia-triade, cor, teoria-das-cores, paleta, contraste]
@@ -8,9 +8,9 @@ aliases:
   - Triadic Harmony
   - Tríade Cromática
   - Triadic Colors
-falta: [GPT, Raphael]
+falta: [GPT, Raphael, Gemini, Leonardo, raphael]
 draft: false
----
+
 # Harmonia Tríade
 
 ## Conceito Técnico
@@ -49,26 +49,13 @@ A harmonia em tríade utiliza três cores equidistantemente espaçadas no círcu
 
 ---
 
-## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+## 🖼️ Exemplo Visual
 
 ### 1. ChatGPT (DALL-E 3)
-![[harmonia_triade_dalle3.png]]
+![[harmonia_triade.png]]
 * **Legenda:** [Observação sobre o equilíbrio entre os três pontos cromáticos da cena]
 
-### 2. Gemini (Google Imagen)
-![[Harmonia_Triade_Gemini.jpg]]
-* **Legenda:** [Observação sobre a vivacidade e controle da saturação na tríade]
-
-### 3. Leonardo AI
-![[Harmonia_Triade_Leonardo.jpg]]
-* **Legenda:** [Observação sobre a estética pop/comic gerada pela combinação]
-
-### 4. Raphael AI
-![[harmonia_triade_raphael.png]]
-* **Legenda:** [Observação sobre a distribuição das três cores entre sujeito e cenário]
-
 ---
-
 ## ⚙️ Prompt de Referência (Testado)
 
 ```
