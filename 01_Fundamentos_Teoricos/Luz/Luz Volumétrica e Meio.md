@@ -1,14 +1,25 @@
 ---
-part: Luz
-category: Luz
-tags: [luz-volumetrica, god-rays, meio-participante, iluminacao, atmosfera]
+parte: Luz
+categoria: Luz
+tags:
+  - luz-volumetrica
+  - god-rays
+  - meio-participante
+  - iluminacao
+  - atmosfera
 tem_imagem: true
 status: rascunho
 aliases:
   - God Rays
   - Volumetric Light
   - Luz Visível no Ar
-draft: false
+falta:
+  - GPT
+  - Raphael
+  - Reve
+extra:
+  - Bing
+  - manus
 ---
 # Luz Volumétrica e Meio
 ## Conceito Técnico
@@ -39,17 +50,17 @@ Luz que se torna visível ao atravessar um meio participante — névoa, fumaça
 * `light through fog`
 ---
 ## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
-### 1. ChatGPT (DALL-E 3)
-![[luz_volumetrica_dalle3.png]]
+### 1. Bing
+![[Luz_Volumetrica_Bing.jpg]]
 * **Legenda:** [Observação sobre a visibilidade e nitidez dos feixes]
 ### 2. Gemini (Google Imagen)
-![[luz_volumetrica_imagen.png]]
+![[Luz_Volumetrica_Gemini.jpg]]
 * **Legenda:** [Observação sobre a densidade do meio participante]
 ### 3. Leonardo AI
-![[luz_volumetrica_leonardo.png]]
+![[Luz_Volumetrica_Leonardo.jpg]]
 * **Legenda:** [Observação sobre a separação de planos de profundidade]
-### 4. Raphael AI
-![[luz_volumetrica_raphael.png]]
+### 4. Manus
+![[Luz_Volumetrica_Manus.png]]
 * **Legenda:** [Observação sobre a sensação de sacralidade transmitida]
 ---
 ## ⚙️ Prompt de Referência (Testado)

@@ -3,7 +3,7 @@ title: MOC - Linguagem_Corporal_e_Poses
 part: "01_Fundamentos_Teoricos/Figura Humana e Expressao"
 category: MOC
 type: moc-category
-parent: [[MOC - Figura Humana e Expressao]]
+parent: "[[MOC - Figura Humana e Expressao]]"
 status: revisao
 draft: false
 tags: [moc, linguagem-corporal-e-poses]

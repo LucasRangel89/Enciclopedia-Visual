@@ -3,7 +3,7 @@ title: MOC - Tipos de Bokeh
 part: "01_Fundamentos_Teoricos/Óptica & Lentes"
 category: MOC
 type: moc-category
-parent: [[MOC - Óptica & Lentes]]
+parent: "[[MOC - Óptica & Lentes]]"
 status: revisao
 draft: false
 tags: [moc, tipos-de-bokeh]

@@ -3,7 +3,7 @@ title: MOC - Perspectiva_e_Pontos_de_Fuga
 part: "01_Fundamentos_Teoricos/Composicao"
 category: MOC
 type: moc-category
-parent: [[MOC - Composicao]]
+parent: "[[MOC - Composição]]"
 status: revisao
 draft: false
 tags: [moc, perspectiva-e-pontos-de-fuga]

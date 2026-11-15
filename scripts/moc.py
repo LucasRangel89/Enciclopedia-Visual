@@ -94,6 +94,13 @@ ROOT_PARENT = {
 }
 
 
+def real_moc_name(folder: Path) -> str | None:
+    """Nome verdadeiro do MOC dentro desta pasta (pode diferir do nome da pasta)."""
+    for p in sorted(folder.glob("MOC - *.md")):
+        return p.stem
+    return None
+
+
 def moc_parent(folder: Path) -> str:
     """Nome do MOC pai desta pasta."""
     own = f"MOC - {folder.name}"
@@ -104,7 +111,8 @@ def moc_parent(folder: Path) -> str:
         return ""
     if parent.name in AREA_MOC:
         return AREA_MOC[parent.name]
-    return f"MOC - {parent.name}"
+    # usa o MOC real da pasta pai, nao o nome da pasta
+    return real_moc_name(parent) or f"MOC - {parent.name}"
 
 
 def notes_in(folder: Path) -> list[Path]:
@@ -196,21 +204,24 @@ def main() -> int:
         for moc_path in folder.glob("MOC - *.md"):
             text = moc_path.read_text(encoding="utf-8")
             want = moc_parent(folder)
-            m = re.search(r'^parent: "\[\[(.+?)\]\]"', text, re.MULTILINE)
-            if m and m.group(1) != want:
-                new = text.replace(m.group(0), f'parent: "[[{want}]]"')
-                print(f"PARENT:   {moc_path.relative_to(ROOT)} "
-                      f"({m.group(1)} -> {want})")
+            # remove qualquer parent duplicado ou em formato de lista
+            text = re.sub(
+                r'^parent:.*\n(?:^[ \t]+- .*\n)*',
+                "",
+                text,
+                flags=re.MULTILINE,
+            )
+            if want:
+                text = text.replace(
+                    "status:",
+                    f'parent: "[[{want}]]"\nstatus:',
+                    1,
+                )
+            changed = text != moc_path.read_text(encoding="utf-8")
+            if changed:
+                print(f"PARENT:   {moc_path.relative_to(ROOT)} -> {want or '(raiz)'}")
                 if args.apply:
-                    moc_path.write_text(new, encoding="utf-8")
-                fixed += 1
-            elif not m and want:
-                print(f"PARENT+:  {moc_path.relative_to(ROOT)} -> {want}")
-                if args.apply:
-                    moc_path.write_text(
-                        text.replace("status:", f'parent: "[[{want}]]"\nstatus:', 1),
-                        encoding="utf-8",
-                    )
+                    moc_path.write_text(text, encoding="utf-8")
                 fixed += 1
 
     print(f"\n{created} MOC(s) criado(s), {updated} atualizado(s), "

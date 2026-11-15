@@ -3,7 +3,6 @@ title: MOC - Engenharia e Receitas
 part: "04_Engenharia_e_Receitas"
 category: MOC
 type: moc-category
-parent: [[]]
 status: revisao
 draft: false
 tags: [moc, receitas, prompt]

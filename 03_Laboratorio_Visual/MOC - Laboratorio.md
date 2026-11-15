@@ -3,7 +3,6 @@ title: MOC - Laboratório Visual
 part: "03_Laboratorio_Visual"
 category: MOC
 type: moc-category
-parent: [[]]
 status: revisao
 draft: false
 tags: [moc, laboratorio, experimento]

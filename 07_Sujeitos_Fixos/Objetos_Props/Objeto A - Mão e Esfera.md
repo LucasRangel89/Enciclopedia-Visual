@@ -29,6 +29,6 @@ Substitua a "esfera perfeitamente redonda" pelo material desejado, ou adicione o
 
 ## 🔗 Conexões Teóricas
 
-- [[Textura e Materialidade]]
-- [[Render 3D / PBR]]
-- [[Macrofotografia]]
+- [[Textura - Materialidade]]
+- [[3D Render]]
+- [[MOC - Midias e Suportes]]

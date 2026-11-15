@@ -3,7 +3,7 @@ title: MOC - Luz
 part: "01_Fundamentos_Teoricos"
 category: MOC
 type: moc-category
-parent: [[MOC - Fundamentos]]
+parent: "[[MOC - Fundamentos]]"
 status: revisao
 draft: false
 tags: [moc, luz]
@@ -20,5 +20,13 @@ sources: []
 Índice das notas em `01_Fundamentos_Teoricos/Luz`. Edite a seção entre os marcadores para acrescentar curadoria manual — o índice automático vive entre eles.
 
 <!-- inicio:indice-automatico -->
+- [[Contraluz]]
+- [[Golden Hour]]
+- [[Iluminação Rembrandt]]
+- [[Iluminação]]
+- [[Luz Dura]]
+- [[Luz Suave Difusa]]
 - [[Luz Volumétrica e Meio]]
+- [[Luz de Vela]]
+- [[Underlight]]
 <!-- fim:indice-automatico -->

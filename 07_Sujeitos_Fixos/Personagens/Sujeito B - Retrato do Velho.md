@@ -30,5 +30,5 @@ Adicione a variável de luz imediatamente após o prompt base._Exemplo de estrut
 ## 🔗 Conexões Teóricas
 
 - [[Iluminação]]
-- [[Rembrandt Lighting]]
-- [[Textura e Materialidade]]
+- [[Iluminação Rembrandt]]
+- [[Textura - Materialidade]]

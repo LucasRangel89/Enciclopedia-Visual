@@ -3,7 +3,7 @@ title: MOC - Musica_e_Capas_de_Album
 part: "02_Catalogo_Visual"
 category: MOC
 type: moc-category
-parent: [[MOC - Catalogo Visual]]
+parent: "[[MOC - Catalogo Visual]]"
 status: revisao
 draft: false
 tags: [moc, musica-e-capas-de-album]

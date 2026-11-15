@@ -1,46 +1,84 @@
 ---
-parte: Catalogo Visual
-categoria: Movimentos
+parte: Movimentos Artísticos
+categoria: Onda 3 — A luz e a cor se libertam (fim séc. XIX)
 tags:
   - impressionismo
-  - pintura
+  - monet
+  - plein-air
   - luz
-  - cor
-  - ar-livre
-tem_imagem: true
-falta:
-  - GPT
-  - Raphael
+  - pinceladas
+tem_imagem: false
 status: rascunho
 aliases:
-  - Impressionism
-  - Pintura Impressionista
+  - Impressionism Expansion
+  - Pintura Plein-Air
+  - Captura da Luz Instântanea
+falta:
+  - Gemini
+  - GPT
+  - Leonardo
+  - Raphael
 ---
-# Impressionismo
-## 📖 Definição e Lógica
-Movimento artístico francês do final do século XIX que rompeu com a rigidez acadêmica. Em vez de formas definidas e acabamento polido, os impressionistas buscavam capturar a impressão fugaz de um instante — sobretudo os efeitos da luz natural em mutação. Pinceladas soltas e visíveis, sombras construídas com cores complementares (nunca pretas) e cenas cotidianas ao ar livre (en plein air) definem o estilo. A imagem vibra como se os olhos estivessem piscando sob o sol. Transmite frescor, movimento e a beleza do transitório.
-## 🎯 Vocabulário para Prompt
-- `impressionist painting`
-- `broken brushwork`
-- `en plein air`
-- `fleeting light effect`
-- `visible loose brushstrokes`
-- `colored shadows (no black)`
-- `vibrant complementary palette`
-- `Monet style` / `Renoir style`
+# Impressionismo (Expansão)
+
+## Conceito Técnico
+O Impressionismo (França, 1870s) revolucionou a pintura ao abandonar os estúdios em favor da pintura ao ar livre (*plein-air*). Utiliza pinceladas rápidas, visíveis e fragmentadas, eliminando o preto das sombras (substituído por complementares) para capturar as **mudanças efêmeras da luz natural**, da atmosfera e da vibração cromática em diferentes horas do dia (Monet, Renoir, Degas).
+
+---
+
+## Efeito Psicológico e Narrativo
+* **Sensação Óptica e Fugacidade:** Transmite o frescor de um instante irrepetível, a brisa solar sobre a água e o dinamismo da vida urbana moderna (boulevards, estações de trem).
+* **Imersão Sensorial:** Em vez de linhas rígidas, a forma dissolve-se na luz, convidando o observador a reconstruir mentalmente a imagem a uma certa distância.
+* **Prazer Visual e Leveza:** Ausência total de temas trágicos ou pesados; celebração do lazer burguês e da natureza luminosa.
+
+---
+
+## Aplicações Práticas
+* **Paisagismo e Cenas Urbanas Iluminadas:** Capas de livros, cenários de época com foco em atmosfera atmosférica e reflexos aquáticos.
+* **Texturas Visuais Suaves:** Criação de fundos pictóricos românticos e luminosos.
+
+---
+
+## Módulos para Engenharia de Prompt
+
+| Parâmetro | Configuração Recomendada | Efeito no Gerador de IA |
+| :--- | :--- | :--- |
+| **Pincelada e Cor** | `impressionist brushstrokes, vibrant unblended colors, broken color technique` | Destrói contornos rígidos e divide os tons na tela |
+| **Atmosfera Luminosa** | `plein-air sunlight, shimmering water reflections, atmospheric haze` | Enriquece a cena com reflexos solares piscantes |
+
+### 🗣️ Vocabulário para Prompt
+* `Impressionist art style`
+* `rapid visible brushstrokes`
+* `plein-air natural lighting`
+* `shimmering light reflections`
+* `vibrant unblended pigments`
+* `Claude Monet aesthetic`
+* `dissolving forms in light`
+* `atmospheric color vibrations`
+
+---
+
 ## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
-> **1. ChatGPT (DALL-E 3):**
-> [Cole aqui a imagem gerada no ChatGPT]
-> *Legenda: Observação sobre o resultado, pontos fortes e fracos.*
-> **2. Gemini (Google Imagen):**
-> ![[Impressionismo_Gemini.jpg]]
-> *Legenda: Observação sobre o resultado, pontos fortes e fracos.*
-> **3. Leonardo AI:**
-> ![[Impressionismo_Leonardo.jpg]]
-> *Legenda: Observação sobre o resultado, pontos fortes e fracos.*
-> **4. Raphael AI:**
-> [Cole aqui a imagem gerada no Raphael]
-> *Legenda: Observação sobre o resultado, pontos fortes e fracos.*
+
+### 1. ChatGPT (DALL-E 3)
+![[impressionismo_dalle3.png]]
+* **Legenda:** [Observação sobre as pinceladas fragmentadas e vibração da luz solar ao ar livre]
+
+### 2. Gemini (Google Imagen)
+![[impressionismo_imagen.png]]
+* **Legenda:** [Observação sobre a dissolução de contornos em reflexos de água e folhagens]
+
+### 3. Leonardo AI
+![[impressionismo_leonardo.png]]
+* **Legenda:** [Observação sobre a paleta de cores puras justapostas]
+
+### 4. Raphael AI
+![[impressionismo_raphael.png]]
+* **Legenda:** [Observação sobre o dinamismo atmosférico e captação do instante fugaz]
+
+---
+
 ## ⚙️ Prompt de Referência (Testado)
-```
-Impressionist oil painting of a garden path in spring, dappled sunlight filtering through leaves, a woman with a parasol walking away. Loose visible brushstrokes, en plein air feel, vibrant colored shadows in purple and blue (no black), dappled light patches on the ground, flowers in red and yellow, Monet influence, fleeting moment captured.
+
+```text
+Impressionist oil painting of a bustling Parisian boulevard in the rain at twilight, rapid visible brushstrokes, shimmering light reflections on wet pavement, vibrant unblended pigments, Claude Monet style, plein-air atmosphere, beautiful color vibrations --ar 16:9
