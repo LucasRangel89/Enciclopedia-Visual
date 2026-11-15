@@ -1,0 +1,58 @@
+---
+parte: Iluminacao_Avancada
+categoria: Iluminacao_Avancada
+tags:
+  - rim-light
+  - luz-de-contorno
+  - setup-de-luz
+  - separacao-de-fundo
+tem_imagem: false
+status: rascunho
+aliases:
+  - Rim Light
+  - Kicker Light
+  - Luz de Contorno
+---
+# Rim Light / Luz de Contorno
+## Conceito Técnico
+Fonte de luz posicionada atrás e ligeiramente ao lado do sujeito, criando uma fina linha luminosa que contorna a silhueta (cabelo, ombros, borda do corpo) e o separa visualmente do fundo — frequentemente usada em conjunto com outras fontes, não isoladamente.
+---
+## Efeito Psicológico e Narrativo
+* **Separação Dimensional:** O sujeito se destaca claramente do fundo.
+* **Qualidade Etérea ou Heroica:** O contorno luminoso confere presença elevada.
+* **Profundidade Acentuada:** Reforça a tridimensionalidade da cena.
+---
+## Aplicações Práticas
+* **Separação do Fundo Escuro:** Retratos que precisam de destaque de silhueta.
+* **Cenas Heroicas/Dramáticas:** Contorno luminoso reforçando presença.
+---
+## Módulos para Engenharia de Prompt
+| Parâmetro | Configuração Recomendada | Efeito no Gerador de IA |
+| :--- | :--- | :--- |
+| **Contorno** | `thin luminous edge outlining silhouette` | Ancora a assinatura de contorno de assinatura |
+| **Separação** | `subject-background separation, dimensional edge glow` | Reforça a profundidade tridimensional característica |
+### 🗣️ Vocabulário para Prompt
+* `rim light`
+* `thin luminous edge outlining silhouette`
+* `subject-background separation`
+* `dimensional edge glow`
+* `backlit contour highlight`
+---
+## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+### 1. ChatGPT (DALL-E 3)
+![[rim_light_dalle3.png]]
+* **Legenda:** [Observação sobre a finura da linha de contorno]
+### 2. Gemini (Google Imagen)
+![[rim_light_imagen.png]]
+* **Legenda:** [Observação sobre a separação do fundo]
+### 3. Leonardo AI
+![[rim_light_leonardo.png]]
+* **Legenda:** [Observação sobre a qualidade etérea do contorno]
+### 4. Raphael AI
+![[rim_light_raphael.png]]
+* **Legenda:** [Observação sobre a profundidade tridimensional obtida]
+---
+## ⚙️ Prompt de Referência (Testado)
+```
+A figure standing in a dark room with a thin luminous rim light outlining their silhouette, subject-background separation, dimensional edge glow, dramatic contour highlight --ar 4:5
+```

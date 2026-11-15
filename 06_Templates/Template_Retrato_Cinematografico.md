@@ -1,0 +1,2 @@
+
+[Sujeito], cinematic portrait, [Plano/Ângulo ex: medium close-up, 85mm lens], illuminated by [Tipo de Luz ex: Rembrandt lighting, soft key light], [Paleta de Cor ex: teal and orange color grading], natural skin texture, detailed eyes, [Ambiente de Fundo no-focus], shot on 35mm film, f/1.8 depth of field --ar 16:9

@@ -1,0 +1,55 @@
+---
+parte: Iluminacao_Avancada
+categoria: Iluminacao_Avancada
+tags:
+  - split-lighting
+  - iluminacao-de-retrato
+  - setup-de-luz
+  - dualidade
+tem_imagem: false
+status: rascunho
+aliases:
+  - Split Lighting
+---
+# Split Lighting (Iluminação Dividida)
+## Conceito Técnico
+Setup onde a fonte de luz é posicionada a 90 graus do sujeito, iluminando exatamente metade do rosto enquanto a outra metade permanece em sombra total — divisão dramática e literal entre luz e escuridão.
+---
+## Efeito Psicológico e Narrativo
+* **Dualidade Psicológica Explícita:** A divisão física vira metáfora visual.
+* **Tensão Interna:** Sugere conflito moral ou identidade fragmentada.
+* **Dramaticidade Máxima:** Grande efeito com equipamento mínimo.
+---
+## Aplicações Práticas
+* **Personagens Moralmente Divididos:** Retrato de conflito interno.
+* **Iconografia de Dualidade:** Bem/mal, verdade/mentira.
+---
+## Módulos para Engenharia de Prompt
+| Parâmetro | Configuração Recomendada | Efeito no Gerador de IA |
+| :--- | :--- | :--- |
+| **Ângulo** | `light source at 90 degrees` | Ancora o posicionamento técnico de assinatura |
+| **Divisão** | `exactly half face illuminated half in shadow` | Reforça a dualidade dramática característica |
+### 🗣️ Vocabulário para Prompt
+* `split lighting setup`
+* `light source at 90 degrees`
+* `exactly half face illuminated half in shadow`
+* `dramatic dual contrast portrait`
+---
+## 🖼️ Galeria de Exemplos Visuais (Multi-gerador)
+### 1. ChatGPT (DALL-E 3)
+![[split_lighting_dalle3.png]]
+* **Legenda:** [Observação sobre a precisão da divisão facial]
+### 2. Gemini (Google Imagen)
+![[split_lighting_imagen.png]]
+* **Legenda:** [Observação sobre o contraste dramático]
+### 3. Leonardo AI
+![[split_lighting_leonardo.png]]
+* **Legenda:** [Observação sobre a dualidade psicológica transmitida]
+### 4. Raphael AI
+![[split_lighting_raphael.png]]
+* **Legenda:** [Observação sobre a nitidez da linha de divisão]
+---
+## ⚙️ Prompt de Referência (Testado)
+```
+A portrait of a conflicted character, split lighting setup, exactly half the face illuminated and half in complete shadow, dramatic psychological duality, stark contrast --ar 4:5
+```

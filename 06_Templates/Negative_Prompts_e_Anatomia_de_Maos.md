@@ -1,0 +1,2 @@
+
+blurry, low quality, oversaturated, distorted anatomy, extra limbs, fused fingers, deformed hands, bad proportions, duplicate elements, out of frame, watermark, signature, text, draft, CGI look, plastic skin

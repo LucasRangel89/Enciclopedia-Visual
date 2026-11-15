@@ -1,0 +1,101 @@
+referência textual em cada quadro.
+
+1) Fotografia comparativa
+
+A single image divided into four equal panels, same subject in all panels: a lonely man waiting on an empty train platform at dusk. Panel 1 labeled "FILM": 35mm film photography, Kodak Portra 400, subtle grain, natural colors. Panel 2 labeled "LOMO": lomography, strong vignette, color shift, saturated and imperfect. Panel 3 labeled "POLA": Polaroid photo, faded colors, instant film look, soft exposure irregularities. Panel 4 labeled "STREET": street photography, candid, f/8, natural light, documentary realism. No extra text, no decorative typography, only the four small panel labels.
+
+2) Lentes e perspectiva
+
+A single image divided into four equal panels, same subject: an explorer standing in the same empty square. Panel 1 labeled "WIDE": wide-angle lens, 16mm, exaggerated perspective, dramatic environment. Panel 2 labeled "TELE": telephoto lens, compressed background, shallow depth of field, isolated subject. Panel 3 labeled "FISHEYE": fisheye lens, extreme distortion, circular curvature, surreal feel. Panel 4 labeled "TILT": tilt-shift photography, miniature effect, selective focus plane, toy-like realism. No extra text, only the four labels.
+
+3) Iluminação
+
+A single image divided into four equal panels, same subject: a woman holding a lantern in a deserted room. Panel 1 labeled "SOFT": soft lighting, diffused shadows, gentle mood. Panel 2 labeled "HARD": hard lighting, harsh shadows, direct sunlight, strong contrast. Panel 3 labeled "BACK": backlit silhouette, rim light, dramatic outline. Panel 4 labeled "UNDER": underlighting, horror lighting, unsettling shadows. Keep the subject and framing identical, only change the light. No extra text, only the four labels.
+
+4) Cor e grading
+
+A single image divided into four equal panels, same subject: a child with a bicycle on a quiet street. Panel 1 labeled "WARM": warm golden palette, amber tones, nostalgic film look. Panel 2 labeled "COLD": cool blue palette, desaturated tones, melancholic mood. Panel 3 labeled "TEAL": teal and orange cinematic grade, modern blockbuster feel. Panel 4 labeled "NOIR": black and white noir, deep shadows, high contrast. No extra text, only the four labels.
+
+5) Mídias de pintura e desenho
+
+A single image divided into four equal panels, same subject: a seated figure in profile. Panel 1 labeled "OIL": oil painting with thick impasto and visible brushstrokes. Panel 2 labeled "WATER": watercolor painting with transparent washes and soft bleeding edges. Panel 3 labeled "GRAPH": graphite drawing with hatching and paper texture. Panel 4 labeled "PRINT": screen print with flat colors and slight misregistration. No extra text, only the four labels.
+
+6) Gravura e impressão
+
+A single image divided into four equal panels, same subject: a raven on a branch. Panel 1 labeled "WOODCUT": woodcut print, bold carved lines, high contrast. Panel 2 labeled "ETCH": etching, fine precise lines, delicate detail. Panel 3 labeled "RISO": risograph print, limited colors, grainy vintage texture. Panel 4 labeled "LITHO": lithograph, soft gray tonal transitions, printed surface texture. No extra text, only the four labels.
+
+7) Digital e 3D
+
+A single image divided into four equal panels, same subject: a futuristic motorcycle parked in an alley. Panel 1 labeled "PIXEL": pixel art, visible pixels, limited palette. Panel 2 labeled "LOWPOLY": low poly 3D, faceted geometry, flat lighting. Panel 3 labeled "CEL": cel shaded render, bold outlines, cartoon-like shadows. Panel 4 labeled "PBR": photorealistic PBR render, metallic reflections, detailed materials. No extra text, only the four labels.
+
+8) Atmosfera e efeitos
+
+A single image divided into four equal panels, same subject: a lone explorer standing in an empty square, holding a small lantern. Panel 1 labeled "FOG": fog, atmospheric haze, soft distant shapes. Panel 2 labeled "RAIN": rain, wet pavement, reflected light, melancholic urban mood. Panel 3 labeled "SNOW": falling snow, cold silence, isolated atmosphere, pale light. Panel 4 labeled "GLITCH": glitch effect, RGB split, digital corruption, retro-futurist tension. No extra text, only the four labels.
+
+Agora a segunda leva expandida, já no mesmo formato visual comparativo.
+
+9) Câmera e enquadramento
+
+A single image divided into four equal panels, same subject: a traveler in a vast empty hall. Panel 1 labeled "EYE": eye level shot, natural perspective, balanced and intimate. Panel 2 labeled "TOP": bird's eye view, top-down composition, small human figure, sense of scale. Panel 3 labeled "LOW": low angle shot, worm's eye view, imposing and heroic. Panel 4 labeled "OTS": over-the-shoulder shot, relationship and narrative tension. Keep the pose and environment constant. No extra text, only the four labels.
+
+10) Distância e plano
+
+A single image divided into four equal panels, same subject: a woman standing by a window. Panel 1 labeled "WIDE": wide shot, full body plus environment. Panel 2 labeled "MED": medium shot, waist-up framing. Panel 3 labeled "CLOSE": close-up shot, face and emotion dominant. Panel 4 labeled "MACRO": extreme close-up, detail shot, texture focus. No extra text, only the four labels.
+
+11) Composição
+
+A single image divided into four equal panels, same subject: a solitary house in a field. Panel 1 labeled "THIRD": rule of thirds composition, off-center subject. Panel 2 labeled "SYM": symmetrical composition, centered and mirror-like. Panel 3 labeled "NEG": negative space, minimalist composition, breathing room. Panel 4 labeled "LEAD": leading lines, vanishing point, strong perspective flow. No extra text, only the four labels.
+
+12) Mídias de desenho e tinta
+
+A single image divided into four equal panels, same subject: a tree in winter. Panel 1 labeled "PEN": pen and ink illustration, cross-hatching, precise linework. Panel 2 labeled "CHAR": charcoal drawing, dark expressive tones, soft smudges. Panel 3 labeled "MARKER": marker drawing, flat color blocks, clean edges. Panel 4 labeled "Sumi": sumi-e ink painting, gestural brushstrokes, negative space, rice paper texture. No extra text, only the four labels.
+
+13) Estilos fotográficos de retrato
+
+A single image divided into four equal panels, same subject: a portrait of the same person facing the camera. Panel 1 labeled "STUDIO": studio portrait, softbox lighting, white background, polished look. Panel 2 labeled "CANDID": candid street portrait, natural light, slight imperfection, spontaneous feel. Panel 3 labeled "MACRO": extreme close-up portrait, skin detail, shallow depth of field. Panel 4 labeled "IR": infrared photography, white foliage reflections, unnatural pale tones, surreal mood. No extra text, only the four labels.
+
+14) Paletas e humor visual
+
+A single image divided into four equal panels, same subject: a small boat on still water. Panel 1 labeled "CYAN": cyberpunk palette, neon pink and cyan on dark. Panel 2 labeled "EARTH": earthy tones, terracotta, sage green, warm browns. Panel 3 labeled "PASTEL": pastel kawaii palette, soft pink, lavender, mint. Panel 4 labeled "DARK": dark forest palette, deep greens and blacks, mysterious mood. No extra text, only the four labels.
+
+15) Atmosfera cinematográfica
+
+A single image divided into four equal panels, same subject: a person walking through a city street at night. Panel 1 labeled "NOIR": film noir grade, black and white, high contrast, deep shadows. Panel 2 labeled "BLEACH": bleach bypass, desaturated and gritty, harsh realism. Panel 3 labeled "DAYNIGHT": day for night, blue-tinted nighttime illusion. Panel 4 labeled "MATTE": cinematic matte finish, lifted shadows, modern streaming drama look. No extra text, only the four labels.
+
+16) Efeitos e pós-produção
+
+A single image divided into four equal panels, same subject: a city billboard at night. Panel 1 labeled "GLOW": aura glow, soft magical light, luminous edges. Panel 2 labeled "HALFTONE": halftone dots, comic-book print texture. Panel 3 labeled "SCAN": CRT scanlines, old TV effect, retro monitor feel. Panel 4 labeled "VAPOR": vaporwave aesthetic, pink and cyan neon, sunset gradient, 80s digital nostalgia. No extra text, only the four labels.
+
+Seção 01 — Fundamentos técnicos
+A four-panel comparison board, same scene in all panels: a lone explorer in an empty square at dusk, holding a small lantern. Panel A labeled "MIN": sparse composition, minimal details, simple visual structure. Panel B labeled "BAL": balanced composition, clear subject, moderate detail. Panel C labeled "RICH": highly specified environment, dense but coherent details. Panel D labeled "OVER": overloaded visual description, too many competing elements, slightly chaotic but still readable. Keep camera, pose, and location consistent. No extra text beyond the labels.
+Seção 02 — Movimentos artísticos históricos
+A four-panel comparison board, same subject and framing in all panels: a solitary figure standing in a grand hall. Panel A labeled "REAL": classical realism, faithful anatomy, natural light. Panel B labeled "IMP": impressionist oil painting, loose visible brushstrokes, atmospheric light. Panel C labeled "EXP": expressionist painting, distorted forms, emotional contrast. Panel D labeled "SUR": surrealist scene, dreamlike logic, impossible juxtaposition. No extra text beyond the labels.
+Seção 03 — Estilos por mídia e suporte
+A four-panel comparison board, same subject in all panels: a lone man waiting on an empty train platform at dusk. Panel A labeled "35MM": 35mm film photography, Kodak Portra 400, subtle grain, natural colors. Panel B labeled "LOMO": lomography, strong vignette, color shift, saturated imperfections. Panel C labeled "POLA": Polaroid photo, faded colors, instant film look, exposure irregularities. Panel D labeled "STREET": street photography, candid, f/8, documentary realism. No extra text beyond the labels.
+A four-panel comparison board, same subject in all panels: a person holding a lantern in a dark room. Panel A labeled "STUDIO": studio portrait, softbox lighting, clean background, polished skin tones. Panel B labeled "MACRO": macro photography, extreme close-up, shallow depth of field, texture emphasis. Panel C labeled "LONG": long exposure photography, light trails, motion blur. Panel D labeled "IR": infrared photography, white foliage effect, dark sky, surreal false color. No extra text beyond the labels.
+A four-panel comparison board, same subject in all panels: a seated figure in profile. Panel A labeled "OIL": oil painting with thick impasto and visible brushstrokes. Panel B labeled "WATER": watercolor painting with transparent washes and soft bleeding edges. Panel C labeled "GRAPH": graphite drawing with hatching and paper texture. Panel D labeled "WOOD": woodcut print with bold carved lines and high contrast. No extra text beyond the labels.
+A four-panel comparison board, same subject in all panels: a futuristic motorcycle parked in an alley. Panel A labeled "PIXEL": pixel art, visible pixels, limited palette, retro game feel. Panel B labeled "LOWPOLY": low poly 3D, faceted geometry, flat lighting. Panel C labeled "CEL": cel shaded render, bold outlines, cartoon-like shadows. Panel D labeled "PBR": photorealistic PBR render, metallic reflections, detailed materials. No extra text beyond the labels.
+Seção 04 — Iluminação
+A four-panel comparison board, same subject in all panels: a woman holding a lantern in a deserted room. Panel A labeled "SOFT": soft lighting, diffused shadows, gentle mood. Panel B labeled "HARD": hard lighting, harsh shadows, strong contrast. Panel C labeled "BACK": backlit silhouette, rim light, dramatic outline. Panel D labeled "UNDER": underlighting, horror lighting, unsettling shadows. No extra text beyond the labels.
+A four-panel comparison board, same subject in all panels: a lone traveler beside a window. Panel A labeled "GOLD": golden hour light, warm sunset tones, long soft shadows. Panel B labeled "BLUE": blue hour light, cool twilight tones, quiet melancholy. Panel C labeled "CANDLE": candlelight, warm flickering glow, intimate darkness. Panel D labeled "REM": Rembrandt lighting, triangle of light on the cheek, classic portrait drama. No extra text beyond the labels.
+Seção 05 — Câmera e composição
+A four-panel comparison board, same subject in all panels: a traveler in an empty hall. Panel A labeled "EYE": eye level shot, natural perspective, balanced and intimate. Panel B labeled "TOP": bird's eye view, overhead shot, small human figure. Panel C labeled "LOW": low angle shot, worm's eye view, imposing scale. Panel D labeled "DUTCH": dutch angle, tilted frame, tension and instability. No extra text beyond the labels.
+A four-panel comparison board, same subject in all panels: the same traveler standing in the same hall. Panel A labeled "16MM": wide-angle lens, expanded perspective, slight edge distortion. Panel B labeled "200MM": telephoto lens, compressed background, isolated subject. Panel C labeled "FISH": fisheye lens, extreme curvature, surreal distortion. Panel D labeled "TILT": tilt-shift photography, miniature effect, selective focus plane. No extra text beyond the labels.
+Seção 06 — Cor e paleta
+A four-panel comparison board, same subject in all panels: a small boat on still water. Panel A labeled "WARM": warm golden palette, amber tones, nostalgic mood. Panel B labeled "COLD": cool blue palette, desaturated tones, melancholic mood. Panel C labeled "NOIR": black and white noir, deep shadows, high contrast. Panel D labeled "PASTEL": pastel palette, soft pink and lavender, gentle mood. No extra text beyond the labels.
+A four-panel comparison board, same subject in all panels: a person walking through a city street at night. Panel A labeled "TEAL": teal and orange color grade, cinematic contrast. Panel B labeled "BLEACH": bleach bypass, desaturated and gritty, harsh realism. Panel C labeled "DAYNIGHT": day-for-night look, blue-tinted nighttime illusion. Panel D labeled "MATTE": cinematic matte finish, lifted shadows, modern streaming drama look. No extra text beyond the labels.
+Seção 07 — Textura e materiais
+A four-panel comparison board, same subject in all panels: a close-up of a human hand resting on different surfaces. Panel A labeled "SKIN": skin texture, visible pores, subsurface scattering. Panel B labeled "WOOD": wood grain texture, natural wood, visible fibers. Panel C labeled "STONE": stone texture, rough rock, marble veins. Panel D labeled "SNOW": snow texture, powdery snow, frost crystals. No extra text beyond the labels.
+A four-panel comparison board, same subject in all panels: a small object placed on a pedestal. Panel A labeled "METAL": polished metal, chrome reflection, brushed steel. Panel B labeled "GLASS": glass texture, refraction, transparency, light distortion. Panel C labeled "CONCRETE": rough concrete, brutalist material, matte surface. Panel D labeled "GOLD": gold leaf, gilded surface, metallic sheen. No extra text beyond the labels.
+Seção 08 — Gêneros e universos visuais
+A four-panel comparison board, same subject and framing in all panels: a lone figure at the edge of a vast landscape. Panel A labeled "CYBER": cyberpunk city, neon-lit streets, rain-soaked reflections. Panel B labeled "FANTASY": high fantasy world, ancient runes, epic medieval atmosphere. Panel C labeled "HORROR": cosmic horror, incomprehensible presence, oppressive darkness. Panel D labeled "LIMINAL": liminal space, empty transitional architecture, eerie silence. No extra text beyond the labels.
+Seção 09 — Concept art e ilustração
+A four-panel concept art sheet, same character and framing across all panels: a young adventurer with a lantern. Panel A labeled "CHAR": character design, full-body turnaround feel, costume details. Panel B labeled "ENV": environment concept art, world-building, atmospheric scale. Panel C labeled "PROP": prop design, detailed object study, technical clarity. Panel D labeled "CREAT": creature concept, anatomy study, believable fantasy biology. No extra text beyond the labels.
+Seção 10 — Artistas e estúdios: identidade visual forte
+A four-panel comparison board, same subject in all panels: a mythic warrior standing on a cliff at sunset. Panel A labeled "FRAZ": heroic fantasy oil painting, dramatic muscular figure, warm earthy tones, dynamic diagonal composition. Panel B labeled "GIGER": biomechanical horror, organic and mechanical fusion, bone and metal textures. Panel C labeled "KLIMT": decorative symbolism, gold leaf, geometric ornament, rich jewel tones. Panel D labeled "HOK": ukiyo-e woodblock print, flat color areas, precise black outlines, asymmetrical composition. No extra text beyond the labels.
+Seção 11 — Efeitos especiais e atmosféricos
+A four-panel atmospheric comparison board, same subject in all panels: a solitary explorer in an empty square with a lantern. Panel A labeled "FOG": fog and atmospheric haze, soft distant shapes. Panel B labeled "RAIN": rain, wet pavement, reflected light. Panel C labeled "GLOW": glowing aura, floating particles, luminous edges. Panel D labeled "GLITCH": glitch effect, RGB split, digital corruption. No extra text beyond the labels.
+Seção 12 — Dicionário técnico
+A four-panel technical test board, same subject in all panels: a portrait in the same room. Panel A labeled "BOKEH": shallow depth of field, blurred background, soft light circles. Panel B labeled "GRAIN": film grain, analog noise, 35mm texture. Panel C labeled "VIGNETTE": dark edges, tunnel focus, centered attention. Panel D labeled "CA": chromatic aberration, subtle colored fringes on edges. No extra text beyond the labels.
+Seção 13 — Templates prontos
+A four-panel template board, same visual language in all panels but different use cases: Panel A labeled "PORTRAIT": cinematic portrait, close-up, emotional face, controlled light. Panel B labeled "SCI-FI": epic sci-fi scene, vast environment, atmospheric haze. Panel C labeled "CHAR": character design sheet, full body, details and costume clarity. Panel D labeled "OBJ": product/object shot, isolated object, clean background, soft studio lighting. No extra text beyond the labels.

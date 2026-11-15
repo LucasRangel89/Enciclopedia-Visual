@@ -1,0 +1,2 @@
+
+Atmospheric landscape of [Localização/Ambiente], [Momento do Dia/Clima ex: misty morning, overcast drizzle], perspective with deep spatial recession, [Mídia ex: oil on canvas, large format photography], subtle colors, serene mood, natural light dispersion --ar 16:9

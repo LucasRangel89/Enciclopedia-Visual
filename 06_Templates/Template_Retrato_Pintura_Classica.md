@@ -1,0 +1,2 @@
+
+Classical portrait painting of [Sujeito], in the style of [Movimento ex: Baroque, Renaissance], impasto oil paint texture, visible brushstrokes, chiaroscuro lighting, deep shadow background, rich dark color palette, timeless composition --ar 4:5

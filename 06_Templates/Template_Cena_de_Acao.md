@@ -1,0 +1,2 @@
+
+Action freeze-frame of [Sujeito/Cena], captured in high shutter speed, motion blur in the background, [Ângulo ex: low-angle Dutch angle], dramatic directional lighting, debris and particles suspended in mid-air, intense expression, dynamic composition --ar 16:9

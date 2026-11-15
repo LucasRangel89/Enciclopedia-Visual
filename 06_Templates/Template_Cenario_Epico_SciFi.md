@@ -1,0 +1,2 @@
+
+Wide-angle landscape of [Cenário/Estrutura Sci-Fi], colossal scale, [Arquitetura/Estilo ex: Brutalist monoliths, Solarpunk towers], [Condição Atmosférica ex: dense fog, dust particles in the air], god rays cutting through clouds, [Paleta Cromática], cinematic composition, establishing shot, highly detailed environmental storytelling --ar 21:9

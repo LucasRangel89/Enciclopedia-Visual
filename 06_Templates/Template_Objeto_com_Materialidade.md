@@ -1,0 +1,2 @@
+
+Macro studio photograph of [Objeto], showcasing [Textura/Material ex: aged brass patina, polished obsidian, brushed aluminum], [Tipo de Luz ex: rake lighting highlighting texture], dark neutral studio background, crisp focus, PBR shader realism, 100mm macro lens --ar 1:1

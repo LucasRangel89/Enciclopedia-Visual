@@ -1,0 +1,2 @@
+
+Full-body character design of [Descrição do Personagem], [Estilo Visual ex: line art, gouache painting, Cyberpunk concept art], dynamic posture, wearing [Vestuário e Detalhes], [Cor/Paleta], clean neutral background, sharp edges, character sheet concept style --ar 2:3
