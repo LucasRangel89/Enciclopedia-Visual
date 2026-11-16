@@ -34,9 +34,10 @@ Gênero visual ancorado em mundos com magia, mitologia e sistemas de crença sob
 ---
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[fantasia.png]]
-* **Legenda:** [Observação sobre a coerência da arquitetura impossível]
+### Referência — Acervo SNAP INSTA
+![[fantasia.jpg]]
+* **Legenda:** Fantasia: elfa guerreira de armadura ornada em floresta azul, high fantasy classica.
+
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A towering castle built into the roots of an ancient impossibly large tree, mythical magical world-building, epic luminous atmosphere, enchanted glowing details, sense of wonder --ar 16:9

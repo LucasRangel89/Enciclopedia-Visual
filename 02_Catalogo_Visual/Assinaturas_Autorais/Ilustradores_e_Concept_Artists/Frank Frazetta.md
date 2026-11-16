@@ -37,9 +37,10 @@ Ilustrador de fantasia/ficção científica conhecido por musculatura hiper-din�
 ---
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[frazetta.png]]
-* **Legenda:** [Observação sobre a dinâmica da pincelada]
+### Referência — Acervo SNAP INSTA
+![[frazetta.jpg]]
+* **Legenda:** Frazetta: rei guerreiro de armadura ornada, volume pintado e luz quente de fundo.
+
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```

@@ -6,7 +6,7 @@ tags:
   - gravura
   - tecnica-de-impressao
   - gravura-em-metal
-tem_imagem: false
+tem_imagem: true
 status: rascunho
 aliases:
   - Etching
@@ -42,9 +42,10 @@ Técnica de gravura em metal onde uma placa de cobre coberta por verniz é risca
 ---
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[agua_forte.png]]
-* **Legenda:** [Observação sobre a finura da linha gravada]
+### Referência — Acervo SNAP INSTA
+![[agua_forte.jpg]]
+* **Legenda:** Agua-forte: coruja em hachura densa, sombra construida por acumulo de linha.
+
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A Rembrandt-style etched portrait in dramatic chiaroscuro, fine detailed linework with dense cross-hatching shadows, copper plate print texture, intricate engraved detail, antique print quality --ar 3:4

@@ -36,9 +36,10 @@ Gênero visual (originado da estética de internet "liminal spaces") que retrata
 ---
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[liminal.png]]
-* **Legenda:** [Observação sobre a monotonia da luz fluorescente]
+### Referência — Acervo SNAP INSTA
+![[liminal.jpg]]
+* **Legenda:** Liminal: torres vermelhas na nevoa azul, estruturas sem funcao aparente e sem pessoas.
+
 ## ⚙️ Prompt de Referência (Testado)
 ```
 An empty fluorescent-lit shopping mall corridor at night with no people present, uniform monotonous fluorescent lighting, unpopulated familiar interior, uncanny nostalgic emptiness, dreamlike liminal quality --ar 16:9

@@ -6,7 +6,7 @@ tags:
   - silhouette-lighting
   - setup-de-luz
   - contraluz-total
-tem_imagem: false
+tem_imagem: true
 status: rascunho
 aliases:
   - Silhouette Lighting
@@ -38,9 +38,10 @@ Setup onde o sujeito é posicionado inteiramente entre a câmera e uma fonte de 
 ---
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[silhueta.png]]
-* **Legenda:** [Observação sobre a nitidez do contorno]
+### Referência — Acervo SNAP INSTA
+![[silhueta.jpg]]
+* **Legenda:** Silhueta: guerreiro de costas contra explosao de fogo, figura reduzida a forma escura.
+
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A lone figure standing on a hilltop against a blazing orange sunset, silhouette lighting, subject fully backlit with no frontal fill, complete loss of internal detail, pure iconic form --ar 16:9

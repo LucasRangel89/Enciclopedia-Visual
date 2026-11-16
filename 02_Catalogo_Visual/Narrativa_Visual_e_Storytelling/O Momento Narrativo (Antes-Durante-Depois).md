@@ -35,9 +35,10 @@ Princípio de composição narrativa que escolhe deliberadamente qual instante d
 ---
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[momento_narrativo.png]]
-* **Legenda:** [Observação sobre a clareza do instante escolhido]
+### Referência — Acervo SNAP INSTA
+![[momento_narrativo.jpg]]
+* **Legenda:** Momento narrativo: o instante depois da batalha, cadaveres como consequencia visivel.
+
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A woman staring at a shattered vase on the floor, moments after it fell, aftermath emotional processing, implied action through selected instant, quiet weighted stillness --ar 4:5

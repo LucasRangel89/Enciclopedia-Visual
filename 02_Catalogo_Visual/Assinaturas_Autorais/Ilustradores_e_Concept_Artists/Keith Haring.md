@@ -6,7 +6,7 @@ tags:
   - artista-pop
   - assinatura-autoral
   - street-art
-tem_imagem: false
+tem_imagem: true
 status: rascunho
 aliases:
   - Keith Haring Style
@@ -39,9 +39,10 @@ Artista pop/street art conhecido por figuras humanas reduzidas a contorno grosso
 ---
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[haring.png]]
-* **Legenda:** [Observação sobre a uniformidade do contorno]
+### Referência — Acervo SNAP INSTA
+![[haring.jpg]]
+* **Legenda:** Haring: gato guerreiro em circulo vermelho, linha grafica plana e raios irradiantes.
+
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```

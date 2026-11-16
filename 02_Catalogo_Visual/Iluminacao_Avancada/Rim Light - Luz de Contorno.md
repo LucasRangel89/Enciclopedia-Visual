@@ -6,7 +6,7 @@ tags:
   - luz-de-contorno
   - setup-de-luz
   - separacao-de-fundo
-tem_imagem: false
+tem_imagem: true
 status: rascunho
 aliases:
   - Rim Light
@@ -40,9 +40,10 @@ Fonte de luz posicionada atrás e ligeiramente ao lado do sujeito, criando uma f
 ---
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[rim_light.png]]
-* **Legenda:** [Observação sobre a finura da linha de contorno]
+### Referência — Acervo SNAP INSTA
+![[rim_light.jpg]]
+* **Legenda:** Rim light: Scorpion recortado por contorno dourado sobre fundo negro.
+
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A figure standing in a dark room with a thin luminous rim light outlining their silhouette, subject-background separation, dimensional edge glow, dramatic contour highlight --ar 4:5

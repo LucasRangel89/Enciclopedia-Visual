@@ -7,7 +7,7 @@ tags:
   - surrealismo-latino
   - magica-cotidiana
   - rita-carvalho
-tem_imagem: false
+tem_imagem: true
 status: rascunho
 aliases:
   - Magical Realism
@@ -60,9 +60,9 @@ Como movimento pictórico, o Realismo Mágico (apoiado por correntes da Nova Obj
 
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[realismo_magico.png]]
-* **Legenda:** [Observação sobre a nitidez da luz diurna combinada com objetos flutuantes/impossíveis]
+### Referência — Acervo SNAP INSTA
+![[realismo_magico.jpg]]
+* **Legenda:** Realismo magico: hobbits e criatura rinoceronte tratados como cena cotidiana.
 
 ---
 ## ⚙️ Prompt de Referência (Testado)

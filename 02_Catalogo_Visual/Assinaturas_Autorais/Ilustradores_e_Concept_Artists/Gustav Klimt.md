@@ -36,9 +36,10 @@ Pintor simbolista conhecido por fusão de figuração realista (rostos e mãos p
 ---
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[klimt.png]]
-* **Legenda:** [Observação sobre a riqueza do padrão dourado]
+### Referência — Acervo SNAP INSTA
+![[klimt.jpg]]
+* **Legenda:** Klimt: mandala ornamental sobre cidade, ouro, vermelho e teal em padrao hipnotico.
+
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```

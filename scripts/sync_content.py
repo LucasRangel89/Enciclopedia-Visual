@@ -24,7 +24,7 @@ ROOT = Path(__file__).resolve().parent.parent
 # nomes de diretório excluídos em qualquer nível da árvore
 EXCLUDE_DIRS = {
     ".git", ".obsidian", ".github", "node_modules", "site", "public",
-    "_fontes", "scripts", "docs", "attachments", ".quartz", ".arena",
+    "_fontes", "scripts", "docs", "attachments", "SNAP INSTA", ".quartz", ".arena",
     "__pycache__", ".pytest_cache", ".mypy_cache", ".ruff_cache",
 }
 

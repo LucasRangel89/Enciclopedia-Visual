@@ -6,7 +6,7 @@ tags:
   - ilustrador
   - assinatura-autoral
   - biomecanico
-tem_imagem: false
+tem_imagem: true
 status: rascunho
 aliases:
   - H.R. Giger Style
@@ -40,9 +40,10 @@ Artista de horror biomecânico conhecido por fusão orgânico-mecânica (ossos e
 ---
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[giger.png]]
-* **Legenda:** [Observação sobre a fusão orgânico-mecânica]
+### Referência — Acervo SNAP INSTA
+![[giger.jpg]]
+* **Legenda:** Giger: olho biomecanico ramificado sobre paisagem infernal, horror organico.
+
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```

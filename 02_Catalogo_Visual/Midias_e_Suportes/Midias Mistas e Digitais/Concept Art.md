@@ -5,7 +5,7 @@ tags:
   - concept-art
   - midia-digital
   - pre-producao-visual
-tem_imagem: false
+tem_imagem: true
 status: rascunho
 aliases:
   - Concept Art
@@ -41,9 +41,10 @@ Ilustração de pré-produção usada em jogos, cinema e animação para explora
 ---
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[concept_art.png]]
-* **Legenda:** [Observação sobre a legibilidade da silhueta]
+### Referência — Acervo SNAP INSTA
+![[concept_art.jpg]]
+* **Legenda:** Concept art: olho cosmico sobre piramide, figura minuscula para dar escala.
+
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A creature design concept art sheet, clear readable silhouette, functional anatomical design, muted color palette for material clarity, production reference illustration style --ar 16:9

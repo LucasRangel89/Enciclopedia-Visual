@@ -6,7 +6,7 @@ tags:
   - familia-de-linguagem
   - filosofia-visual
   - surrealismo
-tem_imagem: false
+tem_imagem: true
 status: rascunho
 aliases:
   - Dream and Incongruity
@@ -37,9 +37,10 @@ Família de linguagem visual que atravessa Surrealismo, Realismo Mágico e certa
 ---
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[sonho_incongruencia.png]]
-* **Legenda:** [Observação sobre a naturalidade da justaposição impossível]
+### Referência — Acervo SNAP INSTA
+![[sonho_incongruencia.jpg]]
+* **Legenda:** Sonho e incongruencia: Jedi e droides em ambiente feudal japones, choque de imaginarios.
+
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A staircase leading directly into a cloud-filled sky above a quiet dining room, dreamlike incongruous juxtaposition, impossible elements treated as natural, surreal internal logic --ar 4:5

@@ -36,9 +36,10 @@ Gênero visual voltado a evocar medo, repulsa ou ansiedade através de composiç
 ---
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[horror.png]]
-* **Legenda:** [Observação sobre a densidade das sombras]
+### Referência — Acervo SNAP INSTA
+![[horror.jpg]]
+* **Legenda:** Horror: figura cornuda sobre tabuleiro flutuante em mar de lava, escala opressiva.
+
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A figure standing at the end of a long dark hallway, dense concealing shadows, uncanny distortion of familiar domestic space, desaturated cold palette, partially hidden threat, dread-inducing atmosphere --ar 9:16

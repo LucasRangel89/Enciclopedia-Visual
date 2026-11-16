@@ -6,7 +6,7 @@ tags:
   - gravura
   - tecnica-de-impressao
   - relevo
-tem_imagem: false
+tem_imagem: true
 status: rascunho
 aliases:
   - Woodcut
@@ -42,9 +42,10 @@ Técnica de gravura em relevo onde a imagem é esculpida numa placa de madeira (
 ---
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[xilogravura.png]]
-* **Legenda:** [Observação sobre a espessura do contorno]
+### Referência — Acervo SNAP INSTA
+![[xilogravura.jpg]]
+* **Legenda:** Xilogravura: collie em traço gravado, contorno expressivo e areas de sombra riscadas.
+
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A folk-style woodcut print of a rural scene, bold relief linework, visible wood grain texture bleeding into the ink, high contrast black and white, rustic carved block aesthetic --ar 3:4

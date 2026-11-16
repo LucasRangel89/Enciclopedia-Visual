@@ -32,9 +32,10 @@ Distinção de propósito entre as duas práticas — concept art de cinema prio
 ---
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[concept_games.png]]
-* **Legenda:** [Observação sobre a consistência entre os ângulos]
+### Referência — Acervo SNAP INSTA
+![[concept_games.jpg]]
+* **Legenda:** Concept art de games: guerreiro de caveira gigante ao lado da crianca, exercito ao fundo.
+
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A character turnaround reference sheet showing front, side and back views of a sci-fi soldier, multi-angle turnaround, modular functional asset design, game-ready technical concept sheet --ar 16:9

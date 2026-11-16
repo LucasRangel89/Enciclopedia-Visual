@@ -7,7 +7,7 @@ tags:
   - cores-puras
   - fauve
   - liberdade-cromatica
-tem_imagem: false
+tem_imagem: true
 status: rascunho
 aliases:
   - Fauvism
@@ -60,9 +60,9 @@ Liderado por Henri Matisse e André Derain em Paris (1905), o Fauvismo (do franc
 
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[fauvismo.png]]
-* **Legenda:** [Observação sobre o uso de cores puras arbitrárias em árvores e céus]
+### Referência — Acervo SNAP INSTA
+![[fauvismo.jpg]]
+* **Legenda:** Fauvismo: campo de espadas em vermelho e azul nao-naturalistas, cor como emocao.
 
 ---
 ## ⚙️ Prompt de Referência (Testado)

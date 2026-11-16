@@ -7,7 +7,7 @@ tags:
   - detalhamento
   - precisao
   - trompe-l-oeil
-tem_imagem: false
+tem_imagem: true
 status: rascunho
 aliases:
   - Hyperrealism
@@ -61,9 +61,9 @@ O Hiper-Realismo (e sua raiz no Fotorrealismo dos anos 1960/70) utiliza técnica
 
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[hiper_realismo.png]]
-* **Legenda:** [Observação sobre a precisão nos reflexos de água e nitidez extrema]
+### Referência — Acervo SNAP INSTA
+![[hiper_realismo.jpg]]
+* **Legenda:** Hiper-realismo: mascara renderizada com precisao fotografica, pele e tecido sem falha.
 
 ---
 ## ⚙️ Prompt de Referência (Testado)

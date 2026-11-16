@@ -6,7 +6,7 @@ tags:
   - color-grading
   - cor-cinematografica
   - estetica-digital
-tem_imagem: false
+tem_imagem: true
 status: rascunho
 aliases:
   - Matrix Green Grade
@@ -39,9 +39,10 @@ Grading que empurra toda a imagem para um matiz verde dominante, associado à es
 ---
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[matrix_green.png]]
-* **Legenda:** [Observação sobre a dominância do matiz verde]
+### Referência — Acervo SNAP INSTA
+![[matrix_green.jpg]]
+* **Legenda:** Matrix green: criaturas na selva sob monocromia esverdeada e raios de luz.
+
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A figure typing at a terminal surrounded by cascading data streams, dominant green color cast, digital simulation aesthetic, monochromatic green grade, cold technological atmosphere --ar 16:9

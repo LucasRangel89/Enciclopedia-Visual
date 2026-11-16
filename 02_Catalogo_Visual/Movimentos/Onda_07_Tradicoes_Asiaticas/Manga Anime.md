@@ -7,7 +7,7 @@ tags:
   - otaku
   - quadrinho-japones
   - estetica-pop-asiatica
-tem_imagem: false
+tem_imagem: true
 status: rascunho
 aliases:
   - Manga and Anime Art
@@ -60,9 +60,9 @@ O Mangá (quadrinho japonês) e o Anime (sua contraparte animada) constituem uma
 
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[manga_anime.png]]
-* **Legenda:** [Observação sobre o traço limpo e expressividade típica dos olhos no estilo anime]
+### Referência — Acervo SNAP INSTA
+![[manga_anime.jpg]]
+* **Legenda:** Manga/anime: capa com personagem de olhos grandes, linhas de velocidade e hachura.
 
 ---
 ## ⚙️ Prompt de Referência (Testado)

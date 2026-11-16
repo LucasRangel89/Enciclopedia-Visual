@@ -5,7 +5,7 @@ tags:
   - ilustracao-editorial
   - midia-digital-tradicional
   - ilustracao-conceitual
-tem_imagem: false
+tem_imagem: true
 status: rascunho
 aliases:
   - Editorial Illustration
@@ -40,9 +40,10 @@ Ilustração comissionada para acompanhar texto jornalístico/editorial (revista
 ---
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[ilustracao_editorial.png]]
-* **Legenda:** [Observação sobre a clareza da metáfora visual]
+### Referência — Acervo SNAP INSTA
+![[ilustracao_editorial.jpg]]
+* **Legenda:** Ilustracao editorial: capa de revista com retrato carregado e tipografia display.
+
 ## ⚙️ Prompt de Referência (Testado)
 ```
 An editorial illustration representing the concept of information overload, a single figure drowning in a sea of paper documents, bold simplified shapes, modern flat illustration style, striking visual metaphor --ar 3:4

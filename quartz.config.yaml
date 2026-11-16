@@ -26,6 +26,7 @@ configuration:
     - scripts
     - docs
     - attachments
+    - SNAP INSTA
     - site
     - public
     - "*.pdf"

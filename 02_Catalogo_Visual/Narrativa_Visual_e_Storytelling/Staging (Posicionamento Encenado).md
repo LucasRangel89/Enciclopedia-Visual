@@ -32,9 +32,10 @@ Arte de organizar deliberadamente a posição física de personagens e objetos d
 ---
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[staging.png]]
-* **Legenda:** [Observação sobre a clareza da hierarquia espacial]
+### Referência — Acervo SNAP INSTA
+![[staging.jpg]]
+* **Legenda:** Staging: tres hobbits enfileirados contra o troll, leitura clara de planos e olhares.
+
 ## ⚙️ Prompt de Referência (Testado)
 ```
 Two executives in an office, one standing tall near the window and one seated small in shadow, deliberate character blocking, spatial hierarchy communicating power dynamic, theatrical staging composition --ar 16:9

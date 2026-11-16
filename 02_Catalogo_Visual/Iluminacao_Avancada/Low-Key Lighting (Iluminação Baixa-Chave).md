@@ -6,7 +6,7 @@ tags:
   - iluminacao-baixa-chave
   - setup-de-luz
   - esquema-de-luz
-tem_imagem: false
+tem_imagem: true
 status: rascunho
 aliases:
   - Low-Key Lighting
@@ -38,9 +38,10 @@ Esquema de iluminação com uma única fonte dominante (ou poucas) e vastas áre
 ---
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[low_key.png]]
-* **Legenda:** [Observação sobre a vastidão da sombra]
+### Referência — Acervo SNAP INSTA
+![[low_key.jpg]]
+* **Legenda:** Low-key: alquimista escrevendo, sombra dominante e luz de vela como fonte motivada.
+
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A mysterious figure partially visible in a dimly lit room, low-key lighting, single dominant light source, vast unfilled shadow areas, high contrast dramatic darkness --ar 4:5

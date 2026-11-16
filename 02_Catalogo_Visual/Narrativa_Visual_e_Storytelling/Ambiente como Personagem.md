@@ -35,9 +35,10 @@ Tratamento do cenário/ambiente não como pano de fundo passivo, mas como força
 ---
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[ambiente_personagem.png]]
-* **Legenda:** [Observação sobre a intencionalidade transmitida pelo espaço]
+### Referência — Acervo SNAP INSTA
+![[ambiente_personagem.jpg]]
+* **Legenda:** Ambiente como personagem: o castelo e a encosta funcionam como segundo protagonista.
+
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A crooked old house looming over a small figure approaching its front door, environment with active narrative agency, setting as antagonist, atmospheric intentionality through exaggerated scale --ar 9:16

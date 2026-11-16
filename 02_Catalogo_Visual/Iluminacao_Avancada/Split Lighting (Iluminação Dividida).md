@@ -6,7 +6,7 @@ tags:
   - iluminacao-de-retrato
   - setup-de-luz
   - dualidade
-tem_imagem: false
+tem_imagem: true
 status: rascunho
 aliases:
   - Split Lighting
@@ -37,9 +37,10 @@ Setup onde a fonte de luz é posicionada a 90 graus do sujeito, iluminando exata
 ---
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[split_lighting.png]]
-* **Legenda:** [Observação sobre a precisão da divisão facial]
+### Referência — Acervo SNAP INSTA
+![[split_lighting.jpg]]
+* **Legenda:** Split lighting: perfil do anao partido ao meio por uma divisao clara de luz e sombra.
+
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A portrait of a conflicted character, split lighting setup, exactly half the face illuminated and half in complete shadow, dramatic psychological duality, stark contrast --ar 4:5

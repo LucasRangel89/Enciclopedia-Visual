@@ -36,9 +36,10 @@ Gênero visual que explora extrapolações tecnológicas e científicas de futur
 ---
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[scifi.png]]
-* **Legenda:** [Observação sobre a coerência do design especulativo]
+### Referência — Acervo SNAP INSTA
+![[scifi.jpg]]
+* **Legenda:** Sci-fi: samurai e wookiee armadurados em arquitetura oriental, ficcao cientifica hibrida.
+
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A lone astronaut standing before a massive alien megastructure orbiting a distant planet, speculative advanced technology design, vast otherworldly scale, dramatic cosmic lighting, sci-fi cinematic atmosphere --ar 21:9

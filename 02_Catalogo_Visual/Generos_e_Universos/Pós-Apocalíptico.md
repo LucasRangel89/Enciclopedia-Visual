@@ -34,9 +34,10 @@ Gênero visual que retrata o mundo após colapso civilizacional (guerra, praga, 
 ---
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[pos_apocaliptico.png]]
-* **Legenda:** [Observação sobre a retomada da natureza sobre a ruína]
+### Referência — Acervo SNAP INSTA
+![[pos_apocaliptico.jpg]]
+* **Legenda:** Pos-apocaliptico: vilas abandonadas sob ceu esverdeado, figuras diminutas na estrada.
+
 ## ⚙️ Prompt de Referência (Testado)
 ```
 An overgrown highway with rusted abandoned cars, nature reclaiming crumbling architecture in the background, weathered faded color palette, sublime desolate beauty, a lone survivor figure with improvised patched gear --ar 16:9

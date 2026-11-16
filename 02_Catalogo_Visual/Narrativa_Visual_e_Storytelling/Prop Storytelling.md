@@ -35,9 +35,10 @@ Técnica onde um objeto físico dentro do quadro carrega significado narrativo a
 ---
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[prop_storytelling.png]]
-* **Legenda:** [Observação sobre a clareza do significado do objeto]
+### Referência — Acervo SNAP INSTA
+![[prop_storytelling.jpg]]
+* **Legenda:** Prop storytelling: espada em primeiro plano, a gema vermelha carrega a historia do objeto.
+
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A single child's stuffed toy lying abandoned in the rubble of a bombed building, symbolically loaded prop object, condensed visual storytelling clue, quiet devastating implication --ar 4:5

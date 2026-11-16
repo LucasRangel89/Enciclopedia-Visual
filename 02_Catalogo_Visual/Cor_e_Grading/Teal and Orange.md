@@ -5,7 +5,7 @@ tags:
   - teal-and-orange
   - color-grading
   - cor-cinematografica
-tem_imagem: false
+tem_imagem: true
 status: rascunho
 aliases:
   - Laranja e Azul-Petróleo
@@ -37,9 +37,10 @@ Técnica de color grading dominante no cinema blockbuster contemporâneo, que em
 ---
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[teal_orange.png]]
-* **Legenda:** [Observação sobre o contraste complementar]
+### Referência — Acervo SNAP INSTA
+![[teal_orange.jpg]]
+* **Legenda:** Teal and orange: cemiterio de navios ao poente, sombras azul-frias contra ceu laranja.
+
 ## ⚙️ Prompt de Referência (Testado)
 ```
 A hero standing in an explosion-lit battlefield, teal and orange color grading, warm orange skin tones against cool teal shadows and smoke, high contrast cinematic blockbuster grade --ar 21:9

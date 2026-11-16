@@ -36,9 +36,10 @@ Ilustrador de mangá/anime conhecido por design de personagem extremamente legí
 ---
 ## 🖼️ Exemplo Visual
 
-### 1. ChatGPT (DALL-E 3)
-![[toriyama.png]]
-* **Legenda:** [Observação sobre a legibilidade da silhueta]
+### Referência — Acervo SNAP INSTA
+![[toriyama.jpg]]
+* **Legenda:** Toriyama: criatura peluda de traco arredondado, expressao caricatural.
+
 ## ⚙️ Prompts de Referência (Testados)
 ### Prompt A — Com Nome do Artista
 ```
